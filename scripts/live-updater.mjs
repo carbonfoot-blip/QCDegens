@@ -130,13 +130,37 @@ async function scrapeChipsPage(page, eventSlug) {
   try {
     await page.goto(url, { waitUntil: 'networkidle', timeout: 15000 })
 
+    // Wait for chip count table to actually render (it loads via JS)
+    try {
+      await page.waitForSelector('table tbody tr', { timeout: 8000 })
+    } catch {}
+    // Extra wait for dynamic content
+    await page.waitForTimeout(2000)
+
+    // DEBUG: check if Negreanu is in table
+    const debugCount = await page.evaluate(() => document.querySelectorAll('table tbody tr a').length)
+    log(`  DEBUG ${eventSlug}: ${debugCount} player links found in table`)
+    const negFound = await page.evaluate(() => {
+      const links = [...document.querySelectorAll('table tbody tr a')]
+      const neg = links.find(a => a.textContent.toLowerCase().includes('negreanu'))
+      if (!neg) return null
+      const tr = neg.closest('tr')
+      const nums = [...tr.querySelectorAll('td')].map(td => td.textContent.trim()).filter(t => /^[\d,]+$/.test(t.replace(/,/g,'')))
+      return { name: neg.textContent.trim(), nums }
+    })
+    if (negFound) log(`  DEBUG Negreanu: ${JSON.stringify(negFound)}`)
+    else log(`  DEBUG Negreanu: not found in table`)
+
     return await page.evaluate((url) => {
       // Event info
       const getText = sel => document.querySelector(sel)?.textContent?.trim() || null
 
-      const buyinEl = [...document.querySelectorAll('strong, b, .event-info td, td')]
-        .find(el => el.textContent.match(/^\$[\d,]+$/))
-      const buyin = buyinEl ? parseFloat(buyinEl.textContent.replace(/[$,]/g, '')) : null
+      // Buy-in from page title or h1/h2 heading — most reliable source
+      const title = document.title || ''
+      const h1    = document.querySelector('h1')?.textContent || ''
+      const headingText = (title + ' ' + h1).replace(/,/g, '')
+      const buyinFromTitle = headingText.match(/\$(\d+)/)
+      const buyin = buyinFromTitle ? parseFloat(buyinFromTitle[1]) : null
 
       const playersLeftEl = [...document.querySelectorAll('strong, b, .players-left, h3, h4')]
         .find(el => /^\d+$/.test(el.textContent.trim()) && parseInt(el.textContent) < 10000)
@@ -153,29 +177,55 @@ async function scrapeChipsPage(page, eventSlug) {
         const name = nameLink.textContent.trim()
         if (!name || name.length < 2 || name.length > 60) return
 
-        // Get ALL numbers from the row, strip everything non-numeric
-        const allNums = [...tr.querySelectorAll('td')].flatMap(td => {
-          const text = td.textContent.replace(/[↑↓+,\n]/g, ' ').trim()
-          const matches = text.match(/\b\d{4,}\b/g) || []
-          return matches.map(m => parseInt(m))
-        }).filter(n => n >= 1000 && n <= 9999999)
+        // Get rank from first numeric TD (the # column)
+        const cells = [...tr.querySelectorAll('td')]
+        const rankCell = cells.find(td => /^\d+$/.test(td.textContent.trim()))
+        const rank = rankCell ? parseInt(rankCell.textContent.trim()) : null
+
+        // Get chip counts — fix: split child nodes to prevent "535,00015,000" concatenation
+        const allNums = cells.flatMap(td => {
+          const parts = []
+          td.childNodes.forEach(n => parts.push(n.textContent || ''))
+          const text = parts.join(' ').replace(/[\u2191\u2193+\n\r]/g, ' ')
+          const matches = text.match(/\d{1,3}(?:,\d{3})+|\d{5,}/g) || []
+          return matches.map(m => parseInt(m.replace(/,/g, '')))
+        }).filter(n => n >= 5000 && n <= 9999999)
 
         if (allNums.length === 0) return
 
-        // Chips = the LARGEST number in the row (stack > progress delta always)
         const chips = Math.max(...allNums)
-        players.push({ name, chips })
+        players.push({ name, chips, rank })
       })
 
-      // Also look for players mentioned in text
-      const pageText = document.body.innerText
+      // Get event info from the structured info block
+      const infoBlock = document.querySelector('.event-info, .reporting-event-info, [class*="event-info"]')
+      const allStrong = [...document.querySelectorAll('strong, b')]
+
+      // Find Players Left — look for the specific label
+      const playersLeftEl2 = allStrong.find(el => {
+        const parent = el.closest('tr, li, div')
+        return parent?.textContent?.toLowerCase().includes('players left')
+      })
+      const playersLeftText = document.body.innerText
+      const plMatch = playersLeftText.match(/Players Left[^\d]*(\d[\d,]*)/i)
+      const playersLeft2 = plMatch ? parseInt(plMatch[1].replace(/,/g,'')) : null
+
+      // Buy-in from page text
+      const buyinMatch2 = playersLeftText.match(/Buy-in[^\$]*\$(\d[\d,]*)/i)
+      const buyin2 = buyinMatch2 ? parseFloat(buyinMatch2[1].replace(/,/g,'')) : buyin
+
+      // Total entries
+      const entriesMatch = playersLeftText.match(/Total Entries[^\d]*(\d[\d,]*)/i) ||
+                           playersLeftText.match(/(\d[\d,]*)\s+(?:total\s+)?entri/i)
+      const totalEntries = entriesMatch ? parseInt(entriesMatch[1].replace(/,/g,'')) : null
 
       return {
         url,
-        buyin,
-        playersLeft: playersLeftEl ? parseInt(playersLeftEl.textContent) : null,
+        buyin: buyin2,
+        playersLeft: playersLeft2 || (playersLeftEl ? parseInt(playersLeftEl.textContent) : null),
+        totalEntries,
         players,
-        pageText: pageText.substring(0, 5000), // for name searching
+        // NO pageText — we only match players in the actual chip count table
       }
     }, url)
   } catch (e) {
@@ -197,22 +247,9 @@ function findPlayerInPage(pageData, playerName) {
     const pLower = p.name.toLowerCase()
     return pLower.includes(lastName) && pLower.includes(firstName)
   })
-  if (found) return { chips: found.chips, foundInTable: true }
+  if (found) return { chips: found.chips, rank: found.rank, foundInTable: true }
 
-  // Check page text for mentions
-  const text = pageData.pageText?.toLowerCase() || ''
-  if (text.includes(lastName) && text.includes(firstName)) {
-    // Try to find chip count near the name mention
-    const nameIdx = text.indexOf(lastName)
-    const snippet = text.substring(Math.max(0, nameIdx - 200), nameIdx + 300)
-    const chipMatch = snippet.match(/[\d,]{4,}/)
-    return {
-      chips: chipMatch ? parseInt(chipMatch[0].replace(/,/g, '')) : null,
-      foundInText: true,
-      snippet: snippet.substring(0, 100),
-    }
-  }
-
+  // If not found in chip count table = player is NOT active in this event
   return null
 }
 
@@ -296,6 +333,7 @@ async function run() {
             eventName: event?.name || eventSlug,
             eventUrl:  `${PN_BASE}/${eventSlug}/chips.htm`,
             chips:     found.chips,
+            rank:      found.rank,
             buyin:     pageData.buyin,
             playersLeft: pageData.playersLeft,
             foundInTable: found.foundInTable || false,

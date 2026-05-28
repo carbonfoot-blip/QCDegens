@@ -90,10 +90,39 @@ function PlayerCard({ player }) {
             {live.eventName}
           </div>
 
+          {/* Rank + Players Left — prominent display */}
+          {(live.rank || live.playersLeft) && (
+            <div style={{ display:'flex', alignItems:'center', gap:8, padding:'8px 10px', background:'rgba(255,255,255,0.04)', borderRadius:6, border:'1px solid rgba(255,255,255,0.08)' }}>
+              {live.rank && (
+                <div style={{ display:'flex', flexDirection:'column', alignItems:'center', minWidth:48 }}>
+                  <span style={{ fontFamily:'var(--font-display)', fontSize:28, lineHeight:1, color:'var(--gold)' }}>#{live.rank}</span>
+                  <span style={{ fontSize:9, color:'var(--text3)', textTransform:'uppercase', letterSpacing:'0.08em' }}>position</span>
+                </div>
+              )}
+              {live.rank && live.playersLeft && (
+                <div style={{ width:1, height:36, background:'rgba(255,255,255,0.08)' }}/>
+              )}
+              {live.playersLeft && (
+                <div style={{ display:'flex', flexDirection:'column', alignItems:'center', minWidth:48 }}>
+                  <span style={{ fontFamily:'var(--font-display)', fontSize:28, lineHeight:1, color:'var(--text)' }}>{live.playersLeft}</span>
+                  <span style={{ fontSize:9, color:'var(--text3)', textTransform:'uppercase', letterSpacing:'0.08em' }}>players left</span>
+                </div>
+              )}
+              {live.chips && (
+                <>
+                  <div style={{ width:1, height:36, background:'rgba(255,255,255,0.08)' }}/>
+                  <div style={{ display:'flex', flexDirection:'column', alignItems:'center', minWidth:48 }}>
+                    <span style={{ fontFamily:'var(--font-display)', fontSize:24, lineHeight:1, color:'var(--gold)' }}>{fmtChips(live.chips)}</span>
+                    <span style={{ fontSize:9, color:'var(--text3)', textTransform:'uppercase', letterSpacing:'0.08em' }}>chips</span>
+                  </div>
+                </>
+              )}
+            </div>
+          )}
+
           <div style={{ display:'flex', gap:16, flexWrap:'wrap' }}>
-            <StatChip label="Buy-in"   value={fmtBuyin(live.buyin)} />
-            <StatChip label="Players"  value={live.playersLeft != null ? `${live.playersLeft} left` : '?'} />
-            {live.chips && <StatChip label="Chips" value={fmtChips(live.chips)} gold />}
+            <StatChip label="Buy-in"  value={fmtBuyin(live.buyin)} />
+            <StatChip label="Entries" value={live.totalEntries ? live.totalEntries.toLocaleString() : '?'} />
           </div>
         </div>
       ) : (
