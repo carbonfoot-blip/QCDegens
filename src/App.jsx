@@ -120,6 +120,7 @@ export default function App() {
   const [loading, setLoading] = useState(true)
   const [error, setError]     = useState(null)
   const [lastFetch, setLastFetch] = useState(null)
+  const [countdown, setCountdown] = useState(120)
 
   const fetchData = useCallback(async () => {
     setLoading(true)
@@ -131,6 +132,7 @@ export default function App() {
       const json = await res.json()
       setData(json)
       setLastFetch(new Date())
+      setCountdown(120)
     } catch (e) {
       setError(e.message)
     } finally {
@@ -139,6 +141,18 @@ export default function App() {
   }, [])
 
   useEffect(() => { fetchData() }, [fetchData])
+
+  // Countdown ticker
+  useEffect(() => {
+    const tick = setInterval(() => setCountdown(c => c <= 1 ? 120 : c - 1), 1000)
+    return () => clearInterval(tick)
+  }, [])
+
+  // Auto-refresh every 2 minutes
+  useEffect(() => {
+    const interval = setInterval(fetchData, 2 * 60 * 1000)
+    return () => clearInterval(interval)
+  }, [fetchData])
 
   // Count live players
   const livePlayers = data?.players?.filter(p => p.liveStatus).length ?? 0
@@ -164,7 +178,9 @@ export default function App() {
             </div>
           )}
           {lastFetch && (
-            <span style={{ fontSize:11, color:'var(--text3)' }}>Updated {timeAgo(lastFetch.toISOString())}</span>
+            <span style={{ fontSize:11, color:'var(--text3)' }}>
+              Updated {timeAgo(lastFetch.toISOString())} · next in {countdown}s
+            </span>
           )}
           <button
             onClick={fetchData}

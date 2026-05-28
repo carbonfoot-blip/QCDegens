@@ -80,12 +80,18 @@ async function scrape25K(page) {
     return result
   })
 
-  // Map to our players by slug
+  // Map to our players by slug AND by name (normalized)
   const scoreMap = {}
-  rows.forEach(r => { scoreMap[r.slug] = r })
+  const nameMap  = {}
+  rows.forEach(r => {
+    scoreMap[r.slug] = r
+    // Also index by normalized name for fuzzy matching
+    const normName = r.name.toLowerCase().replace(/[^a-z]/g, '')
+    nameMap[normName] = r
+  })
 
   log(`  Got ${rows.length} player scores from 25KFantasy`)
-  return scoreMap
+  return { scoreMap, nameMap }
 }
 
 // ── 2. Find active WSOP events on PokerNews ───────────────────────────────────
@@ -135,21 +141,30 @@ async function scrapeChipsPage(page, eventSlug) {
       const playersLeftEl = [...document.querySelectorAll('strong, b, .players-left, h3, h4')]
         .find(el => /^\d+$/.test(el.textContent.trim()) && parseInt(el.textContent) < 10000)
 
-      // Parse all table rows for player names + chip counts
+      // Parse chip count table — PokerNews format:
+      // The key insight: chips is ALWAYS the largest number in a row.
+      // Progress delta (e.g. +15,000) is always smaller than chip stack (e.g. 535,000)
+      // Player name link is inside an <a> tag
       const players = []
-      document.querySelectorAll('table tr').forEach(tr => {
-        const cells = [...tr.querySelectorAll('td, th')].map(td => td.textContent.trim())
-        if (cells.length >= 2) {
-          // Look for rows with a name + a chip count (large number)
-          const chipCell = cells.find(c => /^[\d,]{4,}$/.test(c.replace(/,/g, '')))
-          const nameCell = cells.find(c => c.length > 3 && c.length < 50 && !/^\d+$/.test(c) && !c.includes('$'))
-          if (chipCell && nameCell) {
-            players.push({
-              name:  nameCell,
-              chips: parseInt(chipCell.replace(/,/g, '')),
-            })
-          }
-        }
+      document.querySelectorAll('table tbody tr').forEach(tr => {
+        // Get player name from the <a> tag inside the row (most reliable)
+        const nameLink = tr.querySelector('a')
+        if (!nameLink) return
+        const name = nameLink.textContent.trim()
+        if (!name || name.length < 2 || name.length > 60) return
+
+        // Get ALL numbers from the row, strip everything non-numeric
+        const allNums = [...tr.querySelectorAll('td')].flatMap(td => {
+          const text = td.textContent.replace(/[↑↓+,\n]/g, ' ').trim()
+          const matches = text.match(/\b\d{4,}\b/g) || []
+          return matches.map(m => parseInt(m))
+        }).filter(n => n >= 1000 && n <= 9999999)
+
+        if (allNums.length === 0) return
+
+        // Chips = the LARGEST number in the row (stack > progress delta always)
+        const chips = Math.max(...allNums)
+        players.push({ name, chips })
       })
 
       // Also look for players mentioned in text
@@ -245,7 +260,7 @@ async function run() {
 
   try {
     // Step 1: Get 25KFantasy scores
-    const scoreMap = await scrape25K(page)
+    const scoreMapData = await scrape25K(page)
 
     // Step 2: Get list of active events
     const activeEvents = await getActiveEvents(page)
@@ -261,8 +276,13 @@ async function run() {
 
     // Step 4: Build player status objects
     const players = PLAYERS.map(player => {
-      // Get 25K score
-      const score = scoreMap[player.slug] || scoreMap[Object.keys(scoreMap).find(k => k.includes(player.slug.split('-')[1]))] || null
+      // Get 25K score — try slug first, then name match
+      const { scoreMap, nameMap } = scoreMapData
+      const normName = player.name.toLowerCase().replace(/[^a-z]/g, '')
+      const score = scoreMap[player.slug]
+        || nameMap[normName]
+        || nameMap[Object.keys(nameMap).find(k => k.includes(player.name.split(' ').slice(-1)[0].toLowerCase()))]
+        || null
 
       // Find player in any chips page
       let liveStatus = null
