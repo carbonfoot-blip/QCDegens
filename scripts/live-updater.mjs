@@ -24,15 +24,15 @@ const LOOP_MINUTES = (() => {
 })()
 
 const PLAYERS = [
-  { name: 'Daniel Negreanu',  slug: 'daniel-negreanu',  isBonus: false },
-  { name: 'Calvin Anderson',  slug: 'calvin-anderson',  isBonus: false },
-  { name: 'Yuval Bronshtein', slug: 'yuval-bronshtein', isBonus: false },
-  { name: 'Matt Glantz',      slug: 'matt-glantz',      isBonus: false },
-  { name: 'Ben Lamb',         slug: 'ben-lamb',         isBonus: false },
-  { name: 'Shawn Buchanan',   slug: 'shawn-buchanan',   isBonus: false },
-  { name: 'Ryan Leng',        slug: 'ryan-leng',        isBonus: false },
-  { name: 'John Riordan',     slug: 'john-riordan',     isBonus: false },
-  { name: 'Andrew Yeh',       slug: 'andrew-yeh',       isBonus: true  },
+  { name: 'Daniel Negreanu',  slug: 'daniel-negreanu',  isBonus: false, altNames: ['daniel negreanu'] },
+  { name: 'Calvin Anderson',  slug: 'calvin-anderson',  isBonus: false, altNames: [] },
+  { name: 'Yuval Bronshtein', slug: 'yuval-bronshtein', isBonus: false, altNames: [] },
+  { name: 'Matt Glantz',      slug: 'matt-glantz',      isBonus: false, altNames: ['matthew glantz', 'matt glantz'] },
+  { name: 'Ben Lamb',         slug: 'ben-lamb',         isBonus: false, altNames: [] },
+  { name: 'Shawn Buchanan',   slug: 'shawn-buchanan',   isBonus: false, altNames: [] },
+  { name: 'Ryan Leng',        slug: 'ryan-leng',        isBonus: false, altNames: [] },
+  { name: 'John Riordan',     slug: 'john-riordan',     isBonus: false, altNames: [] },
+  { name: 'Andrew Yeh',       slug: 'andrew-yeh',       isBonus: true,  altNames: [] },
 ]
 
 const PN_BASE        = 'https://www.pokernews.com/tours/wsop/2026-wsop'
@@ -78,7 +78,7 @@ async function getActiveEvents(page) {
   log('Fetching active WSOP events...')
   try {
     await page.goto('https://www.pokernews.com/live-reporting/', { waitUntil: 'networkidle', timeout: 20000 })
-    const events = await page.evaluate(() => {
+    const events = await page.evaluate((pnBase) => {
       const seen = new Set(), result = []
       document.querySelectorAll('a[href*="/2026-wsop/event-"]').forEach(a => {
         const href = a.getAttribute('href') || ''
@@ -87,11 +87,11 @@ async function getActiveEvents(page) {
           seen.add(m[1])
           const name = a.closest('[class*="event"], li, div')?.querySelector('h2,h3,strong,span')?.textContent?.trim()
                     || a.textContent.trim()
-          result.push({ slug: m[1], name, url: `${PN_BASE}/${m[1]}/chips.htm` })
+          result.push({ slug: m[1], name, url: `${pnBase}/${m[1]}/chips.htm` })
         }
       })
       return result
-    })
+    }, PN_BASE)
     log(`  Found ${events.length} events`)
     return events
   } catch(e) {
@@ -103,13 +103,67 @@ async function getActiveEvents(page) {
 // ── Scrape WSOP.com chip counts (primary live source) ────────────────────────
 // Players on wsop.com = confirmed LIVE (disappear immediately when busted)
 async function scrapeWsopLive(page) {
-  log('Fetching WSOP.com live chip counts...')
+  log('Fetching wsoplive.com chip counts...')
+
+  // wsoplive.com is the official WSOP Live web app
+  // It loads dynamically via JS — needs real browser rendering
+  const urlsToTry = [
+    'https://wsoplive.com/tournaments',
+    'https://wsoplive.com/chipcounts',
+    'https://wsoplive.com/',
+    'https://www.wsoplive.com/',
+  ]
+
+  let loaded = false
+  let loadedUrl = ''
+  for (const url of urlsToTry) {
+    try {
+      await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 25000 })
+      loaded = true
+      loadedUrl = url
+      log(`  Loaded: ${url}`)
+      break
+    } catch(e) {
+      log(`  Failed: ${url} — ${e.message.split('\n')[0]}`)
+    }
+  }
+
+  if (!loaded) {
+    log('  wsoplive.com unreachable — skipping')
+    return { players: [], tournaments: [] }
+  }
+
   try {
-    await page.goto('https://www.wsop.com/tournaments/chipcounts/', {
-      waitUntil: 'networkidle', timeout: 20000
-    })
-    try { await page.waitForSelector('table, .player-row, [class*="chip"]', { timeout: 5000 }) } catch {}
-    await page.waitForTimeout(2000)
+    // Wait for JS to render — wsoplive is a React/Vue SPA
+    await page.waitForTimeout(4000)
+
+    // Try to find and click into chip counts section
+    try {
+      const chipLink = await page.$('a[href*="chip"], button:has-text("Chip"), a:has-text("Chip Count")')
+      if (chipLink) {
+        await chipLink.click()
+        await page.waitForTimeout(2000)
+        log('  Clicked chip counts link')
+      }
+    } catch {}
+
+    // Dump page info for debugging
+    const pageInfo = await page.evaluate(() => ({
+      title: document.title,
+      url: window.location.href,
+      bodyText: document.body.innerText.substring(0, 800),
+      links: [...document.querySelectorAll('a')].slice(0, 20).map(a => ({
+        text: a.textContent.trim().substring(0, 40),
+        href: a.getAttribute('href')
+      })),
+      hasTable: !!document.querySelector('table'),
+      playerCount: document.querySelectorAll('table tbody tr').length,
+    }))
+
+    log(`  Page: "${pageInfo.title}" | URL: ${pageInfo.url}`)
+    log(`  Tables: ${pageInfo.hasTable} | Rows: ${pageInfo.playerCount}`)
+    log(`  Body preview: ${pageInfo.bodyText.substring(0, 200)}`)
+    log(`  Links: ${pageInfo.links.map(l => l.text).filter(Boolean).join(', ').substring(0, 200)}`)
 
     const result = await page.evaluate(() => {
       const players = []
@@ -189,16 +243,53 @@ async function scrapeWsopLive(page) {
     return result
 
   } catch(e) {
-    log(`  Warning: WSOP.com scrape failed: ${e.message}`)
+    log(`  Warning: WSOP.com parse failed: ${e.message}`)
     return { players: [], tournaments: [] }
   }
 }
 
-// ── Scrape a single chips page ────────────────────────────────────────────────
+// ── Scrape a single chips page (tries main + all day flights) ─────────────────
 async function scrapeChipsPage(page, eventSlug) {
-  const url = `${PN_BASE}/${eventSlug}/chips.htm`
+  // chips.htm redirects to the most recent published day
+  // But active flights (day1a, day1b, day1c) may not be published yet
+  // So we also probe for flight sub-pages
+  const mainUrl = `${PN_BASE}/${eventSlug}/chips.htm`
+
+  // First load main chips page to find available day links
+  let availableDayUrls = [mainUrl]
   try {
-    await page.goto(url, { waitUntil: 'networkidle', timeout: 15000 })
+    await page.goto(mainUrl, { waitUntil: 'domcontentloaded', timeout: 12000 })
+    await page.waitForTimeout(1000)
+
+    // Find all day/flight links on the page
+    const dayLinks = await page.evaluate((base, slug) => {
+      const links = []
+      document.querySelectorAll('a[href*="chips.htm"]').forEach(a => {
+        const href = a.getAttribute('href') || ''
+        if (href.includes(slug) && !links.includes(href)) {
+          const full = href.startsWith('http') ? href : `https://www.pokernews.com${href}`
+          links.push(full)
+        }
+      })
+      return links
+    }, PN_BASE, eventSlug)
+
+    if (dayLinks.length > 0) {
+      availableDayUrls = [mainUrl, ...dayLinks.filter(u => u !== mainUrl)]
+      log(`  Found ${dayLinks.length} day links for ${eventSlug}`)
+    }
+  } catch(e) { /* fall through with just mainUrl */ }
+
+  // Scrape each day URL, collect ALL players across all flights
+  const allPlayers = []
+  let eventMeta = { buyin: null, playersLeft: null, totalEntries: null, prizePool: null, currentDay: null }
+  const url = mainUrl
+
+  try {
+    // We already loaded mainUrl, re-use or reload
+    if (page.url() !== mainUrl) {
+      await page.goto(mainUrl, { waitUntil: 'networkidle', timeout: 15000 })
+    }
     try { await page.waitForSelector('table tbody tr', { timeout: 5000 }) } catch {}
     await page.waitForTimeout(1500)
 
@@ -261,6 +352,51 @@ async function scrapeChipsPage(page, eventSlug) {
 
       return { url, buyin, playersLeft, totalEntries, prizePool, currentDay, players }
     }, url)
+
+    // Collect players from main page
+    allPlayers.push(...players)
+
+    // Also scrape additional day/flight URLs (day1a, day1b, day1c etc.)
+    for (const dayUrl of availableDayUrls.slice(1)) {
+      try {
+        await page.goto(dayUrl, { waitUntil: 'domcontentloaded', timeout: 10000 })
+        await page.waitForTimeout(1000)
+        const dayPlayers = await page.evaluate(() => {
+          const found = []
+          document.querySelectorAll('table tbody tr').forEach(tr => {
+            const link = tr.querySelector('a')
+            if (!link) return
+            const name = link.textContent.trim()
+            if (!name || name.length < 2 || name.length > 60) return
+            const cells = [...tr.querySelectorAll('td')]
+            let rank = null
+            for (let i = 0; i < Math.min(3, cells.length); i++) {
+              const num = parseInt(cells[i].textContent.replace(/[^0-9]/g,''))
+              if (!isNaN(num) && num > 0 && num < 10000) { rank = num; break }
+            }
+            const allNums = cells.flatMap(td => {
+              const parts = []
+              td.childNodes.forEach(n => parts.push(n.textContent || ''))
+              const text = parts.join(' ').replace(/[\u2191\u2193+]/g, ' ')
+              const matches = text.match(/[0-9]{1,3}(?:,[0-9]{3})+|[0-9]{5,}/g) || []
+              return matches.map(m => parseInt(m.replace(/,/g,'')))
+            }).filter(n => n >= 5000 && n <= 9999999)
+            if (allNums.length === 0) return
+            found.push({ name, rank, chips: Math.max(...allNums) })
+          })
+          return found
+        })
+        // Add new players not already in allPlayers
+        dayPlayers.forEach(dp => {
+          if (!allPlayers.find(p => p.name.toLowerCase() === dp.name.toLowerCase())) {
+            allPlayers.push(dp)
+          }
+        })
+        log(`  Flight ${dayUrl.split('/').slice(-2, -1)[0]}: +${dayPlayers.length} players`)
+      } catch { /* skip failed day URLs */ }
+    }
+
+    return { url, buyin, playersLeft, totalEntries, prizePool, currentDay, players: allPlayers }
   } catch(e) {
     log(`  Warning: ${eventSlug}: ${e.message}`)
     return null
@@ -268,13 +404,17 @@ async function scrapeChipsPage(page, eventSlug) {
 }
 
 // ── Find a player in chips page data ─────────────────────────────────────────
-function findPlayer(pageData, playerName) {
+function findPlayer(pageData, playerName, altNames = []) {
   if (!pageData?.players?.length) return null
-  const first = playerName.split(' ')[0].toLowerCase()
-  const last  = playerName.split(' ').slice(-1)[0].toLowerCase()
+  const allNames = [playerName, ...altNames].map(n => n.toLowerCase())
+
   return pageData.players.find(p => {
-    const n = p.name.toLowerCase()
-    return n.includes(last) && (n.includes(first) || first.length <= 3)
+    const pLower = p.name.toLowerCase()
+    return allNames.some(name => {
+      const first = name.split(' ')[0]
+      const last  = name.split(' ').slice(-1)[0]
+      return pLower.includes(last) && (pLower.includes(first) || first.length <= 3)
+    })
   }) || null
 }
 
@@ -300,7 +440,7 @@ async function pushToGitHub(data) {
 
 // ── Main run ──────────────────────────────────────────────────────────────────
 async function run() {
-  const browser = await chromium.launch({ headless: true })
+  const browser = await chromium.launch({ headless: true }) // visible for debugging wsoplive.com
   const ctx  = await browser.newContext({ userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36' })
   const page = await ctx.newPage()
 
@@ -338,9 +478,14 @@ async function run() {
       // Check WSOP.com first (most reliable live indicator)
       const firstName = player.name.split(' ')[0].toLowerCase()
       const lastName  = player.name.split(' ').slice(-1)[0].toLowerCase()
+      const allSearchNames = [player.name, ...(player.altNames || [])].map(n => n.toLowerCase())
       const wsopFound = wsopLiveData.players.find(p => {
         const n = p.name.toLowerCase()
-        return n.includes(lastName) && (n.includes(firstName) || firstName.length <= 3)
+        return allSearchNames.some(searchName => {
+          const first = searchName.split(' ')[0]
+          const last  = searchName.split(' ').slice(-1)[0]
+          return n.includes(last) && (n.includes(first) || first.length <= 3)
+        })
       })
 
       // Build event history across all PokerNews events
@@ -351,7 +496,7 @@ async function run() {
         const pageData = pagesData[ev.slug]
         if (!pageData) continue
 
-        const pnFound = findPlayer(pageData, player.name)
+        const pnFound = findPlayer(pageData, player.name, player.altNames || [])
         if (!pnFound) continue
 
         // Determine true status using hybrid logic

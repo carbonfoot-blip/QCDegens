@@ -256,7 +256,16 @@ export default function App() {
   const fetchData = useCallback(async () => {
     setLoading(true); setError(null)
     try {
-      const res = await fetch(`./live-data.json?t=${Date.now()}`)
+      // Try raw.githubusercontent.com first (no CDN cache), fallback to local
+      const rawUrl = `https://raw.githubusercontent.com/carbonfoot-blip/QCDegens/main/public/live-data.json?t=${Date.now()}`
+      const localUrl = `./live-data.json?t=${Date.now()}`
+      let res
+      try {
+        res = await fetch(rawUrl)
+        if (!res.ok) throw new Error('raw failed')
+      } catch {
+        res = await fetch(localUrl)
+      }
       if (!res.ok) throw new Error(`HTTP ${res.status}`)
       const json = await res.json()
       setData(json)
