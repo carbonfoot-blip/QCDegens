@@ -177,10 +177,19 @@ async function scrapeChipsPage(page, eventSlug) {
         const name = nameLink.textContent.trim()
         if (!name || name.length < 2 || name.length > 60) return
 
-        // Get rank from first numeric TD (the # column)
+        // Get rank — PokerNews table: Fav | # | Player | Chips | Blinds | Progress
+        // The # column (index 1) may contain images, get just the number
         const cells = [...tr.querySelectorAll('td')]
-        const rankCell = cells.find(td => /^\d+$/.test(td.textContent.trim()))
-        const rank = rankCell ? parseInt(rankCell.textContent.trim()) : null
+        let rank = null
+        // Try each of the first 3 cells for a clean rank number
+        for (let ci = 0; ci < Math.min(3, cells.length); ci++) {
+          const cellNums = cells[ci].textContent.replace(/[^\d]/g, '').trim()
+          const n = parseInt(cellNums)
+          if (cellNums.length <= 4 && !isNaN(n) && n > 0 && n <= 9999) {
+            rank = n
+            break
+          }
+        }
 
         // Get chip counts — fix: split child nodes to prevent "535,00015,000" concatenation
         const allNums = cells.flatMap(td => {
@@ -214,9 +223,10 @@ async function scrapeChipsPage(page, eventSlug) {
       const buyinMatch2 = playersLeftText.match(/Buy-in[^\$]*\$(\d[\d,]*)/i)
       const buyin2 = buyinMatch2 ? parseFloat(buyinMatch2[1].replace(/,/g,'')) : buyin
 
-      // Total entries
-      const entriesMatch = playersLeftText.match(/Total Entries[^\d]*(\d[\d,]*)/i) ||
-                           playersLeftText.match(/(\d[\d,]*)\s+(?:total\s+)?entri/i)
+      // Total entries - try multiple patterns
+      const entriesMatch = playersLeftText.match(/Total Entries[^\d]{0,10}([\d,]+)/i)
+                        || playersLeftText.match(/([\d,]+)\s+(?:total\s+)?entr/i)
+                        || playersLeftText.match(/Entries[^\d]{0,10}([\d,]+)/i)
       const totalEntries = entriesMatch ? parseInt(entriesMatch[1].replace(/,/g,'')) : null
 
       return {

@@ -91,15 +91,13 @@ function PlayerCard({ player }) {
           </div>
 
           {/* Rank + Players Left — prominent display */}
-          {(live.rank || live.playersLeft) && (
+          {(live.chips || live.playersLeft) && (
             <div style={{ display:'flex', alignItems:'center', gap:8, padding:'8px 10px', background:'rgba(255,255,255,0.04)', borderRadius:6, border:'1px solid rgba(255,255,255,0.08)' }}>
-              {live.rank && (
-                <div style={{ display:'flex', flexDirection:'column', alignItems:'center', minWidth:48 }}>
-                  <span style={{ fontFamily:'var(--font-display)', fontSize:28, lineHeight:1, color:'var(--gold)' }}>#{live.rank}</span>
+              <div style={{ display:'flex', flexDirection:'column', alignItems:'center', minWidth:48 }}>
+                  <span style={{ fontFamily:'var(--font-display)', fontSize:28, lineHeight:1, color: live.rank ? 'var(--gold)' : 'var(--text3)' }}>{live.rank ? `#${live.rank}` : '—'}</span>
                   <span style={{ fontSize:9, color:'var(--text3)', textTransform:'uppercase', letterSpacing:'0.08em' }}>position</span>
                 </div>
-              )}
-              {live.rank && live.playersLeft && (
+              {live.playersLeft && (
                 <div style={{ width:1, height:36, background:'rgba(255,255,255,0.08)' }}/>
               )}
               {live.playersLeft && (

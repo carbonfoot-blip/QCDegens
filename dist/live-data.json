@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T02:02:36.265Z",
+  "updatedAt": "2026-05-28T02:17:22.210Z",
   "teamScore": 0,
   "players": [
     {
@@ -13,9 +13,9 @@
         "eventSlug": "event-2-8-handed",
         "eventName": "Event #2: $5,000 8-Handed No-Limit Hold’em",
         "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-2-8-handed/chips.htm",
-        "chips": 15000,
-        "buyin": 10,
-        "playersLeft": 4,
+        "chips": 535000,
+        "buyin": 5000,
+        "playersLeft": 77,
         "foundInTable": true
       }
     },
@@ -67,8 +67,8 @@
         "eventName": "Event #1: $550 Mini Mystery Millions",
         "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-1-mini-mystery-millions/chips.htm",
         "chips": 136500,
-        "buyin": 10,
-        "playersLeft": 4,
+        "buyin": 550,
+        "playersLeft": 310,
         "foundInTable": true
       }
     },
