@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-28T02:02:36.265Z",
+  "updatedAt": "2026-05-28T02:14:26.611Z",
   "teamScore": 0,
   "players": [
     {
@@ -9,15 +9,7 @@
       "pts2026": 0,
       "salary": 116,
       "cashes2026": 0,
-      "liveStatus": {
-        "eventSlug": "event-2-8-handed",
-        "eventName": "Event #2: $5,000 8-Handed No-Limit Hold’em",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-2-8-handed/chips.htm",
-        "chips": 15000,
-        "buyin": 10,
-        "playersLeft": 4,
-        "foundInTable": true
-      }
+      "liveStatus": null
     },
     {
       "name": "Calvin Anderson",
@@ -66,9 +58,9 @@
         "eventSlug": "event-1-mini-mystery-millions",
         "eventName": "Event #1: $550 Mini Mystery Millions",
         "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-1-mini-mystery-millions/chips.htm",
-        "chips": 136500,
-        "buyin": 10,
-        "playersLeft": 4,
+        "chips": 500136,
+        "buyin": 550,
+        "playersLeft": 310,
         "foundInTable": true
       }
     },
