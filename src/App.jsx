@@ -71,10 +71,16 @@ function PlayerPanel({ player, onClose }) {
               </div>
               <div style={{ display:'flex', flexDirection:'column', alignItems:'flex-end', gap:3, flexShrink:0 }}>
                 {ev.status === 'active' && (
-                  <span style={{ fontSize:10, color:'var(--green)', fontWeight:600, display:'flex', alignItems:'center', gap:3 }}>
-                    <span style={{ width:5, height:5, borderRadius:'50%', background:'var(--green)', display:'inline-block', animation:'pulse 1.5s infinite' }}/>
-                    LIVE
-                  </span>
+                  <div style={{ display:'flex', flexDirection:'column', gap:3 }}>
+                    <span style={{ fontSize:10, color:'var(--green)', fontWeight:600, display:'flex', alignItems:'center', gap:3 }}>
+                      <span style={{ width:5, height:5, borderRadius:'50%', background:'var(--green)', display:'inline-block', animation:'pulse 1.5s infinite' }}/>
+                      LIVE
+                    </span>
+                    {ev.wsopConfirmed
+                      ? <span style={{ fontSize:9, color:'var(--green)', opacity:0.8 }}>✓ WSOP confirmed</span>
+                      : <span style={{ fontSize:9, color:'#ffc107' }}>PokerNews only</span>
+                    }
+                  </div>
                 )}
                 {ev.status === 'eliminated' && (
                   <span style={{ fontSize:10, color:'var(--text3)' }}>ELIMINATED</span>
@@ -178,6 +184,16 @@ function PlayerCard({ player, onClick }) {
             <div style={{ display:'flex', alignItems:'center', gap:5 }}>
               <span style={{ width:7, height:7, borderRadius:'50%', background:'var(--green)', display:'inline-block', boxShadow:'0 0 6px var(--green)', animation:'pulse 1.5s infinite' }}/>
               <span style={{ fontSize:12, fontWeight:500, color:'var(--green)' }}>LIVE</span>
+              {live.wsopConfirmed && (
+                <span style={{ fontSize:10, padding:'2px 6px', background:'rgba(45,189,110,0.15)', color:'var(--green)', borderRadius:3, border:'1px solid rgba(45,189,110,0.3)', fontWeight:600 }}>
+                  ✓ WSOP confirmed
+                </span>
+              )}
+              {!live.wsopConfirmed && live.status === 'active' && (
+                <span style={{ fontSize:10, padding:'2px 6px', background:'rgba(255,193,7,0.1)', color:'#ffc107', borderRadius:3, border:'1px solid rgba(255,193,7,0.2)' }}>
+                  PN only
+                </span>
+              )}
             </div>
             <a href={live.eventUrl} target="_blank" rel="noreferrer"
                onClick={e => e.stopPropagation()}

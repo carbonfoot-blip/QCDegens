@@ -100,6 +100,100 @@ async function getActiveEvents(page) {
   }
 }
 
+// ── Scrape WSOP.com chip counts (primary live source) ────────────────────────
+// Players on wsop.com = confirmed LIVE (disappear immediately when busted)
+async function scrapeWsopLive(page) {
+  log('Fetching WSOP.com live chip counts...')
+  try {
+    await page.goto('https://www.wsop.com/tournaments/chipcounts/', {
+      waitUntil: 'networkidle', timeout: 20000
+    })
+    try { await page.waitForSelector('table, .player-row, [class*="chip"]', { timeout: 5000 }) } catch {}
+    await page.waitForTimeout(2000)
+
+    const result = await page.evaluate(() => {
+      const players = []
+      const bodyText = document.body.innerText
+
+      // Strategy 1: table rows
+      document.querySelectorAll('table tbody tr').forEach(tr => {
+        const link = tr.querySelector('a')
+        const name = link?.textContent?.trim() || ''
+        if (!name || name.length < 2 || name.length > 60) return
+
+        const cells = [...tr.querySelectorAll('td')]
+
+        // Rank: first small number
+        let rank = null
+        for (let i = 0; i < Math.min(3, cells.length); i++) {
+          const n = parseInt(cells[i].textContent.replace(/[^\d]/g,''))
+          if (!isNaN(n) && n > 0 && n < 10000) { rank = n; break }
+        }
+
+        // Chips: largest number in row
+        const allNums = cells.flatMap(td => {
+          const parts = []
+          td.childNodes.forEach(n => parts.push(n.textContent || ''))
+          const text = parts.join(' ').replace(/[\u2191\u2193+]/g,' ')
+          const matches = text.match(/\d{1,3}(?:,\d{3})+|\d{5,}/g) || []
+          return matches.map(m => parseInt(m.replace(/,/g,'')))
+        }).filter(n => n >= 5000 && n <= 9999999)
+
+        if (allNums.length === 0) return
+        const chips = Math.max(...allNums)
+
+        // Tournament name — look for nearby heading or data attribute
+        const eventName = tr.closest('[data-event]')?.getAttribute('data-event')
+                       || tr.closest('table')?.previousElementSibling?.textContent?.trim()
+                       || null
+
+        players.push({ name, rank, chips, eventName })
+      })
+
+      // Strategy 2: div/list based layout
+      if (players.length === 0) {
+        const nameEls = [...document.querySelectorAll('[class*="player-name"], [class*="playerName"], [class*="name"]')]
+        nameEls.forEach(el => {
+          const name = el.textContent.trim()
+          if (!name || name.length < 2 || name.length > 60) return
+          const row = el.closest('[class*="row"], li, tr, [class*="player"]')
+          if (!row) return
+          const text = row.textContent.replace(/[\u2191\u2193+,]/g,' ')
+          const nums = (text.match(/\d{1,3}(?:,\d{3})+|\d{5,}/g) || [])
+            .map(m => parseInt(m.replace(/,/g,'')))
+            .filter(n => n >= 5000 && n <= 9999999)
+          if (nums.length > 0) players.push({ name, rank: null, chips: Math.max(...nums), eventName: null })
+        })
+      }
+
+      // Get active tournament names from page
+      const tournaments = []
+      document.querySelectorAll('h1, h2, h3, [class*="tournament-name"], [class*="event-name"]').forEach(el => {
+        const t = el.textContent.trim()
+        if (t.length > 5 && t.length < 100) tournaments.push(t)
+      })
+
+      return {
+        players,
+        tournaments,
+        pageTitle: document.title,
+        playerCount: players.length,
+        rawPreview: bodyText.substring(0, 500),
+      }
+    })
+
+    log(`  WSOP.com: ${result.playerCount} players found | Title: ${result.pageTitle}`)
+    if (result.playerCount === 0) {
+      log(`  Page preview: ${result.rawPreview.substring(0, 200)}`)
+    }
+    return result
+
+  } catch(e) {
+    log(`  Warning: WSOP.com scrape failed: ${e.message}`)
+    return { players: [], tournaments: [] }
+  }
+}
+
 // ── Scrape a single chips page ────────────────────────────────────────────────
 async function scrapeChipsPage(page, eventSlug) {
   const url = `${PN_BASE}/${eventSlug}/chips.htm`
@@ -218,15 +312,21 @@ async function run() {
     const events = await getActiveEvents(page)
     const eventsToCheck = events.slice(0, 10)
 
-    // 3. Scrape chips pages
+    // 3. Scrape WSOP.com (primary live source) + PokerNews chips pages
+    const wsopLiveData = await scrapeWsopLive(page)
+    await sleep(800)
+
     const pagesData = {}
     for (const ev of eventsToCheck) {
-      log(`  Checking ${ev.slug}...`)
+      log(`  Checking PokerNews ${ev.slug}...`)
       pagesData[ev.slug] = await scrapeChipsPage(page, ev.slug)
       await sleep(800)
     }
 
-    // 4. Build player data
+    // 4. Build player data — hybrid WSOP.com + PokerNews logic:
+    // - Found on WSOP.com = CONFIRMED LIVE (disappears on bust)
+    // - Found on PokerNews only = likely eliminated (PN keeps them longer)
+    // - Found on both = LIVE, use PokerNews for rank/chips detail
     const players = PLAYERS.map(player => {
       // Score
       const normName = player.name.toLowerCase().replace(/[^a-z]/g,'')
@@ -235,7 +335,15 @@ async function run() {
                  || nameMap[Object.keys(nameMap).find(k => k.includes(player.name.split(' ').slice(-1)[0].toLowerCase())) || '']
                  || null
 
-      // Build event history across all checked events
+      // Check WSOP.com first (most reliable live indicator)
+      const firstName = player.name.split(' ')[0].toLowerCase()
+      const lastName  = player.name.split(' ').slice(-1)[0].toLowerCase()
+      const wsopFound = wsopLiveData.players.find(p => {
+        const n = p.name.toLowerCase()
+        return n.includes(lastName) && (n.includes(firstName) || firstName.length <= 3)
+      })
+
+      // Build event history across all PokerNews events
       const eventHistory = []
       let liveStatus = null
 
@@ -243,30 +351,54 @@ async function run() {
         const pageData = pagesData[ev.slug]
         if (!pageData) continue
 
-        const found = findPlayer(pageData, player.name)
+        const pnFound = findPlayer(pageData, player.name)
+        if (!pnFound) continue
 
-        if (found) {
-          // Player is currently in chip counts = ACTIVE in this event
-          const entry = {
-            eventSlug:   ev.slug,
-            eventName:   ev.name || ev.slug,
-            eventUrl:    ev.url,
-            buyin:       pageData.buyin,
-            totalEntries: pageData.totalEntries,
-            prizePool:   pageData.prizePool,
-            playersLeft: pageData.playersLeft,
-            currentDay:  pageData.currentDay,
-            status:      'active',
-            rank:        found.rank,
-            chips:       found.chips,
-            updatedAt:   new Date().toISOString(),
-          }
-          eventHistory.push(entry)
-          // Most recent active event = liveStatus
-          if (!liveStatus) liveStatus = entry
+        // Determine true status using hybrid logic
+        // If found on wsop.com = definitely live
+        // If found on PokerNews only = probably eliminated (PN lags behind)
+        const isConfirmedLive = !!wsopFound
+        const status = isConfirmedLive ? 'active' : 'eliminated'
+
+        const entry = {
+          eventSlug:    ev.slug,
+          eventName:    ev.name || ev.slug,
+          eventUrl:     ev.url,
+          buyin:        pageData.buyin,
+          totalEntries: pageData.totalEntries,
+          prizePool:    pageData.prizePool,
+          playersLeft:  pageData.playersLeft,
+          currentDay:   pageData.currentDay,
+          status,
+          rank:         pnFound.rank,
+          chips:        isConfirmedLive ? (pnFound.chips || wsopFound?.chips) : pnFound.chips,
+          wsopConfirmed: isConfirmedLive,
+          updatedAt:    new Date().toISOString(),
         }
-        // Note: if not found in chip table, they're not currently tracked in this event
-        // (could be eliminated or not entered — we only track appearances)
+        eventHistory.push(entry)
+        if (!liveStatus && isConfirmedLive) liveStatus = entry
+      }
+
+      // If found on WSOP.com but not on any PokerNews page yet
+      // (new event that PokerNews hasn't updated for yet)
+      if (wsopFound && !liveStatus) {
+        const wsopEntry = {
+          eventSlug:    'unknown',
+          eventName:    wsopFound.eventName || 'Active event (WSOP Live)',
+          eventUrl:     'https://www.wsop.com/tournaments/chipcounts/',
+          buyin:        null,
+          totalEntries: null,
+          prizePool:    null,
+          playersLeft:  null,
+          currentDay:   null,
+          status:       'active',
+          rank:         wsopFound.rank,
+          chips:        wsopFound.chips,
+          wsopConfirmed: true,
+          updatedAt:    new Date().toISOString(),
+        }
+        eventHistory.push(wsopEntry)
+        liveStatus = wsopEntry
       }
 
       // Merge with previous history from existing live-data.json if available
