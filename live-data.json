@@ -1,5 +1,9 @@
 {
-  "updatedAt": "2026-05-28T03:08:00.561Z",
+<<<<<<< HEAD
+  "updatedAt": "2026-05-28T21:26:41.648Z",
+=======
+  "updatedAt": "2026-05-28T21:23:57.713Z",
+>>>>>>> 97bd3a9 (fix: fetch from raw.githubusercontent.com to bypass cache)
   "teamScore": 0,
   "players": [
     {
@@ -93,5 +97,54 @@
       "eventHistory": []
     }
   ],
-  "activeEvents": []
+  "activeEvents": [
+    {
+      "slug": "event-1-mini-mystery-millions",
+      "name": "Event #1: $550 Mini Mystery Millions",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-1-mini-mystery-millions/chips.htm",
+      "playersLeft": 117,
+      "totalEntries": null,
+      "buyin": 550
+    },
+    {
+      "slug": "event-2-8-handed",
+      "name": "Event #2: $5,000 8-Handed No-Limit Hold’em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-2-8-handed/chips.htm",
+      "playersLeft": 21,
+      "totalEntries": null,
+      "buyin": 5000
+    },
+    {
+      "slug": "event-3-industry-employees",
+      "name": "Event #3: $500 Industry Employees No-Limit Hold'em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-3-industry-employees/chips.htm",
+      "playersLeft": 113,
+      "totalEntries": null,
+      "buyin": 500
+    },
+    {
+      "slug": "event-4-omaha-hi-lo-8-or-better",
+      "name": "Event #4: $1,500 Omaha Hi-Lo 8 or Better",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-4-omaha-hi-lo-8-or-better/chips.htm",
+      "playersLeft": 147,
+      "totalEntries": null,
+      "buyin": 1500
+    },
+    {
+      "slug": "event-5-pot-limit-omaha",
+      "name": "Event #5: $5,000 Pot-Limit Omaha",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-5-pot-limit-omaha/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 5000
+    },
+    {
+      "slug": "event-6-seven-card-stud",
+      "name": "Event #6: $1,500 Seven Card Stud",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-6-seven-card-stud/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 1500
+    }
+  ]
 }
