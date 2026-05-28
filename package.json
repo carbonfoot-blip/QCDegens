@@ -1,0 +1,24 @@
+{
+  "name": "qcdegens-tracker",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "npm run build && gh-pages -d dist",
+    "update": "node scripts/live-updater.mjs",
+    "update:loop": "node scripts/live-updater.mjs --loop 5"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "@octokit/rest": "^21.0.0",
+    "gh-pages": "^6.3.0",
+    "playwright": "^1.44.0",
+    "vite": "^6.0.5"
+  }
+}
