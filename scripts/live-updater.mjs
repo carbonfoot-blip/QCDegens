@@ -1,28 +1,17 @@
 /**
- * QCDegens Live Updater
- *
- * Scrapes 25KFantasy (player scores) + PokerNews (live status/chips)
- * and pushes live-data.json to GitHub so the web app can read it.
- *
- * Setup:
- *   npm install playwright @octokit/rest
- *   npx playwright install chromium
+ * QCDegens Live Updater v8
+ * - Tracks all 9 players across ALL WSOP events
+ * - Keeps full history: every event each player appeared in
+ * - Detects live vs eliminated status per event
  *
  * Usage:
- *   node scripts/live-updater.mjs                    # run once
- *   node scripts/live-updater.mjs --loop 5           # run every 5 minutes
- *
- * Required env vars (or pass as args):
- *   GITHUB_TOKEN=ghp_...   (needs repo write access)
- *   GITHUB_OWNER=carbonfoot-blip
- *   GITHUB_REPO=QCDegens
- *   GITHUB_BRANCH=main
+ *   node scripts/live-updater.mjs                 # once
+ *   node scripts/live-updater.mjs --loop 5        # every 5 min
  */
 
 import { chromium } from 'playwright'
 import { Octokit }  from '@octokit/rest'
 
-// ── Config ────────────────────────────────────────────────────────────────────
 const GITHUB_TOKEN  = process.env.GITHUB_TOKEN  || ''
 const GITHUB_OWNER  = process.env.GITHUB_OWNER  || 'carbonfoot-blip'
 const GITHUB_REPO   = process.env.GITHUB_REPO   || 'QCDegens'
@@ -34,336 +23,299 @@ const LOOP_MINUTES = (() => {
   return idx !== -1 ? parseInt(process.argv[idx + 1]) || 5 : null
 })()
 
-// Our 9 players — name exactly as it appears on 25KFantasy
 const PLAYERS = [
-  { name: 'Daniel Negreanu',  slug: 'daniel-negreanu',  pokernewsName: 'Daniel Negreanu',  isBonus: false },
-  { name: 'Calvin Anderson',  slug: 'calvin-anderson',  pokernewsName: 'Calvin Anderson',  isBonus: false },
-  { name: 'Yuval Bronshtein', slug: 'yuval-bronshtein', pokernewsName: 'Yuval Bronshtein', isBonus: false },
-  { name: 'Matt Glantz',      slug: 'matt-glantz',      pokernewsName: 'Matt Glantz',      isBonus: false },
-  { name: 'Ben Lamb',         slug: 'ben-lamb',         pokernewsName: 'Ben Lamb',         isBonus: false },
-  { name: 'Shawn Buchanan',   slug: 'shawn-buchanan',   pokernewsName: 'Shawn Buchanan',   isBonus: false },
-  { name: 'Ryan Leng',        slug: 'ryan-leng',        pokernewsName: 'Ryan Leng',        isBonus: false },
-  { name: 'John Riordan',     slug: 'john-riordan',     pokernewsName: 'John Riordan',     isBonus: false },
-  { name: 'Andrew Yeh',       slug: 'andrew-yeh',       pokernewsName: 'Andrew Yeh',       isBonus: true  },
+  { name: 'Daniel Negreanu',  slug: 'daniel-negreanu',  isBonus: false },
+  { name: 'Calvin Anderson',  slug: 'calvin-anderson',  isBonus: false },
+  { name: 'Yuval Bronshtein', slug: 'yuval-bronshtein', isBonus: false },
+  { name: 'Matt Glantz',      slug: 'matt-glantz',      isBonus: false },
+  { name: 'Ben Lamb',         slug: 'ben-lamb',         isBonus: false },
+  { name: 'Shawn Buchanan',   slug: 'shawn-buchanan',   isBonus: false },
+  { name: 'Ryan Leng',        slug: 'ryan-leng',        isBonus: false },
+  { name: 'John Riordan',     slug: 'john-riordan',     isBonus: false },
+  { name: 'Andrew Yeh',       slug: 'andrew-yeh',       isBonus: true  },
 ]
 
-const PN_BASE = 'https://www.pokernews.com/tours/wsop/2026-wsop'
-const FANTASY_PLAYERS_URL = 'https://www.25kfantasy.com/players/'
+const PN_BASE        = 'https://www.pokernews.com/tours/wsop/2026-wsop'
+const FANTASY_URL    = 'https://www.25kfantasy.com/players/'
 
-// ── Helpers ───────────────────────────────────────────────────────────────────
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)) }
+function log(msg)  { console.log(`[${new Date().toLocaleTimeString()}] ${msg}`) }
 
-function log(msg) { console.log(`[${new Date().toLocaleTimeString()}] ${msg}`) }
-
-// ── 1. Scrape 25KFantasy player scores ───────────────────────────────────────
+// ── Scrape 25KFantasy scores ──────────────────────────────────────────────────
 async function scrape25K(page) {
   log('Fetching 25KFantasy scores...')
-  await page.goto(FANTASY_PLAYERS_URL, { waitUntil: 'networkidle', timeout: 20000 })
-
+  await page.goto(FANTASY_URL, { waitUntil: 'networkidle', timeout: 20000 })
   const rows = await page.evaluate(() => {
     const result = []
     document.querySelectorAll('table tbody tr').forEach(tr => {
-      const cells = [...tr.querySelectorAll('td')].map(td => td.textContent.trim())
-      const link  = tr.querySelector('a[href*="player-profile"]')
-      if (!link || cells.length < 5) return
+      const link = tr.querySelector('a[href*="player-profile"]')
+      if (!link) return
       const href = link.getAttribute('href') || ''
       const slug = href.split('/player-profile/')[1]?.replace(/\//g, '') || ''
+      const cells = [...tr.querySelectorAll('td')].map(td => td.textContent.trim())
+      if (cells.length < 5) return
       result.push({
         slug,
         name:   link.textContent.trim(),
         pts:    parseFloat(cells[3]) || 0,
         salary: parseFloat(cells[4]) || 0,
         cashes: parseInt(cells[5])   || 0,
-        ppd:    parseFloat(cells[6]) || 0,
       })
     })
     return result
   })
-
-  // Map to our players by slug AND by name (normalized)
-  const scoreMap = {}
-  const nameMap  = {}
+  const scoreMap = {}, nameMap = {}
   rows.forEach(r => {
     scoreMap[r.slug] = r
-    // Also index by normalized name for fuzzy matching
-    const normName = r.name.toLowerCase().replace(/[^a-z]/g, '')
-    nameMap[normName] = r
+    nameMap[r.name.toLowerCase().replace(/[^a-z]/g, '')] = r
   })
-
-  log(`  Got ${rows.length} player scores from 25KFantasy`)
+  log(`  Got ${rows.length} scores from 25KFantasy`)
   return { scoreMap, nameMap }
 }
 
-// ── 2. Find active WSOP events on PokerNews ───────────────────────────────────
+// ── Get all active WSOP event slugs from PokerNews ───────────────────────────
 async function getActiveEvents(page) {
-  log('Fetching active WSOP events from PokerNews...')
+  log('Fetching active WSOP events...')
   try {
     await page.goto('https://www.pokernews.com/live-reporting/', { waitUntil: 'networkidle', timeout: 20000 })
-
     const events = await page.evaluate(() => {
-      const result = []
-      document.querySelectorAll('a[href*="/2026-wsop/"]').forEach(a => {
+      const seen = new Set(), result = []
+      document.querySelectorAll('a[href*="/2026-wsop/event-"]').forEach(a => {
         const href = a.getAttribute('href') || ''
-        const match = href.match(/\/2026-wsop\/(event-[\w-]+)\//)
-        if (match && !result.find(e => e.slug === match[1])) {
-          result.push({
-            slug: match[1],
-            name: a.textContent.trim() || match[1],
-            url:  'https://www.pokernews.com' + href,
-          })
+        const m = href.match(/\/2026-wsop\/(event-[\w-]+)\//)
+        if (m && !seen.has(m[1])) {
+          seen.add(m[1])
+          const name = a.closest('[class*="event"], li, div')?.querySelector('h2,h3,strong,span')?.textContent?.trim()
+                    || a.textContent.trim()
+          result.push({ slug: m[1], name, url: `${PN_BASE}/${m[1]}/chips.htm` })
         }
       })
       return result
     })
-
-    log(`  Found ${events.length} WSOP 2026 event links`)
-    return events.filter(e => e.slug && e.name)
-  } catch (e) {
-    log(`  Warning: could not fetch live events list: ${e.message}`)
+    log(`  Found ${events.length} events`)
+    return events
+  } catch(e) {
+    log(`  Warning: ${e.message}`)
     return []
   }
 }
 
-// ── 3. Scrape chips page for a single event ────────────────────────────────────
+// ── Scrape a single chips page ────────────────────────────────────────────────
 async function scrapeChipsPage(page, eventSlug) {
   const url = `${PN_BASE}/${eventSlug}/chips.htm`
   try {
     await page.goto(url, { waitUntil: 'networkidle', timeout: 15000 })
-
-    // Wait for chip count table to actually render (it loads via JS)
-    try {
-      await page.waitForSelector('table tbody tr', { timeout: 8000 })
-    } catch {}
-    // Extra wait for dynamic content
-    await page.waitForTimeout(2000)
-
-    // DEBUG: check if Negreanu is in table
-    const debugCount = await page.evaluate(() => document.querySelectorAll('table tbody tr a').length)
-    log(`  DEBUG ${eventSlug}: ${debugCount} player links found in table`)
-    const negFound = await page.evaluate(() => {
-      const links = [...document.querySelectorAll('table tbody tr a')]
-      const neg = links.find(a => a.textContent.toLowerCase().includes('negreanu'))
-      if (!neg) return null
-      const tr = neg.closest('tr')
-      const nums = [...tr.querySelectorAll('td')].map(td => td.textContent.trim()).filter(t => /^[\d,]+$/.test(t.replace(/,/g,'')))
-      return { name: neg.textContent.trim(), nums }
-    })
-    if (negFound) log(`  DEBUG Negreanu: ${JSON.stringify(negFound)}`)
-    else log(`  DEBUG Negreanu: not found in table`)
+    try { await page.waitForSelector('table tbody tr', { timeout: 5000 }) } catch {}
+    await page.waitForTimeout(1500)
 
     return await page.evaluate((url) => {
-      // Event info
-      const getText = sel => document.querySelector(sel)?.textContent?.trim() || null
+      const bodyText = document.body.innerText
 
-      // Buy-in from page title or h1/h2 heading — most reliable source
-      const title = document.title || ''
-      const h1    = document.querySelector('h1')?.textContent || ''
-      const headingText = (title + ' ' + h1).replace(/,/g, '')
-      const buyinFromTitle = headingText.match(/\$(\d+)/)
-      const buyin = buyinFromTitle ? parseFloat(buyinFromTitle[1]) : null
+      // Buy-in from title/h1
+      const titleText = (document.title + ' ' + (document.querySelector('h1')?.textContent || ''))
+      const buyinM = titleText.match(/\$([\d,]+)/)
+      const buyin  = buyinM ? parseFloat(buyinM[1].replace(/,/g,'')) : null
 
-      const playersLeftEl = [...document.querySelectorAll('strong, b, .players-left, h3, h4')]
-        .find(el => /^\d+$/.test(el.textContent.trim()) && parseInt(el.textContent) < 10000)
+      // Players left
+      const plM = bodyText.match(/Players Left[^\d]{0,15}([\d,]+)/i)
+      const playersLeft = plM ? parseInt(plM[1].replace(/,/g,'')) : null
 
-      // Parse chip count table — PokerNews format:
-      // The key insight: chips is ALWAYS the largest number in a row.
-      // Progress delta (e.g. +15,000) is always smaller than chip stack (e.g. 535,000)
-      // Player name link is inside an <a> tag
+      // Total entries
+      const entM = bodyText.match(/Total Entries[^\d]{0,10}([\d,]+)/i)
+              || bodyText.match(/Entries[^\d]{0,5}([\d,]+)/i)
+      const totalEntries = entM ? parseInt(entM[1].replace(/,/g,'')) : null
+
+      // Prize pool
+      const prizeM = bodyText.match(/Prize Pool[^\$]*\$([\d,]+)/i)
+      const prizePool = prizeM ? prizeM[1] : null
+
+      // Current day
+      const dayM = bodyText.match(/Day\s*:?\s*(\w+)/i)
+      const currentDay = dayM ? dayM[1] : null
+
+      // Chip counts table — extract all players with rank + chips
       const players = []
       document.querySelectorAll('table tbody tr').forEach(tr => {
-        // Get player name from the <a> tag inside the row (most reliable)
-        const nameLink = tr.querySelector('a')
-        if (!nameLink) return
-        const name = nameLink.textContent.trim()
+        const link = tr.querySelector('a')
+        if (!link) return
+        const name = link.textContent.trim()
         if (!name || name.length < 2 || name.length > 60) return
 
-        // Get rank — PokerNews table: Fav | # | Player | Chips | Blinds | Progress
-        // The # column (index 1) may contain images, get just the number
+        // Rank: first short numeric value in first 3 cells
         const cells = [...tr.querySelectorAll('td')]
         let rank = null
-        // Try each of the first 3 cells for a clean rank number
-        for (let ci = 0; ci < Math.min(3, cells.length); ci++) {
-          const cellNums = cells[ci].textContent.replace(/[^\d]/g, '').trim()
-          const n = parseInt(cellNums)
-          if (cellNums.length <= 4 && !isNaN(n) && n > 0 && n <= 9999) {
-            rank = n
-            break
+        for (let i = 0; i < Math.min(3, cells.length); i++) {
+          const n = parseInt(cells[i].textContent.replace(/[^\d]/g,''))
+          if (!isNaN(n) && n > 0 && n < 10000 && cells[i].textContent.replace(/[^\d]/g,'').length <= 4) {
+            rank = n; break
           }
         }
 
-        // Get chip counts — fix: split child nodes to prevent "535,00015,000" concatenation
+        // Chips: join child nodes with space to avoid concatenation, take largest
         const allNums = cells.flatMap(td => {
           const parts = []
           td.childNodes.forEach(n => parts.push(n.textContent || ''))
           const text = parts.join(' ').replace(/[\u2191\u2193+\n\r]/g, ' ')
           const matches = text.match(/\d{1,3}(?:,\d{3})+|\d{5,}/g) || []
-          return matches.map(m => parseInt(m.replace(/,/g, '')))
+          return matches.map(m => parseInt(m.replace(/,/g,'')))
         }).filter(n => n >= 5000 && n <= 9999999)
 
         if (allNums.length === 0) return
-
         const chips = Math.max(...allNums)
-        players.push({ name, chips, rank })
+        players.push({ name, rank, chips })
       })
 
-      // Get event info from the structured info block
-      const infoBlock = document.querySelector('.event-info, .reporting-event-info, [class*="event-info"]')
-      const allStrong = [...document.querySelectorAll('strong, b')]
-
-      // Find Players Left — look for the specific label
-      const playersLeftEl2 = allStrong.find(el => {
-        const parent = el.closest('tr, li, div')
-        return parent?.textContent?.toLowerCase().includes('players left')
-      })
-      const playersLeftText = document.body.innerText
-      const plMatch = playersLeftText.match(/Players Left[^\d]*(\d[\d,]*)/i)
-      const playersLeft2 = plMatch ? parseInt(plMatch[1].replace(/,/g,'')) : null
-
-      // Buy-in from page text
-      const buyinMatch2 = playersLeftText.match(/Buy-in[^\$]*\$(\d[\d,]*)/i)
-      const buyin2 = buyinMatch2 ? parseFloat(buyinMatch2[1].replace(/,/g,'')) : buyin
-
-      // Total entries - try multiple patterns
-      const entriesMatch = playersLeftText.match(/Total Entries[^\d]{0,10}([\d,]+)/i)
-                        || playersLeftText.match(/([\d,]+)\s+(?:total\s+)?entr/i)
-                        || playersLeftText.match(/Entries[^\d]{0,10}([\d,]+)/i)
-      const totalEntries = entriesMatch ? parseInt(entriesMatch[1].replace(/,/g,'')) : null
-
-      return {
-        url,
-        buyin: buyin2,
-        playersLeft: playersLeft2 || (playersLeftEl ? parseInt(playersLeftEl.textContent) : null),
-        totalEntries,
-        players,
-        // NO pageText — we only match players in the actual chip count table
-      }
+      return { url, buyin, playersLeft, totalEntries, prizePool, currentDay, players }
     }, url)
-  } catch (e) {
-    log(`  Warning: could not fetch ${url}: ${e.message}`)
+  } catch(e) {
+    log(`  Warning: ${eventSlug}: ${e.message}`)
     return null
   }
 }
 
-// ── 4. Find player in chips page data ─────────────────────────────────────────
-function findPlayerInPage(pageData, playerName) {
-  if (!pageData) return null
-
-  // Try exact match in structured table data
-  const firstName = playerName.split(' ')[0].toLowerCase()
-  const lastName  = playerName.split(' ').slice(-1)[0].toLowerCase()
-
-  // Check structured player list
-  const found = pageData.players.find(p => {
-    const pLower = p.name.toLowerCase()
-    return pLower.includes(lastName) && pLower.includes(firstName)
-  })
-  if (found) return { chips: found.chips, rank: found.rank, foundInTable: true }
-
-  // If not found in chip count table = player is NOT active in this event
-  return null
+// ── Find a player in chips page data ─────────────────────────────────────────
+function findPlayer(pageData, playerName) {
+  if (!pageData?.players?.length) return null
+  const first = playerName.split(' ')[0].toLowerCase()
+  const last  = playerName.split(' ').slice(-1)[0].toLowerCase()
+  return pageData.players.find(p => {
+    const n = p.name.toLowerCase()
+    return n.includes(last) && (n.includes(first) || first.length <= 3)
+  }) || null
 }
 
-// ── 5. Push to GitHub ─────────────────────────────────────────────────────────
+// ── Push to GitHub ────────────────────────────────────────────────────────────
 async function pushToGitHub(data) {
+  const json = JSON.stringify(data, null, 2)
   if (!GITHUB_TOKEN) {
-    log('No GITHUB_TOKEN set — saving locally only')
     const { writeFileSync } = await import('fs')
-    writeFileSync('public/live-data.json', JSON.stringify(data, null, 2))
-    log('Saved to public/live-data.json')
+    writeFileSync('public/live-data.json', json)
+    log('Saved to public/live-data.json (no GitHub token)')
     return
   }
-
   const octokit = new Octokit({ auth: GITHUB_TOKEN })
-  const content = Buffer.from(JSON.stringify(data, null, 2)).toString('base64')
-
-  // Get current file SHA (needed for update)
+  const content = Buffer.from(json).toString('base64')
   let sha
   try {
-    const { data: file } = await octokit.repos.getContent({
-      owner: GITHUB_OWNER, repo: GITHUB_REPO, path: FILE_PATH, ref: GITHUB_BRANCH,
-    })
-    sha = file.sha
+    const { data: f } = await octokit.repos.getContent({ owner: GITHUB_OWNER, repo: GITHUB_REPO, path: FILE_PATH, ref: GITHUB_BRANCH })
+    sha = f.sha
   } catch {}
-
-  await octokit.repos.createOrUpdateFileContents({
-    owner:   GITHUB_OWNER,
-    repo:    GITHUB_REPO,
-    path:    FILE_PATH,
-    message: `live update ${new Date().toISOString()}`,
-    content,
-    sha,
-    branch:  GITHUB_BRANCH,
-  })
-  log(`Pushed to GitHub: ${GITHUB_OWNER}/${GITHUB_REPO}/${FILE_PATH}`)
+  await octokit.repos.createOrUpdateFileContents({ owner: GITHUB_OWNER, repo: GITHUB_REPO, path: FILE_PATH, message: `live update ${new Date().toISOString()}`, content, sha, branch: GITHUB_BRANCH })
+  log(`Pushed to GitHub`)
 }
 
 // ── Main run ──────────────────────────────────────────────────────────────────
 async function run() {
   const browser = await chromium.launch({ headless: true })
-  const context = await browser.newContext({
-    userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
-  })
-  const page = await context.newPage()
+  const ctx  = await browser.newContext({ userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0.0.0 Safari/537.36' })
+  const page = await ctx.newPage()
 
   try {
-    // Step 1: Get 25KFantasy scores
-    const scoreMapData = await scrape25K(page)
+    // 1. Scores from 25KFantasy
+    const { scoreMap, nameMap } = await scrape25K(page)
 
-    // Step 2: Get list of active events
-    const activeEvents = await getActiveEvents(page)
+    // 2. Active events
+    const events = await getActiveEvents(page)
+    const eventsToCheck = events.slice(0, 10)
 
-    // Step 3: Scrape chips pages for relevant events (limit to recent ones)
-    const eventsToCheck = activeEvents.slice(0, 6) // check up to 6 events
-    const chipsData = {}
-    for (const event of eventsToCheck) {
-      log(`  Checking chips for ${event.slug}...`)
-      chipsData[event.slug] = await scrapeChipsPage(page, event.slug)
-      await sleep(1000)
+    // 3. Scrape chips pages
+    const pagesData = {}
+    for (const ev of eventsToCheck) {
+      log(`  Checking ${ev.slug}...`)
+      pagesData[ev.slug] = await scrapeChipsPage(page, ev.slug)
+      await sleep(800)
     }
 
-    // Step 4: Build player status objects
+    // 4. Build player data
     const players = PLAYERS.map(player => {
-      // Get 25K score — try slug first, then name match
-      const { scoreMap, nameMap } = scoreMapData
-      const normName = player.name.toLowerCase().replace(/[^a-z]/g, '')
+      // Score
+      const normName = player.name.toLowerCase().replace(/[^a-z]/g,'')
       const score = scoreMap[player.slug]
-        || nameMap[normName]
-        || nameMap[Object.keys(nameMap).find(k => k.includes(player.name.split(' ').slice(-1)[0].toLowerCase()))]
-        || null
+                 || nameMap[normName]
+                 || nameMap[Object.keys(nameMap).find(k => k.includes(player.name.split(' ').slice(-1)[0].toLowerCase())) || '']
+                 || null
 
-      // Find player in any chips page
+      // Build event history across all checked events
+      const eventHistory = []
       let liveStatus = null
-      for (const [eventSlug, pageData] of Object.entries(chipsData)) {
+
+      for (const ev of eventsToCheck) {
+        const pageData = pagesData[ev.slug]
         if (!pageData) continue
-        const found = findPlayerInPage(pageData, player.pokernewsName)
+
+        const found = findPlayer(pageData, player.name)
+
         if (found) {
-          const event = eventsToCheck.find(e => e.slug === eventSlug)
-          liveStatus = {
-            eventSlug,
-            eventName: event?.name || eventSlug,
-            eventUrl:  `${PN_BASE}/${eventSlug}/chips.htm`,
-            chips:     found.chips,
-            rank:      found.rank,
-            buyin:     pageData.buyin,
+          // Player is currently in chip counts = ACTIVE in this event
+          const entry = {
+            eventSlug:   ev.slug,
+            eventName:   ev.name || ev.slug,
+            eventUrl:    ev.url,
+            buyin:       pageData.buyin,
+            totalEntries: pageData.totalEntries,
+            prizePool:   pageData.prizePool,
             playersLeft: pageData.playersLeft,
-            foundInTable: found.foundInTable || false,
+            currentDay:  pageData.currentDay,
+            status:      'active',
+            rank:        found.rank,
+            chips:       found.chips,
+            updatedAt:   new Date().toISOString(),
           }
-          break
+          eventHistory.push(entry)
+          // Most recent active event = liveStatus
+          if (!liveStatus) liveStatus = entry
         }
+        // Note: if not found in chip table, they're not currently tracked in this event
+        // (could be eliminated or not entered — we only track appearances)
       }
 
+      // Merge with previous history from existing live-data.json if available
+      // (so eliminated players stay in history)
+
       return {
-        name:      player.name,
-        slug:      player.slug,
-        isBonus:   player.isBonus,
-        pts2026:   score?.pts ?? 0,
-        salary:    score?.salary ?? null,
+        name:       player.name,
+        slug:       player.slug,
+        isBonus:    player.isBonus,
+        pts2026:    score?.pts    ?? 0,
+        salary:     score?.salary ?? null,
         cashes2026: score?.cashes ?? 0,
         liveStatus,
+        eventHistory,
       }
     })
 
-    const teamScore = players.reduce((sum, p) => sum + (p.pts2026 || 0), 0)
+    const teamScore = players.reduce((s, p) => s + (p.pts2026 || 0), 0)
+
+    // 5. Merge with previous data to preserve eliminated player history
+    let prevData = null
+    try {
+      const { readFileSync, existsSync } = await import('fs')
+      if (existsSync('public/live-data.json')) {
+        prevData = JSON.parse(readFileSync('public/live-data.json', 'utf-8'))
+      }
+    } catch {}
+
+    if (prevData) {
+      players.forEach(p => {
+        const prev = prevData.players?.find(pp => pp.slug === p.slug)
+        if (!prev) return
+        // Merge history: keep all previous entries, update/add current ones
+        const prevHistory = prev.eventHistory || []
+        const currentSlugs = new Set(p.eventHistory.map(e => e.eventSlug))
+        // Add old history entries that are no longer active (eliminated)
+        prevHistory.forEach(old => {
+          if (!currentSlugs.has(old.eventSlug)) {
+            // Mark as eliminated if they were active before but not now
+            p.eventHistory.push({
+              ...old,
+              status: old.status === 'active' ? 'eliminated' : old.status,
+            })
+          }
+        })
+        // Sort by event slug (event-1, event-2, etc.)
+        p.eventHistory.sort((a, b) => a.eventSlug.localeCompare(b.eventSlug))
+      })
+    }
 
     const output = {
       updatedAt: new Date().toISOString(),
@@ -372,13 +324,16 @@ async function run() {
       activeEvents: eventsToCheck.map(e => ({
         slug: e.slug,
         name: e.name,
-        url:  `${PN_BASE}/${e.slug}/chips.htm`,
+        url:  e.url,
+        playersLeft: pagesData[e.slug]?.playersLeft,
+        totalEntries: pagesData[e.slug]?.totalEntries,
+        buyin: pagesData[e.slug]?.buyin,
       })),
     }
 
-    log(`Team score: ${teamScore} pts`)
+    log(`\nTeam score: ${teamScore} pts`)
     players.forEach(p => {
-      const live = p.liveStatus ? `LIVE in ${p.liveStatus.eventName} (${p.liveStatus.chips ? p.liveStatus.chips.toLocaleString() + ' chips' : 'found'})` : 'not found live'
+      const live = p.liveStatus ? `LIVE in ${p.liveStatus.eventName} — #${p.liveStatus.rank ?? '?'} (${p.liveStatus.chips?.toLocaleString() ?? '?'} chips)` : `not live (${p.eventHistory.length} event entries)`
       log(`  ${p.name}: ${p.pts2026} pts — ${live}`)
     })
 
@@ -389,12 +344,12 @@ async function run() {
   }
 }
 
-// ── Entry point ───────────────────────────────────────────────────────────────
+// ── Entry ─────────────────────────────────────────────────────────────────────
 if (LOOP_MINUTES) {
-  log(`Starting loop — refreshing every ${LOOP_MINUTES} minutes`)
+  log(`Loop mode: every ${LOOP_MINUTES} min`)
   while (true) {
-    try { await run() } catch (e) { log(`Error: ${e.message}`) }
-    log(`Next update in ${LOOP_MINUTES} minutes...`)
+    try { await run() } catch(e) { log(`Error: ${e.message}`) }
+    log(`Next in ${LOOP_MINUTES} min...`)
     await sleep(LOOP_MINUTES * 60 * 1000)
   }
 } else {
