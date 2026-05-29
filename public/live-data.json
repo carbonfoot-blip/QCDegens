@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-29T22:57:46.980Z",
+  "updatedAt": "2026-05-29T22:59:05.252Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees"
@@ -25,7 +25,7 @@
         "rank": 14,
         "chips": 300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-05-29T22:57:46.978Z"
+        "updatedAt": "2026-05-29T22:59:05.250Z"
       },
       "eventHistory": [
         {
@@ -41,7 +41,7 @@
           "rank": 14,
           "chips": 300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-05-29T22:57:46.978Z"
+          "updatedAt": "2026-05-29T22:59:05.250Z"
         }
       ]
     },
