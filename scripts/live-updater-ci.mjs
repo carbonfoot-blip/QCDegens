@@ -32,13 +32,26 @@ const HEADERS = {
 function log(msg) { console.log(`[${new Date().toLocaleTimeString('en-US')}] ${msg}`) }
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)) }
 
-// ── Fetch HTML with retries ───────────────────────────────────────────────────
+// Cloudflare Worker proxy URL — set this env var in GitHub Actions secrets
+// If not set, falls back to direct fetch (may be blocked by PokerNews)
+const CF_PROXY = process.env.CF_PROXY_URL || ''
+
+// ── Fetch HTML via Cloudflare Worker proxy ────────────────────────────────────
 async function fetchHtml(url, retries = 2) {
+  const fetchUrl = CF_PROXY
+    ? `${CF_PROXY}?url=${encodeURIComponent(url)}`
+    : url
+
   for (let i = 0; i <= retries; i++) {
     try {
-      const res = await fetch(url, { headers: HEADERS, signal: AbortSignal.timeout(12000) })
+      const res = await fetch(fetchUrl, {
+        headers: CF_PROXY ? {} : HEADERS,
+        signal: AbortSignal.timeout(15000)
+      })
       if (!res.ok) throw new Error(`HTTP ${res.status}`)
-      return await res.text()
+      const html = await res.text()
+      if (html.length < 1000) throw new Error(`Response too short (${html.length} chars)`)
+      return html
     } catch(e) {
       if (i === retries) throw e
       await sleep(2000)
