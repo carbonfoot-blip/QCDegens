@@ -29,8 +29,12 @@ async function run() {
 
   // Call Render scraper
   const baseUrl = SCRAPER_URL.replace(/\/$/, '') // remove trailing slash
-  const params = completedEvents.length ? `?completed=${completedEvents.join(',')}` : ''
-  const res = await fetch(`${baseUrl}/scrape${params}`, {
+  const completedParam = completedEvents.length ? `completed=${completedEvents.join(',')}` : ''
+  // Pass previously known event slugs so scraper doesn't need to discover them
+  const knownSlugs = prevData?.activeEvents?.map(e => e.slug).filter(Boolean) || []
+  const knownParam = knownSlugs.length ? `known=${knownSlugs.join(',')}` : ''
+  const params = [completedParam, knownParam].filter(Boolean).join('&')
+  const res = await fetch(`${baseUrl}/scrape${params ? '?' + params : ''}`, {
     signal: AbortSignal.timeout(300000) // 5 min timeout
   })
 
