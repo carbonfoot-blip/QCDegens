@@ -35,6 +35,7 @@ jobs:
           GITHUB_OWNER: ${{ github.repository_owner }}
           GITHUB_REPO: ${{ github.event.repository.name }}
           CF_PROXY_URL: ${{ secrets.CF_PROXY_URL }}
+          SCRAPER_URL: ${{ secrets.SCRAPER_URL }}
 
       - name: Commit and push
         run: |
