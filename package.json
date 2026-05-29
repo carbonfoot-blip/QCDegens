@@ -11,12 +11,13 @@
     "update:loop": "node scripts/live-updater.mjs --loop 5"
   },
   "dependencies": {
+    "jsdom": "^29.1.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
-    "@vitejs/plugin-react": "^4.3.4",
     "@octokit/rest": "^21.0.0",
+    "@vitejs/plugin-react": "^4.3.4",
     "gh-pages": "^6.3.0",
     "playwright": "^1.44.0",
     "vite": "^6.0.5"
