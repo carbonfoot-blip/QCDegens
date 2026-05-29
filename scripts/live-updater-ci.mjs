@@ -31,7 +31,7 @@ async function run() {
   const baseUrl = SCRAPER_URL.replace(/\/$/, '') // remove trailing slash
   const params = completedEvents.length ? `?completed=${completedEvents.join(',')}` : ''
   const res = await fetch(`${baseUrl}/scrape${params}`, {
-    signal: AbortSignal.timeout(120000) // 2 min timeout
+    signal: AbortSignal.timeout(300000) // 5 min timeout
   })
 
   if (!res.ok) {
