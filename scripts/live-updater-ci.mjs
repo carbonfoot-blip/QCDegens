@@ -28,8 +28,9 @@ async function run() {
   log(`Skipping ${completedEvents.length} completed events`)
 
   // Call Render scraper
+  const baseUrl = SCRAPER_URL.replace(/\/$/, '') // remove trailing slash
   const params = completedEvents.length ? `?completed=${completedEvents.join(',')}` : ''
-  const res = await fetch(`${SCRAPER_URL}/scrape${params}`, {
+  const res = await fetch(`${baseUrl}/scrape${params}`, {
     signal: AbortSignal.timeout(120000) // 2 min timeout
   })
 
