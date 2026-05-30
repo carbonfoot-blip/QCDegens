@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T22:09:58.193Z",
+  "updatedAt": "2026-05-30T22:15:40.984Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -130,7 +130,7 @@
       "slug": "event-7-heads-up-championship",
       "name": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
-      "playersLeft": 52,
+      "playersLeft": 48,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
@@ -139,7 +139,7 @@
       "slug": "event-8-badugi",
       "name": "Event #8: $1,500 Badugi",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-8-badugi/chips.htm",
-      "playersLeft": 72,
+      "playersLeft": 70,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
