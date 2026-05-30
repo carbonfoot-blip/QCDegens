@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T20:38:18.947Z",
+  "updatedAt": "2026-05-30T20:44:06.612Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -112,7 +112,7 @@
       "slug": "event-5-pot-limit-omaha",
       "name": "Event #5: $5,000 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-5-pot-limit-omaha/chips.htm",
-      "playersLeft": 7,
+      "playersLeft": 6,
       "totalEntries": null,
       "buyin": 5000,
       "completed": false
@@ -139,7 +139,7 @@
       "slug": "event-8-badugi",
       "name": "Event #8: $1,500 Badugi",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-8-badugi/chips.htm",
-      "playersLeft": 94,
+      "playersLeft": 88,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
