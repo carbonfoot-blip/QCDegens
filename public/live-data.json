@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T09:11:18.233Z",
+  "updatedAt": "2026-05-30T09:12:27.936Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -16,28 +16,34 @@
       "cashes2026": 0,
       "liveStatus": {
         "eventSlug": "event-7-heads-up-championship",
-        "eventName": "event-7-heads-up-championship",
+        "eventName": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship",
         "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
         "buyin": 25000,
         "totalEntries": null,
+        "prizePool": null,
         "playersLeft": 16,
+        "currentDay": "1a",
         "status": "active",
         "rank": 1,
         "chips": 717000,
-        "updatedAt": "2026-05-30T09:11:17.388Z"
+        "wsopConfirmed": false,
+        "updatedAt": "2026-05-30T09:12:27.935Z"
       },
       "eventHistory": [
         {
           "eventSlug": "event-7-heads-up-championship",
-          "eventName": "event-7-heads-up-championship",
+          "eventName": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship",
           "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
           "buyin": 25000,
           "totalEntries": null,
+          "prizePool": null,
           "playersLeft": 16,
+          "currentDay": "1a",
           "status": "active",
           "rank": 1,
           "chips": 717000,
-          "updatedAt": "2026-05-30T09:11:17.388Z"
+          "wsopConfirmed": false,
+          "updatedAt": "2026-05-30T09:12:27.935Z"
         }
       ]
     },
@@ -125,7 +131,7 @@
   "activeEvents": [
     {
       "slug": "event-1-mini-mystery-millions",
-      "name": "event-1-mini-mystery-millions",
+      "name": "Event #1: $550 Mini Mystery Millions",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-1-mini-mystery-millions/chips.htm",
       "playersLeft": 382,
       "totalEntries": null,
@@ -134,7 +140,7 @@
     },
     {
       "slug": "event-5-pot-limit-omaha",
-      "name": "event-5-pot-limit-omaha",
+      "name": "Event #5: $5,000 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-5-pot-limit-omaha/chips.htm",
       "playersLeft": 7,
       "totalEntries": null,
@@ -143,7 +149,7 @@
     },
     {
       "slug": "event-6-seven-card-stud",
-      "name": "event-6-seven-card-stud",
+      "name": "Event #6: $1,500 Seven Card Stud",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-6-seven-card-stud/chips.htm",
       "playersLeft": 6,
       "totalEntries": null,
@@ -151,8 +157,17 @@
       "completed": false
     },
     {
+      "slug": "event-8-badugi",
+      "name": "Event #8: $1,500 Badugi",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-8-badugi/chips.htm",
+      "playersLeft": 191,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": false
+    },
+    {
       "slug": "event-7-heads-up-championship",
-      "name": "event-7-heads-up-championship",
+      "name": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
       "playersLeft": 16,
       "totalEntries": null,
@@ -160,10 +175,22 @@
       "completed": false
     },
     {
-      "slug": "event-8-badugi",
-      "name": "event-8-badugi",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-8-badugi/chips.htm",
-      "completed": false
+      "slug": "event-4-omaha-hi-lo-8-or-better",
+      "name": "Event #4: $1,500 Omaha Hi-Lo 8 or Better",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-4-omaha-hi-lo-8-or-better/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": true
+    },
+    {
+      "slug": "event-2-8-handed",
+      "name": "Event #2: $5,000 8-Handed No-Limit Hold’em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-2-8-handed/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 5000,
+      "completed": true
     }
   ]
 }
