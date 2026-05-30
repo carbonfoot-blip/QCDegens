@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T19:23:05.223Z",
+  "updatedAt": "2026-05-30T19:28:51.834Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -74,8 +74,38 @@
       "pts2026": 0,
       "salary": 1,
       "cashes2026": 0,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-7-heads-up-championship",
+        "eventName": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
+        "buyin": 25000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 72,
+        "currentDay": "1b",
+        "status": "active",
+        "rank": 50,
+        "chips": 150000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-05-30T19:28:51.833Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-7-heads-up-championship",
+          "eventName": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
+          "buyin": 25000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 72,
+          "currentDay": "1b",
+          "status": "active",
+          "rank": 50,
+          "chips": 150000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-05-30T19:28:51.833Z"
+        }
+      ]
     },
     {
       "name": "John Riordan",
