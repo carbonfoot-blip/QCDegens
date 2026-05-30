@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T00:33:47.917Z",
+  "updatedAt": "2026-05-30T00:39:26.747Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees"
@@ -25,7 +25,7 @@
         "rank": 14,
         "chips": 300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-05-30T00:33:47.916Z"
+        "updatedAt": "2026-05-30T00:39:26.746Z"
       },
       "eventHistory": [
         {
@@ -41,7 +41,7 @@
           "rank": 14,
           "chips": 300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-05-30T00:33:47.916Z"
+          "updatedAt": "2026-05-30T00:39:26.746Z"
         }
       ]
     },
@@ -167,7 +167,7 @@
       "slug": "event-5-pot-limit-omaha",
       "name": "Event #5: $5,000 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-5-pot-limit-omaha/chips.htm",
-      "playersLeft": 37,
+      "playersLeft": 36,
       "totalEntries": null,
       "buyin": 5000,
       "completed": false
