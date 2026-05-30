@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T04:36:20.933Z",
+  "updatedAt": "2026-05-30T04:41:58.574Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -23,10 +23,10 @@
         "playersLeft": 26,
         "currentDay": "1a",
         "status": "active",
-        "rank": 23,
+        "rank": 22,
         "chips": 292000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-05-30T04:36:20.931Z"
+        "updatedAt": "2026-05-30T04:41:58.572Z"
       },
       "eventHistory": [
         {
@@ -39,10 +39,10 @@
           "playersLeft": 26,
           "currentDay": "1a",
           "status": "active",
-          "rank": 23,
+          "rank": 22,
           "chips": 292000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-05-30T04:36:20.931Z"
+          "updatedAt": "2026-05-30T04:41:58.572Z"
         }
       ]
     },
@@ -156,21 +156,21 @@
       "completed": false
     },
     {
+      "slug": "event-6-seven-card-stud",
+      "name": "Event #6: $1,500 Seven Card Stud",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-6-seven-card-stud/chips.htm",
+      "playersLeft": 11,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": false
+    },
+    {
       "slug": "event-5-pot-limit-omaha",
       "name": "Event #5: $5,000 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-5-pot-limit-omaha/chips.htm",
       "playersLeft": 14,
       "totalEntries": null,
       "buyin": 5000,
-      "completed": false
-    },
-    {
-      "slug": "event-6-seven-card-stud",
-      "name": "Event #6: $1,500 Seven Card Stud",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-6-seven-card-stud/chips.htm",
-      "playersLeft": 12,
-      "totalEntries": null,
-      "buyin": 1500,
       "completed": false
     },
     {
