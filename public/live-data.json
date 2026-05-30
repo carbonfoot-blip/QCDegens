@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T05:27:01.837Z",
+  "updatedAt": "2026-05-30T05:32:39.537Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -23,10 +23,10 @@
         "playersLeft": 24,
         "currentDay": "1a",
         "status": "active",
-        "rank": 8,
-        "chips": 467000,
+        "rank": 7,
+        "chips": 563000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-05-30T05:27:01.835Z"
+        "updatedAt": "2026-05-30T05:32:39.536Z"
       },
       "eventHistory": [
         {
@@ -39,10 +39,10 @@
           "playersLeft": 24,
           "currentDay": "1a",
           "status": "active",
-          "rank": 8,
-          "chips": 467000,
+          "rank": 7,
+          "chips": 563000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-05-30T05:27:01.835Z"
+          "updatedAt": "2026-05-30T05:32:39.536Z"
         }
       ]
     },
@@ -132,7 +132,7 @@
       "slug": "event-1-mini-mystery-millions",
       "name": "Event #1: $550 Mini Mystery Millions",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-1-mini-mystery-millions/chips.htm",
-      "playersLeft": 551,
+      "playersLeft": 495,
       "totalEntries": null,
       "buyin": 550,
       "completed": false
@@ -156,21 +156,21 @@
       "completed": false
     },
     {
-      "slug": "event-6-seven-card-stud",
-      "name": "Event #6: $1,500 Seven Card Stud",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-6-seven-card-stud/chips.htm",
-      "playersLeft": 11,
-      "totalEntries": null,
-      "buyin": 1500,
-      "completed": false
-    },
-    {
       "slug": "event-5-pot-limit-omaha",
       "name": "Event #5: $5,000 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-5-pot-limit-omaha/chips.htm",
       "playersLeft": 13,
       "totalEntries": null,
       "buyin": 5000,
+      "completed": false
+    },
+    {
+      "slug": "event-6-seven-card-stud",
+      "name": "Event #6: $1,500 Seven Card Stud",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-6-seven-card-stud/chips.htm",
+      "playersLeft": 11,
+      "totalEntries": null,
+      "buyin": 1500,
       "completed": false
     },
     {
@@ -186,7 +186,7 @@
       "slug": "event-8-badugi",
       "name": "Event #8: $1,500 Badugi",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-8-badugi/chips.htm",
-      "playersLeft": 213,
+      "playersLeft": 191,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
