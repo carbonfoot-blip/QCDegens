@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T06:55:41.854Z",
+  "updatedAt": "2026-05-30T06:57:15.308Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -16,28 +16,34 @@
       "cashes2026": 0,
       "liveStatus": {
         "eventSlug": "event-7-heads-up-championship",
-        "eventName": "event-7-heads-up-championship",
+        "eventName": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
         "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
         "buyin": 25000,
         "totalEntries": null,
+        "prizePool": null,
         "playersLeft": 20,
+        "currentDay": "1a",
         "status": "active",
         "rank": 8,
         "chips": 600000,
-        "updatedAt": "2026-05-30T06:55:41.458Z"
+        "wsopConfirmed": false,
+        "updatedAt": "2026-05-30T06:57:15.306Z"
       },
       "eventHistory": [
         {
           "eventSlug": "event-7-heads-up-championship",
-          "eventName": "event-7-heads-up-championship",
+          "eventName": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
           "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
           "buyin": 25000,
           "totalEntries": null,
+          "prizePool": null,
           "playersLeft": 20,
+          "currentDay": "1a",
           "status": "active",
           "rank": 8,
           "chips": 600000,
-          "updatedAt": "2026-05-30T06:55:41.458Z"
+          "wsopConfirmed": false,
+          "updatedAt": "2026-05-30T06:57:15.306Z"
         }
       ]
     },
@@ -125,7 +131,7 @@
   "activeEvents": [
     {
       "slug": "event-1-mini-mystery-millions",
-      "name": "event-1-mini-mystery-millions",
+      "name": "Event #1: $550 Mini Mystery Millions",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-1-mini-mystery-millions/chips.htm",
       "playersLeft": 495,
       "totalEntries": null,
@@ -133,17 +139,26 @@
       "completed": false
     },
     {
-      "slug": "event-5-pot-limit-omaha",
-      "name": "event-5-pot-limit-omaha",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-5-pot-limit-omaha/chips.htm",
-      "playersLeft": 7,
+      "slug": "event-2-8-handed",
+      "name": "Event #2: $5,000 8-Handed No-Limit Hold’em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-2-8-handed/chips.htm",
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 5000,
-      "completed": false
+      "completed": true
+    },
+    {
+      "slug": "event-4-omaha-hi-lo-8-or-better",
+      "name": "Event #4: $1,500 Omaha Hi-Lo 8 or Better",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-4-omaha-hi-lo-8-or-better/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": true
     },
     {
       "slug": "event-6-seven-card-stud",
-      "name": "event-6-seven-card-stud",
+      "name": "Event #6: $1,500 Seven Card Stud",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-6-seven-card-stud/chips.htm",
       "playersLeft": 8,
       "totalEntries": null,
@@ -151,8 +166,17 @@
       "completed": false
     },
     {
+      "slug": "event-5-pot-limit-omaha",
+      "name": "Event #5: $5,000 Pot-Limit Omaha",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-5-pot-limit-omaha/chips.htm",
+      "playersLeft": 7,
+      "totalEntries": null,
+      "buyin": 5000,
+      "completed": false
+    },
+    {
       "slug": "event-7-heads-up-championship",
-      "name": "event-7-heads-up-championship",
+      "name": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
       "playersLeft": 20,
       "totalEntries": null,
@@ -161,7 +185,7 @@
     },
     {
       "slug": "event-8-badugi",
-      "name": "event-8-badugi",
+      "name": "Event #8: $1,500 Badugi",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-8-badugi/chips.htm",
       "playersLeft": 191,
       "totalEntries": null,
