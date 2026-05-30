@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T01:30:11.632Z",
+  "updatedAt": "2026-05-30T01:35:49.685Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -26,7 +26,7 @@
         "rank": 14,
         "chips": 300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-05-30T01:30:11.630Z"
+        "updatedAt": "2026-05-30T01:35:49.683Z"
       },
       "eventHistory": [
         {
@@ -42,7 +42,7 @@
           "rank": 14,
           "chips": 300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-05-30T01:30:11.630Z"
+          "updatedAt": "2026-05-30T01:35:49.683Z"
         }
       ]
     },
@@ -159,7 +159,7 @@
       "slug": "event-6-seven-card-stud",
       "name": "Event #6: $1,500 Seven Card Stud",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-6-seven-card-stud/chips.htm",
-      "playersLeft": 22,
+      "playersLeft": 21,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
