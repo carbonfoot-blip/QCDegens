@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T01:58:25.518Z",
+  "updatedAt": "2026-05-30T02:04:03.811Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -26,7 +26,7 @@
         "rank": 14,
         "chips": 300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-05-30T01:58:25.516Z"
+        "updatedAt": "2026-05-30T02:04:03.809Z"
       },
       "eventHistory": [
         {
@@ -42,7 +42,7 @@
           "rank": 14,
           "chips": 300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-05-30T01:58:25.516Z"
+          "updatedAt": "2026-05-30T02:04:03.809Z"
         }
       ]
     },
@@ -132,7 +132,7 @@
       "slug": "event-1-mini-mystery-millions",
       "name": "Event #1: $550 Mini Mystery Millions",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-1-mini-mystery-millions/chips.htm",
-      "playersLeft": 961,
+      "playersLeft": 954,
       "totalEntries": null,
       "buyin": 550,
       "completed": false
@@ -168,7 +168,7 @@
       "slug": "event-5-pot-limit-omaha",
       "name": "Event #5: $5,000 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-5-pot-limit-omaha/chips.htm",
-      "playersLeft": 26,
+      "playersLeft": 24,
       "totalEntries": null,
       "buyin": 5000,
       "completed": false
