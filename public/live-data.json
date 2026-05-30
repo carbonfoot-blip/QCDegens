@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T03:51:12.635Z",
+  "updatedAt": "2026-05-30T03:56:50.543Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -20,13 +20,13 @@
         "buyin": 25000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 32,
+        "playersLeft": 30,
         "currentDay": "1a",
         "status": "active",
-        "rank": 30,
+        "rank": 28,
         "chips": 259000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-05-30T03:51:12.633Z"
+        "updatedAt": "2026-05-30T03:56:50.541Z"
       },
       "eventHistory": [
         {
@@ -36,13 +36,13 @@
           "buyin": 25000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 32,
+          "playersLeft": 30,
           "currentDay": "1a",
           "status": "active",
-          "rank": 30,
+          "rank": 28,
           "chips": 259000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-05-30T03:51:12.633Z"
+          "updatedAt": "2026-05-30T03:56:50.541Z"
         }
       ]
     },
@@ -159,7 +159,7 @@
       "slug": "event-5-pot-limit-omaha",
       "name": "Event #5: $5,000 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-5-pot-limit-omaha/chips.htm",
-      "playersLeft": 20,
+      "playersLeft": 18,
       "totalEntries": null,
       "buyin": 5000,
       "completed": false
@@ -177,7 +177,7 @@
       "slug": "event-7-heads-up-championship",
       "name": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
-      "playersLeft": 32,
+      "playersLeft": 30,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
