@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T04:58:52.546Z",
+  "updatedAt": "2026-05-30T05:04:31.144Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -23,10 +23,10 @@
         "playersLeft": 26,
         "currentDay": "1a",
         "status": "active",
-        "rank": 8,
+        "rank": 9,
         "chips": 434000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-05-30T04:58:52.545Z"
+        "updatedAt": "2026-05-30T05:04:31.143Z"
       },
       "eventHistory": [
         {
@@ -39,10 +39,10 @@
           "playersLeft": 26,
           "currentDay": "1a",
           "status": "active",
-          "rank": 8,
+          "rank": 9,
           "chips": 434000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-05-30T04:58:52.545Z"
+          "updatedAt": "2026-05-30T05:04:31.143Z"
         }
       ]
     },
@@ -132,7 +132,7 @@
       "slug": "event-1-mini-mystery-millions",
       "name": "Event #1: $550 Mini Mystery Millions",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-1-mini-mystery-millions/chips.htm",
-      "playersLeft": 891,
+      "playersLeft": 551,
       "totalEntries": null,
       "buyin": 550,
       "completed": false
@@ -186,7 +186,7 @@
       "slug": "event-8-badugi",
       "name": "Event #8: $1,500 Badugi",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-8-badugi/chips.htm",
-      "playersLeft": 314,
+      "playersLeft": 213,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
