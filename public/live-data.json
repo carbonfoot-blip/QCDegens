@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T00:05:24.440Z",
+  "updatedAt": "2026-05-30T00:11:02.291Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees"
@@ -25,7 +25,7 @@
         "rank": 14,
         "chips": 300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-05-30T00:05:24.438Z"
+        "updatedAt": "2026-05-30T00:11:02.289Z"
       },
       "eventHistory": [
         {
@@ -41,7 +41,7 @@
           "rank": 14,
           "chips": 300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-05-30T00:05:24.438Z"
+          "updatedAt": "2026-05-30T00:11:02.289Z"
         }
       ]
     },
@@ -149,7 +149,7 @@
       "slug": "event-4-omaha-hi-lo-8-or-better",
       "name": "Event #4: $1,500 Omaha Hi-Lo 8 or Better",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-4-omaha-hi-lo-8-or-better/chips.htm",
-      "playersLeft": 7,
+      "playersLeft": 6,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
