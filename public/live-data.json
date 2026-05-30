@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T16:55:08.445Z",
+  "updatedAt": "2026-05-30T17:01:05.874Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -14,38 +14,8 @@
       "pts2026": 0,
       "salary": 116,
       "cashes2026": 0,
-      "liveStatus": {
-        "eventSlug": "event-7-heads-up-championship",
-        "eventName": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
-        "buyin": 25000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 8,
-        "currentDay": "1a",
-        "status": "active",
-        "rank": 4,
-        "chips": 1200000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-05-30T16:55:08.444Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-7-heads-up-championship",
-          "eventName": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
-          "buyin": 25000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 8,
-          "currentDay": "1a",
-          "status": "active",
-          "rank": 4,
-          "chips": 1200000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-05-30T16:55:08.444Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Calvin Anderson",
@@ -157,21 +127,21 @@
       "completed": false
     },
     {
-      "slug": "event-7-heads-up-championship",
-      "name": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
-      "playersLeft": 8,
-      "totalEntries": null,
-      "buyin": 25000,
-      "completed": false
-    },
-    {
       "slug": "event-8-badugi",
       "name": "Event #8: $1,500 Badugi",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-8-badugi/chips.htm",
       "playersLeft": 191,
       "totalEntries": null,
       "buyin": 1500,
+      "completed": false
+    },
+    {
+      "slug": "event-7-heads-up-championship",
+      "name": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
+      "playersLeft": 8,
+      "totalEntries": null,
+      "buyin": 25000,
       "completed": false
     },
     {
