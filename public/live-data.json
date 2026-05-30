@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T05:15:46.775Z",
+  "updatedAt": "2026-05-30T05:21:24.405Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -20,13 +20,13 @@
         "buyin": 25000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 26,
+        "playersLeft": 24,
         "currentDay": "1a",
         "status": "active",
-        "rank": 10,
-        "chips": 434000,
+        "rank": 9,
+        "chips": 467000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-05-30T05:15:46.774Z"
+        "updatedAt": "2026-05-30T05:21:24.404Z"
       },
       "eventHistory": [
         {
@@ -36,13 +36,13 @@
           "buyin": 25000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 26,
+          "playersLeft": 24,
           "currentDay": "1a",
           "status": "active",
-          "rank": 10,
-          "chips": 434000,
+          "rank": 9,
+          "chips": 467000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-05-30T05:15:46.774Z"
+          "updatedAt": "2026-05-30T05:21:24.404Z"
         }
       ]
     },
@@ -156,6 +156,15 @@
       "completed": false
     },
     {
+      "slug": "event-5-pot-limit-omaha",
+      "name": "Event #5: $5,000 Pot-Limit Omaha",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-5-pot-limit-omaha/chips.htm",
+      "playersLeft": 13,
+      "totalEntries": null,
+      "buyin": 5000,
+      "completed": false
+    },
+    {
       "slug": "event-6-seven-card-stud",
       "name": "Event #6: $1,500 Seven Card Stud",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-6-seven-card-stud/chips.htm",
@@ -165,19 +174,10 @@
       "completed": false
     },
     {
-      "slug": "event-5-pot-limit-omaha",
-      "name": "Event #5: $5,000 Pot-Limit Omaha",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-5-pot-limit-omaha/chips.htm",
-      "playersLeft": 14,
-      "totalEntries": null,
-      "buyin": 5000,
-      "completed": false
-    },
-    {
       "slug": "event-7-heads-up-championship",
       "name": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
-      "playersLeft": 26,
+      "playersLeft": 24,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
