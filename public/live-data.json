@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-30T23:06:57.042Z",
+  "updatedAt": "2026-05-30T23:12:39.273Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -139,7 +139,7 @@
       "slug": "event-8-badugi",
       "name": "Event #8: $1,500 Badugi",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-8-badugi/chips.htm",
-      "playersLeft": 64,
+      "playersLeft": 60,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
