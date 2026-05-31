@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T19:13:01.831Z",
+  "updatedAt": "2026-05-31T19:19:10.855Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -29,7 +29,7 @@
         "rank": 12,
         "chips": 1200000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-05-31T19:13:01.829Z"
+        "updatedAt": "2026-05-31T19:19:10.854Z"
       },
       "eventHistory": [
         {
@@ -45,7 +45,7 @@
           "rank": 12,
           "chips": 1200000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-05-31T19:13:01.829Z"
+          "updatedAt": "2026-05-31T19:19:10.854Z"
         }
       ]
     },
@@ -79,7 +79,7 @@
         "rank": 57,
         "chips": 64000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-05-31T19:13:01.830Z"
+        "updatedAt": "2026-05-31T19:19:10.854Z"
       },
       "eventHistory": [
         {
@@ -95,7 +95,7 @@
           "rank": 57,
           "chips": 64000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-05-31T19:13:01.830Z"
+          "updatedAt": "2026-05-31T19:19:10.854Z"
         }
       ]
     },
@@ -198,15 +198,6 @@
       "completed": false
     },
     {
-      "slug": "event-19-600-deepstack",
-      "name": "Event #10: $600 Deepstack No-Limit Hold’em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-600-deepstack/chips.htm",
-      "playersLeft": 1897,
-      "totalEntries": null,
-      "buyin": 600,
-      "completed": false
-    },
-    {
       "slug": "event-11-ggmillion-high-roller",
       "name": "Event #11: $10,000 GGMillion$ High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-11-ggmillion-high-roller/chips.htm",
@@ -222,6 +213,15 @@
       "playersLeft": null,
       "totalEntries": null,
       "buyin": 1500,
+      "completed": false
+    },
+    {
+      "slug": "event-19-600-deepstack",
+      "name": "Event #10: $600 Deepstack No-Limit Hold’em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-600-deepstack/chips.htm",
+      "playersLeft": 1897,
+      "totalEntries": null,
+      "buyin": 600,
       "completed": false
     },
     {
