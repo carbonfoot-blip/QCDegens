@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T20:14:18.845Z",
+  "updatedAt": "2026-05-31T20:20:26.690Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -29,7 +29,7 @@
         "rank": 12,
         "chips": 1200000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-05-31T20:14:18.843Z"
+        "updatedAt": "2026-05-31T20:20:26.688Z"
       },
       "eventHistory": [
         {
@@ -45,7 +45,7 @@
           "rank": 12,
           "chips": 1200000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-05-31T20:14:18.843Z"
+          "updatedAt": "2026-05-31T20:20:26.688Z"
         }
       ]
     },
@@ -69,7 +69,7 @@
         "rank": 62,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-05-31T20:14:18.843Z"
+        "updatedAt": "2026-05-31T20:20:26.688Z"
       },
       "eventHistory": [
         {
@@ -85,7 +85,7 @@
           "rank": 62,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-05-31T20:14:18.843Z"
+          "updatedAt": "2026-05-31T20:20:26.688Z"
         }
       ]
     },
@@ -106,10 +106,10 @@
         "playersLeft": 78,
         "currentDay": "2",
         "status": "active",
-        "rank": 57,
+        "rank": 58,
         "chips": 64000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-05-31T20:14:18.844Z"
+        "updatedAt": "2026-05-31T20:20:26.689Z"
       },
       "eventHistory": [
         {
@@ -122,10 +122,10 @@
           "playersLeft": 78,
           "currentDay": "2",
           "status": "active",
-          "rank": 57,
+          "rank": 58,
           "chips": 64000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-05-31T20:14:18.844Z"
+          "updatedAt": "2026-05-31T20:20:26.689Z"
         }
       ]
     },
@@ -213,7 +213,7 @@
       "slug": "event-8-badugi",
       "name": "Event #8: $1,500 Badugi",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-8-badugi/chips.htm",
-      "playersLeft": 10,
+      "playersLeft": 9,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -225,15 +225,6 @@
       "playersLeft": 78,
       "totalEntries": null,
       "buyin": 10000,
-      "completed": false
-    },
-    {
-      "slug": "event-19-600-deepstack",
-      "name": "Event #10: $600 Deepstack No-Limit Hold’em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-600-deepstack/chips.htm",
-      "playersLeft": 2358,
-      "totalEntries": null,
-      "buyin": 600,
       "completed": false
     },
     {
@@ -252,6 +243,15 @@
       "playersLeft": null,
       "totalEntries": null,
       "buyin": 1500,
+      "completed": false
+    },
+    {
+      "slug": "event-19-600-deepstack",
+      "name": "Event #10: $600 Deepstack No-Limit Hold’em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-600-deepstack/chips.htm",
+      "playersLeft": 2358,
+      "totalEntries": null,
+      "buyin": 600,
       "completed": false
     },
     {
