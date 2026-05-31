@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T04:09:06.995Z",
+  "updatedAt": "2026-05-31T04:14:48.665Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -106,10 +106,10 @@
         "playersLeft": 97,
         "currentDay": "1",
         "status": "active",
-        "rank": 55,
+        "rank": 56,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-05-31T04:09:06.994Z"
+        "updatedAt": "2026-05-31T04:14:48.664Z"
       },
       "eventHistory": [
         {
@@ -122,10 +122,10 @@
           "playersLeft": 97,
           "currentDay": "1",
           "status": "active",
-          "rank": 55,
+          "rank": 56,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-05-31T04:09:06.994Z"
+          "updatedAt": "2026-05-31T04:14:48.664Z"
         }
       ]
     }
@@ -162,7 +162,7 @@
       "slug": "event-7-heads-up-championship",
       "name": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
-      "playersLeft": 39,
+      "playersLeft": 38,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
