@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T03:46:19.272Z",
+  "updatedAt": "2026-05-31T03:52:01.195Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -109,7 +109,7 @@
         "rank": 53,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-05-31T03:46:19.271Z"
+        "updatedAt": "2026-05-31T03:52:01.194Z"
       },
       "eventHistory": [
         {
@@ -125,7 +125,7 @@
           "rank": 53,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-05-31T03:46:19.271Z"
+          "updatedAt": "2026-05-31T03:52:01.194Z"
         }
       ]
     }
@@ -135,7 +135,7 @@
       "slug": "event-1-mini-mystery-millions",
       "name": "Event #1: $550 Mini Mystery Millions",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-1-mini-mystery-millions/chips.htm",
-      "playersLeft": 2335,
+      "playersLeft": 2992,
       "totalEntries": null,
       "buyin": 550,
       "completed": false
@@ -162,7 +162,7 @@
       "slug": "event-7-heads-up-championship",
       "name": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
-      "playersLeft": 40,
+      "playersLeft": 39,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
