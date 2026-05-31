@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T17:16:00.058Z",
+  "updatedAt": "2026-05-31T17:22:08.987Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -16,8 +16,38 @@
       "pts2026": 0,
       "salary": 116,
       "cashes2026": 0,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-7-heads-up-championship",
+        "eventName": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
+        "buyin": 25000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 16,
+        "currentDay": "2",
+        "status": "active",
+        "rank": 12,
+        "chips": 1200000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-05-31T17:22:08.984Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-7-heads-up-championship",
+          "eventName": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
+          "buyin": 25000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 16,
+          "currentDay": "2",
+          "status": "active",
+          "rank": 12,
+          "chips": 1200000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-05-31T17:22:08.984Z"
+        }
+      ]
     },
     {
       "name": "Calvin Anderson",
@@ -49,7 +79,7 @@
         "rank": 57,
         "chips": 64000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-05-31T17:16:00.057Z"
+        "updatedAt": "2026-05-31T17:22:08.985Z"
       },
       "eventHistory": [
         {
@@ -65,7 +95,7 @@
           "rank": 57,
           "chips": 64000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-05-31T17:16:00.057Z"
+          "updatedAt": "2026-05-31T17:22:08.985Z"
         }
       ]
     },
