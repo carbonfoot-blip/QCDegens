@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T05:51:47.902Z",
+  "updatedAt": "2026-05-31T05:57:29.990Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -36,8 +36,38 @@
       "pts2026": 0,
       "salary": 3,
       "cashes2026": 0,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-9-omaha-hi-lo-8-or-better-championship",
+        "eventName": "Event #9: $10,000 Omaha Hi-Lo 8 or Better Championship",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-9-omaha-hi-lo-8-or-better-championship/chips.htm",
+        "buyin": 10000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 78,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 61,
+        "chips": 64000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-05-31T05:57:29.989Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-9-omaha-hi-lo-8-or-better-championship",
+          "eventName": "Event #9: $10,000 Omaha Hi-Lo 8 or Better Championship",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-9-omaha-hi-lo-8-or-better-championship/chips.htm",
+          "buyin": 10000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 78,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 61,
+          "chips": 64000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-05-31T05:57:29.989Z"
+        }
+      ]
     },
     {
       "name": "Matt Glantz",
@@ -106,10 +136,10 @@
         "playersLeft": 78,
         "currentDay": "1",
         "status": "active",
-        "rank": 61,
+        "rank": 63,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-05-31T05:51:47.901Z"
+        "updatedAt": "2026-05-31T05:57:29.990Z"
       },
       "eventHistory": [
         {
@@ -122,10 +152,10 @@
           "playersLeft": 78,
           "currentDay": "1",
           "status": "active",
-          "rank": 61,
+          "rank": 63,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-05-31T05:51:47.901Z"
+          "updatedAt": "2026-05-31T05:57:29.990Z"
         }
       ]
     }
