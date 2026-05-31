@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T00:21:03.348Z",
+  "updatedAt": "2026-05-31T00:26:45.363Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -121,7 +121,7 @@
       "slug": "event-6-seven-card-stud",
       "name": "Event #6: $1,500 Seven Card Stud",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-6-seven-card-stud/chips.htm",
-      "playersLeft": 3,
+      "playersLeft": 2,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -139,7 +139,7 @@
       "slug": "event-8-badugi",
       "name": "Event #8: $1,500 Badugi",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-8-badugi/chips.htm",
-      "playersLeft": 44,
+      "playersLeft": 42,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
