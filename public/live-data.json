@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T05:06:09.513Z",
+  "updatedAt": "2026-05-31T05:11:51.105Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -103,13 +103,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 88,
+        "playersLeft": 83,
         "currentDay": "1",
         "status": "active",
-        "rank": 62,
+        "rank": 60,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-05-31T05:06:09.512Z"
+        "updatedAt": "2026-05-31T05:11:51.104Z"
       },
       "eventHistory": [
         {
@@ -119,13 +119,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 88,
+          "playersLeft": 83,
           "currentDay": "1",
           "status": "active",
-          "rank": 62,
+          "rank": 60,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-05-31T05:06:09.512Z"
+          "updatedAt": "2026-05-31T05:11:51.104Z"
         }
       ]
     }
@@ -162,7 +162,7 @@
       "slug": "event-7-heads-up-championship",
       "name": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
-      "playersLeft": 37,
+      "playersLeft": 36,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
@@ -180,7 +180,7 @@
       "slug": "event-9-omaha-hi-lo-8-or-better-championship",
       "name": "Event #9: $10,000 Omaha Hi-Lo 8 or Better Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-9-omaha-hi-lo-8-or-better-championship/chips.htm",
-      "playersLeft": 88,
+      "playersLeft": 83,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
