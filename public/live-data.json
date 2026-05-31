@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-05-31T03:40:37.190Z",
+  "updatedAt": "2026-05-31T03:46:19.272Z",
   "teamScore": 0,
   "completedEvents": [
     "event-3-industry-employees",
@@ -96,8 +96,38 @@
       "pts2026": 0,
       "salary": 0,
       "cashes2026": 0,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-9-omaha-hi-lo-8-or-better-championship",
+        "eventName": "Event #9: $10,000 Omaha Hi-Lo 8 or Better Championship",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-9-omaha-hi-lo-8-or-better-championship/chips.htm",
+        "buyin": 10000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 100,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 53,
+        "chips": 60000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-05-31T03:46:19.271Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-9-omaha-hi-lo-8-or-better-championship",
+          "eventName": "Event #9: $10,000 Omaha Hi-Lo 8 or Better Championship",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-9-omaha-hi-lo-8-or-better-championship/chips.htm",
+          "buyin": 10000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 100,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 53,
+          "chips": 60000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-05-31T03:46:19.271Z"
+        }
+      ]
     }
   ],
   "activeEvents": [
@@ -150,7 +180,7 @@
       "slug": "event-9-omaha-hi-lo-8-or-better-championship",
       "name": "Event #9: $10,000 Omaha Hi-Lo 8 or Better Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-9-omaha-hi-lo-8-or-better-championship/chips.htm",
-      "playersLeft": 95,
+      "playersLeft": 100,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
