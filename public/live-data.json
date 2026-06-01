@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T23:04:47.242Z",
+  "updatedAt": "2026-06-01T23:10:55.339Z",
   "teamScore": 25,
   "completedEvents": [
     "event-3-industry-employees",
@@ -80,7 +80,7 @@
         "rank": 31,
         "chips": 244000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-01T23:04:47.241Z"
+        "updatedAt": "2026-06-01T23:10:55.338Z"
       },
       "eventHistory": [
         {
@@ -96,7 +96,7 @@
           "rank": 31,
           "chips": 244000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-01T23:04:47.241Z"
+          "updatedAt": "2026-06-01T23:10:55.338Z"
         }
       ]
     },
@@ -163,7 +163,7 @@
       "slug": "event-19-600-deepstack",
       "name": "Event #10: $600 Deepstack No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-600-deepstack/chips.htm",
-      "playersLeft": 39,
+      "playersLeft": 33,
       "totalEntries": null,
       "buyin": 600,
       "completed": false
@@ -172,7 +172,7 @@
       "slug": "event-11-ggmillion-high-roller",
       "name": "Event #11: $10,000 GGMillion$ High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-11-ggmillion-high-roller/chips.htm",
-      "playersLeft": 156,
+      "playersLeft": 167,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
