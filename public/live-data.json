@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-01T21:20:17.820Z",
+  "updatedAt": "2026-06-01T21:26:26.951Z",
   "teamScore": 25,
   "completedEvents": [
     "event-3-industry-employees",
@@ -74,13 +74,13 @@
         "buyin": 1500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 76,
+        "playersLeft": 62,
         "currentDay": "2",
         "status": "active",
-        "rank": 53,
+        "rank": 52,
         "chips": 103000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-01T21:20:17.818Z"
+        "updatedAt": "2026-06-01T21:26:26.951Z"
       },
       "eventHistory": [
         {
@@ -90,13 +90,13 @@
           "buyin": 1500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 76,
+          "playersLeft": 62,
           "currentDay": "2",
           "status": "active",
-          "rank": 53,
+          "rank": 52,
           "chips": 103000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-01T21:20:17.818Z"
+          "updatedAt": "2026-06-01T21:26:26.951Z"
         }
       ]
     },
@@ -163,7 +163,7 @@
       "slug": "event-19-600-deepstack",
       "name": "Event #10: $600 Deepstack No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-600-deepstack/chips.htm",
-      "playersLeft": 84,
+      "playersLeft": 67,
       "totalEntries": null,
       "buyin": 600,
       "completed": false
@@ -181,7 +181,7 @@
       "slug": "event-12-no-limit-2-7-lowball-draw",
       "name": "Event #12: $1,500 No-Limit 2-7 Lowball Draw",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-12-no-limit-2-7-lowball-draw/chips.htm",
-      "playersLeft": 76,
+      "playersLeft": 62,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
