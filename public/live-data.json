@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T01:54:24.780Z",
+  "updatedAt": "2026-06-02T02:00:30.264Z",
   "teamScore": 25,
   "completedEvents": [
     "event-3-industry-employees",
@@ -74,13 +74,13 @@
         "buyin": 1500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 18,
+        "playersLeft": 16,
         "currentDay": "2",
         "status": "active",
-        "rank": 17,
+        "rank": 16,
         "chips": 285000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T01:54:24.779Z"
+        "updatedAt": "2026-06-02T02:00:30.263Z"
       },
       "eventHistory": [
         {
@@ -90,13 +90,13 @@
           "buyin": 1500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 18,
+          "playersLeft": 16,
           "currentDay": "2",
           "status": "active",
-          "rank": 17,
+          "rank": 16,
           "chips": 285000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T01:54:24.779Z"
+          "updatedAt": "2026-06-02T02:00:30.263Z"
         }
       ]
     },
@@ -154,7 +154,7 @@
       "slug": "event-9-omaha-hi-lo-8-or-better-championship",
       "name": "Event #9: $10,000 Omaha Hi-Lo 8 or Better Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-9-omaha-hi-lo-8-or-better-championship/chips.htm",
-      "playersLeft": 5,
+      "playersLeft": 3,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
@@ -181,7 +181,7 @@
       "slug": "event-12-no-limit-2-7-lowball-draw",
       "name": "Event #12: $1,500 No-Limit 2-7 Lowball Draw",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-12-no-limit-2-7-lowball-draw/chips.htm",
-      "playersLeft": 18,
+      "playersLeft": 16,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
