@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T01:18:01.203Z",
+  "updatedAt": "2026-06-02T01:24:07.340Z",
   "teamScore": 25,
   "completedEvents": [
     "event-3-industry-employees",
@@ -74,13 +74,13 @@
         "buyin": 1500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 23,
+        "playersLeft": 21,
         "currentDay": "2",
         "status": "active",
-        "rank": 20,
+        "rank": 19,
         "chips": 285000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T01:18:01.202Z"
+        "updatedAt": "2026-06-02T01:24:07.339Z"
       },
       "eventHistory": [
         {
@@ -90,13 +90,13 @@
           "buyin": 1500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 23,
+          "playersLeft": 21,
           "currentDay": "2",
           "status": "active",
-          "rank": 20,
+          "rank": 19,
           "chips": 285000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T01:18:01.202Z"
+          "updatedAt": "2026-06-02T01:24:07.339Z"
         }
       ]
     },
@@ -181,7 +181,7 @@
       "slug": "event-12-no-limit-2-7-lowball-draw",
       "name": "Event #12: $1,500 No-Limit 2-7 Lowball Draw",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-12-no-limit-2-7-lowball-draw/chips.htm",
-      "playersLeft": 23,
+      "playersLeft": 21,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
