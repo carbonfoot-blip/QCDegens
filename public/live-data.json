@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-02T23:35:28.453Z",
-  "teamScore": 36,
+  "updatedAt": "2026-06-02T23:41:43.236Z",
+  "teamScore": 37,
   "completedEvents": [
     "event-3-industry-employees",
     "event-19-600-deepstack",
@@ -32,7 +32,7 @@
         "rank": 83,
         "chips": 225000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T23:35:28.451Z"
+        "updatedAt": "2026-06-02T23:41:43.231Z"
       },
       "eventHistory": [
         {
@@ -48,7 +48,7 @@
           "rank": 83,
           "chips": 225000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T23:35:28.451Z"
+          "updatedAt": "2026-06-02T23:41:43.231Z"
         }
       ]
     },
@@ -92,7 +92,7 @@
         "rank": 39,
         "chips": 212000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T23:35:28.452Z"
+        "updatedAt": "2026-06-02T23:41:43.232Z"
       },
       "eventHistory": [
         {
@@ -108,7 +108,7 @@
           "rank": 39,
           "chips": 212000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T23:35:28.452Z"
+          "updatedAt": "2026-06-02T23:41:43.232Z"
         }
       ]
     },
@@ -126,9 +126,9 @@
       "name": "Shawn Buchanan",
       "slug": "shawn-buchanan",
       "isBonus": false,
-      "pts2026": 12,
+      "pts2026": 13,
       "salary": 2,
-      "cashes2026": 2,
+      "cashes2026": 3,
       "liveStatus": {
         "eventSlug": "event-14-mixed-pot-limit-omaha-hi-lo",
         "eventName": "Event #14: $1,500 Mixed: Pot-Limit Omaha Hi-Lo 8 or Better, Omaha Hi-Lo 8 or Better, \"Big O\"",
@@ -142,7 +142,7 @@
         "rank": 107,
         "chips": 122000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T23:35:28.453Z"
+        "updatedAt": "2026-06-02T23:41:43.235Z"
       },
       "eventHistory": [
         {
@@ -158,7 +158,7 @@
           "rank": 107,
           "chips": 122000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T23:35:28.453Z"
+          "updatedAt": "2026-06-02T23:41:43.235Z"
         }
       ]
     },
