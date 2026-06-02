@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T19:48:31.933Z",
+  "updatedAt": "2026-06-02T19:54:55.237Z",
   "teamScore": 36,
   "completedEvents": [
     "event-3-industry-employees",
@@ -29,10 +29,10 @@
         "playersLeft": 245,
         "currentDay": "2",
         "status": "active",
-        "rank": 124,
+        "rank": 123,
         "chips": 142500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T19:48:31.929Z"
+        "updatedAt": "2026-06-02T19:54:55.233Z"
       },
       "eventHistory": [
         {
@@ -45,10 +45,10 @@
           "playersLeft": 245,
           "currentDay": "2",
           "status": "active",
-          "rank": 124,
+          "rank": 123,
           "chips": 142500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T19:48:31.929Z"
+          "updatedAt": "2026-06-02T19:54:55.233Z"
         }
       ]
     },
@@ -92,7 +92,7 @@
         "rank": 34,
         "chips": 212000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T19:48:31.931Z"
+        "updatedAt": "2026-06-02T19:54:55.235Z"
       },
       "eventHistory": [
         {
@@ -108,7 +108,7 @@
           "rank": 34,
           "chips": 212000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T19:48:31.931Z"
+          "updatedAt": "2026-06-02T19:54:55.235Z"
         }
       ]
     },
@@ -142,7 +142,7 @@
         "rank": 118,
         "chips": 122000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T19:48:31.932Z"
+        "updatedAt": "2026-06-02T19:54:55.235Z"
       },
       "eventHistory": [
         {
@@ -158,7 +158,7 @@
           "rank": 118,
           "chips": 122000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T19:48:31.932Z"
+          "updatedAt": "2026-06-02T19:54:55.235Z"
         }
       ]
     },
@@ -234,7 +234,7 @@
       "slug": "event-15-deepstack",
       "name": "Event #15: $600 Deepstack Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-15-deepstack/chips.htm",
-      "playersLeft": 857,
+      "playersLeft": 1043,
       "totalEntries": null,
       "buyin": 600,
       "completed": false
