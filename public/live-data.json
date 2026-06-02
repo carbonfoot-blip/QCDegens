@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T23:29:15.670Z",
+  "updatedAt": "2026-06-02T23:35:28.453Z",
   "teamScore": 36,
   "completedEvents": [
     "event-3-industry-employees",
@@ -32,7 +32,7 @@
         "rank": 83,
         "chips": 225000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T23:29:15.667Z"
+        "updatedAt": "2026-06-02T23:35:28.451Z"
       },
       "eventHistory": [
         {
@@ -48,7 +48,7 @@
           "rank": 83,
           "chips": 225000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T23:29:15.667Z"
+          "updatedAt": "2026-06-02T23:35:28.451Z"
         }
       ]
     },
@@ -79,8 +79,38 @@
       "pts2026": 1,
       "salary": 27,
       "cashes2026": 1,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-14-mixed-pot-limit-omaha-hi-lo",
+        "eventName": "Event #14: $1,500 Mixed: Pot-Limit Omaha Hi-Lo 8 or Better, Omaha Hi-Lo 8 or Better, \"Big O\"",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-14-mixed-pot-limit-omaha-hi-lo/chips.htm",
+        "buyin": 1500,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 147,
+        "currentDay": "2",
+        "status": "active",
+        "rank": 39,
+        "chips": 212000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-02T23:35:28.452Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-14-mixed-pot-limit-omaha-hi-lo",
+          "eventName": "Event #14: $1,500 Mixed: Pot-Limit Omaha Hi-Lo 8 or Better, Omaha Hi-Lo 8 or Better, \"Big O\"",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-14-mixed-pot-limit-omaha-hi-lo/chips.htm",
+          "buyin": 1500,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 147,
+          "currentDay": "2",
+          "status": "active",
+          "rank": 39,
+          "chips": 212000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-02T23:35:28.452Z"
+        }
+      ]
     },
     {
       "name": "Ben Lamb",
@@ -99,8 +129,38 @@
       "pts2026": 12,
       "salary": 2,
       "cashes2026": 2,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-14-mixed-pot-limit-omaha-hi-lo",
+        "eventName": "Event #14: $1,500 Mixed: Pot-Limit Omaha Hi-Lo 8 or Better, Omaha Hi-Lo 8 or Better, \"Big O\"",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-14-mixed-pot-limit-omaha-hi-lo/chips.htm",
+        "buyin": 1500,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 147,
+        "currentDay": "2",
+        "status": "active",
+        "rank": 107,
+        "chips": 122000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-02T23:35:28.453Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-14-mixed-pot-limit-omaha-hi-lo",
+          "eventName": "Event #14: $1,500 Mixed: Pot-Limit Omaha Hi-Lo 8 or Better, Omaha Hi-Lo 8 or Better, \"Big O\"",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-14-mixed-pot-limit-omaha-hi-lo/chips.htm",
+          "buyin": 1500,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 147,
+          "currentDay": "2",
+          "status": "active",
+          "rank": 107,
+          "chips": 122000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-02T23:35:28.453Z"
+        }
+      ]
     },
     {
       "name": "Ryan Leng",
