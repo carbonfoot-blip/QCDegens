@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T02:00:30.264Z",
+  "updatedAt": "2026-06-02T02:06:35.011Z",
   "teamScore": 25,
   "completedEvents": [
     "event-3-industry-employees",
@@ -80,7 +80,7 @@
         "rank": 16,
         "chips": 285000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T02:00:30.263Z"
+        "updatedAt": "2026-06-02T02:06:35.010Z"
       },
       "eventHistory": [
         {
@@ -96,7 +96,7 @@
           "rank": 16,
           "chips": 285000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T02:00:30.263Z"
+          "updatedAt": "2026-06-02T02:06:35.010Z"
         }
       ]
     },
@@ -136,7 +136,7 @@
       "slug": "event-1-mini-mystery-millions",
       "name": "Event #1: $550 Mini Mystery Millions",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-1-mini-mystery-millions/chips.htm",
-      "playersLeft": 6,
+      "playersLeft": 5,
       "totalEntries": null,
       "buyin": 550,
       "completed": false
