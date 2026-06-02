@@ -1,9 +1,10 @@
 {
-  "updatedAt": "2026-06-02T07:22:57.656Z",
+  "updatedAt": "2026-06-02T07:28:59.700Z",
   "teamScore": 36,
   "completedEvents": [
     "event-3-industry-employees",
     "event-1-mini-mystery-millions",
+    "event-7-heads-up-championship",
     "event-9-omaha-hi-lo-8-or-better-championship",
     "event-19-600-deepstack",
     "event-8-badugi",
@@ -118,10 +119,10 @@
       "slug": "event-7-heads-up-championship",
       "name": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
-      "playersLeft": 2,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 25000,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-9-omaha-hi-lo-8-or-better-championship",
