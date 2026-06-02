@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T02:55:10.992Z",
+  "updatedAt": "2026-06-02T03:01:18.276Z",
   "teamScore": 36,
   "completedEvents": [
     "event-3-industry-employees",
@@ -67,38 +67,8 @@
       "pts2026": 12,
       "salary": 2,
       "cashes2026": 2,
-      "liveStatus": {
-        "eventSlug": "event-12-no-limit-2-7-lowball-draw",
-        "eventName": "Event #12: $1,500 No-Limit 2-7 Lowball Draw",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-12-no-limit-2-7-lowball-draw/chips.htm",
-        "buyin": 1500,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 13,
-        "currentDay": "2",
-        "status": "active",
-        "rank": 14,
-        "chips": 145000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T02:55:10.991Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-12-no-limit-2-7-lowball-draw",
-          "eventName": "Event #12: $1,500 No-Limit 2-7 Lowball Draw",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-12-no-limit-2-7-lowball-draw/chips.htm",
-          "buyin": 1500,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 13,
-          "currentDay": "2",
-          "status": "active",
-          "rank": 14,
-          "chips": 145000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T02:55:10.991Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Ryan Leng",
@@ -136,7 +106,7 @@
       "slug": "event-1-mini-mystery-millions",
       "name": "Event #1: $550 Mini Mystery Millions",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-1-mini-mystery-millions/chips.htm",
-      "playersLeft": 3,
+      "playersLeft": 2,
       "totalEntries": null,
       "buyin": 550,
       "completed": false
