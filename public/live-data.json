@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T07:53:13.333Z",
+  "updatedAt": "2026-06-02T07:59:17.337Z",
   "teamScore": 36,
   "completedEvents": [
     "event-3-industry-employees",
@@ -155,7 +155,7 @@
       "slug": "event-12-no-limit-2-7-lowball-draw",
       "name": "Event #12: $1,500 No-Limit 2-7 Lowball Draw",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-12-no-limit-2-7-lowball-draw/chips.htm",
-      "playersLeft": 7,
+      "playersLeft": 6,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
