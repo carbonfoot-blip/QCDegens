@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T05:15:26.051Z",
+  "updatedAt": "2026-06-02T05:21:35.076Z",
   "teamScore": 36,
   "completedEvents": [
     "event-3-industry-employees",
@@ -153,7 +153,7 @@
       "slug": "event-12-no-limit-2-7-lowball-draw",
       "name": "Event #12: $1,500 No-Limit 2-7 Lowball Draw",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-12-no-limit-2-7-lowball-draw/chips.htm",
-      "playersLeft": 11,
+      "playersLeft": 9,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -162,7 +162,7 @@
       "slug": "event-13-nlh",
       "name": "Event #13: $1,500 6-Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-13-nlh/chips.htm",
-      "playersLeft": 276,
+      "playersLeft": 240,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -171,7 +171,7 @@
       "slug": "event-14-mixed-pot-limit-omaha-hi-lo",
       "name": "Event #14: $1,500 Mixed: Pot-Limit Omaha Hi-Lo 8 or Better, Omaha Hi-Lo 8 or Better, \"Big O\"",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-14-mixed-pot-limit-omaha-hi-lo/chips.htm",
-      "playersLeft": 643,
+      "playersLeft": 487,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
