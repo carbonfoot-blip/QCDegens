@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T02:12:39.206Z",
+  "updatedAt": "2026-06-02T02:18:43.088Z",
   "teamScore": 25,
   "completedEvents": [
     "event-3-industry-employees",
@@ -80,7 +80,7 @@
         "rank": 16,
         "chips": 285000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T02:12:39.205Z"
+        "updatedAt": "2026-06-02T02:18:43.087Z"
       },
       "eventHistory": [
         {
@@ -96,7 +96,7 @@
           "rank": 16,
           "chips": 285000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T02:12:39.205Z"
+          "updatedAt": "2026-06-02T02:18:43.087Z"
         }
       ]
     },
@@ -136,7 +136,7 @@
       "slug": "event-1-mini-mystery-millions",
       "name": "Event #1: $550 Mini Mystery Millions",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-1-mini-mystery-millions/chips.htm",
-      "playersLeft": 5,
+      "playersLeft": 3,
       "totalEntries": null,
       "buyin": 550,
       "completed": false
@@ -163,7 +163,7 @@
       "slug": "event-19-600-deepstack",
       "name": "Event #10: $600 Deepstack No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-600-deepstack/chips.htm",
-      "playersLeft": 16,
+      "playersLeft": 14,
       "totalEntries": null,
       "buyin": 600,
       "completed": false
@@ -190,7 +190,7 @@
       "slug": "event-13-nlh",
       "name": "Event #13: $1,500 6-Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-13-nlh/chips.htm",
-      "playersLeft": 655,
+      "playersLeft": 361,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -199,7 +199,7 @@
       "slug": "event-14-mixed-pot-limit-omaha-hi-lo",
       "name": "Event #14: $1,500 Mixed: Pot-Limit Omaha Hi-Lo 8 or Better, Omaha Hi-Lo 8 or Better, \"Big O\"",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-14-mixed-pot-limit-omaha-hi-lo/chips.htm",
-      "playersLeft": 690,
+      "playersLeft": 700,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
