@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T03:56:23.107Z",
+  "updatedAt": "2026-06-02T04:02:31.813Z",
   "teamScore": 36,
   "completedEvents": [
     "event-3-industry-employees",
@@ -135,7 +135,7 @@
       "slug": "event-19-600-deepstack",
       "name": "Event #10: $600 Deepstack No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-600-deepstack/chips.htm",
-      "playersLeft": 10,
+      "playersLeft": 9,
       "totalEntries": null,
       "buyin": 600,
       "completed": false
@@ -171,7 +171,7 @@
       "slug": "event-14-mixed-pot-limit-omaha-hi-lo",
       "name": "Event #14: $1,500 Mixed: Pot-Limit Omaha Hi-Lo 8 or Better, Omaha Hi-Lo 8 or Better, \"Big O\"",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-14-mixed-pot-limit-omaha-hi-lo/chips.htm",
-      "playersLeft": 700,
+      "playersLeft": 643,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
