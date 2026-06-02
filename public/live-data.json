@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T02:43:04.829Z",
+  "updatedAt": "2026-06-02T02:49:08.339Z",
   "teamScore": 25,
   "completedEvents": [
     "event-3-industry-employees",
@@ -77,10 +77,10 @@
         "playersLeft": 15,
         "currentDay": "2",
         "status": "active",
-        "rank": 16,
+        "rank": 15,
         "chips": 285000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T02:43:04.828Z"
+        "updatedAt": "2026-06-02T02:49:08.338Z"
       },
       "eventHistory": [
         {
@@ -93,10 +93,10 @@
           "playersLeft": 15,
           "currentDay": "2",
           "status": "active",
-          "rank": 16,
+          "rank": 15,
           "chips": 285000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T02:43:04.828Z"
+          "updatedAt": "2026-06-02T02:49:08.338Z"
         }
       ]
     },
@@ -190,7 +190,7 @@
       "slug": "event-13-nlh",
       "name": "Event #13: $1,500 6-Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-13-nlh/chips.htm",
-      "playersLeft": 361,
+      "playersLeft": 276,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
