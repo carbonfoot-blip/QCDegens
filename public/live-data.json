@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T00:23:17.927Z",
+  "updatedAt": "2026-06-02T00:29:22.076Z",
   "teamScore": 25,
   "completedEvents": [
     "event-3-industry-employees",
@@ -80,7 +80,7 @@
         "rank": 25,
         "chips": 244000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T00:23:17.926Z"
+        "updatedAt": "2026-06-02T00:29:22.075Z"
       },
       "eventHistory": [
         {
@@ -96,7 +96,7 @@
           "rank": 25,
           "chips": 244000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T00:23:17.926Z"
+          "updatedAt": "2026-06-02T00:29:22.075Z"
         }
       ]
     },
@@ -163,7 +163,7 @@
       "slug": "event-19-600-deepstack",
       "name": "Event #10: $600 Deepstack No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-600-deepstack/chips.htm",
-      "playersLeft": 24,
+      "playersLeft": 21,
       "totalEntries": null,
       "buyin": 600,
       "completed": false
@@ -190,7 +190,7 @@
       "slug": "event-13-nlh",
       "name": "Event #13: $1,500 6-Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-13-nlh/chips.htm",
-      "playersLeft": 839,
+      "playersLeft": 655,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
