@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T06:58:45.764Z",
+  "updatedAt": "2026-06-02T07:04:50.789Z",
   "teamScore": 36,
   "completedEvents": [
     "event-3-industry-employees",
@@ -162,7 +162,7 @@
       "slug": "event-13-nlh",
       "name": "Event #13: $1,500 6-Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-13-nlh/chips.htm",
-      "playersLeft": 202,
+      "playersLeft": 145,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
