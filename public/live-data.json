@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T19:42:08.237Z",
+  "updatedAt": "2026-06-02T19:48:31.933Z",
   "teamScore": 36,
   "completedEvents": [
     "event-3-industry-employees",
@@ -29,10 +29,10 @@
         "playersLeft": 245,
         "currentDay": "2",
         "status": "active",
-        "rank": 117,
-        "chips": 154000,
+        "rank": 124,
+        "chips": 142500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T19:42:08.235Z"
+        "updatedAt": "2026-06-02T19:48:31.929Z"
       },
       "eventHistory": [
         {
@@ -45,10 +45,10 @@
           "playersLeft": 245,
           "currentDay": "2",
           "status": "active",
-          "rank": 117,
-          "chips": 154000,
+          "rank": 124,
+          "chips": 142500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T19:42:08.235Z"
+          "updatedAt": "2026-06-02T19:48:31.929Z"
         }
       ]
     },
@@ -92,7 +92,7 @@
         "rank": 34,
         "chips": 212000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T19:42:08.236Z"
+        "updatedAt": "2026-06-02T19:48:31.931Z"
       },
       "eventHistory": [
         {
@@ -108,7 +108,7 @@
           "rank": 34,
           "chips": 212000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T19:42:08.236Z"
+          "updatedAt": "2026-06-02T19:48:31.931Z"
         }
       ]
     },
@@ -142,7 +142,7 @@
         "rank": 118,
         "chips": 122000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T19:42:08.236Z"
+        "updatedAt": "2026-06-02T19:48:31.932Z"
       },
       "eventHistory": [
         {
@@ -158,7 +158,7 @@
           "rank": 118,
           "chips": 122000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T19:42:08.236Z"
+          "updatedAt": "2026-06-02T19:48:31.932Z"
         }
       ]
     },
@@ -216,7 +216,7 @@
       "slug": "event-13-nlh",
       "name": "Event #13: $1,500 6-Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-13-nlh/chips.htm",
-      "playersLeft": 83,
+      "playersLeft": 76,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
