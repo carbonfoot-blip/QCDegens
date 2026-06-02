@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T20:33:22.970Z",
+  "updatedAt": "2026-06-02T20:39:46.947Z",
   "teamScore": 36,
   "completedEvents": [
     "event-3-industry-employees",
@@ -29,10 +29,10 @@
         "playersLeft": 245,
         "currentDay": "2",
         "status": "active",
-        "rank": 121,
+        "rank": 120,
         "chips": 142500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T20:33:22.967Z"
+        "updatedAt": "2026-06-02T20:39:46.944Z"
       },
       "eventHistory": [
         {
@@ -45,10 +45,10 @@
           "playersLeft": 245,
           "currentDay": "2",
           "status": "active",
-          "rank": 121,
+          "rank": 120,
           "chips": 142500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T20:33:22.967Z"
+          "updatedAt": "2026-06-02T20:39:46.944Z"
         }
       ]
     },
@@ -92,7 +92,7 @@
         "rank": 34,
         "chips": 212000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T20:33:22.969Z"
+        "updatedAt": "2026-06-02T20:39:46.945Z"
       },
       "eventHistory": [
         {
@@ -108,7 +108,7 @@
           "rank": 34,
           "chips": 212000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T20:33:22.969Z"
+          "updatedAt": "2026-06-02T20:39:46.945Z"
         }
       ]
     },
@@ -142,7 +142,7 @@
         "rank": 119,
         "chips": 122000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T20:33:22.970Z"
+        "updatedAt": "2026-06-02T20:39:46.946Z"
       },
       "eventHistory": [
         {
@@ -158,7 +158,7 @@
           "rank": 119,
           "chips": 122000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T20:33:22.970Z"
+          "updatedAt": "2026-06-02T20:39:46.946Z"
         }
       ]
     },
@@ -207,7 +207,7 @@
       "slug": "event-12-no-limit-2-7-lowball-draw",
       "name": "Event #12: $1,500 No-Limit 2-7 Lowball Draw",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-12-no-limit-2-7-lowball-draw/chips.htm",
-      "playersLeft": 6,
+      "playersLeft": 5,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -216,7 +216,7 @@
       "slug": "event-13-nlh",
       "name": "Event #13: $1,500 6-Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-13-nlh/chips.htm",
-      "playersLeft": 76,
+      "playersLeft": 72,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
