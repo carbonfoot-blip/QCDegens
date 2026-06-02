@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T10:13:17.941Z",
+  "updatedAt": "2026-06-02T10:19:24.630Z",
   "teamScore": 36,
   "completedEvents": [
     "event-3-industry-employees",
@@ -173,7 +173,7 @@
       "slug": "event-14-mixed-pot-limit-omaha-hi-lo",
       "name": "Event #14: $1,500 Mixed: Pot-Limit Omaha Hi-Lo 8 or Better, Omaha Hi-Lo 8 or Better, \"Big O\"",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-14-mixed-pot-limit-omaha-hi-lo/chips.htm",
-      "playersLeft": 274,
+      "playersLeft": 273,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
