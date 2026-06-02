@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T04:51:07.063Z",
+  "updatedAt": "2026-06-02T04:57:11.963Z",
   "teamScore": 36,
   "completedEvents": [
     "event-3-industry-employees",
@@ -135,7 +135,7 @@
       "slug": "event-19-600-deepstack",
       "name": "Event #10: $600 Deepstack No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-600-deepstack/chips.htm",
-      "playersLeft": 7,
+      "playersLeft": 6,
       "totalEntries": null,
       "buyin": 600,
       "completed": false
