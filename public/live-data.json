@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T21:24:24.838Z",
+  "updatedAt": "2026-06-02T21:30:48.285Z",
   "teamScore": 36,
   "completedEvents": [
     "event-3-industry-employees",
@@ -26,13 +26,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 245,
+        "playersLeft": 312,
         "currentDay": "2",
         "status": "active",
-        "rank": 63,
+        "rank": 66,
         "chips": 245000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T21:24:24.835Z"
+        "updatedAt": "2026-06-02T21:30:48.282Z"
       },
       "eventHistory": [
         {
@@ -42,13 +42,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 245,
+          "playersLeft": 312,
           "currentDay": "2",
           "status": "active",
-          "rank": 63,
+          "rank": 66,
           "chips": 245000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T21:24:24.835Z"
+          "updatedAt": "2026-06-02T21:30:48.282Z"
         }
       ]
     },
@@ -92,7 +92,7 @@
         "rank": 37,
         "chips": 212000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T21:24:24.837Z"
+        "updatedAt": "2026-06-02T21:30:48.284Z"
       },
       "eventHistory": [
         {
@@ -108,7 +108,7 @@
           "rank": 37,
           "chips": 212000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T21:24:24.837Z"
+          "updatedAt": "2026-06-02T21:30:48.284Z"
         }
       ]
     },
@@ -139,10 +139,10 @@
         "playersLeft": 221,
         "currentDay": "2",
         "status": "active",
-        "rank": 120,
+        "rank": 119,
         "chips": 122000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T21:24:24.837Z"
+        "updatedAt": "2026-06-02T21:30:48.285Z"
       },
       "eventHistory": [
         {
@@ -155,10 +155,10 @@
           "playersLeft": 221,
           "currentDay": "2",
           "status": "active",
-          "rank": 120,
+          "rank": 119,
           "chips": 122000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T21:24:24.837Z"
+          "updatedAt": "2026-06-02T21:30:48.285Z"
         }
       ]
     },
@@ -198,7 +198,7 @@
       "slug": "event-11-ggmillion-high-roller",
       "name": "Event #11: $10,000 GGMillion$ High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-11-ggmillion-high-roller/chips.htm",
-      "playersLeft": 245,
+      "playersLeft": 312,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
