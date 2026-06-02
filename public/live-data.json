@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-02T06:22:19.713Z",
+  "updatedAt": "2026-06-02T06:28:21.681Z",
   "teamScore": 36,
   "completedEvents": [
     "event-3-industry-employees",
@@ -117,9 +117,9 @@
       "slug": "event-7-heads-up-championship",
       "name": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
-      "playersLeft": null,
+      "playersLeft": 2,
       "totalEntries": null,
-      "buyin": null,
+      "buyin": 25000,
       "completed": false
     },
     {
@@ -171,7 +171,7 @@
       "slug": "event-14-mixed-pot-limit-omaha-hi-lo",
       "name": "Event #14: $1,500 Mixed: Pot-Limit Omaha Hi-Lo 8 or Better, Omaha Hi-Lo 8 or Better, \"Big O\"",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-14-mixed-pot-limit-omaha-hi-lo/chips.htm",
-      "playersLeft": 425,
+      "playersLeft": 408,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
