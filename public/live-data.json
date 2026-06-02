@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-02T02:49:08.339Z",
-  "teamScore": 25,
+  "updatedAt": "2026-06-02T02:55:10.992Z",
+  "teamScore": 36,
   "completedEvents": [
     "event-3-industry-employees",
     "event-8-badugi",
@@ -64,9 +64,9 @@
       "name": "Shawn Buchanan",
       "slug": "shawn-buchanan",
       "isBonus": false,
-      "pts2026": 1,
+      "pts2026": 12,
       "salary": 2,
-      "cashes2026": 1,
+      "cashes2026": 2,
       "liveStatus": {
         "eventSlug": "event-12-no-limit-2-7-lowball-draw",
         "eventName": "Event #12: $1,500 No-Limit 2-7 Lowball Draw",
@@ -74,13 +74,13 @@
         "buyin": 1500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 15,
+        "playersLeft": 13,
         "currentDay": "2",
         "status": "active",
-        "rank": 15,
-        "chips": 285000,
+        "rank": 14,
+        "chips": 145000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-02T02:49:08.338Z"
+        "updatedAt": "2026-06-02T02:55:10.991Z"
       },
       "eventHistory": [
         {
@@ -90,13 +90,13 @@
           "buyin": 1500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 15,
+          "playersLeft": 13,
           "currentDay": "2",
           "status": "active",
-          "rank": 15,
-          "chips": 285000,
+          "rank": 14,
+          "chips": 145000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-02T02:49:08.338Z"
+          "updatedAt": "2026-06-02T02:55:10.991Z"
         }
       ]
     },
@@ -181,7 +181,7 @@
       "slug": "event-12-no-limit-2-7-lowball-draw",
       "name": "Event #12: $1,500 No-Limit 2-7 Lowball Draw",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-12-no-limit-2-7-lowball-draw/chips.htm",
-      "playersLeft": 15,
+      "playersLeft": 13,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
