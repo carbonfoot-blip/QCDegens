@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T20:54:45.161Z",
+  "updatedAt": "2026-06-03T21:01:25.343Z",
   "teamScore": 39,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 4,
         "chips": 300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T20:54:45.158Z"
+        "updatedAt": "2026-06-03T21:01:25.339Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 4,
           "chips": 300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T20:54:45.158Z"
+          "updatedAt": "2026-06-03T21:01:25.339Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 24,
         "chips": 145000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T20:54:45.158Z"
+        "updatedAt": "2026-06-03T21:01:25.339Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 24,
           "chips": 145000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T20:54:45.158Z"
+          "updatedAt": "2026-06-03T21:01:25.339Z"
         }
       ]
     },
@@ -115,13 +115,13 @@
         "buyin": 1700,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 340,
+        "playersLeft": 263,
         "currentDay": "2",
         "status": "active",
         "rank": 97,
         "chips": 292000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T20:54:45.160Z"
+        "updatedAt": "2026-06-03T21:01:25.341Z"
       },
       "eventHistory": [
         {
@@ -131,13 +131,13 @@
           "buyin": 1700,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 340,
+          "playersLeft": 263,
           "currentDay": "2",
           "status": "active",
           "rank": 97,
           "chips": 292000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T20:54:45.160Z"
+          "updatedAt": "2026-06-03T21:01:25.341Z"
         }
       ]
     },
@@ -233,7 +233,7 @@
       "slug": "event-16-us-circuit-championship",
       "name": "Event #16: $1,700 U.S. Circuit Championship No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-16-us-circuit-championship/chips.htm",
-      "playersLeft": 340,
+      "playersLeft": 263,
       "totalEntries": null,
       "buyin": 1700,
       "completed": false
