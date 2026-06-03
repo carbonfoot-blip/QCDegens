@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T03:02:18.086Z",
+  "updatedAt": "2026-06-03T03:08:33.170Z",
   "teamScore": 38,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 7,
         "chips": 130000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T03:02:18.083Z"
+        "updatedAt": "2026-06-03T03:08:33.167Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 7,
           "chips": 130000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T03:02:18.083Z"
+          "updatedAt": "2026-06-03T03:08:33.167Z"
         }
       ]
     },
@@ -73,7 +73,7 @@
         "rank": 4,
         "chips": 138000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T03:02:18.084Z"
+        "updatedAt": "2026-06-03T03:08:33.168Z"
       },
       "eventHistory": [
         {
@@ -89,7 +89,7 @@
           "rank": 4,
           "chips": 138000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T03:02:18.084Z"
+          "updatedAt": "2026-06-03T03:08:33.168Z"
         }
       ]
     },
@@ -169,7 +169,7 @@
       "slug": "event-11-ggmillion-high-roller",
       "name": "Event #11: $10,000 GGMillion$ High Roller No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-11-ggmillion-high-roller/chips.htm",
-      "playersLeft": 133,
+      "playersLeft": 132,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
@@ -187,7 +187,7 @@
       "slug": "event-13-nlh",
       "name": "Event #13: $1,500 6-Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-13-nlh/chips.htm",
-      "playersLeft": 20,
+      "playersLeft": 19,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
