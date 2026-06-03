@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T21:20:33.217Z",
+  "updatedAt": "2026-06-03T21:26:57.430Z",
   "teamScore": 39,
   "completedEvents": [
     "event-3-industry-employees",
@@ -28,10 +28,10 @@
         "playersLeft": 90,
         "currentDay": "2",
         "status": "active",
-        "rank": 4,
-        "chips": 300000,
+        "rank": 6,
+        "chips": 310000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T21:20:33.213Z"
+        "updatedAt": "2026-06-03T21:26:57.427Z"
       },
       "eventHistory": [
         {
@@ -44,10 +44,10 @@
           "playersLeft": 90,
           "currentDay": "2",
           "status": "active",
-          "rank": 4,
-          "chips": 300000,
+          "rank": 6,
+          "chips": 310000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T21:20:33.213Z"
+          "updatedAt": "2026-06-03T21:26:57.427Z"
         }
       ]
     },
@@ -68,10 +68,10 @@
         "playersLeft": 90,
         "currentDay": "2",
         "status": "active",
-        "rank": 23,
-        "chips": 145000,
+        "rank": 16,
+        "chips": 200000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T21:20:33.214Z"
+        "updatedAt": "2026-06-03T21:26:57.428Z"
       },
       "eventHistory": [
         {
@@ -84,10 +84,10 @@
           "playersLeft": 90,
           "currentDay": "2",
           "status": "active",
-          "rank": 23,
-          "chips": 145000,
+          "rank": 16,
+          "chips": 200000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T21:20:33.214Z"
+          "updatedAt": "2026-06-03T21:26:57.428Z"
         }
       ]
     },
@@ -121,7 +121,7 @@
         "rank": 96,
         "chips": 292000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T21:20:33.216Z"
+        "updatedAt": "2026-06-03T21:26:57.429Z"
       },
       "eventHistory": [
         {
@@ -137,7 +137,7 @@
           "rank": 96,
           "chips": 292000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T21:20:33.216Z"
+          "updatedAt": "2026-06-03T21:26:57.429Z"
         }
       ]
     },
