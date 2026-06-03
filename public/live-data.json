@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T01:21:40.975Z",
+  "updatedAt": "2026-06-03T01:27:56.111Z",
   "teamScore": 38,
   "completedEvents": [
     "event-3-industry-employees",
@@ -43,7 +43,7 @@
         "rank": 28,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T01:21:40.973Z"
+        "updatedAt": "2026-06-03T01:27:56.109Z"
       },
       "eventHistory": [
         {
@@ -59,7 +59,7 @@
           "rank": 28,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T01:21:40.973Z"
+          "updatedAt": "2026-06-03T01:27:56.109Z"
         }
       ]
     },
@@ -80,38 +80,8 @@
       "pts2026": 2,
       "salary": 27,
       "cashes2026": 2,
-      "liveStatus": {
-        "eventSlug": "event-14-mixed-pot-limit-omaha-hi-lo",
-        "eventName": "Event #14: $1,500 Mixed: Pot-Limit Omaha Hi-Lo 8 or Better, Omaha Hi-Lo 8 or Better, \"Big O\"",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-14-mixed-pot-limit-omaha-hi-lo/chips.htm",
-        "buyin": 1500,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 98,
-        "currentDay": "2",
-        "status": "active",
-        "rank": 28,
-        "chips": 290000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T01:21:40.974Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-14-mixed-pot-limit-omaha-hi-lo",
-          "eventName": "Event #14: $1,500 Mixed: Pot-Limit Omaha Hi-Lo 8 or Better, Omaha Hi-Lo 8 or Better, \"Big O\"",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-14-mixed-pot-limit-omaha-hi-lo/chips.htm",
-          "buyin": 1500,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 98,
-          "currentDay": "2",
-          "status": "active",
-          "rank": 28,
-          "chips": 290000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T01:21:40.974Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Ben Lamb",
@@ -205,7 +175,7 @@
       "slug": "event-15-deepstack",
       "name": "Event #15: $600 Deepstack Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-15-deepstack/chips.htm",
-      "playersLeft": 738,
+      "playersLeft": 437,
       "totalEntries": null,
       "buyin": 600,
       "completed": false
@@ -214,7 +184,7 @@
       "slug": "event-16-us-circuit-championship",
       "name": "Event #16: $1,700 U.S. Circuit Championship No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-16-us-circuit-championship/chips.htm",
-      "playersLeft": 896,
+      "playersLeft": 886,
       "totalEntries": null,
       "buyin": 1700,
       "completed": false
