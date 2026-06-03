@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T08:20:22.429Z",
+  "updatedAt": "2026-06-03T08:26:41.129Z",
   "teamScore": 38,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 3,
         "chips": 311000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T08:20:22.427Z"
+        "updatedAt": "2026-06-03T08:26:41.127Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 3,
           "chips": 311000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T08:20:22.427Z"
+          "updatedAt": "2026-06-03T08:26:41.127Z"
         }
       ]
     },
@@ -73,7 +73,7 @@
         "rank": 12,
         "chips": 202000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T08:20:22.427Z"
+        "updatedAt": "2026-06-03T08:26:41.127Z"
       },
       "eventHistory": [
         {
@@ -89,7 +89,7 @@
           "rank": 12,
           "chips": 202000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T08:20:22.427Z"
+          "updatedAt": "2026-06-03T08:26:41.127Z"
         }
       ]
     },
@@ -110,8 +110,38 @@
       "pts2026": 2,
       "salary": 27,
       "cashes2026": 2,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-16-us-circuit-championship",
+        "eventName": "Event #16: $1,700 U.S. Circuit Championship No-Limit Holdem",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-16-us-circuit-championship/chips.htm",
+        "buyin": 1700,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 381,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 92,
+        "chips": 292000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-03T08:26:41.128Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-16-us-circuit-championship",
+          "eventName": "Event #16: $1,700 U.S. Circuit Championship No-Limit Holdem",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-16-us-circuit-championship/chips.htm",
+          "buyin": 1700,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 381,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 92,
+          "chips": 292000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-03T08:26:41.128Z"
+        }
+      ]
     },
     {
       "name": "Ben Lamb",
@@ -163,7 +193,7 @@
         "rank": 70,
         "chips": 505000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T08:20:22.429Z"
+        "updatedAt": "2026-06-03T08:26:41.129Z"
       },
       "eventHistory": [
         {
@@ -179,7 +209,7 @@
           "rank": 70,
           "chips": 505000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T08:20:22.429Z"
+          "updatedAt": "2026-06-03T08:26:41.129Z"
         }
       ]
     },
