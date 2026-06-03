@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T22:12:23.688Z",
+  "updatedAt": "2026-06-03T22:18:47.208Z",
   "teamScore": 39,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 7,
         "chips": 310000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T22:12:23.685Z"
+        "updatedAt": "2026-06-03T22:18:47.205Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 7,
           "chips": 310000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T22:12:23.685Z"
+          "updatedAt": "2026-06-03T22:18:47.205Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 8,
         "chips": 280000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T22:12:23.685Z"
+        "updatedAt": "2026-06-03T22:18:47.205Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 8,
           "chips": 280000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T22:12:23.685Z"
+          "updatedAt": "2026-06-03T22:18:47.205Z"
         }
       ]
     },
@@ -121,7 +121,7 @@
         "rank": 93,
         "chips": 292000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T22:12:23.686Z"
+        "updatedAt": "2026-06-03T22:18:47.206Z"
       },
       "eventHistory": [
         {
@@ -137,7 +137,7 @@
           "rank": 93,
           "chips": 292000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T22:12:23.686Z"
+          "updatedAt": "2026-06-03T22:18:47.206Z"
         }
       ]
     },
@@ -206,7 +206,7 @@
       "slug": "event-13-nlh",
       "name": "Event #13: $1,500 6-Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-13-nlh/chips.htm",
-      "playersLeft": 6,
+      "playersLeft": 5,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -224,7 +224,7 @@
       "slug": "event-15-deepstack",
       "name": "Event #15: $600 Deepstack Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-15-deepstack/chips.htm",
-      "playersLeft": 29,
+      "playersLeft": 23,
       "totalEntries": null,
       "buyin": 600,
       "completed": false
