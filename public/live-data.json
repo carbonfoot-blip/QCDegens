@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T05:13:44.448Z",
+  "updatedAt": "2026-06-03T05:19:58.764Z",
   "teamScore": 38,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,10 +30,10 @@
         "playersLeft": 74,
         "currentDay": "1",
         "status": "active",
-        "rank": 6,
+        "rank": 5,
         "chips": 159000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T05:13:44.445Z"
+        "updatedAt": "2026-06-03T05:19:58.761Z"
       },
       "eventHistory": [
         {
@@ -46,10 +46,10 @@
           "playersLeft": 74,
           "currentDay": "1",
           "status": "active",
-          "rank": 6,
+          "rank": 5,
           "chips": 159000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T05:13:44.445Z"
+          "updatedAt": "2026-06-03T05:19:58.761Z"
         }
       ]
     },
@@ -70,10 +70,10 @@
         "playersLeft": 74,
         "currentDay": "1",
         "status": "active",
-        "rank": 10,
+        "rank": 11,
         "chips": 140000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T05:13:44.445Z"
+        "updatedAt": "2026-06-03T05:19:58.761Z"
       },
       "eventHistory": [
         {
@@ -86,10 +86,10 @@
           "playersLeft": 74,
           "currentDay": "1",
           "status": "active",
-          "rank": 10,
+          "rank": 11,
           "chips": 140000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T05:13:44.445Z"
+          "updatedAt": "2026-06-03T05:19:58.761Z"
         }
       ]
     },
@@ -187,7 +187,7 @@
       "slug": "event-13-nlh",
       "name": "Event #13: $1,500 6-Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-13-nlh/chips.htm",
-      "playersLeft": 13,
+      "playersLeft": 12,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -205,7 +205,7 @@
       "slug": "event-15-deepstack",
       "name": "Event #15: $600 Deepstack Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-15-deepstack/chips.htm",
-      "playersLeft": 293,
+      "playersLeft": 189,
       "totalEntries": null,
       "buyin": 600,
       "completed": false
