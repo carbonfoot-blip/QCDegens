@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T16:31:43.353Z",
+  "updatedAt": "2026-06-03T16:38:17.050Z",
   "teamScore": 38,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 3,
         "chips": 311000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T16:31:43.350Z"
+        "updatedAt": "2026-06-03T16:38:17.046Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 3,
           "chips": 311000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T16:31:43.350Z"
+          "updatedAt": "2026-06-03T16:38:17.046Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 12,
         "chips": 202000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T16:31:43.350Z"
+        "updatedAt": "2026-06-03T16:38:17.047Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 12,
           "chips": 202000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T16:31:43.350Z"
+          "updatedAt": "2026-06-03T16:38:17.047Z"
         }
       ]
     },
@@ -121,7 +121,7 @@
         "rank": 92,
         "chips": 292000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T16:31:43.352Z"
+        "updatedAt": "2026-06-03T16:38:17.048Z"
       },
       "eventHistory": [
         {
@@ -137,7 +137,7 @@
           "rank": 92,
           "chips": 292000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T16:31:43.352Z"
+          "updatedAt": "2026-06-03T16:38:17.048Z"
         }
       ]
     },
@@ -191,7 +191,7 @@
         "rank": 70,
         "chips": 505000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T16:31:43.352Z"
+        "updatedAt": "2026-06-03T16:38:17.049Z"
       },
       "eventHistory": [
         {
@@ -207,7 +207,7 @@
           "rank": 70,
           "chips": 505000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T16:31:43.352Z"
+          "updatedAt": "2026-06-03T16:38:17.049Z"
         }
       ]
     },
@@ -231,15 +231,6 @@
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
-    },
-    {
-      "slug": "event-12-no-limit-2-7-lowball-draw",
-      "name": "Event #12: $1,500 No-Limit 2-7 Lowball Draw",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-12-no-limit-2-7-lowball-draw/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 1500,
-      "completed": true
     },
     {
       "slug": "event-13-nlh",
@@ -312,6 +303,15 @@
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
+    },
+    {
+      "slug": "event-12-no-limit-2-7-lowball-draw",
+      "name": "Event #12: $1,500 No-Limit 2-7 Lowball Draw",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-12-no-limit-2-7-lowball-draw/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": true
     },
     {
       "slug": "event-19-600-deepstack",
