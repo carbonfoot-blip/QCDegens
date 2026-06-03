@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T18:21:57.953Z",
+  "updatedAt": "2026-06-03T18:28:23.499Z",
   "teamScore": 38,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 3,
         "chips": 311000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T18:21:57.948Z"
+        "updatedAt": "2026-06-03T18:28:23.495Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 3,
           "chips": 311000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T18:21:57.948Z"
+          "updatedAt": "2026-06-03T18:28:23.495Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 12,
         "chips": 202000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T18:21:57.949Z"
+        "updatedAt": "2026-06-03T18:28:23.497Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 12,
           "chips": 202000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T18:21:57.949Z"
+          "updatedAt": "2026-06-03T18:28:23.497Z"
         }
       ]
     },
@@ -121,7 +121,7 @@
         "rank": 92,
         "chips": 292000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T18:21:57.950Z"
+        "updatedAt": "2026-06-03T18:28:23.497Z"
       },
       "eventHistory": [
         {
@@ -137,7 +137,7 @@
           "rank": 92,
           "chips": 292000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T18:21:57.950Z"
+          "updatedAt": "2026-06-03T18:28:23.497Z"
         }
       ]
     },
@@ -185,13 +185,13 @@
         "buyin": 600,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 117,
+        "playersLeft": 91,
         "currentDay": "2",
         "status": "active",
-        "rank": 70,
+        "rank": 63,
         "chips": 505000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T18:21:57.952Z"
+        "updatedAt": "2026-06-03T18:28:23.498Z"
       },
       "eventHistory": [
         {
@@ -201,13 +201,13 @@
           "buyin": 600,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 117,
+          "playersLeft": 91,
           "currentDay": "2",
           "status": "active",
-          "rank": 70,
+          "rank": 63,
           "chips": 505000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T18:21:57.952Z"
+          "updatedAt": "2026-06-03T18:28:23.498Z"
         }
       ]
     },
@@ -254,7 +254,7 @@
       "slug": "event-15-deepstack",
       "name": "Event #15: $600 Deepstack Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-15-deepstack/chips.htm",
-      "playersLeft": 117,
+      "playersLeft": 91,
       "totalEntries": null,
       "buyin": 600,
       "completed": false
