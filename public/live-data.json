@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T18:34:48.349Z",
+  "updatedAt": "2026-06-03T18:41:13.832Z",
   "teamScore": 38,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 3,
         "chips": 311000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T18:34:48.345Z"
+        "updatedAt": "2026-06-03T18:41:13.828Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 3,
           "chips": 311000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T18:34:48.345Z"
+          "updatedAt": "2026-06-03T18:41:13.828Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 12,
         "chips": 202000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T18:34:48.346Z"
+        "updatedAt": "2026-06-03T18:41:13.829Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 12,
           "chips": 202000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T18:34:48.346Z"
+          "updatedAt": "2026-06-03T18:41:13.829Z"
         }
       ]
     },
@@ -121,7 +121,7 @@
         "rank": 92,
         "chips": 292000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T18:34:48.348Z"
+        "updatedAt": "2026-06-03T18:41:13.831Z"
       },
       "eventHistory": [
         {
@@ -137,7 +137,7 @@
           "rank": 92,
           "chips": 292000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T18:34:48.348Z"
+          "updatedAt": "2026-06-03T18:41:13.831Z"
         }
       ]
     },
@@ -188,10 +188,10 @@
         "playersLeft": 91,
         "currentDay": "2",
         "status": "active",
-        "rank": 63,
+        "rank": 64,
         "chips": 505000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T18:34:48.348Z"
+        "updatedAt": "2026-06-03T18:41:13.831Z"
       },
       "eventHistory": [
         {
@@ -204,10 +204,10 @@
           "playersLeft": 91,
           "currentDay": "2",
           "status": "active",
-          "rank": 63,
+          "rank": 64,
           "chips": 505000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T18:34:48.348Z"
+          "updatedAt": "2026-06-03T18:41:13.831Z"
         }
       ]
     },
