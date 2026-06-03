@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T04:11:11.439Z",
+  "updatedAt": "2026-06-03T04:17:24.565Z",
   "teamScore": 38,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,10 +30,10 @@
         "playersLeft": 76,
         "currentDay": "1",
         "status": "active",
-        "rank": 6,
-        "chips": 142400,
+        "rank": 4,
+        "chips": 159000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T04:11:11.436Z"
+        "updatedAt": "2026-06-03T04:17:24.563Z"
       },
       "eventHistory": [
         {
@@ -46,10 +46,10 @@
           "playersLeft": 76,
           "currentDay": "1",
           "status": "active",
-          "rank": 6,
-          "chips": 142400,
+          "rank": 4,
+          "chips": 159000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T04:11:11.436Z"
+          "updatedAt": "2026-06-03T04:17:24.563Z"
         }
       ]
     },
@@ -70,10 +70,10 @@
         "playersLeft": 76,
         "currentDay": "1",
         "status": "active",
-        "rank": 4,
+        "rank": 5,
         "chips": 150000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T04:11:11.437Z"
+        "updatedAt": "2026-06-03T04:17:24.563Z"
       },
       "eventHistory": [
         {
@@ -86,10 +86,10 @@
           "playersLeft": 76,
           "currentDay": "1",
           "status": "active",
-          "rank": 4,
+          "rank": 5,
           "chips": 150000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T04:11:11.437Z"
+          "updatedAt": "2026-06-03T04:17:24.563Z"
         }
       ]
     },
@@ -169,7 +169,7 @@
       "slug": "event-11-ggmillion-high-roller",
       "name": "Event #11: $10,000 GGMillion$ High Roller No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-11-ggmillion-high-roller/chips.htm",
-      "playersLeft": 115,
+      "playersLeft": 107,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
@@ -196,7 +196,7 @@
       "slug": "event-14-mixed-pot-limit-omaha-hi-lo",
       "name": "Event #14: $1,500 Mixed: Pot-Limit Omaha Hi-Lo 8 or Better, Omaha Hi-Lo 8 or Better, \"Big O\"",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-14-mixed-pot-limit-omaha-hi-lo/chips.htm",
-      "playersLeft": 68,
+      "playersLeft": 64,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
