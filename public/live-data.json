@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T02:24:17.784Z",
+  "updatedAt": "2026-06-03T02:30:35.717Z",
   "teamScore": 38,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 12,
         "chips": 100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T02:24:17.780Z"
+        "updatedAt": "2026-06-03T02:30:35.714Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 12,
           "chips": 100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T02:24:17.780Z"
+          "updatedAt": "2026-06-03T02:30:35.714Z"
         }
       ]
     },
@@ -70,10 +70,10 @@
         "playersLeft": 64,
         "currentDay": "1",
         "status": "active",
-        "rank": 30,
+        "rank": 31,
         "chips": 65000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T02:24:17.781Z"
+        "updatedAt": "2026-06-03T02:30:35.714Z"
       },
       "eventHistory": [
         {
@@ -86,10 +86,10 @@
           "playersLeft": 64,
           "currentDay": "1",
           "status": "active",
-          "rank": 30,
+          "rank": 31,
           "chips": 65000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T02:24:17.781Z"
+          "updatedAt": "2026-06-03T02:30:35.714Z"
         }
       ]
     },
@@ -205,7 +205,7 @@
       "slug": "event-15-deepstack",
       "name": "Event #15: $600 Deepstack Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-15-deepstack/chips.htm",
-      "playersLeft": 406,
+      "playersLeft": 337,
       "totalEntries": null,
       "buyin": 600,
       "completed": false
