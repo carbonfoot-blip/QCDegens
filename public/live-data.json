@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-03T05:32:29.357Z",
+  "updatedAt": "2026-06-03T05:38:47.517Z",
   "teamScore": 38,
   "completedEvents": [
     "event-3-industry-employees",
@@ -8,7 +8,6 @@
     "event-9-omaha-hi-lo-8-or-better-championship",
     "event-8-badugi",
     "event-7-heads-up-championship",
-    "event-6-seven-card-stud",
     "event-5-pot-limit-omaha",
     "event-4-omaha-hi-lo-8-or-better"
   ],
@@ -30,10 +29,10 @@
         "playersLeft": 74,
         "currentDay": "1",
         "status": "active",
-        "rank": 5,
+        "rank": 6,
         "chips": 159000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T05:32:29.354Z"
+        "updatedAt": "2026-06-03T05:38:47.514Z"
       },
       "eventHistory": [
         {
@@ -46,10 +45,10 @@
           "playersLeft": 74,
           "currentDay": "1",
           "status": "active",
-          "rank": 5,
+          "rank": 6,
           "chips": 159000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T05:32:29.354Z"
+          "updatedAt": "2026-06-03T05:38:47.514Z"
         }
       ]
     },
@@ -70,10 +69,10 @@
         "playersLeft": 74,
         "currentDay": "1",
         "status": "active",
-        "rank": 13,
-        "chips": 140000,
+        "rank": 2,
+        "chips": 195000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-03T05:32:29.355Z"
+        "updatedAt": "2026-06-03T05:38:47.514Z"
       },
       "eventHistory": [
         {
@@ -86,10 +85,10 @@
           "playersLeft": 74,
           "currentDay": "1",
           "status": "active",
-          "rank": 13,
-          "chips": 140000,
+          "rank": 2,
+          "chips": 195000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-03T05:32:29.355Z"
+          "updatedAt": "2026-06-03T05:38:47.514Z"
         }
       ]
     },
@@ -214,7 +213,7 @@
       "slug": "event-16-us-circuit-championship",
       "name": "Event #16: $1,700 U.S. Circuit Championship No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-16-us-circuit-championship/chips.htm",
-      "playersLeft": 728,
+      "playersLeft": 579,
       "totalEntries": null,
       "buyin": 1700,
       "completed": false
@@ -268,10 +267,10 @@
       "slug": "event-6-seven-card-stud",
       "name": "Event #6: $1,500 Seven Card Stud",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-6-seven-card-stud/chips.htm",
-      "playersLeft": 1,
+      "playersLeft": null,
       "totalEntries": null,
-      "buyin": 1500,
-      "completed": true
+      "buyin": null,
+      "completed": false
     },
     {
       "slug": "event-5-pot-limit-omaha",
