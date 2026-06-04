@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T01:53:37.839Z",
+  "updatedAt": "2026-06-04T01:59:54.113Z",
   "teamScore": 39,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 28,
         "chips": 175000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T01:53:37.837Z"
+        "updatedAt": "2026-06-04T01:59:54.111Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 28,
           "chips": 175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T01:53:37.837Z"
+          "updatedAt": "2026-06-04T01:59:54.111Z"
         }
       ]
     },
@@ -78,38 +78,8 @@
       "pts2026": 2,
       "salary": 27,
       "cashes2026": 2,
-      "liveStatus": {
-        "eventSlug": "event-16-us-circuit-championship",
-        "eventName": "Event #16: $1,700 U.S. Circuit Championship No-Limit Holdem",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-16-us-circuit-championship/chips.htm",
-        "buyin": 1700,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 76,
-        "currentDay": "2",
-        "status": "active",
-        "rank": 60,
-        "chips": 292000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T01:53:37.838Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-16-us-circuit-championship",
-          "eventName": "Event #16: $1,700 U.S. Circuit Championship No-Limit Holdem",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-16-us-circuit-championship/chips.htm",
-          "buyin": 1700,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 76,
-          "currentDay": "2",
-          "status": "active",
-          "rank": 60,
-          "chips": 292000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T01:53:37.838Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Ben Lamb",
@@ -203,7 +173,7 @@
       "slug": "event-16-us-circuit-championship",
       "name": "Event #16: $1,700 U.S. Circuit Championship No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-16-us-circuit-championship/chips.htm",
-      "playersLeft": 76,
+      "playersLeft": 74,
       "totalEntries": null,
       "buyin": 1700,
       "completed": false
