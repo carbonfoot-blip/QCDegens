@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T22:31:56.883Z",
+  "updatedAt": "2026-06-04T22:38:23.516Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,10 +30,10 @@
         "playersLeft": 123,
         "currentDay": "1b",
         "status": "active",
-        "rank": 33,
+        "rank": 35,
         "chips": 180000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T22:31:56.881Z"
+        "updatedAt": "2026-06-04T22:38:23.514Z"
       },
       "eventHistory": [
         {
@@ -46,10 +46,10 @@
           "playersLeft": 123,
           "currentDay": "1b",
           "status": "active",
-          "rank": 33,
+          "rank": 35,
           "chips": 180000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T22:31:56.881Z"
+          "updatedAt": "2026-06-04T22:38:23.514Z"
         }
       ]
     },
@@ -184,7 +184,7 @@
       "slug": "event-20-dealers-choice",
       "name": "Event #20: $1,500 Dealers Choice",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
-      "playersLeft": 80,
+      "playersLeft": 73,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
