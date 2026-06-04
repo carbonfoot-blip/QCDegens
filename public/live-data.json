@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-04T22:18:45.212Z",
-  "teamScore": 43,
+  "updatedAt": "2026-06-04T22:25:37.018Z",
+  "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
     "event-15-deepstack",
@@ -20,38 +20,8 @@
       "pts2026": 23,
       "salary": 116,
       "cashes2026": 2,
-      "liveStatus": {
-        "eventSlug": "event-19-high-roller",
-        "eventName": "Event #19: $25,000 High Roller No-Limit Hold’em",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-high-roller/chips.htm",
-        "buyin": 25000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 123,
-        "currentDay": "1b",
-        "status": "active",
-        "rank": 32,
-        "chips": 180000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T22:18:45.209Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-19-high-roller",
-          "eventName": "Event #19: $25,000 High Roller No-Limit Hold’em",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-high-roller/chips.htm",
-          "buyin": 25000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 123,
-          "currentDay": "1b",
-          "status": "active",
-          "rank": 32,
-          "chips": 180000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T22:18:45.209Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Calvin Anderson",
@@ -70,38 +40,8 @@
       "pts2026": 1,
       "salary": 3,
       "cashes2026": 1,
-      "liveStatus": {
-        "eventSlug": "event-20-dealers-choice",
-        "eventName": "Event #20: $1,500 Dealers Choice",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
-        "buyin": 1500,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 82,
-        "currentDay": "2",
-        "status": "active",
-        "rank": 39,
-        "chips": 165000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T22:18:45.211Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-20-dealers-choice",
-          "eventName": "Event #20: $1,500 Dealers Choice",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
-          "buyin": 1500,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 82,
-          "currentDay": "2",
-          "status": "active",
-          "rank": 39,
-          "chips": 165000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T22:18:45.211Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Matt Glantz",
@@ -127,41 +67,11 @@
       "name": "Shawn Buchanan",
       "slug": "shawn-buchanan",
       "isBonus": false,
-      "pts2026": 13,
+      "pts2026": 14,
       "salary": 2,
-      "cashes2026": 3,
-      "liveStatus": {
-        "eventSlug": "event-20-dealers-choice",
-        "eventName": "Event #20: $1,500 Dealers Choice",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
-        "buyin": 1500,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 82,
-        "currentDay": "2",
-        "status": "active",
-        "rank": 97,
-        "chips": 32000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T22:18:45.212Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-20-dealers-choice",
-          "eventName": "Event #20: $1,500 Dealers Choice",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
-          "buyin": 1500,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 82,
-          "currentDay": "2",
-          "status": "active",
-          "rank": 97,
-          "chips": 32000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T22:18:45.212Z"
-        }
-      ]
+      "cashes2026": 4,
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Ryan Leng",
@@ -244,7 +154,7 @@
       "slug": "event-20-dealers-choice",
       "name": "Event #20: $1,500 Dealers Choice",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
-      "playersLeft": 82,
+      "playersLeft": 80,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
