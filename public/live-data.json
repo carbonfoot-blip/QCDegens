@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T00:06:56.437Z",
+  "updatedAt": "2026-06-04T00:13:14.000Z",
   "teamScore": 39,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 45,
         "chips": 248000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T00:06:56.435Z"
+        "updatedAt": "2026-06-04T00:13:13.998Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 45,
           "chips": 248000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T00:06:56.435Z"
+          "updatedAt": "2026-06-04T00:13:13.998Z"
         }
       ]
     },
@@ -68,10 +68,10 @@
         "playersLeft": 40,
         "currentDay": "2",
         "status": "active",
-        "rank": 21,
+        "rank": 20,
         "chips": 280000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T00:06:56.435Z"
+        "updatedAt": "2026-06-04T00:13:13.998Z"
       },
       "eventHistory": [
         {
@@ -84,10 +84,10 @@
           "playersLeft": 40,
           "currentDay": "2",
           "status": "active",
-          "rank": 21,
+          "rank": 20,
           "chips": 280000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T00:06:56.435Z"
+          "updatedAt": "2026-06-04T00:13:13.998Z"
         }
       ]
     },
@@ -121,7 +121,7 @@
         "rank": 86,
         "chips": 292000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T00:06:56.436Z"
+        "updatedAt": "2026-06-04T00:13:13.999Z"
       },
       "eventHistory": [
         {
@@ -137,7 +137,7 @@
           "rank": 86,
           "chips": 292000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T00:06:56.436Z"
+          "updatedAt": "2026-06-04T00:13:13.999Z"
         }
       ]
     },
@@ -251,7 +251,7 @@
       "slug": "event-18-monster-stack",
       "name": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
-      "playersLeft": 779,
+      "playersLeft": 812,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
