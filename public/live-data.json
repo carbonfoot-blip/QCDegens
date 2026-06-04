@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T23:03:48.283Z",
+  "updatedAt": "2026-06-04T23:10:10.053Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -27,13 +27,13 @@
         "buyin": 25000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 123,
+        "playersLeft": 122,
         "currentDay": "1b",
         "status": "active",
-        "rank": 16,
+        "rank": 15,
         "chips": 243000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T23:03:48.281Z"
+        "updatedAt": "2026-06-04T23:10:10.051Z"
       },
       "eventHistory": [
         {
@@ -43,13 +43,13 @@
           "buyin": 25000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 123,
+          "playersLeft": 122,
           "currentDay": "1b",
           "status": "active",
-          "rank": 16,
+          "rank": 15,
           "chips": 243000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T23:03:48.281Z"
+          "updatedAt": "2026-06-04T23:10:10.051Z"
         }
       ]
     },
@@ -148,7 +148,7 @@
       "slug": "event-16-us-circuit-championship",
       "name": "Event #16: $1,700 U.S. Circuit Championship No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-16-us-circuit-championship/chips.htm",
-      "playersLeft": 12,
+      "playersLeft": 11,
       "totalEntries": null,
       "buyin": 1700,
       "completed": false
@@ -175,7 +175,7 @@
       "slug": "event-19-high-roller",
       "name": "Event #19: $25,000 High Roller No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-high-roller/chips.htm",
-      "playersLeft": 123,
+      "playersLeft": 122,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
