@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T21:46:50.857Z",
+  "updatedAt": "2026-06-04T21:53:12.405Z",
   "teamScore": 42,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,10 +30,10 @@
         "playersLeft": 113,
         "currentDay": "1b",
         "status": "active",
-        "rank": 41,
+        "rank": 42,
         "chips": 150000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T21:46:50.854Z"
+        "updatedAt": "2026-06-04T21:53:12.402Z"
       },
       "eventHistory": [
         {
@@ -46,10 +46,10 @@
           "playersLeft": 113,
           "currentDay": "1b",
           "status": "active",
-          "rank": 41,
+          "rank": 42,
           "chips": 150000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T21:46:50.854Z"
+          "updatedAt": "2026-06-04T21:53:12.402Z"
         }
       ]
     },
@@ -83,7 +83,7 @@
         "rank": 37,
         "chips": 165000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T21:46:50.855Z"
+        "updatedAt": "2026-06-04T21:53:12.403Z"
       },
       "eventHistory": [
         {
@@ -99,7 +99,7 @@
           "rank": 37,
           "chips": 165000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T21:46:50.855Z"
+          "updatedAt": "2026-06-04T21:53:12.403Z"
         }
       ]
     },
@@ -143,7 +143,7 @@
         "rank": 100,
         "chips": 32000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T21:46:50.855Z"
+        "updatedAt": "2026-06-04T21:53:12.404Z"
       },
       "eventHistory": [
         {
@@ -159,7 +159,7 @@
           "rank": 100,
           "chips": 32000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T21:46:50.855Z"
+          "updatedAt": "2026-06-04T21:53:12.404Z"
         }
       ]
     },
@@ -208,7 +208,7 @@
       "slug": "event-16-us-circuit-championship",
       "name": "Event #16: $1,700 U.S. Circuit Championship No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-16-us-circuit-championship/chips.htm",
-      "playersLeft": 28,
+      "playersLeft": 18,
       "totalEntries": null,
       "buyin": 1700,
       "completed": false
