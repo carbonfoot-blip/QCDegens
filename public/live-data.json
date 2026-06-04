@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T03:15:35.173Z",
+  "updatedAt": "2026-06-04T03:22:06.207Z",
   "teamScore": 40,
   "completedEvents": [
     "event-3-industry-employees",
@@ -26,13 +26,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 30,
+        "playersLeft": 27,
         "currentDay": "2",
         "status": "active",
-        "rank": 28,
-        "chips": 100000,
+        "rank": 23,
+        "chips": 180000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T03:15:35.171Z"
+        "updatedAt": "2026-06-04T03:22:06.206Z"
       },
       "eventHistory": [
         {
@@ -42,13 +42,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 30,
+          "playersLeft": 27,
           "currentDay": "2",
           "status": "active",
-          "rank": 28,
-          "chips": 100000,
+          "rank": 23,
+          "chips": 180000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T03:15:35.171Z"
+          "updatedAt": "2026-06-04T03:22:06.206Z"
         }
       ]
     },
@@ -183,7 +183,7 @@
       "slug": "event-17-10000-no-limit-2-7-championship",
       "name": "Event #17: $10,000 No-Limit 2-7 Lowball Draw Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-17-10000-no-limit-2-7-championship/chips.htm",
-      "playersLeft": 30,
+      "playersLeft": 27,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
