@@ -1,8 +1,9 @@
 {
-  "updatedAt": "2026-06-04T02:50:05.684Z",
+  "updatedAt": "2026-06-04T02:56:23.464Z",
   "teamScore": 40,
   "completedEvents": [
     "event-3-industry-employees",
+    "event-13-nlh",
     "event-12-no-limit-2-7-lowball-draw",
     "event-19-600-deepstack",
     "event-9-omaha-hi-lo-8-or-better-championship",
@@ -25,13 +26,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 31,
+        "playersLeft": 30,
         "currentDay": "2",
         "status": "active",
-        "rank": 31,
-        "chips": 105000,
+        "rank": 30,
+        "chips": 54000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T02:50:05.683Z"
+        "updatedAt": "2026-06-04T02:56:23.463Z"
       },
       "eventHistory": [
         {
@@ -41,13 +42,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 31,
+          "playersLeft": 30,
           "currentDay": "2",
           "status": "active",
-          "rank": 31,
-          "chips": 105000,
+          "rank": 30,
+          "chips": 54000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T02:50:05.683Z"
+          "updatedAt": "2026-06-04T02:56:23.463Z"
         }
       ]
     },
@@ -146,10 +147,10 @@
       "slug": "event-13-nlh",
       "name": "Event #13: $1,500 6-Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-13-nlh/chips.htm",
-      "playersLeft": 2,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 1500,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-14-mixed-pot-limit-omaha-hi-lo",
@@ -182,7 +183,7 @@
       "slug": "event-17-10000-no-limit-2-7-championship",
       "name": "Event #17: $10,000 No-Limit 2-7 Lowball Draw Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-17-10000-no-limit-2-7-championship/chips.htm",
-      "playersLeft": 31,
+      "playersLeft": 30,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
