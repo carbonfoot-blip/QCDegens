@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T08:41:40.347Z",
+  "updatedAt": "2026-06-04T08:47:56.082Z",
   "teamScore": 42,
   "completedEvents": [
     "event-3-industry-employees",
@@ -41,8 +41,38 @@
       "pts2026": 0,
       "salary": 3,
       "cashes2026": 0,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-20-dealers-choice",
+        "eventName": "Event #20: $1,500 Dealers Choice",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
+        "buyin": 1500,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 132,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 51,
+        "chips": 136500,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-04T08:47:56.080Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-20-dealers-choice",
+          "eventName": "Event #20: $1,500 Dealers Choice",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
+          "buyin": 1500,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 132,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 51,
+          "chips": 136500,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-04T08:47:56.080Z"
+        }
+      ]
     },
     {
       "name": "Matt Glantz",
@@ -71,8 +101,38 @@
       "pts2026": 13,
       "salary": 2,
       "cashes2026": 3,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-20-dealers-choice",
+        "eventName": "Event #20: $1,500 Dealers Choice",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
+        "buyin": 1500,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 132,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 123,
+        "chips": 32000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-04T08:47:56.081Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-20-dealers-choice",
+          "eventName": "Event #20: $1,500 Dealers Choice",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
+          "buyin": 1500,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 132,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 123,
+          "chips": 32000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-04T08:47:56.081Z"
+        }
+      ]
     },
     {
       "name": "Ryan Leng",
