@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-04T01:59:54.113Z",
-  "teamScore": 39,
+  "updatedAt": "2026-06-04T02:06:11.503Z",
+  "teamScore": 40,
   "completedEvents": [
     "event-3-industry-employees",
     "event-12-no-limit-2-7-lowball-draw",
@@ -31,7 +31,7 @@
         "rank": 28,
         "chips": 175000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T01:59:54.111Z"
+        "updatedAt": "2026-06-04T02:06:11.501Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 28,
           "chips": 175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T01:59:54.111Z"
+          "updatedAt": "2026-06-04T02:06:11.501Z"
         }
       ]
     },
@@ -75,9 +75,9 @@
       "name": "Matt Glantz",
       "slug": "matt-glantz",
       "isBonus": false,
-      "pts2026": 2,
+      "pts2026": 3,
       "salary": 27,
-      "cashes2026": 2,
+      "cashes2026": 3,
       "liveStatus": null,
       "eventHistory": []
     },
@@ -200,7 +200,7 @@
       "slug": "event-19-high-roller",
       "name": "Event #19: $25,000 High Roller No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-high-roller/chips.htm",
-      "playersLeft": 41,
+      "playersLeft": 40,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
