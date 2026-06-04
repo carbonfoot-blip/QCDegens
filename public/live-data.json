@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T00:13:14.000Z",
+  "updatedAt": "2026-06-04T00:19:33.926Z",
   "teamScore": 39,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 45,
         "chips": 248000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T00:13:13.998Z"
+        "updatedAt": "2026-06-04T00:19:33.923Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 45,
           "chips": 248000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T00:13:13.998Z"
+          "updatedAt": "2026-06-04T00:19:33.923Z"
         }
       ]
     },
@@ -68,10 +68,10 @@
         "playersLeft": 40,
         "currentDay": "2",
         "status": "active",
-        "rank": 20,
+        "rank": 19,
         "chips": 280000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T00:13:13.998Z"
+        "updatedAt": "2026-06-04T00:19:33.924Z"
       },
       "eventHistory": [
         {
@@ -84,10 +84,10 @@
           "playersLeft": 40,
           "currentDay": "2",
           "status": "active",
-          "rank": 20,
+          "rank": 19,
           "chips": 280000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T00:13:13.998Z"
+          "updatedAt": "2026-06-04T00:19:33.924Z"
         }
       ]
     },
@@ -121,7 +121,7 @@
         "rank": 86,
         "chips": 292000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T00:13:13.999Z"
+        "updatedAt": "2026-06-04T00:19:33.925Z"
       },
       "eventHistory": [
         {
@@ -137,7 +137,7 @@
           "rank": 86,
           "chips": 292000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T00:13:13.999Z"
+          "updatedAt": "2026-06-04T00:19:33.925Z"
         }
       ]
     },
@@ -224,7 +224,7 @@
       "slug": "event-15-deepstack",
       "name": "Event #15: $600 Deepstack Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-15-deepstack/chips.htm",
-      "playersLeft": 15,
+      "playersLeft": 13,
       "totalEntries": null,
       "buyin": 600,
       "completed": false
