@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T21:21:27.017Z",
+  "updatedAt": "2026-06-04T21:27:47.865Z",
   "teamScore": 42,
   "completedEvents": [
     "event-3-industry-employees",
@@ -47,13 +47,13 @@
         "buyin": 1500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 111,
+        "playersLeft": 101,
         "currentDay": "2",
         "status": "active",
         "rank": 34,
         "chips": 165000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T21:21:27.016Z"
+        "updatedAt": "2026-06-04T21:27:47.862Z"
       },
       "eventHistory": [
         {
@@ -63,13 +63,13 @@
           "buyin": 1500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 111,
+          "playersLeft": 101,
           "currentDay": "2",
           "status": "active",
           "rank": 34,
           "chips": 165000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T21:21:27.016Z"
+          "updatedAt": "2026-06-04T21:27:47.862Z"
         }
       ]
     },
@@ -107,13 +107,13 @@
         "buyin": 1500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 111,
+        "playersLeft": 101,
         "currentDay": "2",
         "status": "active",
         "rank": 121,
         "chips": 32000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T21:21:27.017Z"
+        "updatedAt": "2026-06-04T21:27:47.864Z"
       },
       "eventHistory": [
         {
@@ -123,13 +123,13 @@
           "buyin": 1500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 111,
+          "playersLeft": 101,
           "currentDay": "2",
           "status": "active",
           "rank": 121,
           "chips": 32000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T21:21:27.017Z"
+          "updatedAt": "2026-06-04T21:27:47.864Z"
         }
       ]
     },
@@ -214,7 +214,7 @@
       "slug": "event-20-dealers-choice",
       "name": "Event #20: $1,500 Dealers Choice",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
-      "playersLeft": 111,
+      "playersLeft": 101,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
