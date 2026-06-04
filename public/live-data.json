@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T23:16:35.695Z",
+  "updatedAt": "2026-06-04T23:22:52.100Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -27,13 +27,13 @@
         "buyin": 25000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 122,
+        "playersLeft": 119,
         "currentDay": "1b",
         "status": "active",
         "rank": 15,
         "chips": 243000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T23:16:35.693Z"
+        "updatedAt": "2026-06-04T23:22:52.099Z"
       },
       "eventHistory": [
         {
@@ -43,13 +43,13 @@
           "buyin": 25000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 122,
+          "playersLeft": 119,
           "currentDay": "1b",
           "status": "active",
           "rank": 15,
           "chips": 243000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T23:16:35.693Z"
+          "updatedAt": "2026-06-04T23:22:52.099Z"
         }
       ]
     },
@@ -175,7 +175,7 @@
       "slug": "event-19-high-roller",
       "name": "Event #19: $25,000 High Roller No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-high-roller/chips.htm",
-      "playersLeft": 122,
+      "playersLeft": 119,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
@@ -184,7 +184,7 @@
       "slug": "event-20-dealers-choice",
       "name": "Event #20: $1,500 Dealers Choice",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
-      "playersLeft": 68,
+      "playersLeft": 61,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
