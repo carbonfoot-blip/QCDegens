@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-04T17:25:34.099Z",
+  "updatedAt": "2026-06-04T17:31:55.430Z",
   "teamScore": 42,
   "completedEvents": [
     "event-3-industry-employees",
-    "event-13-nlh",
-    "event-14-mixed-pot-limit-omaha-hi-lo",
     "event-15-deepstack",
+    "event-14-mixed-pot-limit-omaha-hi-lo",
+    "event-13-nlh",
     "event-12-no-limit-2-7-lowball-draw",
     "event-19-600-deepstack",
     "event-9-omaha-hi-lo-8-or-better-championship",
@@ -53,7 +53,7 @@
         "rank": 51,
         "chips": 136500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T17:25:34.097Z"
+        "updatedAt": "2026-06-04T17:31:55.428Z"
       },
       "eventHistory": [
         {
@@ -69,7 +69,7 @@
           "rank": 51,
           "chips": 136500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T17:25:34.097Z"
+          "updatedAt": "2026-06-04T17:31:55.428Z"
         }
       ]
     },
@@ -113,7 +113,7 @@
         "rank": 123,
         "chips": 32000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T17:25:34.098Z"
+        "updatedAt": "2026-06-04T17:31:55.429Z"
       },
       "eventHistory": [
         {
@@ -129,7 +129,7 @@
           "rank": 123,
           "chips": 32000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T17:25:34.098Z"
+          "updatedAt": "2026-06-04T17:31:55.429Z"
         }
       ]
     },
@@ -173,24 +173,6 @@
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
-    },
-    {
-      "slug": "event-13-nlh",
-      "name": "Event #13: $1,500 6-Handed No-Limit Hold’em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-13-nlh/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 1500,
-      "completed": true
-    },
-    {
-      "slug": "event-14-mixed-pot-limit-omaha-hi-lo",
-      "name": "Event #14: $1,500 Mixed: Pot-Limit Omaha Hi-Lo 8 or Better, Omaha Hi-Lo 8 or Better, \"Big O\"",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-14-mixed-pot-limit-omaha-hi-lo/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 1500,
-      "completed": true
     },
     {
       "slug": "event-15-deepstack",
@@ -254,6 +236,24 @@
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
+    },
+    {
+      "slug": "event-14-mixed-pot-limit-omaha-hi-lo",
+      "name": "Event #14: $1,500 Mixed: Pot-Limit Omaha Hi-Lo 8 or Better, Omaha Hi-Lo 8 or Better, \"Big O\"",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-14-mixed-pot-limit-omaha-hi-lo/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": true
+    },
+    {
+      "slug": "event-13-nlh",
+      "name": "Event #13: $1,500 6-Handed No-Limit Hold’em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-13-nlh/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": true
     },
     {
       "slug": "event-12-no-limit-2-7-lowball-draw",
