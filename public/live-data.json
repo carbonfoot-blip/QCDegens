@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T08:16:44.026Z",
+  "updatedAt": "2026-06-04T08:22:57.754Z",
   "teamScore": 42,
   "completedEvents": [
     "event-3-industry-employees",
@@ -110,7 +110,7 @@
       "slug": "event-11-ggmillion-high-roller",
       "name": "Event #11: $10,000 GGMillion$ High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-11-ggmillion-high-roller/chips.htm",
-      "playersLeft": 13,
+      "playersLeft": 12,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
