@@ -1,9 +1,10 @@
 {
-  "updatedAt": "2026-06-04T04:18:59.741Z",
+  "updatedAt": "2026-06-04T04:25:17.731Z",
   "teamScore": 42,
   "completedEvents": [
     "event-3-industry-employees",
     "event-13-nlh",
+    "event-15-deepstack",
     "event-12-no-limit-2-7-lowball-draw",
     "event-19-600-deepstack",
     "event-9-omaha-hi-lo-8-or-better-championship",
@@ -126,7 +127,7 @@
       "slug": "event-14-mixed-pot-limit-omaha-hi-lo",
       "name": "Event #14: $1,500 Mixed: Pot-Limit Omaha Hi-Lo 8 or Better, Omaha Hi-Lo 8 or Better, \"Big O\"",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-14-mixed-pot-limit-omaha-hi-lo/chips.htm",
-      "playersLeft": 7,
+      "playersLeft": 6,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -135,10 +136,10 @@
       "slug": "event-15-deepstack",
       "name": "Event #15: $600 Deepstack Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-15-deepstack/chips.htm",
-      "playersLeft": 2,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 600,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-16-us-circuit-championship",
