@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T22:12:18.238Z",
+  "updatedAt": "2026-06-04T22:18:45.212Z",
   "teamScore": 43,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,10 +30,10 @@
         "playersLeft": 123,
         "currentDay": "1b",
         "status": "active",
-        "rank": 31,
+        "rank": 32,
         "chips": 180000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T22:12:18.235Z"
+        "updatedAt": "2026-06-04T22:18:45.209Z"
       },
       "eventHistory": [
         {
@@ -46,10 +46,10 @@
           "playersLeft": 123,
           "currentDay": "1b",
           "status": "active",
-          "rank": 31,
+          "rank": 32,
           "chips": 180000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T22:12:18.235Z"
+          "updatedAt": "2026-06-04T22:18:45.209Z"
         }
       ]
     },
@@ -77,13 +77,13 @@
         "buyin": 1500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 83,
+        "playersLeft": 82,
         "currentDay": "2",
         "status": "active",
-        "rank": 38,
+        "rank": 39,
         "chips": 165000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T22:12:18.236Z"
+        "updatedAt": "2026-06-04T22:18:45.211Z"
       },
       "eventHistory": [
         {
@@ -93,13 +93,13 @@
           "buyin": 1500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 83,
+          "playersLeft": 82,
           "currentDay": "2",
           "status": "active",
-          "rank": 38,
+          "rank": 39,
           "chips": 165000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T22:12:18.236Z"
+          "updatedAt": "2026-06-04T22:18:45.211Z"
         }
       ]
     },
@@ -137,13 +137,13 @@
         "buyin": 1500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 83,
+        "playersLeft": 82,
         "currentDay": "2",
         "status": "active",
-        "rank": 98,
+        "rank": 97,
         "chips": 32000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T22:12:18.237Z"
+        "updatedAt": "2026-06-04T22:18:45.212Z"
       },
       "eventHistory": [
         {
@@ -153,13 +153,13 @@
           "buyin": 1500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 83,
+          "playersLeft": 82,
           "currentDay": "2",
           "status": "active",
-          "rank": 98,
+          "rank": 97,
           "chips": 32000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T22:12:18.237Z"
+          "updatedAt": "2026-06-04T22:18:45.212Z"
         }
       ]
     },
@@ -244,7 +244,7 @@
       "slug": "event-20-dealers-choice",
       "name": "Event #20: $1,500 Dealers Choice",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
-      "playersLeft": 83,
+      "playersLeft": 82,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
