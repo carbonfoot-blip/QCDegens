@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-04T01:47:23.531Z",
+  "updatedAt": "2026-06-04T01:53:37.839Z",
   "teamScore": 39,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 28,
         "chips": 175000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T01:47:23.530Z"
+        "updatedAt": "2026-06-04T01:53:37.837Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 28,
           "chips": 175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T01:47:23.530Z"
+          "updatedAt": "2026-06-04T01:53:37.837Z"
         }
       ]
     },
@@ -91,7 +91,7 @@
         "rank": 60,
         "chips": 292000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-04T01:47:23.530Z"
+        "updatedAt": "2026-06-04T01:53:37.838Z"
       },
       "eventHistory": [
         {
@@ -107,7 +107,7 @@
           "rank": 60,
           "chips": 292000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-04T01:47:23.530Z"
+          "updatedAt": "2026-06-04T01:53:37.838Z"
         }
       ]
     },
@@ -185,7 +185,7 @@
       "slug": "event-14-mixed-pot-limit-omaha-hi-lo",
       "name": "Event #14: $1,500 Mixed: Pot-Limit Omaha Hi-Lo 8 or Better, Omaha Hi-Lo 8 or Better, \"Big O\"",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-14-mixed-pot-limit-omaha-hi-lo/chips.htm",
-      "playersLeft": 9,
+      "playersLeft": 8,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
