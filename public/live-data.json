@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-04T04:12:43.269Z",
-  "teamScore": 40,
+  "updatedAt": "2026-06-04T04:18:59.741Z",
+  "teamScore": 42,
   "completedEvents": [
     "event-3-industry-employees",
     "event-13-nlh",
@@ -16,9 +16,9 @@
       "name": "Daniel Negreanu",
       "slug": "daniel-negreanu",
       "isBonus": false,
-      "pts2026": 21,
+      "pts2026": 23,
       "salary": 116,
-      "cashes2026": 1,
+      "cashes2026": 2,
       "liveStatus": null,
       "eventHistory": []
     },
@@ -153,7 +153,7 @@
       "slug": "event-17-10000-no-limit-2-7-championship",
       "name": "Event #17: $10,000 No-Limit 2-7 Lowball Draw Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-17-10000-no-limit-2-7-championship/chips.htm",
-      "playersLeft": 20,
+      "playersLeft": 19,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
