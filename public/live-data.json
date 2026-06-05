@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T21:19:27.732Z",
+  "updatedAt": "2026-06-05T21:25:54.164Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -28,13 +28,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 21,
+        "playersLeft": 33,
         "currentDay": "1",
         "status": "active",
-        "rank": 15,
-        "chips": 60000,
+        "rank": 21,
+        "chips": 52000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-05T21:19:27.728Z"
+        "updatedAt": "2026-06-05T21:25:54.161Z"
       },
       "eventHistory": [
         {
@@ -44,13 +44,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 21,
+          "playersLeft": 33,
           "currentDay": "1",
           "status": "active",
-          "rank": 15,
-          "chips": 60000,
+          "rank": 21,
+          "chips": 52000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-05T21:19:27.728Z"
+          "updatedAt": "2026-06-05T21:25:54.161Z"
         }
       ]
     },
@@ -134,7 +134,7 @@
         "rank": 497,
         "chips": 79000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-05T21:19:27.731Z"
+        "updatedAt": "2026-06-05T21:25:54.164Z"
       },
       "eventHistory": [
         {
@@ -150,7 +150,7 @@
           "rank": 497,
           "chips": 79000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-05T21:19:27.731Z"
+          "updatedAt": "2026-06-05T21:25:54.164Z"
         }
       ]
     },
@@ -215,7 +215,7 @@
       "slug": "event-23-seven-card-stud-championship",
       "name": "Event #23: $10,000 Seven Card Stud Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-23-seven-card-stud-championship/chips.htm",
-      "playersLeft": 21,
+      "playersLeft": 33,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
