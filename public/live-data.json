@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T02:43:27.889Z",
+  "updatedAt": "2026-06-05T02:49:43.569Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -20,38 +20,8 @@
       "pts2026": 23,
       "salary": 116,
       "cashes2026": 2,
-      "liveStatus": {
-        "eventSlug": "event-19-high-roller",
-        "eventName": "Event #19: $25,000 High Roller No-Limit Hold’em",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-high-roller/chips.htm",
-        "buyin": 25000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 106,
-        "currentDay": "1b",
-        "status": "active",
-        "rank": 76,
-        "chips": 132000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-05T02:43:27.887Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-19-high-roller",
-          "eventName": "Event #19: $25,000 High Roller No-Limit Hold’em",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-high-roller/chips.htm",
-          "buyin": 25000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 106,
-          "currentDay": "1b",
-          "status": "active",
-          "rank": 76,
-          "chips": 132000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-05T02:43:27.887Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Calvin Anderson",
