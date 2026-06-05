@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T03:27:27.600Z",
+  "updatedAt": "2026-06-05T03:33:43.971Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -109,7 +109,7 @@
       "slug": "event-11-ggmillion-high-roller",
       "name": "Event #11: $10,000 GGMillion$ High Roller No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-11-ggmillion-high-roller/chips.htm",
-      "playersLeft": 3,
+      "playersLeft": 2,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
@@ -118,7 +118,7 @@
       "slug": "event-16-us-circuit-championship",
       "name": "Event #16: $1,700 U.S. Circuit Championship No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-16-us-circuit-championship/chips.htm",
-      "playersLeft": 8,
+      "playersLeft": 7,
       "totalEntries": null,
       "buyin": 1700,
       "completed": false
@@ -145,7 +145,7 @@
       "slug": "event-19-high-roller",
       "name": "Event #19: $25,000 High Roller No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-high-roller/chips.htm",
-      "playersLeft": 98,
+      "playersLeft": 91,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
