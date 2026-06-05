@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T03:46:19.777Z",
+  "updatedAt": "2026-06-05T03:52:36.118Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -154,7 +154,7 @@
       "slug": "event-20-dealers-choice",
       "name": "Event #20: $1,500 Dealers Choice",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
-      "playersLeft": 29,
+      "playersLeft": 27,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
