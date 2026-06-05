@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T01:40:51.691Z",
+  "updatedAt": "2026-06-05T01:47:05.139Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 72,
         "chips": 132000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-05T01:40:51.689Z"
+        "updatedAt": "2026-06-05T01:47:05.137Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 72,
           "chips": 132000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-05T01:40:51.689Z"
+          "updatedAt": "2026-06-05T01:47:05.137Z"
         }
       ]
     },
@@ -148,7 +148,7 @@
       "slug": "event-16-us-circuit-championship",
       "name": "Event #16: $1,700 U.S. Circuit Championship No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-16-us-circuit-championship/chips.htm",
-      "playersLeft": 9,
+      "playersLeft": 8,
       "totalEntries": null,
       "buyin": 1700,
       "completed": false
