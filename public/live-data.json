@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T13:38:09.242Z",
+  "updatedAt": "2026-06-05T13:44:38.021Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -12,8 +12,7 @@
     "event-12-no-limit-2-7-lowball-draw",
     "event-19-600-deepstack",
     "event-9-omaha-hi-lo-8-or-better-championship",
-    "event-8-badugi",
-    "event-7-heads-up-championship"
+    "event-8-badugi"
   ],
   "players": [
     {
@@ -106,7 +105,7 @@
         "rank": 497,
         "chips": 79000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-05T13:38:09.241Z"
+        "updatedAt": "2026-06-05T13:44:38.020Z"
       },
       "eventHistory": [
         {
@@ -122,7 +121,7 @@
           "rank": 497,
           "chips": 79000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-05T13:38:09.241Z"
+          "updatedAt": "2026-06-05T13:44:38.020Z"
         }
       ]
     },
@@ -202,6 +201,15 @@
       "completed": false
     },
     {
+      "slug": "event-22-big-o",
+      "name": "Event #22: $1,500 Big O",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-22-big-o/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": false
+    },
+    {
       "slug": "event-15-deepstack",
       "name": "Event #15: $600 Deepstack Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-15-deepstack/chips.htm",
@@ -262,15 +270,6 @@
       "playersLeft": 1,
       "totalEntries": null,
       "buyin": 1500,
-      "completed": true
-    },
-    {
-      "slug": "event-7-heads-up-championship",
-      "name": "Event #7: $25,000 Heads Up No-Limit Hold'em Championship",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-7-heads-up-championship/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 25000,
       "completed": true
     }
   ]
