@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T06:56:42.342Z",
+  "updatedAt": "2026-06-05T07:02:59.264Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -128,7 +128,7 @@
       "slug": "event-17-10000-no-limit-2-7-championship",
       "name": "Event #17: $10,000 No-Limit 2-7 Lowball Draw Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-17-10000-no-limit-2-7-championship/chips.htm",
-      "playersLeft": 5,
+      "playersLeft": 4,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
@@ -155,7 +155,7 @@
       "slug": "event-20-dealers-choice",
       "name": "Event #20: $1,500 Dealers Choice",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
-      "playersLeft": 15,
+      "playersLeft": 14,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
