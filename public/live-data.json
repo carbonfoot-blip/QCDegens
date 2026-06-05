@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T05:28:25.051Z",
+  "updatedAt": "2026-06-05T05:34:44.996Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -119,7 +119,7 @@
       "slug": "event-16-us-circuit-championship",
       "name": "Event #16: $1,700 U.S. Circuit Championship No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-16-us-circuit-championship/chips.htm",
-      "playersLeft": 7,
+      "playersLeft": 6,
       "totalEntries": null,
       "buyin": 1700,
       "completed": false
@@ -155,7 +155,7 @@
       "slug": "event-20-dealers-choice",
       "name": "Event #20: $1,500 Dealers Choice",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
-      "playersLeft": 19,
+      "playersLeft": 18,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
