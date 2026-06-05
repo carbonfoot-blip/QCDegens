@@ -1,9 +1,10 @@
 {
-  "updatedAt": "2026-06-05T08:43:32.688Z",
+  "updatedAt": "2026-06-05T08:49:50.514Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
     "event-11-ggmillion-high-roller",
+    "event-16-us-circuit-championship",
     "event-15-deepstack",
     "event-14-mixed-pot-limit-omaha-hi-lo",
     "event-13-nlh",
@@ -119,10 +120,10 @@
       "slug": "event-16-us-circuit-championship",
       "name": "Event #16: $1,700 U.S. Circuit Championship No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-16-us-circuit-championship/chips.htm",
-      "playersLeft": 2,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 1700,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-17-10000-no-limit-2-7-championship",
