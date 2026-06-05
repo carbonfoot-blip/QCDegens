@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T02:18:21.865Z",
+  "updatedAt": "2026-06-05T02:24:37.487Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,10 +30,10 @@
         "playersLeft": 106,
         "currentDay": "1b",
         "status": "active",
-        "rank": 76,
+        "rank": 78,
         "chips": 132000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-05T02:18:21.864Z"
+        "updatedAt": "2026-06-05T02:24:37.485Z"
       },
       "eventHistory": [
         {
@@ -46,10 +46,10 @@
           "playersLeft": 106,
           "currentDay": "1b",
           "status": "active",
-          "rank": 76,
+          "rank": 78,
           "chips": 132000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-05T02:18:21.864Z"
+          "updatedAt": "2026-06-05T02:24:37.485Z"
         }
       ]
     },
@@ -139,7 +139,7 @@
       "slug": "event-11-ggmillion-high-roller",
       "name": "Event #11: $10,000 GGMillion$ High Roller No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-11-ggmillion-high-roller/chips.htm",
-      "playersLeft": 5,
+      "playersLeft": 4,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
