@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T02:24:37.487Z",
+  "updatedAt": "2026-06-05T02:30:56.828Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 78,
         "chips": 132000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-05T02:24:37.485Z"
+        "updatedAt": "2026-06-05T02:30:56.826Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 78,
           "chips": 132000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-05T02:24:37.485Z"
+          "updatedAt": "2026-06-05T02:30:56.826Z"
         }
       ]
     },
@@ -139,7 +139,7 @@
       "slug": "event-11-ggmillion-high-roller",
       "name": "Event #11: $10,000 GGMillion$ High Roller No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-11-ggmillion-high-roller/chips.htm",
-      "playersLeft": 4,
+      "playersLeft": 3,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
@@ -184,7 +184,7 @@
       "slug": "event-20-dealers-choice",
       "name": "Event #20: $1,500 Dealers Choice",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
-      "playersLeft": 33,
+      "playersLeft": 31,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
