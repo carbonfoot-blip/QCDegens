@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-05T02:49:43.569Z",
+  "updatedAt": "2026-06-05T02:55:58.365Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -145,7 +145,7 @@
       "slug": "event-19-high-roller",
       "name": "Event #19: $25,000 High Roller No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-high-roller/chips.htm",
-      "playersLeft": 106,
+      "playersLeft": 98,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
