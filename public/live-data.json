@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T21:28:13.414Z",
+  "updatedAt": "2026-06-06T21:34:33.877Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -21,8 +21,38 @@
       "pts2026": 23,
       "salary": 116,
       "cashes2026": 2,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-24-high-roller",
+        "eventName": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-24-high-roller/chips.htm",
+        "buyin": 25000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 86,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 41,
+        "chips": 150000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-06T21:34:33.874Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-24-high-roller",
+          "eventName": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-24-high-roller/chips.htm",
+          "buyin": 25000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 86,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 41,
+          "chips": 150000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-06T21:34:33.874Z"
+        }
+      ]
     },
     {
       "name": "Calvin Anderson",
@@ -41,10 +71,10 @@
         "playersLeft": 64,
         "currentDay": "2",
         "status": "active",
-        "rank": 46,
+        "rank": 47,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-06T21:28:13.412Z"
+        "updatedAt": "2026-06-06T21:34:33.874Z"
       },
       "eventHistory": [
         {
@@ -57,10 +87,10 @@
           "playersLeft": 64,
           "currentDay": "2",
           "status": "active",
-          "rank": 46,
+          "rank": 47,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-06T21:28:13.412Z"
+          "updatedAt": "2026-06-06T21:34:33.874Z"
         }
       ]
     },
@@ -91,10 +121,10 @@
         "playersLeft": 64,
         "currentDay": "2",
         "status": "active",
-        "rank": 21,
+        "rank": 20,
         "chips": 150000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-06T21:28:13.413Z"
+        "updatedAt": "2026-06-06T21:34:33.875Z"
       },
       "eventHistory": [
         {
@@ -107,10 +137,10 @@
           "playersLeft": 64,
           "currentDay": "2",
           "status": "active",
-          "rank": 21,
+          "rank": 20,
           "chips": 150000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-06T21:28:13.413Z"
+          "updatedAt": "2026-06-06T21:34:33.875Z"
         }
       ]
     },
