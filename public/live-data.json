@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T08:16:52.009Z",
+  "updatedAt": "2026-06-06T08:23:13.211Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -105,7 +105,7 @@
         "rank": 503,
         "chips": 79000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-06T08:16:52.008Z"
+        "updatedAt": "2026-06-06T08:23:13.210Z"
       },
       "eventHistory": [
         {
@@ -121,7 +121,7 @@
           "rank": 503,
           "chips": 79000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-06T08:16:52.008Z"
+          "updatedAt": "2026-06-06T08:23:13.210Z"
         }
       ]
     },
@@ -168,7 +168,7 @@
       "slug": "event-21-plo-hi-lo",
       "name": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-21-plo-hi-lo/chips.htm",
-      "playersLeft": 14,
+      "playersLeft": 13,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
