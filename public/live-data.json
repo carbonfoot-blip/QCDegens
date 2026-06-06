@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T21:40:53.672Z",
+  "updatedAt": "2026-06-06T21:47:13.911Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -34,7 +34,7 @@
         "rank": 41,
         "chips": 150000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-06T21:40:53.669Z"
+        "updatedAt": "2026-06-06T21:47:13.908Z"
       },
       "eventHistory": [
         {
@@ -50,7 +50,7 @@
           "rank": 41,
           "chips": 150000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-06T21:40:53.669Z"
+          "updatedAt": "2026-06-06T21:47:13.908Z"
         }
       ]
     },
@@ -71,10 +71,10 @@
         "playersLeft": 59,
         "currentDay": "2",
         "status": "active",
-        "rank": 46,
+        "rank": 43,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-06T21:40:53.669Z"
+        "updatedAt": "2026-06-06T21:47:13.908Z"
       },
       "eventHistory": [
         {
@@ -87,10 +87,10 @@
           "playersLeft": 59,
           "currentDay": "2",
           "status": "active",
-          "rank": 46,
+          "rank": 43,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-06T21:40:53.669Z"
+          "updatedAt": "2026-06-06T21:47:13.908Z"
         }
       ]
     },
@@ -121,10 +121,10 @@
         "playersLeft": 59,
         "currentDay": "2",
         "status": "active",
-        "rank": 20,
+        "rank": 19,
         "chips": 150000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-06T21:40:53.670Z"
+        "updatedAt": "2026-06-06T21:47:13.909Z"
       },
       "eventHistory": [
         {
@@ -137,10 +137,10 @@
           "playersLeft": 59,
           "currentDay": "2",
           "status": "active",
-          "rank": 20,
+          "rank": 19,
           "chips": 150000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-06T21:40:53.670Z"
+          "updatedAt": "2026-06-06T21:47:13.909Z"
         }
       ]
     },
