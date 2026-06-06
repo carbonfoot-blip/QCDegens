@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T23:09:41.711Z",
+  "updatedAt": "2026-06-06T23:16:03.845Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -21,38 +21,8 @@
       "pts2026": 23,
       "salary": 116,
       "cashes2026": 2,
-      "liveStatus": {
-        "eventSlug": "event-24-high-roller",
-        "eventName": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-24-high-roller/chips.htm",
-        "buyin": 25000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 93,
-        "currentDay": "1",
-        "status": "active",
-        "rank": 45,
-        "chips": 154000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-06T23:09:41.708Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-24-high-roller",
-          "eventName": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-24-high-roller/chips.htm",
-          "buyin": 25000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 93,
-          "currentDay": "1",
-          "status": "active",
-          "rank": 45,
-          "chips": 154000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-06T23:09:41.708Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Calvin Anderson",
@@ -68,13 +38,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 42,
+        "playersLeft": 34,
         "currentDay": "2",
         "status": "active",
-        "rank": 37,
+        "rank": 38,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-06T23:09:41.708Z"
+        "updatedAt": "2026-06-06T23:16:03.842Z"
       },
       "eventHistory": [
         {
@@ -84,13 +54,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 42,
+          "playersLeft": 34,
           "currentDay": "2",
           "status": "active",
-          "rank": 37,
+          "rank": 38,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-06T23:09:41.708Z"
+          "updatedAt": "2026-06-06T23:16:03.842Z"
         }
       ]
     },
@@ -144,7 +114,7 @@
         "rank": 369,
         "chips": 152500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-06T23:09:41.710Z"
+        "updatedAt": "2026-06-06T23:16:03.843Z"
       },
       "eventHistory": [
         {
@@ -160,7 +130,7 @@
           "rank": 369,
           "chips": 152500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-06T23:09:41.710Z"
+          "updatedAt": "2026-06-06T23:16:03.843Z"
         }
       ]
     },
@@ -194,7 +164,7 @@
         "rank": 383,
         "chips": 149000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-06T23:09:41.710Z"
+        "updatedAt": "2026-06-06T23:16:03.844Z"
       },
       "eventHistory": [
         {
@@ -210,7 +180,7 @@
           "rank": 383,
           "chips": 149000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-06T23:09:41.710Z"
+          "updatedAt": "2026-06-06T23:16:03.844Z"
         }
       ]
     },
@@ -266,7 +236,7 @@
       "slug": "event-23-seven-card-stud-championship",
       "name": "Event #23: $10,000 Seven Card Stud Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-23-seven-card-stud-championship/chips.htm",
-      "playersLeft": 42,
+      "playersLeft": 34,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
