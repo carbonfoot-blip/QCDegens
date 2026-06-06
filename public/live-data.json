@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T20:24:53.428Z",
+  "updatedAt": "2026-06-06T20:31:13.819Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -51,8 +51,38 @@
       "pts2026": 3,
       "salary": 27,
       "cashes2026": 3,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-23-seven-card-stud-championship",
+        "eventName": "Event #23: $10,000 Seven Card Stud Championship",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-23-seven-card-stud-championship/chips.htm",
+        "buyin": 10000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 54,
+        "currentDay": "2",
+        "status": "active",
+        "rank": 32,
+        "chips": 80000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-06T20:31:13.817Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-23-seven-card-stud-championship",
+          "eventName": "Event #23: $10,000 Seven Card Stud Championship",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-23-seven-card-stud-championship/chips.htm",
+          "buyin": 10000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 54,
+          "currentDay": "2",
+          "status": "active",
+          "rank": 32,
+          "chips": 80000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-06T20:31:13.817Z"
+        }
+      ]
     },
     {
       "name": "Ben Lamb",
@@ -155,7 +185,7 @@
       "slug": "event-24-high-roller",
       "name": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-24-high-roller/chips.htm",
-      "playersLeft": 50,
+      "playersLeft": 77,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
