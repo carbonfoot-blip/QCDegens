@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T23:47:42.278Z",
+  "updatedAt": "2026-06-06T23:53:59.891Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -38,13 +38,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 34,
+        "playersLeft": 31,
         "currentDay": "2",
         "status": "active",
-        "rank": 28,
-        "chips": 105000,
+        "rank": 32,
+        "chips": 95000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-06T23:47:42.275Z"
+        "updatedAt": "2026-06-06T23:53:59.889Z"
       },
       "eventHistory": [
         {
@@ -54,13 +54,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 34,
+          "playersLeft": 31,
           "currentDay": "2",
           "status": "active",
-          "rank": 28,
-          "chips": 105000,
+          "rank": 32,
+          "chips": 95000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-06T23:47:42.275Z"
+          "updatedAt": "2026-06-06T23:53:59.889Z"
         }
       ]
     },
@@ -114,7 +114,7 @@
         "rank": 369,
         "chips": 152500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-06T23:47:42.277Z"
+        "updatedAt": "2026-06-06T23:53:59.890Z"
       },
       "eventHistory": [
         {
@@ -130,7 +130,7 @@
           "rank": 369,
           "chips": 152500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-06T23:47:42.277Z"
+          "updatedAt": "2026-06-06T23:53:59.890Z"
         }
       ]
     },
@@ -164,7 +164,7 @@
         "rank": 383,
         "chips": 149000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-06T23:47:42.277Z"
+        "updatedAt": "2026-06-06T23:53:59.891Z"
       },
       "eventHistory": [
         {
@@ -180,7 +180,7 @@
           "rank": 383,
           "chips": 149000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-06T23:47:42.277Z"
+          "updatedAt": "2026-06-06T23:53:59.891Z"
         }
       ]
     },
@@ -236,7 +236,7 @@
       "slug": "event-23-seven-card-stud-championship",
       "name": "Event #23: $10,000 Seven Card Stud Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-23-seven-card-stud-championship/chips.htm",
-      "playersLeft": 34,
+      "playersLeft": 31,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
