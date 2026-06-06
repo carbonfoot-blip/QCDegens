@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T22:44:14.950Z",
+  "updatedAt": "2026-06-06T22:50:37.155Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,10 +31,10 @@
         "playersLeft": 93,
         "currentDay": "1",
         "status": "active",
-        "rank": 46,
+        "rank": 44,
         "chips": 154000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-06T22:44:14.947Z"
+        "updatedAt": "2026-06-06T22:50:37.152Z"
       },
       "eventHistory": [
         {
@@ -47,10 +47,10 @@
           "playersLeft": 93,
           "currentDay": "1",
           "status": "active",
-          "rank": 46,
+          "rank": 44,
           "chips": 154000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-06T22:44:14.947Z"
+          "updatedAt": "2026-06-06T22:50:37.152Z"
         }
       ]
     },
@@ -68,13 +68,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 47,
+        "playersLeft": 42,
         "currentDay": "2",
         "status": "active",
-        "rank": 43,
+        "rank": 38,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-06T22:44:14.947Z"
+        "updatedAt": "2026-06-06T22:50:37.152Z"
       },
       "eventHistory": [
         {
@@ -84,13 +84,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 47,
+          "playersLeft": 42,
           "currentDay": "2",
           "status": "active",
-          "rank": 43,
+          "rank": 38,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-06T22:44:14.947Z"
+          "updatedAt": "2026-06-06T22:50:37.152Z"
         }
       ]
     },
@@ -131,8 +131,38 @@
       "pts2026": 14,
       "salary": 2,
       "cashes2026": 4,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-18-monster-stack",
+        "eventName": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
+        "buyin": 1500,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 761,
+        "currentDay": "2c",
+        "status": "active",
+        "rank": 369,
+        "chips": 152500,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-06T22:50:37.154Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-18-monster-stack",
+          "eventName": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
+          "buyin": 1500,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 761,
+          "currentDay": "2c",
+          "status": "active",
+          "rank": 369,
+          "chips": 152500,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-06T22:50:37.154Z"
+        }
+      ]
     },
     {
       "name": "Ryan Leng",
@@ -151,8 +181,38 @@
       "pts2026": 1,
       "salary": 12,
       "cashes2026": 1,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-18-monster-stack",
+        "eventName": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
+        "buyin": 1500,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 761,
+        "currentDay": "2c",
+        "status": "active",
+        "rank": 383,
+        "chips": 149000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-06T22:50:37.154Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-18-monster-stack",
+          "eventName": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
+          "buyin": 1500,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 761,
+          "currentDay": "2c",
+          "status": "active",
+          "rank": 383,
+          "chips": 149000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-06T22:50:37.154Z"
+        }
+      ]
     },
     {
       "name": "Andrew Yeh",
@@ -206,7 +266,7 @@
       "slug": "event-23-seven-card-stud-championship",
       "name": "Event #23: $10,000 Seven Card Stud Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-23-seven-card-stud-championship/chips.htm",
-      "playersLeft": 47,
+      "playersLeft": 42,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
