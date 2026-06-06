@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T18:04:48.114Z",
+  "updatedAt": "2026-06-06T18:11:12.934Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -125,15 +125,6 @@
       "completed": false
     },
     {
-      "slug": "event-20-dealers-choice",
-      "name": "Event #20: $1,500 Dealers Choice",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 1500,
-      "completed": true
-    },
-    {
       "slug": "event-21-plo-hi-lo",
       "name": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-21-plo-hi-lo/chips.htm",
@@ -168,6 +159,15 @@
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
+    },
+    {
+      "slug": "event-20-dealers-choice",
+      "name": "Event #20: $1,500 Dealers Choice",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": true
     },
     {
       "slug": "event-17-10000-no-limit-2-7-championship",
