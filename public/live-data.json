@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T20:31:13.819Z",
+  "updatedAt": "2026-06-06T20:37:33.985Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -64,7 +64,7 @@
         "rank": 32,
         "chips": 80000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-06T20:31:13.817Z"
+        "updatedAt": "2026-06-06T20:37:33.983Z"
       },
       "eventHistory": [
         {
@@ -80,7 +80,7 @@
           "rank": 32,
           "chips": 80000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-06T20:31:13.817Z"
+          "updatedAt": "2026-06-06T20:37:33.983Z"
         }
       ]
     },
@@ -192,7 +192,7 @@
     },
     {
       "slug": "event-20-dealers-choice",
-      "name": "Event #20: $1,500 Dealers Choice",
+      "name": "Event #20: $1,500 Dealer's Choice",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
       "playersLeft": 1,
       "totalEntries": null,
