@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T23:28:50.030Z",
+  "updatedAt": "2026-06-06T23:35:08.863Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -44,7 +44,7 @@
         "rank": 28,
         "chips": 105000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-06T23:28:50.027Z"
+        "updatedAt": "2026-06-06T23:35:08.860Z"
       },
       "eventHistory": [
         {
@@ -60,7 +60,7 @@
           "rank": 28,
           "chips": 105000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-06T23:28:50.027Z"
+          "updatedAt": "2026-06-06T23:35:08.860Z"
         }
       ]
     },
@@ -114,7 +114,7 @@
         "rank": 369,
         "chips": 152500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-06T23:28:50.029Z"
+        "updatedAt": "2026-06-06T23:35:08.862Z"
       },
       "eventHistory": [
         {
@@ -130,7 +130,7 @@
           "rank": 369,
           "chips": 152500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-06T23:28:50.029Z"
+          "updatedAt": "2026-06-06T23:35:08.862Z"
         }
       ]
     },
@@ -164,7 +164,7 @@
         "rank": 383,
         "chips": 149000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-06T23:28:50.029Z"
+        "updatedAt": "2026-06-06T23:35:08.862Z"
       },
       "eventHistory": [
         {
@@ -180,7 +180,7 @@
           "rank": 383,
           "chips": 149000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-06T23:28:50.029Z"
+          "updatedAt": "2026-06-06T23:35:08.862Z"
         }
       ]
     },
@@ -207,7 +207,7 @@
     },
     {
       "slug": "event-19-high-roller",
-      "name": "Event #19: $25,000 High Roller No-Limit Hold’em",
+      "name": "Event #19: $25,000 High Roller No-Limit Hold’em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-high-roller/chips.htm",
       "playersLeft": 22,
       "totalEntries": null,
@@ -218,7 +218,7 @@
       "slug": "event-21-plo-hi-lo",
       "name": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-21-plo-hi-lo/chips.htm",
-      "playersLeft": 8,
+      "playersLeft": 7,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
