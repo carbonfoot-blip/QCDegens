@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-06T09:39:58.984Z",
+  "updatedAt": "2026-06-06T09:46:17.016Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -92,38 +92,8 @@
       "pts2026": 1,
       "salary": 12,
       "cashes2026": 1,
-      "liveStatus": {
-        "eventSlug": "event-18-monster-stack",
-        "eventName": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
-        "buyin": 1500,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 761,
-        "currentDay": "2b",
-        "status": "active",
-        "rank": 503,
-        "chips": 79000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-06T09:39:58.983Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-18-monster-stack",
-          "eventName": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
-          "buyin": 1500,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 761,
-          "currentDay": "2b",
-          "status": "active",
-          "rank": 503,
-          "chips": 79000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-06T09:39:58.983Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Andrew Yeh",
