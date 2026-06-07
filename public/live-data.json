@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T00:31:54.023Z",
+  "updatedAt": "2026-06-07T00:38:11.587Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -21,8 +21,38 @@
       "pts2026": 23,
       "salary": 116,
       "cashes2026": 2,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-24-high-roller",
+        "eventName": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-24-high-roller/chips.htm",
+        "buyin": 25000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 93,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 53,
+        "chips": 150000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-07T00:38:11.584Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-24-high-roller",
+          "eventName": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-24-high-roller/chips.htm",
+          "buyin": 25000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 93,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 53,
+          "chips": 150000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-07T00:38:11.584Z"
+        }
+      ]
     },
     {
       "name": "Calvin Anderson",
@@ -84,7 +114,7 @@
         "rank": 370,
         "chips": 152500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-07T00:31:54.022Z"
+        "updatedAt": "2026-06-07T00:38:11.585Z"
       },
       "eventHistory": [
         {
@@ -100,7 +130,7 @@
           "rank": 370,
           "chips": 152500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-07T00:31:54.022Z"
+          "updatedAt": "2026-06-07T00:38:11.585Z"
         }
       ]
     },
@@ -134,7 +164,7 @@
         "rank": 384,
         "chips": 149000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-07T00:31:54.022Z"
+        "updatedAt": "2026-06-07T00:38:11.586Z"
       },
       "eventHistory": [
         {
@@ -150,7 +180,7 @@
           "rank": 384,
           "chips": 149000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-07T00:31:54.022Z"
+          "updatedAt": "2026-06-07T00:38:11.586Z"
         }
       ]
     },
