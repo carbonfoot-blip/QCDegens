@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T22:25:54.044Z",
+  "updatedAt": "2026-06-07T22:32:15.985Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -52,7 +52,7 @@
         "rank": 15,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-07T22:25:54.041Z"
+        "updatedAt": "2026-06-07T22:32:15.983Z"
       },
       "eventHistory": [
         {
@@ -68,7 +68,7 @@
           "rank": 15,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-07T22:25:54.041Z"
+          "updatedAt": "2026-06-07T22:32:15.983Z"
         }
       ]
     },
@@ -156,7 +156,7 @@
       "slug": "event-22-big-o",
       "name": "Event #22: $1,500 Big O",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-22-big-o/chips.htm",
-      "playersLeft": 180,
+      "playersLeft": 165,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -174,7 +174,7 @@
       "slug": "event-24-high-roller",
       "name": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-24-high-roller/chips.htm",
-      "playersLeft": 76,
+      "playersLeft": 50,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
