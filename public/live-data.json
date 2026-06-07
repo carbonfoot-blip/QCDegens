@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T23:29:38.790Z",
+  "updatedAt": "2026-06-07T23:36:03.076Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -19,8 +19,38 @@
       "pts2026": 23,
       "salary": 116,
       "cashes2026": 2,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-27-10000-dealers-choice-championship",
+        "eventName": "Event #27: $10,000 Dealer's Choice Championship",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-27-10000-dealers-choice-championship/chips.htm",
+        "buyin": 10000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 81,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 30,
+        "chips": 60000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-07T23:36:03.072Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-27-10000-dealers-choice-championship",
+          "eventName": "Event #27: $10,000 Dealer's Choice Championship",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-27-10000-dealers-choice-championship/chips.htm",
+          "buyin": 10000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 81,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 30,
+          "chips": 60000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-07T23:36:03.072Z"
+        }
+      ]
     },
     {
       "name": "Calvin Anderson",
@@ -46,13 +76,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 68,
+        "playersLeft": 81,
         "currentDay": "1",
         "status": "active",
-        "rank": 62,
+        "rank": 78,
         "chips": 35100,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-07T23:29:38.788Z"
+        "updatedAt": "2026-06-07T23:36:03.073Z"
       },
       "eventHistory": [
         {
@@ -62,13 +92,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 68,
+          "playersLeft": 81,
           "currentDay": "1",
           "status": "active",
-          "rank": 62,
+          "rank": 78,
           "chips": 35100,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-07T23:29:38.788Z"
+          "updatedAt": "2026-06-07T23:36:03.073Z"
         }
       ]
     },
@@ -201,7 +231,7 @@
       "slug": "event-27-10000-dealers-choice-championship",
       "name": "Event #27: $10,000 Dealer's Choice Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-27-10000-dealers-choice-championship/chips.htm",
-      "playersLeft": 68,
+      "playersLeft": 81,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
