@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T20:17:42.203Z",
+  "updatedAt": "2026-06-07T20:24:16.313Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -126,7 +126,7 @@
       "slug": "event-22-big-o",
       "name": "Event #22: $1,500 Big O",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-22-big-o/chips.htm",
-      "playersLeft": 294,
+      "playersLeft": 263,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
