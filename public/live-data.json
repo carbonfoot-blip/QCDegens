@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T01:03:29.748Z",
+  "updatedAt": "2026-06-07T01:09:48.887Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -34,7 +34,7 @@
         "rank": 54,
         "chips": 150000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-07T01:03:29.745Z"
+        "updatedAt": "2026-06-07T01:09:48.884Z"
       },
       "eventHistory": [
         {
@@ -50,7 +50,7 @@
           "rank": 54,
           "chips": 150000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-07T01:03:29.745Z"
+          "updatedAt": "2026-06-07T01:09:48.884Z"
         }
       ]
     },
@@ -114,7 +114,7 @@
         "rank": 370,
         "chips": 152500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-07T01:03:29.747Z"
+        "updatedAt": "2026-06-07T01:09:48.886Z"
       },
       "eventHistory": [
         {
@@ -130,7 +130,7 @@
           "rank": 370,
           "chips": 152500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-07T01:03:29.747Z"
+          "updatedAt": "2026-06-07T01:09:48.886Z"
         }
       ]
     },
@@ -164,7 +164,7 @@
         "rank": 384,
         "chips": 149000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-07T01:03:29.747Z"
+        "updatedAt": "2026-06-07T01:09:48.886Z"
       },
       "eventHistory": [
         {
@@ -180,7 +180,7 @@
           "rank": 384,
           "chips": 149000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-07T01:03:29.747Z"
+          "updatedAt": "2026-06-07T01:09:48.886Z"
         }
       ]
     },
@@ -218,7 +218,7 @@
       "slug": "event-21-plo-hi-lo",
       "name": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-21-plo-hi-lo/chips.htm",
-      "playersLeft": 6,
+      "playersLeft": 5,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -236,7 +236,7 @@
       "slug": "event-23-seven-card-stud-championship",
       "name": "Event #23: $10,000 Seven Card Stud Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-23-seven-card-stud-championship/chips.htm",
-      "playersLeft": 27,
+      "playersLeft": 25,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
