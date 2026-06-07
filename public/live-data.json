@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T02:44:44.778Z",
+  "updatedAt": "2026-06-07T02:51:03.896Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -85,7 +85,7 @@
         "rank": 370,
         "chips": 152500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-07T02:44:44.776Z"
+        "updatedAt": "2026-06-07T02:51:03.893Z"
       },
       "eventHistory": [
         {
@@ -101,7 +101,7 @@
           "rank": 370,
           "chips": 152500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-07T02:44:44.776Z"
+          "updatedAt": "2026-06-07T02:51:03.893Z"
         }
       ]
     },
@@ -135,7 +135,7 @@
         "rank": 384,
         "chips": 149000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-07T02:44:44.777Z"
+        "updatedAt": "2026-06-07T02:51:03.894Z"
       },
       "eventHistory": [
         {
@@ -151,7 +151,7 @@
           "rank": 384,
           "chips": 149000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-07T02:44:44.777Z"
+          "updatedAt": "2026-06-07T02:51:03.894Z"
         }
       ]
     },
@@ -180,7 +180,7 @@
       "slug": "event-19-high-roller",
       "name": "Event #19: $25,000 High Roller No-Limit Hold’em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-high-roller/chips.htm",
-      "playersLeft": 19,
+      "playersLeft": 18,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
@@ -207,7 +207,7 @@
       "slug": "event-23-seven-card-stud-championship",
       "name": "Event #23: $10,000 Seven Card Stud Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-23-seven-card-stud-championship/chips.htm",
-      "playersLeft": 23,
+      "playersLeft": 22,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
