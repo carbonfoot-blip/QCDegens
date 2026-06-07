@@ -1,11 +1,10 @@
 {
-  "updatedAt": "2026-06-07T20:57:58.387Z",
+  "updatedAt": "2026-06-07T21:06:33.330Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
     "event-21-plo-hi-lo",
     "event-20-dealers-choice",
-    "event-17-10000-no-limit-2-7-championship",
     "event-16-us-circuit-championship",
     "event-15-deepstack",
     "event-14-mixed-pot-limit-omaha-hi-lo",
@@ -108,9 +107,6 @@
       "slug": "event-18-monster-stack",
       "name": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
-      "playersLeft": 1855,
-      "totalEntries": null,
-      "buyin": 1500,
       "completed": false
     },
     {
@@ -171,9 +167,6 @@
       "slug": "event-27-10000-dealers-choice-championship",
       "name": "Event #27: $10,000 Dealer's Choice Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-27-10000-dealers-choice-championship/chips.htm",
-      "playersLeft": 9,
-      "totalEntries": null,
-      "buyin": 10000,
       "completed": false
     },
     {
@@ -198,10 +191,7 @@
       "slug": "event-17-10000-no-limit-2-7-championship",
       "name": "Event #17: $10,000 No-Limit 2-7 Lowball Draw Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-17-10000-no-limit-2-7-championship/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 10000,
-      "completed": true
+      "completed": false
     },
     {
       "slug": "event-16-us-circuit-championship",
