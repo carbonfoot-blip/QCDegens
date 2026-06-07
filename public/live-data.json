@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T22:06:48.835Z",
+  "updatedAt": "2026-06-07T22:13:11.097Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -39,8 +39,38 @@
       "pts2026": 1,
       "salary": 3,
       "cashes2026": 1,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-27-10000-dealers-choice-championship",
+        "eventName": "Event #27: $10,000 Dealer's Choice Championship",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-27-10000-dealers-choice-championship/chips.htm",
+        "buyin": 10000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 57,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 13,
+        "chips": 60000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-07T22:13:11.094Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-27-10000-dealers-choice-championship",
+          "eventName": "Event #27: $10,000 Dealer's Choice Championship",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-27-10000-dealers-choice-championship/chips.htm",
+          "buyin": 10000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 57,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 13,
+          "chips": 60000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-07T22:13:11.094Z"
+        }
+      ]
     },
     {
       "name": "Matt Glantz",
@@ -171,7 +201,7 @@
       "slug": "event-27-10000-dealers-choice-championship",
       "name": "Event #27: $10,000 Dealer's Choice Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-27-10000-dealers-choice-championship/chips.htm",
-      "playersLeft": 54,
+      "playersLeft": 57,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
