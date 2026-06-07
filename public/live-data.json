@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T22:19:32.010Z",
+  "updatedAt": "2026-06-07T22:25:54.044Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -49,10 +49,10 @@
         "playersLeft": 57,
         "currentDay": "1",
         "status": "active",
-        "rank": 14,
+        "rank": 15,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-07T22:19:32.007Z"
+        "updatedAt": "2026-06-07T22:25:54.041Z"
       },
       "eventHistory": [
         {
@@ -65,10 +65,10 @@
           "playersLeft": 57,
           "currentDay": "1",
           "status": "active",
-          "rank": 14,
+          "rank": 15,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-07T22:19:32.007Z"
+          "updatedAt": "2026-06-07T22:25:54.041Z"
         }
       ]
     },
