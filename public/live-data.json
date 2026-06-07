@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-07T00:00:16.765Z",
+  "updatedAt": "2026-06-07T00:06:35.308Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,38 +31,8 @@
       "pts2026": 1,
       "salary": 25,
       "cashes2026": 1,
-      "liveStatus": {
-        "eventSlug": "event-23-seven-card-stud-championship",
-        "eventName": "Event #23: $10,000 Seven Card Stud Championship",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-23-seven-card-stud-championship/chips.htm",
-        "buyin": 10000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 31,
-        "currentDay": "2",
-        "status": "active",
-        "rank": 32,
-        "chips": 95000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-07T00:00:16.763Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-23-seven-card-stud-championship",
-          "eventName": "Event #23: $10,000 Seven Card Stud Championship",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-23-seven-card-stud-championship/chips.htm",
-          "buyin": 10000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 31,
-          "currentDay": "2",
-          "status": "active",
-          "rank": 32,
-          "chips": 95000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-07T00:00:16.763Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Yuval Bronshtein",
@@ -114,7 +84,7 @@
         "rank": 369,
         "chips": 152500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-07T00:00:16.764Z"
+        "updatedAt": "2026-06-07T00:06:35.306Z"
       },
       "eventHistory": [
         {
@@ -130,7 +100,7 @@
           "rank": 369,
           "chips": 152500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-07T00:00:16.764Z"
+          "updatedAt": "2026-06-07T00:06:35.306Z"
         }
       ]
     },
@@ -164,7 +134,7 @@
         "rank": 383,
         "chips": 149000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-07T00:00:16.765Z"
+        "updatedAt": "2026-06-07T00:06:35.307Z"
       },
       "eventHistory": [
         {
@@ -180,7 +150,7 @@
           "rank": 383,
           "chips": 149000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-07T00:00:16.765Z"
+          "updatedAt": "2026-06-07T00:06:35.307Z"
         }
       ]
     },
