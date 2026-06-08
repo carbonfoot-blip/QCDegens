@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T03:56:55.777Z",
+  "updatedAt": "2026-06-08T04:03:50.210Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -62,7 +62,7 @@
         "rank": 57,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-08T03:56:55.775Z"
+        "updatedAt": "2026-06-08T04:03:50.209Z"
       },
       "eventHistory": [
         {
@@ -78,7 +78,7 @@
           "rank": 57,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-08T03:56:55.775Z"
+          "updatedAt": "2026-06-08T04:03:50.209Z"
         }
       ]
     },
@@ -174,7 +174,7 @@
       "slug": "event-24-high-roller",
       "name": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-24-high-roller/chips.htm",
-      "playersLeft": 14,
+      "playersLeft": 13,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
