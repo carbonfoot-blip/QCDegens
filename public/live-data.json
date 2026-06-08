@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T21:10:14.413Z",
+  "updatedAt": "2026-06-08T21:16:40.641Z",
   "teamScore": 47,
   "completedEvents": [
     "event-3-industry-employees",
@@ -55,13 +55,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 72,
+        "playersLeft": 75,
         "currentDay": "2",
         "status": "active",
-        "rank": 4,
-        "chips": 266000,
+        "rank": 1,
+        "chips": 400000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-08T21:10:14.411Z"
+        "updatedAt": "2026-06-08T21:16:40.639Z"
       },
       "eventHistory": [
         {
@@ -71,13 +71,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 72,
+          "playersLeft": 75,
           "currentDay": "2",
           "status": "active",
-          "rank": 4,
-          "chips": 266000,
+          "rank": 1,
+          "chips": 400000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-08T21:10:14.411Z"
+          "updatedAt": "2026-06-08T21:16:40.639Z"
         }
       ]
     },
@@ -137,7 +137,7 @@
       "slug": "event-18-monster-stack",
       "name": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
-      "playersLeft": 390,
+      "playersLeft": 378,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -146,7 +146,7 @@
       "slug": "event-22-big-o",
       "name": "Event #22: $1,500 Big O",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-22-big-o/chips.htm",
-      "playersLeft": 24,
+      "playersLeft": 21,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -182,7 +182,7 @@
       "slug": "event-27-10000-dealers-choice-championship",
       "name": "Event #27: $10,000 Dealer's Choice Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-27-10000-dealers-choice-championship/chips.htm",
-      "playersLeft": 72,
+      "playersLeft": 75,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
