@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T22:33:30.130Z",
+  "updatedAt": "2026-06-08T22:39:49.692Z",
   "teamScore": 47,
   "completedEvents": [
     "event-3-industry-employees",
@@ -61,7 +61,7 @@
         "rank": 5,
         "chips": 340000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-08T22:33:30.128Z"
+        "updatedAt": "2026-06-08T22:39:49.690Z"
       },
       "eventHistory": [
         {
@@ -77,7 +77,7 @@
           "rank": 5,
           "chips": 340000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-08T22:33:30.128Z"
+          "updatedAt": "2026-06-08T22:39:49.690Z"
         }
       ]
     },
@@ -137,7 +137,7 @@
       "slug": "event-18-monster-stack",
       "name": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
-      "playersLeft": 314,
+      "playersLeft": 294,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -146,7 +146,7 @@
       "slug": "event-22-big-o",
       "name": "Event #22: $1,500 Big O",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-22-big-o/chips.htm",
-      "playersLeft": 18,
+      "playersLeft": 15,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -173,7 +173,7 @@
       "slug": "event-26-2000-no-limit-holdem",
       "name": "Event #26: $2,000 No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-26-2000-no-limit-holdem/chips.htm",
-      "playersLeft": 66,
+      "playersLeft": 61,
       "totalEntries": null,
       "buyin": 2000,
       "completed": false
@@ -200,7 +200,7 @@
       "slug": "event-29-50000-high-roller",
       "name": "Event #29: $50,000 High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-29-50000-high-roller/chips.htm",
-      "playersLeft": 65,
+      "playersLeft": 68,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
