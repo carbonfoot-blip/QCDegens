@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T00:34:56.652Z",
+  "updatedAt": "2026-06-08T00:41:21.731Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -29,10 +29,10 @@
         "playersLeft": 87,
         "currentDay": "1",
         "status": "active",
-        "rank": 56,
+        "rank": 62,
         "chips": 58000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-08T00:34:56.648Z"
+        "updatedAt": "2026-06-08T00:41:21.728Z"
       },
       "eventHistory": [
         {
@@ -45,10 +45,10 @@
           "playersLeft": 87,
           "currentDay": "1",
           "status": "active",
-          "rank": 56,
+          "rank": 62,
           "chips": 58000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-08T00:34:56.648Z"
+          "updatedAt": "2026-06-08T00:41:21.728Z"
         }
       ]
     },
@@ -79,10 +79,10 @@
         "playersLeft": 87,
         "currentDay": "1",
         "status": "active",
-        "rank": 77,
+        "rank": 83,
         "chips": 35100,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-08T00:34:56.650Z"
+        "updatedAt": "2026-06-08T00:41:21.729Z"
       },
       "eventHistory": [
         {
@@ -95,10 +95,10 @@
           "playersLeft": 87,
           "currentDay": "1",
           "status": "active",
-          "rank": 77,
+          "rank": 83,
           "chips": 35100,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-08T00:34:56.650Z"
+          "updatedAt": "2026-06-08T00:41:21.729Z"
         }
       ]
     },
@@ -175,7 +175,7 @@
     },
     {
       "slug": "event-19-high-roller",
-      "name": "Event #19: $25,000 High Roller No-Limit Hold’em",
+      "name": "Event #19: $25,000 High Roller No-Limit Hold’em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-high-roller/chips.htm",
       "playersLeft": 6,
       "totalEntries": null,
