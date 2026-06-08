@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T20:24:56.747Z",
+  "updatedAt": "2026-06-08T20:31:24.771Z",
   "teamScore": 47,
   "completedEvents": [
     "event-3-industry-employees",
@@ -55,13 +55,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 72,
+        "playersLeft": 71,
         "currentDay": "2",
         "status": "active",
         "rank": 4,
         "chips": 266000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-08T20:24:56.745Z"
+        "updatedAt": "2026-06-08T20:31:24.769Z"
       },
       "eventHistory": [
         {
@@ -71,13 +71,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 72,
+          "playersLeft": 71,
           "currentDay": "2",
           "status": "active",
           "rank": 4,
           "chips": 266000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-08T20:24:56.745Z"
+          "updatedAt": "2026-06-08T20:31:24.769Z"
         }
       ]
     },
@@ -146,7 +146,7 @@
       "slug": "event-22-big-o",
       "name": "Event #22: $1,500 Big O",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-22-big-o/chips.htm",
-      "playersLeft": 28,
+      "playersLeft": 25,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -173,7 +173,7 @@
       "slug": "event-26-2000-no-limit-holdem",
       "name": "Event #26: $2,000 No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-26-2000-no-limit-holdem/chips.htm",
-      "playersLeft": 121,
+      "playersLeft": 108,
       "totalEntries": null,
       "buyin": 2000,
       "completed": false
@@ -182,7 +182,7 @@
       "slug": "event-27-10000-dealers-choice-championship",
       "name": "Event #27: $10,000 Dealer's Choice Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-27-10000-dealers-choice-championship/chips.htm",
-      "playersLeft": 72,
+      "playersLeft": 71,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
@@ -200,7 +200,7 @@
       "slug": "event-29-50000-high-roller",
       "name": "Event #29: $50,000 High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-29-50000-high-roller/chips.htm",
-      "playersLeft": 41,
+      "playersLeft": 46,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
