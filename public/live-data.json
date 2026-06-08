@@ -1,9 +1,10 @@
 {
-  "updatedAt": "2026-06-08T07:30:29.364Z",
+  "updatedAt": "2026-06-08T07:36:53.601Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
     "event-19-high-roller",
+    "event-23-seven-card-stud-championship",
     "event-21-plo-hi-lo",
     "event-20-dealers-choice",
     "event-17-10000-no-limit-2-7-championship",
@@ -63,7 +64,7 @@
         "rank": 4,
         "chips": 266000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-08T07:30:29.362Z"
+        "updatedAt": "2026-06-08T07:36:53.599Z"
       },
       "eventHistory": [
         {
@@ -79,7 +80,7 @@
           "rank": 4,
           "chips": 266000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-08T07:30:29.362Z"
+          "updatedAt": "2026-06-08T07:36:53.599Z"
         }
       ]
     },
@@ -166,10 +167,10 @@
       "slug": "event-23-seven-card-stud-championship",
       "name": "Event #23: $10,000 Seven Card Stud Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-23-seven-card-stud-championship/chips.htm",
-      "playersLeft": 2,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 10000,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-24-high-roller",
