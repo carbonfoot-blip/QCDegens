@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T22:14:33.420Z",
+  "updatedAt": "2026-06-08T22:20:52.065Z",
   "teamScore": 47,
   "completedEvents": [
     "event-3-industry-employees",
@@ -61,7 +61,7 @@
         "rank": 2,
         "chips": 400000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-08T22:14:33.418Z"
+        "updatedAt": "2026-06-08T22:20:52.064Z"
       },
       "eventHistory": [
         {
@@ -77,7 +77,7 @@
           "rank": 2,
           "chips": 400000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-08T22:14:33.418Z"
+          "updatedAt": "2026-06-08T22:20:52.064Z"
         }
       ]
     },
@@ -137,7 +137,7 @@
       "slug": "event-18-monster-stack",
       "name": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
-      "playersLeft": 339,
+      "playersLeft": 314,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -153,7 +153,7 @@
     },
     {
       "slug": "event-24-high-roller",
-      "name": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
+      "name": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-24-high-roller/chips.htm",
       "playersLeft": 7,
       "totalEntries": null,
@@ -209,7 +209,7 @@
       "slug": "event-30-limit-holdem",
       "name": "Event #30: $1,500 Limit Hold’em 7-Handed",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-30-limit-holdem/chips.htm",
-      "playersLeft": null,
+      "playersLeft": 333,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
