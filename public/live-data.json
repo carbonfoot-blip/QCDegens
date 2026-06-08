@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T23:30:26.741Z",
+  "updatedAt": "2026-06-08T23:36:45.518Z",
   "teamScore": 47,
   "completedEvents": [
     "event-3-industry-employees",
@@ -58,10 +58,10 @@
         "playersLeft": 50,
         "currentDay": "2",
         "status": "active",
-        "rank": 5,
-        "chips": 340000,
+        "rank": 8,
+        "chips": 313000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-08T23:30:26.739Z"
+        "updatedAt": "2026-06-08T23:36:45.517Z"
       },
       "eventHistory": [
         {
@@ -74,10 +74,10 @@
           "playersLeft": 50,
           "currentDay": "2",
           "status": "active",
-          "rank": 5,
-          "chips": 340000,
+          "rank": 8,
+          "chips": 313000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-08T23:30:26.739Z"
+          "updatedAt": "2026-06-08T23:36:45.517Z"
         }
       ]
     },
@@ -137,7 +137,7 @@
       "slug": "event-18-monster-stack",
       "name": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
-      "playersLeft": 272,
+      "playersLeft": 257,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -146,7 +146,7 @@
       "slug": "event-22-big-o",
       "name": "Event #22: $1,500 Big O",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-22-big-o/chips.htm",
-      "playersLeft": 13,
+      "playersLeft": 11,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
