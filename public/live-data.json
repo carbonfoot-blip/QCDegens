@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T07:04:56.821Z",
+  "updatedAt": "2026-06-08T07:11:18.052Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -63,7 +63,7 @@
         "rank": 4,
         "chips": 266000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-08T07:04:56.820Z"
+        "updatedAt": "2026-06-08T07:11:18.050Z"
       },
       "eventHistory": [
         {
@@ -79,7 +79,7 @@
           "rank": 4,
           "chips": 266000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-08T07:04:56.820Z"
+          "updatedAt": "2026-06-08T07:11:18.050Z"
         }
       ]
     },
@@ -157,7 +157,7 @@
       "slug": "event-22-big-o",
       "name": "Event #22: $1,500 Big O",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-22-big-o/chips.htm",
-      "playersLeft": 31,
+      "playersLeft": 30,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
