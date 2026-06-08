@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T19:13:48.871Z",
+  "updatedAt": "2026-06-08T19:20:16.916Z",
   "teamScore": 47,
   "completedEvents": [
     "event-3-industry-employees",
@@ -28,10 +28,10 @@
         "playersLeft": 14,
         "currentDay": "1",
         "status": "active",
-        "rank": 6,
-        "chips": 300000,
+        "rank": 1,
+        "chips": 435000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-08T19:13:48.866Z"
+        "updatedAt": "2026-06-08T19:20:16.912Z"
       },
       "eventHistory": [
         {
@@ -44,10 +44,10 @@
           "playersLeft": 14,
           "currentDay": "1",
           "status": "active",
-          "rank": 6,
-          "chips": 300000,
+          "rank": 1,
+          "chips": 435000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-08T19:13:48.866Z"
+          "updatedAt": "2026-06-08T19:20:16.912Z"
         }
       ]
     },
@@ -91,7 +91,7 @@
         "rank": 4,
         "chips": 266000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-08T19:13:48.869Z"
+        "updatedAt": "2026-06-08T19:20:16.914Z"
       },
       "eventHistory": [
         {
@@ -107,7 +107,7 @@
           "rank": 4,
           "chips": 266000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-08T19:13:48.869Z"
+          "updatedAt": "2026-06-08T19:20:16.914Z"
         }
       ]
     },
@@ -167,7 +167,7 @@
       "slug": "event-18-monster-stack",
       "name": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
-      "playersLeft": 555,
+      "playersLeft": 534,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -221,7 +221,7 @@
       "slug": "event-26-2000-no-limit-holdem",
       "name": "Event #26: $2,000 No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-26-2000-no-limit-holdem/chips.htm",
-      "playersLeft": 160,
+      "playersLeft": 153,
       "totalEntries": null,
       "buyin": 2000,
       "completed": false
