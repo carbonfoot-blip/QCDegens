@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T09:04:40.049Z",
+  "updatedAt": "2026-06-08T09:10:57.080Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -64,7 +64,7 @@
         "rank": 4,
         "chips": 266000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-08T09:04:40.047Z"
+        "updatedAt": "2026-06-08T09:10:57.078Z"
       },
       "eventHistory": [
         {
@@ -80,7 +80,7 @@
           "rank": 4,
           "chips": 266000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-08T09:04:40.047Z"
+          "updatedAt": "2026-06-08T09:10:57.078Z"
         }
       ]
     },
@@ -185,7 +185,7 @@
       "slug": "event-25-500-freezeout",
       "name": "Event #25: $500 Freezeout No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-25-500-freezeout/chips.htm",
-      "playersLeft": null,
+      "playersLeft": 162,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
