@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T19:00:51.937Z",
+  "updatedAt": "2026-06-08T19:07:20.282Z",
   "teamScore": 47,
   "completedEvents": [
     "event-3-industry-employees",
@@ -18,8 +18,38 @@
       "pts2026": 23,
       "salary": 116,
       "cashes2026": 2,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-29-50000-high-roller",
+        "eventName": "Event #29: $50,000 High Roller No-Limit Hold'em",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-29-50000-high-roller/chips.htm",
+        "buyin": 50000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 14,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 7,
+        "chips": 300000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-08T19:07:20.278Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-29-50000-high-roller",
+          "eventName": "Event #29: $50,000 High Roller No-Limit Hold'em",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-29-50000-high-roller/chips.htm",
+          "buyin": 50000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 14,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 7,
+          "chips": 300000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-08T19:07:20.278Z"
+        }
+      ]
     },
     {
       "name": "Calvin Anderson",
@@ -61,7 +91,7 @@
         "rank": 4,
         "chips": 266000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-08T19:00:51.934Z"
+        "updatedAt": "2026-06-08T19:07:20.280Z"
       },
       "eventHistory": [
         {
@@ -77,7 +107,7 @@
           "rank": 4,
           "chips": 266000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-08T19:00:51.934Z"
+          "updatedAt": "2026-06-08T19:07:20.280Z"
         }
       ]
     },
@@ -137,7 +167,7 @@
       "slug": "event-18-monster-stack",
       "name": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
-      "playersLeft": 660,
+      "playersLeft": 555,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -182,7 +212,7 @@
       "slug": "event-25-500-freezeout",
       "name": "Event #25: $500 Freezeout No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-25-500-freezeout/chips.htm",
-      "playersLeft": 110,
+      "playersLeft": 100,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
@@ -209,7 +239,7 @@
       "slug": "event-28-600-deepstack-mixed",
       "name": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-28-600-deepstack-mixed/chips.htm",
-      "playersLeft": null,
+      "playersLeft": 1163,
       "totalEntries": null,
       "buyin": 600,
       "completed": false
@@ -218,7 +248,7 @@
       "slug": "event-29-50000-high-roller",
       "name": "Event #29: $50,000 High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-29-50000-high-roller/chips.htm",
-      "playersLeft": 11,
+      "playersLeft": 14,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
