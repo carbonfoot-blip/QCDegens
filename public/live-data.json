@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T19:26:45.557Z",
+  "updatedAt": "2026-06-08T19:33:13.554Z",
   "teamScore": 47,
   "completedEvents": [
     "event-3-industry-employees",
@@ -25,13 +25,13 @@
         "buyin": 50000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 14,
+        "playersLeft": 26,
         "currentDay": "1",
         "status": "active",
         "rank": 1,
-        "chips": 435000,
+        "chips": 430000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-08T19:26:45.554Z"
+        "updatedAt": "2026-06-08T19:33:13.550Z"
       },
       "eventHistory": [
         {
@@ -41,13 +41,13 @@
           "buyin": 50000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 14,
+          "playersLeft": 26,
           "currentDay": "1",
           "status": "active",
           "rank": 1,
-          "chips": 435000,
+          "chips": 430000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-08T19:26:45.554Z"
+          "updatedAt": "2026-06-08T19:33:13.550Z"
         }
       ]
     },
@@ -91,7 +91,7 @@
         "rank": 4,
         "chips": 266000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-08T19:26:45.555Z"
+        "updatedAt": "2026-06-08T19:33:13.551Z"
       },
       "eventHistory": [
         {
@@ -107,7 +107,7 @@
           "rank": 4,
           "chips": 266000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-08T19:26:45.555Z"
+          "updatedAt": "2026-06-08T19:33:13.551Z"
         }
       ]
     },
@@ -167,7 +167,7 @@
       "slug": "event-18-monster-stack",
       "name": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
-      "playersLeft": 519,
+      "playersLeft": 514,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -212,7 +212,7 @@
       "slug": "event-25-500-freezeout",
       "name": "Event #25: $500 Freezeout No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-25-500-freezeout/chips.htm",
-      "playersLeft": 113,
+      "playersLeft": 88,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
@@ -221,7 +221,7 @@
       "slug": "event-26-2000-no-limit-holdem",
       "name": "Event #26: $2,000 No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-26-2000-no-limit-holdem/chips.htm",
-      "playersLeft": 153,
+      "playersLeft": 148,
       "totalEntries": null,
       "buyin": 2000,
       "completed": false
@@ -248,7 +248,7 @@
       "slug": "event-29-50000-high-roller",
       "name": "Event #29: $50,000 High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-29-50000-high-roller/chips.htm",
-      "playersLeft": 14,
+      "playersLeft": 26,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
