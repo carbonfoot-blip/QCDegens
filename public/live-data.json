@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-08T06:52:08.006Z",
+  "updatedAt": "2026-06-08T06:58:34.934Z",
   "teamScore": 44,
   "completedEvents": [
     "event-3-industry-employees",
@@ -63,7 +63,7 @@
         "rank": 4,
         "chips": 266000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-08T06:52:08.004Z"
+        "updatedAt": "2026-06-08T06:58:34.932Z"
       },
       "eventHistory": [
         {
@@ -79,7 +79,7 @@
           "rank": 4,
           "chips": 266000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-08T06:52:08.004Z"
+          "updatedAt": "2026-06-08T06:58:34.932Z"
         }
       ]
     },
@@ -157,7 +157,7 @@
       "slug": "event-22-big-o",
       "name": "Event #22: $1,500 Big O",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-22-big-o/chips.htm",
-      "playersLeft": 36,
+      "playersLeft": 32,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -166,16 +166,16 @@
       "slug": "event-23-seven-card-stud-championship",
       "name": "Event #23: $10,000 Seven Card Stud Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-23-seven-card-stud-championship/chips.htm",
-      "playersLeft": 2,
+      "playersLeft": null,
       "totalEntries": null,
-      "buyin": 10000,
+      "buyin": null,
       "completed": false
     },
     {
       "slug": "event-24-high-roller",
       "name": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-24-high-roller/chips.htm",
-      "playersLeft": 9,
+      "playersLeft": 8,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
@@ -184,7 +184,7 @@
       "slug": "event-25-500-freezeout",
       "name": "Event #25: $500 Freezeout No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-25-500-freezeout/chips.htm",
-      "playersLeft": 244,
+      "playersLeft": null,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
