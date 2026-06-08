@@ -1,8 +1,15 @@
 {
-  "updatedAt": "2026-06-08T03:41:53.840Z",
+  "updatedAt": "2026-06-08T03:50:31.069Z",
   "teamScore": 44,
   "completedEvents": [
-    "event-3-industry-employees"
+    "event-3-industry-employees",
+    "event-21-plo-hi-lo",
+    "event-20-dealers-choice",
+    "event-17-10000-no-limit-2-7-championship",
+    "event-16-us-circuit-championship",
+    "event-15-deepstack",
+    "event-14-mixed-pot-limit-omaha-hi-lo",
+    "event-13-nlh"
   ],
   "players": [
     {
@@ -42,8 +49,38 @@
       "pts2026": 3,
       "salary": 27,
       "cashes2026": 3,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-27-10000-dealers-choice-championship",
+        "eventName": "Event #27: $10,000 Dealer's Choice Championship",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-27-10000-dealers-choice-championship/chips.htm",
+        "buyin": 10000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 78,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 57,
+        "chips": 60000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-08T03:50:31.068Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-27-10000-dealers-choice-championship",
+          "eventName": "Event #27: $10,000 Dealer's Choice Championship",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-27-10000-dealers-choice-championship/chips.htm",
+          "buyin": 10000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 78,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 57,
+          "chips": 60000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-08T03:50:31.068Z"
+        }
+      ]
     },
     {
       "name": "Ben Lamb",
@@ -96,5 +133,135 @@
       "eventHistory": []
     }
   ],
-  "activeEvents": []
+  "activeEvents": [
+    {
+      "slug": "event-18-monster-stack",
+      "name": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
+      "playersLeft": 1855,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": false
+    },
+    {
+      "slug": "event-19-high-roller",
+      "name": "Event #19: $25,000 High Roller No-Limit Hold’em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-19-high-roller/chips.htm",
+      "playersLeft": 2,
+      "totalEntries": null,
+      "buyin": 25000,
+      "completed": false
+    },
+    {
+      "slug": "event-22-big-o",
+      "name": "Event #22: $1,500 Big O",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-22-big-o/chips.htm",
+      "playersLeft": 69,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": false
+    },
+    {
+      "slug": "event-23-seven-card-stud-championship",
+      "name": "Event #23: $10,000 Seven Card Stud Championship",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-23-seven-card-stud-championship/chips.htm",
+      "playersLeft": 4,
+      "totalEntries": null,
+      "buyin": 10000,
+      "completed": false
+    },
+    {
+      "slug": "event-24-high-roller",
+      "name": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-24-high-roller/chips.htm",
+      "playersLeft": 15,
+      "totalEntries": null,
+      "buyin": 25000,
+      "completed": false
+    },
+    {
+      "slug": "event-25-500-freezeout",
+      "name": "Event #25: $500 Freezeout No-Limit Holdem",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-25-500-freezeout/chips.htm",
+      "completed": false
+    },
+    {
+      "slug": "event-26-2000-no-limit-holdem",
+      "name": "Event #26: $2,000 No-Limit Holdem",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-26-2000-no-limit-holdem/chips.htm",
+      "completed": false
+    },
+    {
+      "slug": "event-27-10000-dealers-choice-championship",
+      "name": "Event #27: $10,000 Dealer's Choice Championship",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-27-10000-dealers-choice-championship/chips.htm",
+      "playersLeft": 78,
+      "totalEntries": null,
+      "buyin": 10000,
+      "completed": false
+    },
+    {
+      "slug": "event-21-plo-hi-lo",
+      "name": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-21-plo-hi-lo/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": true
+    },
+    {
+      "slug": "event-20-dealers-choice",
+      "name": "Event #20: $1,500 Dealer's Choice",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": true
+    },
+    {
+      "slug": "event-17-10000-no-limit-2-7-championship",
+      "name": "Event #17: $10,000 No-Limit 2-7 Lowball Draw Championship",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-17-10000-no-limit-2-7-championship/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 10000,
+      "completed": true
+    },
+    {
+      "slug": "event-16-us-circuit-championship",
+      "name": "Event #16: $1,700 U.S. Circuit Championship No-Limit Holdem",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-16-us-circuit-championship/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1700,
+      "completed": true
+    },
+    {
+      "slug": "event-15-deepstack",
+      "name": "Event #15: $600 Deepstack Pot-Limit Omaha",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-15-deepstack/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 600,
+      "completed": true
+    },
+    {
+      "slug": "event-14-mixed-pot-limit-omaha-hi-lo",
+      "name": "Event #14: $1,500 Mixed: Pot-Limit Omaha Hi-Lo 8 or Better, Omaha Hi-Lo 8 or Better, \"Big O\"",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-14-mixed-pot-limit-omaha-hi-lo/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": true
+    },
+    {
+      "slug": "event-13-nlh",
+      "name": "Event #13: $1,500 6-Handed No-Limit Hold’em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-13-nlh/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": true
+    }
+  ]
 }
