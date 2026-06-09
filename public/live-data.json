@@ -1,8 +1,14 @@
 {
-  "updatedAt": "2026-06-09T14:03:33.139Z",
+  "updatedAt": "2026-06-09T14:10:05.102Z",
   "teamScore": 61,
   "completedEvents": [
-    "event-3-industry-employees"
+    "event-3-industry-employees",
+    "event-22-big-o",
+    "event-24-high-roller",
+    "event-25-500-freezeout",
+    "event-23-seven-card-stud-championship",
+    "event-21-plo-hi-lo",
+    "event-20-dealers-choice"
   ],
   "players": [
     {
@@ -12,8 +18,38 @@
       "pts2026": 23,
       "salary": 116,
       "cashes2026": 2,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-28-600-deepstack-mixed",
+        "eventName": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-28-600-deepstack-mixed/chips.htm",
+        "buyin": 600,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 132,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 4,
+        "chips": 2320000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-09T14:10:05.099Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-28-600-deepstack-mixed",
+          "eventName": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-28-600-deepstack-mixed/chips.htm",
+          "buyin": 600,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 132,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 4,
+          "chips": 2320000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-09T14:10:05.099Z"
+        }
+      ]
     },
     {
       "name": "Calvin Anderson",
@@ -22,8 +58,38 @@
       "pts2026": 1,
       "salary": 25,
       "cashes2026": 1,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-28-600-deepstack-mixed",
+        "eventName": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-28-600-deepstack-mixed/chips.htm",
+        "buyin": 600,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 132,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 24,
+        "chips": 1185000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-09T14:10:05.099Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-28-600-deepstack-mixed",
+          "eventName": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-28-600-deepstack-mixed/chips.htm",
+          "buyin": 600,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 132,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 24,
+          "chips": 1185000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-09T14:10:05.099Z"
+        }
+      ]
     },
     {
       "name": "Yuval Bronshtein",
@@ -96,5 +162,141 @@
       "eventHistory": []
     }
   ],
-  "activeEvents": []
+  "activeEvents": [
+    {
+      "slug": "event-18-monster-stack",
+      "name": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
+      "playersLeft": 80,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": false
+    },
+    {
+      "slug": "event-22-big-o",
+      "name": "Event #22: $1,500 Big O",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-22-big-o/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": true
+    },
+    {
+      "slug": "event-24-high-roller",
+      "name": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-24-high-roller/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 25000,
+      "completed": true
+    },
+    {
+      "slug": "event-25-500-freezeout",
+      "name": "Event #25: $500 Freezeout No-Limit Holdem",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-25-500-freezeout/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 500,
+      "completed": true
+    },
+    {
+      "slug": "event-26-2000-no-limit-holdem",
+      "name": "Event #26: $2,000 No-Limit Holdem",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-26-2000-no-limit-holdem/chips.htm",
+      "playersLeft": 12,
+      "totalEntries": null,
+      "buyin": 2000,
+      "completed": false
+    },
+    {
+      "slug": "event-27-10000-dealers-choice-championship",
+      "name": "Event #27: $10,000 Dealer's Choice Championship",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-27-10000-dealers-choice-championship/chips.htm",
+      "playersLeft": 11,
+      "totalEntries": null,
+      "buyin": 10000,
+      "completed": false
+    },
+    {
+      "slug": "event-28-600-deepstack-mixed",
+      "name": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-28-600-deepstack-mixed/chips.htm",
+      "playersLeft": 132,
+      "totalEntries": null,
+      "buyin": 600,
+      "completed": false
+    },
+    {
+      "slug": "event-29-50000-high-roller",
+      "name": "Event #29: $50,000 High Roller No-Limit Hold'em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-29-50000-high-roller/chips.htm",
+      "playersLeft": 41,
+      "totalEntries": null,
+      "buyin": 50000,
+      "completed": false
+    },
+    {
+      "slug": "event-30-limit-holdem",
+      "name": "Event #30: $1,500 Limit Hold’em 7-Handed",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-30-limit-holdem/chips.htm",
+      "playersLeft": 105,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": false
+    },
+    {
+      "slug": "event-31-super-turbo-bounty",
+      "name": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-31-super-turbo-bounty/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": false
+    },
+    {
+      "slug": "event-32-nlh",
+      "name": "Event #32: $3,000 No-Limit Holdem",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-32-nlh/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 3000,
+      "completed": false
+    },
+    {
+      "slug": "event-33-plo-hi-lo-championship",
+      "name": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-33-plo-hi-lo-championship/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 10000,
+      "completed": false
+    },
+    {
+      "slug": "event-23-seven-card-stud-championship",
+      "name": "Event #23: $10,000 Seven Card Stud Championship",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-23-seven-card-stud-championship/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 10000,
+      "completed": true
+    },
+    {
+      "slug": "event-21-plo-hi-lo",
+      "name": "Event #21: $1,500 Pot-Limit Omaha Hi-Lo 8 or Better",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-21-plo-hi-lo/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": true
+    },
+    {
+      "slug": "event-20-dealers-choice",
+      "name": "Event #20: $1,500 Dealer's Choice",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-20-dealers-choice/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": true
+    }
+  ]
 }
