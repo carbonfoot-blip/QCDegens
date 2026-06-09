@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-09T05:15:48.701Z",
-  "teamScore": 48,
+  "updatedAt": "2026-06-09T05:22:04.544Z",
+  "teamScore": 49,
   "completedEvents": [
     "event-3-industry-employees",
     "event-23-seven-card-stud-championship",
@@ -61,7 +61,7 @@
         "rank": 16,
         "chips": 195000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T05:15:48.700Z"
+        "updatedAt": "2026-06-09T05:22:04.543Z"
       },
       "eventHistory": [
         {
@@ -77,7 +77,7 @@
           "rank": 16,
           "chips": 195000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T05:15:48.700Z"
+          "updatedAt": "2026-06-09T05:22:04.543Z"
         }
       ]
     },
@@ -95,9 +95,9 @@
       "name": "Shawn Buchanan",
       "slug": "shawn-buchanan",
       "isBonus": false,
-      "pts2026": 15,
+      "pts2026": 16,
       "salary": 2,
-      "cashes2026": 5,
+      "cashes2026": 6,
       "liveStatus": null,
       "eventHistory": []
     },
