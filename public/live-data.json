@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T22:51:56.232Z",
+  "updatedAt": "2026-06-09T22:58:09.471Z",
   "teamScore": 95,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 13,
         "chips": 2805000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T22:51:56.229Z"
+        "updatedAt": "2026-06-09T22:58:09.469Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 13,
           "chips": 2805000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T22:51:56.229Z"
+          "updatedAt": "2026-06-09T22:58:09.469Z"
         }
       ]
     },
@@ -78,10 +78,10 @@
         "playersLeft": 105,
         "currentDay": "1",
         "status": "active",
-        "rank": 22,
+        "rank": 23,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T22:51:56.230Z"
+        "updatedAt": "2026-06-09T22:58:09.470Z"
       },
       "eventHistory": [
         {
@@ -94,10 +94,10 @@
           "playersLeft": 105,
           "currentDay": "1",
           "status": "active",
-          "rank": 22,
+          "rank": 23,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T22:51:56.230Z"
+          "updatedAt": "2026-06-09T22:58:09.470Z"
         }
       ]
     },
@@ -176,7 +176,7 @@
       "slug": "event-26-2000-no-limit-holdem",
       "name": "Event #26: $2,000 No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-26-2000-no-limit-holdem/chips.htm",
-      "playersLeft": 7,
+      "playersLeft": 6,
       "totalEntries": null,
       "buyin": 2000,
       "completed": false
