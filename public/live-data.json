@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T06:24:37.606Z",
+  "updatedAt": "2026-06-09T06:30:52.551Z",
   "teamScore": 49,
   "completedEvents": [
     "event-3-industry-employees",
@@ -62,7 +62,7 @@
         "rank": 16,
         "chips": 130000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T06:24:37.605Z"
+        "updatedAt": "2026-06-09T06:30:52.549Z"
       },
       "eventHistory": [
         {
@@ -78,7 +78,7 @@
           "rank": 16,
           "chips": 130000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T06:24:37.605Z"
+          "updatedAt": "2026-06-09T06:30:52.549Z"
         }
       ]
     },
@@ -138,7 +138,7 @@
       "slug": "event-18-monster-stack",
       "name": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
-      "playersLeft": 81,
+      "playersLeft": 80,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -174,7 +174,7 @@
       "slug": "event-26-2000-no-limit-holdem",
       "name": "Event #26: $2,000 No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-26-2000-no-limit-holdem/chips.htm",
-      "playersLeft": 16,
+      "playersLeft": 13,
       "totalEntries": null,
       "buyin": 2000,
       "completed": false
@@ -192,7 +192,7 @@
       "slug": "event-28-600-deepstack-mixed",
       "name": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-28-600-deepstack-mixed/chips.htm",
-      "playersLeft": 256,
+      "playersLeft": 193,
       "totalEntries": null,
       "buyin": 600,
       "completed": false
@@ -210,7 +210,7 @@
       "slug": "event-30-limit-holdem",
       "name": "Event #30: $1,500 Limit Hold’em 7-Handed",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-30-limit-holdem/chips.htm",
-      "playersLeft": 185,
+      "playersLeft": 157,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
