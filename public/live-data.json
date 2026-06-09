@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T20:26:51.278Z",
+  "updatedAt": "2026-06-09T20:33:16.306Z",
   "teamScore": 61,
   "completedEvents": [
     "event-3-industry-employees",
@@ -28,10 +28,10 @@
         "playersLeft": 60,
         "currentDay": "2",
         "status": "active",
-        "rank": 7,
+        "rank": 8,
         "chips": 2775000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T20:26:51.275Z"
+        "updatedAt": "2026-06-09T20:33:16.304Z"
       },
       "eventHistory": [
         {
@@ -44,10 +44,10 @@
           "playersLeft": 60,
           "currentDay": "2",
           "status": "active",
-          "rank": 7,
+          "rank": 8,
           "chips": 2775000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T20:26:51.275Z"
+          "updatedAt": "2026-06-09T20:33:16.304Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 22,
         "chips": 1185000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T20:26:51.276Z"
+        "updatedAt": "2026-06-09T20:33:16.304Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 22,
           "chips": 1185000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T20:26:51.276Z"
+          "updatedAt": "2026-06-09T20:33:16.304Z"
         }
       ]
     },
@@ -212,7 +212,7 @@
       "slug": "event-30-limit-holdem",
       "name": "Event #30: $1,500 Limit Hold’em 7-Handed",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-30-limit-holdem/chips.htm",
-      "playersLeft": 105,
+      "playersLeft": 89,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
