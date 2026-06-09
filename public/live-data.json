@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T06:49:32.570Z",
+  "updatedAt": "2026-06-09T06:55:44.998Z",
   "teamScore": 49,
   "completedEvents": [
     "event-3-industry-employees",
@@ -118,7 +118,7 @@
       "slug": "event-22-big-o",
       "name": "Event #22: $1,500 Big O",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-22-big-o/chips.htm",
-      "playersLeft": 5,
+      "playersLeft": 4,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -154,7 +154,7 @@
       "slug": "event-27-10000-dealers-choice-championship",
       "name": "Event #27: $10,000 Dealer's Choice Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-27-10000-dealers-choice-championship/chips.htm",
-      "playersLeft": 15,
+      "playersLeft": 14,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
