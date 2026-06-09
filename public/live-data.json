@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T18:50:06.806Z",
+  "updatedAt": "2026-06-09T18:56:36.340Z",
   "teamScore": 61,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 14,
         "chips": 1650000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T18:50:06.803Z"
+        "updatedAt": "2026-06-09T18:56:36.337Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 14,
           "chips": 1650000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T18:50:06.803Z"
+          "updatedAt": "2026-06-09T18:56:36.337Z"
         }
       ]
     },
@@ -68,10 +68,10 @@
         "playersLeft": 132,
         "currentDay": "2",
         "status": "active",
-        "rank": 26,
+        "rank": 25,
         "chips": 1185000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T18:50:06.803Z"
+        "updatedAt": "2026-06-09T18:56:36.337Z"
       },
       "eventHistory": [
         {
@@ -84,10 +84,10 @@
           "playersLeft": 132,
           "currentDay": "2",
           "status": "active",
-          "rank": 26,
+          "rank": 25,
           "chips": 1185000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T18:50:06.803Z"
+          "updatedAt": "2026-06-09T18:56:36.337Z"
         }
       ]
     },
@@ -167,7 +167,7 @@
       "slug": "event-18-monster-stack",
       "name": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
-      "playersLeft": 74,
+      "playersLeft": 67,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
