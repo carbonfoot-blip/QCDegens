@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T20:20:27.029Z",
+  "updatedAt": "2026-06-09T20:26:51.278Z",
   "teamScore": 61,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 7,
         "chips": 2775000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T20:20:27.026Z"
+        "updatedAt": "2026-06-09T20:26:51.275Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 7,
           "chips": 2775000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T20:20:27.026Z"
+          "updatedAt": "2026-06-09T20:26:51.275Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 22,
         "chips": 1185000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T20:20:27.026Z"
+        "updatedAt": "2026-06-09T20:26:51.276Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 22,
           "chips": 1185000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T20:20:27.026Z"
+          "updatedAt": "2026-06-09T20:26:51.276Z"
         }
       ]
     },
@@ -185,7 +185,7 @@
       "slug": "event-27-10000-dealers-choice-championship",
       "name": "Event #27: $10,000 Dealer's Choice Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-27-10000-dealers-choice-championship/chips.htm",
-      "playersLeft": 10,
+      "playersLeft": 9,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
@@ -203,7 +203,7 @@
       "slug": "event-29-50000-high-roller",
       "name": "Event #29: $50,000 High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-29-50000-high-roller/chips.htm",
-      "playersLeft": 38,
+      "playersLeft": 42,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
