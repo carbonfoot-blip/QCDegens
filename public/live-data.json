@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T22:14:34.905Z",
+  "updatedAt": "2026-06-09T22:20:47.700Z",
   "teamScore": 95,
   "completedEvents": [
     "event-3-industry-employees",
@@ -28,10 +28,10 @@
         "playersLeft": 26,
         "currentDay": "2",
         "status": "active",
-        "rank": 13,
+        "rank": 14,
         "chips": 2805000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T22:14:34.903Z"
+        "updatedAt": "2026-06-09T22:20:47.697Z"
       },
       "eventHistory": [
         {
@@ -44,10 +44,10 @@
           "playersLeft": 26,
           "currentDay": "2",
           "status": "active",
-          "rank": 13,
+          "rank": 14,
           "chips": 2805000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T22:14:34.903Z"
+          "updatedAt": "2026-06-09T22:20:47.697Z"
         }
       ]
     },
@@ -68,10 +68,10 @@
         "playersLeft": 26,
         "currentDay": "2",
         "status": "active",
-        "rank": 22,
+        "rank": 23,
         "chips": 1600000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T22:14:34.903Z"
+        "updatedAt": "2026-06-09T22:20:47.698Z"
       },
       "eventHistory": [
         {
@@ -84,10 +84,10 @@
           "playersLeft": 26,
           "currentDay": "2",
           "status": "active",
-          "rank": 22,
+          "rank": 23,
           "chips": 1600000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T22:14:34.903Z"
+          "updatedAt": "2026-06-09T22:20:47.698Z"
         }
       ]
     },
@@ -167,7 +167,7 @@
       "slug": "event-18-monster-stack",
       "name": "Event #18: $1,500 Monster Stack No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
-      "playersLeft": 34,
+      "playersLeft": 33,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -185,7 +185,7 @@
       "slug": "event-27-10000-dealers-choice-championship",
       "name": "Event #27: $10,000 Dealer's Choice Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-27-10000-dealers-choice-championship/chips.htm",
-      "playersLeft": 8,
+      "playersLeft": 7,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
@@ -212,7 +212,7 @@
       "slug": "event-30-limit-holdem",
       "name": "Event #30: $1,500 Limit Hold’em 7-Handed",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-30-limit-holdem/chips.htm",
-      "playersLeft": 60,
+      "playersLeft": 57,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
