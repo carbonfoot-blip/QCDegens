@@ -1,8 +1,9 @@
 {
-  "updatedAt": "2026-06-09T06:30:52.551Z",
+  "updatedAt": "2026-06-09T06:37:05.614Z",
   "teamScore": 49,
   "completedEvents": [
     "event-3-industry-employees",
+    "event-24-high-roller",
     "event-25-500-freezeout",
     "event-23-seven-card-stud-championship",
     "event-21-plo-hi-lo",
@@ -62,7 +63,7 @@
         "rank": 16,
         "chips": 130000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T06:30:52.549Z"
+        "updatedAt": "2026-06-09T06:37:05.613Z"
       },
       "eventHistory": [
         {
@@ -78,7 +79,7 @@
           "rank": 16,
           "chips": 130000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T06:30:52.549Z"
+          "updatedAt": "2026-06-09T06:37:05.613Z"
         }
       ]
     },
@@ -147,7 +148,7 @@
       "slug": "event-22-big-o",
       "name": "Event #22: $1,500 Big O",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-22-big-o/chips.htm",
-      "playersLeft": 6,
+      "playersLeft": 5,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -156,10 +157,10 @@
       "slug": "event-24-high-roller",
       "name": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-24-high-roller/chips.htm",
-      "playersLeft": 2,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 25000,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-25-500-freezeout",
