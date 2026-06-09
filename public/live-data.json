@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T07:45:30.896Z",
+  "updatedAt": "2026-06-09T07:51:45.701Z",
   "teamScore": 61,
   "completedEvents": [
     "event-3-industry-employees",
@@ -21,8 +21,38 @@
       "pts2026": 23,
       "salary": 116,
       "cashes2026": 2,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-28-600-deepstack-mixed",
+        "eventName": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-28-600-deepstack-mixed/chips.htm",
+        "buyin": 600,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 132,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 4,
+        "chips": 2320000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-09T07:51:45.698Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-28-600-deepstack-mixed",
+          "eventName": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-28-600-deepstack-mixed/chips.htm",
+          "buyin": 600,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 132,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 4,
+          "chips": 2320000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-09T07:51:45.698Z"
+        }
+      ]
     },
     {
       "name": "Calvin Anderson",
@@ -31,8 +61,38 @@
       "pts2026": 1,
       "salary": 25,
       "cashes2026": 1,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-28-600-deepstack-mixed",
+        "eventName": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-28-600-deepstack-mixed/chips.htm",
+        "buyin": 600,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 132,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 24,
+        "chips": 1185000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-09T07:51:45.699Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-28-600-deepstack-mixed",
+          "eventName": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-28-600-deepstack-mixed/chips.htm",
+          "buyin": 600,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 132,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 24,
+          "chips": 1185000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-09T07:51:45.699Z"
+        }
+      ]
     },
     {
       "name": "Yuval Bronshtein",
