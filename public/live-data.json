@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-09T21:18:07.326Z",
-  "teamScore": 61,
+  "updatedAt": "2026-06-09T21:24:24.388Z",
+  "teamScore": 95,
   "completedEvents": [
     "event-3-industry-employees",
     "event-25-500-freezeout",
@@ -28,10 +28,10 @@
         "playersLeft": 39,
         "currentDay": "2",
         "status": "active",
-        "rank": 9,
+        "rank": 11,
         "chips": 2775000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T21:18:07.324Z"
+        "updatedAt": "2026-06-09T21:24:24.385Z"
       },
       "eventHistory": [
         {
@@ -44,10 +44,10 @@
           "playersLeft": 39,
           "currentDay": "2",
           "status": "active",
-          "rank": 9,
+          "rank": 11,
           "chips": 2775000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T21:18:07.324Z"
+          "updatedAt": "2026-06-09T21:24:24.385Z"
         }
       ]
     },
@@ -55,9 +55,9 @@
       "name": "Calvin Anderson",
       "slug": "calvin-anderson",
       "isBonus": false,
-      "pts2026": 1,
+      "pts2026": 35,
       "salary": 25,
-      "cashes2026": 1,
+      "cashes2026": 2,
       "liveStatus": {
         "eventSlug": "event-28-600-deepstack-mixed",
         "eventName": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
@@ -68,10 +68,10 @@
         "playersLeft": 39,
         "currentDay": "2",
         "status": "active",
-        "rank": 17,
+        "rank": 19,
         "chips": 1600000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T21:18:07.324Z"
+        "updatedAt": "2026-06-09T21:24:24.386Z"
       },
       "eventHistory": [
         {
@@ -84,10 +84,10 @@
           "playersLeft": 39,
           "currentDay": "2",
           "status": "active",
-          "rank": 17,
+          "rank": 19,
           "chips": 1600000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T21:18:07.324Z"
+          "updatedAt": "2026-06-09T21:24:24.386Z"
         }
       ]
     },
@@ -221,7 +221,7 @@
       "slug": "event-31-super-turbo-bounty",
       "name": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-31-super-turbo-bounty/chips.htm",
-      "playersLeft": 1131,
+      "playersLeft": 904,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
