@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T21:55:55.298Z",
+  "updatedAt": "2026-06-09T22:02:08.535Z",
   "teamScore": 95,
   "completedEvents": [
     "event-3-industry-employees",
@@ -28,10 +28,10 @@
         "playersLeft": 31,
         "currentDay": "2",
         "status": "active",
-        "rank": 12,
-        "chips": 2775000,
+        "rank": 11,
+        "chips": 2805000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T21:55:55.296Z"
+        "updatedAt": "2026-06-09T22:02:08.532Z"
       },
       "eventHistory": [
         {
@@ -44,10 +44,10 @@
           "playersLeft": 31,
           "currentDay": "2",
           "status": "active",
-          "rank": 12,
-          "chips": 2775000,
+          "rank": 11,
+          "chips": 2805000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T21:55:55.296Z"
+          "updatedAt": "2026-06-09T22:02:08.532Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 21,
         "chips": 1600000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T21:55:55.297Z"
+        "updatedAt": "2026-06-09T22:02:08.533Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 21,
           "chips": 1600000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T21:55:55.297Z"
+          "updatedAt": "2026-06-09T22:02:08.533Z"
         }
       ]
     },
@@ -203,7 +203,7 @@
       "slug": "event-29-50000-high-roller",
       "name": "Event #29: $50,000 High Roller No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-29-50000-high-roller/chips.htm",
-      "playersLeft": 72,
+      "playersLeft": 66,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
@@ -239,7 +239,7 @@
       "slug": "event-33-plo-hi-lo-championship",
       "name": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-33-plo-hi-lo-championship/chips.htm",
-      "playersLeft": 73,
+      "playersLeft": 89,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
