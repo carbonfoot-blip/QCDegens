@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T06:43:18.515Z",
+  "updatedAt": "2026-06-09T06:49:32.570Z",
   "teamScore": 49,
   "completedEvents": [
     "event-3-industry-employees",
@@ -50,38 +50,8 @@
       "pts2026": 4,
       "salary": 27,
       "cashes2026": 4,
-      "liveStatus": {
-        "eventSlug": "event-27-10000-dealers-choice-championship",
-        "eventName": "Event #27: $10,000 Dealer's Choice Championship",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-27-10000-dealers-choice-championship/chips.htm",
-        "buyin": 10000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 16,
-        "currentDay": "2",
-        "status": "active",
-        "rank": 15,
-        "chips": 130000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T06:43:18.514Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-27-10000-dealers-choice-championship",
-          "eventName": "Event #27: $10,000 Dealer's Choice Championship",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-27-10000-dealers-choice-championship/chips.htm",
-          "buyin": 10000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 16,
-          "currentDay": "2",
-          "status": "active",
-          "rank": 15,
-          "chips": 130000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T06:43:18.514Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Ben Lamb",
@@ -175,7 +145,7 @@
       "slug": "event-26-2000-no-limit-holdem",
       "name": "Event #26: $2,000 No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-26-2000-no-limit-holdem/chips.htm",
-      "playersLeft": 13,
+      "playersLeft": 12,
       "totalEntries": null,
       "buyin": 2000,
       "completed": false
@@ -184,7 +154,7 @@
       "slug": "event-27-10000-dealers-choice-championship",
       "name": "Event #27: $10,000 Dealer's Choice Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-27-10000-dealers-choice-championship/chips.htm",
-      "playersLeft": 16,
+      "playersLeft": 15,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
