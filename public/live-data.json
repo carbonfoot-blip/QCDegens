@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T23:35:25.675Z",
+  "updatedAt": "2026-06-09T23:41:39.351Z",
   "teamScore": 95,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 11,
         "chips": 2805000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T23:35:25.672Z"
+        "updatedAt": "2026-06-09T23:41:39.348Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 11,
           "chips": 2805000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T23:35:25.672Z"
+          "updatedAt": "2026-06-09T23:41:39.348Z"
         }
       ]
     },
@@ -78,10 +78,10 @@
         "playersLeft": 117,
         "currentDay": "1",
         "status": "active",
-        "rank": 39,
+        "rank": 40,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T23:35:25.673Z"
+        "updatedAt": "2026-06-09T23:41:39.349Z"
       },
       "eventHistory": [
         {
@@ -94,10 +94,10 @@
           "playersLeft": 117,
           "currentDay": "1",
           "status": "active",
-          "rank": 39,
+          "rank": 40,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T23:35:25.673Z"
+          "updatedAt": "2026-06-09T23:41:39.349Z"
         }
       ]
     },
@@ -212,7 +212,7 @@
       "slug": "event-30-limit-holdem",
       "name": "Event #30: $1,500 Limit Hold’em 7-Handed",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-30-limit-holdem/chips.htm",
-      "playersLeft": 43,
+      "playersLeft": 39,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -221,7 +221,7 @@
       "slug": "event-31-super-turbo-bounty",
       "name": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-31-super-turbo-bounty/chips.htm",
-      "playersLeft": 343,
+      "playersLeft": 337,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
