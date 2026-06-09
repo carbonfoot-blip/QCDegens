@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-09T06:55:44.998Z",
-  "teamScore": 49,
+  "updatedAt": "2026-06-09T07:01:57.686Z",
+  "teamScore": 61,
   "completedEvents": [
     "event-3-industry-employees",
     "event-24-high-roller",
@@ -47,9 +47,9 @@
       "name": "Matt Glantz",
       "slug": "matt-glantz",
       "isBonus": false,
-      "pts2026": 4,
+      "pts2026": 15,
       "salary": 27,
-      "cashes2026": 4,
+      "cashes2026": 5,
       "liveStatus": null,
       "eventHistory": []
     },
@@ -87,9 +87,9 @@
       "name": "John Riordan",
       "slug": "john-riordan",
       "isBonus": false,
-      "pts2026": 2,
+      "pts2026": 3,
       "salary": 12,
-      "cashes2026": 2,
+      "cashes2026": 3,
       "liveStatus": null,
       "eventHistory": []
     },
@@ -125,7 +125,7 @@
     },
     {
       "slug": "event-24-high-roller",
-      "name": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
+      "name": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-24-high-roller/chips.htm",
       "playersLeft": 1,
       "totalEntries": null,
