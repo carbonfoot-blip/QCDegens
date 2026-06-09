@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T22:20:47.700Z",
+  "updatedAt": "2026-06-09T22:26:59.894Z",
   "teamScore": 95,
   "completedEvents": [
     "event-3-industry-employees",
@@ -25,13 +25,13 @@
         "buyin": 600,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 26,
+        "playersLeft": 24,
         "currentDay": "2",
         "status": "active",
-        "rank": 14,
+        "rank": 13,
         "chips": 2805000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T22:20:47.697Z"
+        "updatedAt": "2026-06-09T22:26:59.891Z"
       },
       "eventHistory": [
         {
@@ -41,13 +41,13 @@
           "buyin": 600,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 26,
+          "playersLeft": 24,
           "currentDay": "2",
           "status": "active",
-          "rank": 14,
+          "rank": 13,
           "chips": 2805000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T22:20:47.697Z"
+          "updatedAt": "2026-06-09T22:26:59.891Z"
         }
       ]
     },
@@ -65,13 +65,13 @@
         "buyin": 600,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 26,
+        "playersLeft": 24,
         "currentDay": "2",
         "status": "active",
         "rank": 23,
         "chips": 1600000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T22:20:47.698Z"
+        "updatedAt": "2026-06-09T22:26:59.892Z"
       },
       "eventHistory": [
         {
@@ -81,13 +81,13 @@
           "buyin": 600,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 26,
+          "playersLeft": 24,
           "currentDay": "2",
           "status": "active",
           "rank": 23,
           "chips": 1600000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T22:20:47.698Z"
+          "updatedAt": "2026-06-09T22:26:59.892Z"
         }
       ]
     },
@@ -194,7 +194,7 @@
       "slug": "event-28-600-deepstack-mixed",
       "name": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-28-600-deepstack-mixed/chips.htm",
-      "playersLeft": 26,
+      "playersLeft": 24,
       "totalEntries": null,
       "buyin": 600,
       "completed": false
@@ -203,7 +203,7 @@
       "slug": "event-29-50000-high-roller",
       "name": "Event #29: $50,000 High Roller No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-29-50000-high-roller/chips.htm",
-      "playersLeft": 56,
+      "playersLeft": 53,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
