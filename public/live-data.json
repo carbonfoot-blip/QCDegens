@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-09T17:45:09.682Z",
+  "updatedAt": "2026-06-09T17:51:38.159Z",
   "teamScore": 61,
   "completedEvents": [
     "event-3-industry-employees",
@@ -26,12 +26,12 @@
         "totalEntries": null,
         "prizePool": null,
         "playersLeft": 132,
-        "currentDay": "1",
+        "currentDay": "2",
         "status": "active",
         "rank": 4,
         "chips": 2320000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T17:45:09.679Z"
+        "updatedAt": "2026-06-09T17:51:38.156Z"
       },
       "eventHistory": [
         {
@@ -42,12 +42,12 @@
           "totalEntries": null,
           "prizePool": null,
           "playersLeft": 132,
-          "currentDay": "1",
+          "currentDay": "2",
           "status": "active",
           "rank": 4,
           "chips": 2320000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T17:45:09.679Z"
+          "updatedAt": "2026-06-09T17:51:38.156Z"
         }
       ]
     },
@@ -66,12 +66,12 @@
         "totalEntries": null,
         "prizePool": null,
         "playersLeft": 132,
-        "currentDay": "1",
+        "currentDay": "2",
         "status": "active",
         "rank": 24,
         "chips": 1185000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-09T17:45:09.679Z"
+        "updatedAt": "2026-06-09T17:51:38.156Z"
       },
       "eventHistory": [
         {
@@ -82,12 +82,12 @@
           "totalEntries": null,
           "prizePool": null,
           "playersLeft": 132,
-          "currentDay": "1",
+          "currentDay": "2",
           "status": "active",
           "rank": 24,
           "chips": 1185000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-09T17:45:09.679Z"
+          "updatedAt": "2026-06-09T17:51:38.156Z"
         }
       ]
     },
@@ -221,7 +221,7 @@
       "slug": "event-31-super-turbo-bounty",
       "name": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-31-super-turbo-bounty/chips.htm",
-      "playersLeft": null,
+      "playersLeft": 1131,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
