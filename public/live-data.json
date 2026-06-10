@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T00:12:44.672Z",
+  "updatedAt": "2026-06-10T00:18:57.388Z",
   "teamScore": 95,
   "completedEvents": [
     "event-3-industry-employees",
@@ -25,13 +25,13 @@
         "buyin": 600,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 14,
+        "playersLeft": 12,
         "currentDay": "2",
         "status": "active",
-        "rank": 8,
+        "rank": 7,
         "chips": 5700000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-10T00:12:44.670Z"
+        "updatedAt": "2026-06-10T00:18:57.386Z"
       },
       "eventHistory": [
         {
@@ -41,13 +41,13 @@
           "buyin": 600,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 14,
+          "playersLeft": 12,
           "currentDay": "2",
           "status": "active",
-          "rank": 8,
+          "rank": 7,
           "chips": 5700000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-10T00:12:44.670Z"
+          "updatedAt": "2026-06-10T00:18:57.386Z"
         }
       ]
     },
@@ -81,7 +81,7 @@
         "rank": 43,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-10T00:12:44.671Z"
+        "updatedAt": "2026-06-10T00:18:57.386Z"
       },
       "eventHistory": [
         {
@@ -97,7 +97,7 @@
           "rank": 43,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-10T00:12:44.671Z"
+          "updatedAt": "2026-06-10T00:18:57.386Z"
         }
       ]
     },
@@ -176,7 +176,7 @@
       "slug": "event-26-2000-no-limit-holdem",
       "name": "Event #26: $2,000 No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-26-2000-no-limit-holdem/chips.htm",
-      "playersLeft": 5,
+      "playersLeft": 4,
       "totalEntries": null,
       "buyin": 2000,
       "completed": false
@@ -194,7 +194,7 @@
       "slug": "event-28-600-deepstack-mixed",
       "name": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-28-600-deepstack-mixed/chips.htm",
-      "playersLeft": 14,
+      "playersLeft": 12,
       "totalEntries": null,
       "buyin": 600,
       "completed": false
@@ -221,7 +221,7 @@
       "slug": "event-31-super-turbo-bounty",
       "name": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-31-super-turbo-bounty/chips.htm",
-      "playersLeft": 319,
+      "playersLeft": 260,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
