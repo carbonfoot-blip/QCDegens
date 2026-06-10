@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-10T01:15:10.803Z",
-  "teamScore": 95,
+  "updatedAt": "2026-06-10T01:21:27.060Z",
+  "teamScore": 96,
   "completedEvents": [
     "event-3-industry-employees",
     "event-25-500-freezeout",
@@ -31,7 +31,7 @@
         "rank": 7,
         "chips": 4650000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-10T01:15:10.801Z"
+        "updatedAt": "2026-06-10T01:21:27.058Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 7,
           "chips": 4650000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-10T01:15:10.801Z"
+          "updatedAt": "2026-06-10T01:21:27.058Z"
         }
       ]
     },
@@ -75,13 +75,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 140,
+        "playersLeft": 138,
         "currentDay": "1",
         "status": "active",
-        "rank": 44,
+        "rank": 45,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-10T01:15:10.802Z"
+        "updatedAt": "2026-06-10T01:21:27.058Z"
       },
       "eventHistory": [
         {
@@ -91,13 +91,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 140,
+          "playersLeft": 138,
           "currentDay": "1",
           "status": "active",
-          "rank": 44,
+          "rank": 45,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-10T01:15:10.802Z"
+          "updatedAt": "2026-06-10T01:21:27.058Z"
         }
       ]
     },
@@ -108,8 +108,38 @@
       "pts2026": 15,
       "salary": 27,
       "cashes2026": 5,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-31-super-turbo-bounty",
+        "eventName": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-31-super-turbo-bounty/chips.htm",
+        "buyin": 1500,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 150,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 5,
+        "chips": 730000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-10T01:21:27.059Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-31-super-turbo-bounty",
+          "eventName": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-31-super-turbo-bounty/chips.htm",
+          "buyin": 1500,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 150,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 5,
+          "chips": 730000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-10T01:21:27.059Z"
+        }
+      ]
     },
     {
       "name": "Ben Lamb",
@@ -125,9 +155,9 @@
       "name": "Shawn Buchanan",
       "slug": "shawn-buchanan",
       "isBonus": false,
-      "pts2026": 16,
+      "pts2026": 17,
       "salary": 2,
-      "cashes2026": 6,
+      "cashes2026": 7,
       "liveStatus": null,
       "eventHistory": []
     },
@@ -239,7 +269,7 @@
       "slug": "event-33-plo-hi-lo-championship",
       "name": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-33-plo-hi-lo-championship/chips.htm",
-      "playersLeft": 140,
+      "playersLeft": 138,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
