@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T23:37:37.128Z",
+  "updatedAt": "2026-06-10T23:43:55.830Z",
   "teamScore": 138,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 32,
         "chips": 207000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-10T23:37:37.124Z"
+        "updatedAt": "2026-06-10T23:43:55.826Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 32,
           "chips": 207000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-10T23:37:37.124Z"
+          "updatedAt": "2026-06-10T23:43:55.826Z"
         }
       ]
     },
@@ -88,10 +88,10 @@
         "playersLeft": 113,
         "currentDay": "2",
         "status": "active",
-        "rank": 145,
+        "rank": 144,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-10T23:37:37.126Z"
+        "updatedAt": "2026-06-10T23:43:55.827Z"
       },
       "eventHistory": [
         {
@@ -104,10 +104,10 @@
           "playersLeft": 113,
           "currentDay": "2",
           "status": "active",
-          "rank": 145,
+          "rank": 144,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-10T23:37:37.126Z"
+          "updatedAt": "2026-06-10T23:43:55.827Z"
         }
       ]
     },
@@ -185,7 +185,7 @@
       "slug": "event-30-limit-holdem",
       "name": "Event #30: $1,500 Limit Hold’em 7-Handed",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-30-limit-holdem/chips.htm",
-      "playersLeft": 7,
+      "playersLeft": 6,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -230,7 +230,7 @@
       "slug": "event-36-high-roller",
       "name": "Event #36: $100,000 High Roller No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-36-high-roller/chips.htm",
-      "playersLeft": 28,
+      "playersLeft": 29,
       "totalEntries": null,
       "buyin": 100000,
       "completed": false
