@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-10T01:59:02.880Z",
-  "teamScore": 96,
+  "updatedAt": "2026-06-10T02:05:18.329Z",
+  "teamScore": 137,
   "completedEvents": [
     "event-3-industry-employees",
     "event-25-500-freezeout",
@@ -15,9 +15,9 @@
       "name": "Daniel Negreanu",
       "slug": "daniel-negreanu",
       "isBonus": false,
-      "pts2026": 23,
+      "pts2026": 64,
       "salary": 116,
-      "cashes2026": 2,
+      "cashes2026": 3,
       "liveStatus": {
         "eventSlug": "event-28-600-deepstack-mixed",
         "eventName": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
@@ -31,7 +31,7 @@
         "rank": 7,
         "chips": 4650000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-10T01:59:02.878Z"
+        "updatedAt": "2026-06-10T02:05:18.327Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 7,
           "chips": 4650000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-10T01:59:02.878Z"
+          "updatedAt": "2026-06-10T02:05:18.327Z"
         }
       ]
     },
@@ -81,7 +81,7 @@
         "rank": 55,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-10T01:59:02.879Z"
+        "updatedAt": "2026-06-10T02:05:18.328Z"
       },
       "eventHistory": [
         {
@@ -97,7 +97,7 @@
           "rank": 55,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-10T01:59:02.879Z"
+          "updatedAt": "2026-06-10T02:05:18.328Z"
         }
       ]
     },
@@ -121,7 +121,7 @@
         "rank": 7,
         "chips": 730000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-10T01:59:02.879Z"
+        "updatedAt": "2026-06-10T02:05:18.328Z"
       },
       "eventHistory": [
         {
@@ -137,7 +137,7 @@
           "rank": 7,
           "chips": 730000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-10T01:59:02.879Z"
+          "updatedAt": "2026-06-10T02:05:18.328Z"
         }
       ]
     },
@@ -197,7 +197,7 @@
       "slug": "event-18-monster-stack",
       "name": "Event #18: $1,500 Monster Stack No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
-      "playersLeft": 32,
+      "playersLeft": 30,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -233,7 +233,7 @@
       "slug": "event-29-50000-high-roller",
       "name": "Event #29: $50,000 High Roller No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-29-50000-high-roller/chips.htm",
-      "playersLeft": 53,
+      "playersLeft": 42,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
@@ -242,7 +242,7 @@
       "slug": "event-30-limit-holdem",
       "name": "Event #30: $1,500 Limit Hold’em 7-Handed",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-30-limit-holdem/chips.htm",
-      "playersLeft": 23,
+      "playersLeft": 20,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
