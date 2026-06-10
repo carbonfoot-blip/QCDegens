@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-10T03:20:37.562Z",
-  "teamScore": 137,
+  "updatedAt": "2026-06-10T03:26:54.120Z",
+  "teamScore": 138,
   "completedEvents": [
     "event-3-industry-employees",
     "event-26-2000-no-limit-holdem",
@@ -32,7 +32,7 @@
         "rank": 7,
         "chips": 4650000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-10T03:20:37.560Z"
+        "updatedAt": "2026-06-10T03:26:54.118Z"
       },
       "eventHistory": [
         {
@@ -48,7 +48,7 @@
           "rank": 7,
           "chips": 4650000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-10T03:20:37.560Z"
+          "updatedAt": "2026-06-10T03:26:54.118Z"
         }
       ]
     },
@@ -82,7 +82,7 @@
         "rank": 60,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-10T03:20:37.561Z"
+        "updatedAt": "2026-06-10T03:26:54.119Z"
       },
       "eventHistory": [
         {
@@ -98,7 +98,7 @@
           "rank": 60,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-10T03:20:37.561Z"
+          "updatedAt": "2026-06-10T03:26:54.119Z"
         }
       ]
     },
@@ -106,9 +106,9 @@
       "name": "Matt Glantz",
       "slug": "matt-glantz",
       "isBonus": false,
-      "pts2026": 15,
+      "pts2026": 16,
       "salary": 27,
-      "cashes2026": 5,
+      "cashes2026": 6,
       "liveStatus": null,
       "eventHistory": []
     },
@@ -168,7 +168,7 @@
       "slug": "event-18-monster-stack",
       "name": "Event #18: $1,500 Monster Stack No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
-      "playersLeft": 30,
+      "playersLeft": 25,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -204,7 +204,7 @@
       "slug": "event-29-50000-high-roller",
       "name": "Event #29: $50,000 High Roller No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-29-50000-high-roller/chips.htm",
-      "playersLeft": 35,
+      "playersLeft": 32,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
