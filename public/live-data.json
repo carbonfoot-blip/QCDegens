@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-10T02:36:43.840Z",
+  "updatedAt": "2026-06-10T02:43:01.100Z",
   "teamScore": 137,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 7,
         "chips": 4650000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-10T02:36:43.838Z"
+        "updatedAt": "2026-06-10T02:43:01.098Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 7,
           "chips": 4650000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-10T02:36:43.838Z"
+          "updatedAt": "2026-06-10T02:43:01.098Z"
         }
       ]
     },
@@ -81,7 +81,7 @@
         "rank": 57,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-10T02:36:43.839Z"
+        "updatedAt": "2026-06-10T02:43:01.099Z"
       },
       "eventHistory": [
         {
@@ -97,7 +97,7 @@
           "rank": 57,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-10T02:36:43.839Z"
+          "updatedAt": "2026-06-10T02:43:01.099Z"
         }
       ]
     },
@@ -115,13 +115,13 @@
         "buyin": 1500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 117,
+        "playersLeft": 99,
         "currentDay": "1",
         "status": "active",
         "rank": 27,
         "chips": 580000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-10T02:36:43.839Z"
+        "updatedAt": "2026-06-10T02:43:01.099Z"
       },
       "eventHistory": [
         {
@@ -131,13 +131,13 @@
           "buyin": 1500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 117,
+          "playersLeft": 99,
           "currentDay": "1",
           "status": "active",
           "rank": 27,
           "chips": 580000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-10T02:36:43.839Z"
+          "updatedAt": "2026-06-10T02:43:01.099Z"
         }
       ]
     },
@@ -251,7 +251,7 @@
       "slug": "event-31-super-turbo-bounty",
       "name": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-31-super-turbo-bounty/chips.htm",
-      "playersLeft": 117,
+      "playersLeft": 99,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
