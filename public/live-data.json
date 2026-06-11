@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T00:02:55.736Z",
+  "updatedAt": "2026-06-11T00:09:14.618Z",
   "teamScore": 138,
   "completedEvents": [
     "event-3-industry-employees",
@@ -25,13 +25,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 104,
+        "playersLeft": 100,
         "currentDay": "2",
         "status": "active",
-        "rank": 33,
+        "rank": 35,
         "chips": 207000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T00:02:55.733Z"
+        "updatedAt": "2026-06-11T00:09:14.614Z"
       },
       "eventHistory": [
         {
@@ -41,13 +41,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 104,
+          "playersLeft": 100,
           "currentDay": "2",
           "status": "active",
-          "rank": 33,
+          "rank": 35,
           "chips": 207000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T00:02:55.733Z"
+          "updatedAt": "2026-06-11T00:09:14.614Z"
         }
       ]
     },
@@ -85,13 +85,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 104,
+        "playersLeft": 100,
         "currentDay": "2",
         "status": "active",
         "rank": 143,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T00:02:55.734Z"
+        "updatedAt": "2026-06-11T00:09:14.616Z"
       },
       "eventHistory": [
         {
@@ -101,13 +101,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 104,
+          "playersLeft": 100,
           "currentDay": "2",
           "status": "active",
           "rank": 143,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T00:02:55.734Z"
+          "updatedAt": "2026-06-11T00:09:14.616Z"
         }
       ]
     },
@@ -203,7 +203,7 @@
       "slug": "event-33-plo-hi-lo-championship",
       "name": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-33-plo-hi-lo-championship/chips.htm",
-      "playersLeft": 104,
+      "playersLeft": 100,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
