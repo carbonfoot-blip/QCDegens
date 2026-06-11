@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T05:50:38.698Z",
+  "updatedAt": "2026-06-11T05:56:58.453Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -26,13 +26,13 @@
         "buyin": 100000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 39,
+        "playersLeft": 41,
         "currentDay": "1",
         "status": "active",
-        "rank": 22,
-        "chips": 775000,
+        "rank": 17,
+        "chips": 965000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T05:50:38.695Z"
+        "updatedAt": "2026-06-11T05:56:58.448Z"
       },
       "eventHistory": [
         {
@@ -42,13 +42,13 @@
           "buyin": 100000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 39,
+          "playersLeft": 41,
           "currentDay": "1",
           "status": "active",
-          "rank": 22,
-          "chips": 775000,
+          "rank": 17,
+          "chips": 965000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T05:50:38.695Z"
+          "updatedAt": "2026-06-11T05:56:58.448Z"
         }
       ]
     },
@@ -192,7 +192,7 @@
       "slug": "event-35-plo",
       "name": "Event #35: $1,500 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-35-plo/chips.htm",
-      "playersLeft": 342,
+      "playersLeft": 148,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -201,7 +201,7 @@
       "slug": "event-36-high-roller",
       "name": "Event #36: $100,000 High Roller No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-36-high-roller/chips.htm",
-      "playersLeft": 39,
+      "playersLeft": 41,
       "totalEntries": null,
       "buyin": 100000,
       "completed": false
