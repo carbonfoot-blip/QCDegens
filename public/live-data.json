@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T06:03:17.117Z",
+  "updatedAt": "2026-06-11T06:09:36.758Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -29,10 +29,10 @@
         "playersLeft": 41,
         "currentDay": "1",
         "status": "active",
-        "rank": 17,
+        "rank": 19,
         "chips": 965000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T06:03:17.115Z"
+        "updatedAt": "2026-06-11T06:09:36.755Z"
       },
       "eventHistory": [
         {
@@ -45,10 +45,10 @@
           "playersLeft": 41,
           "currentDay": "1",
           "status": "active",
-          "rank": 17,
+          "rank": 19,
           "chips": 965000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T06:03:17.115Z"
+          "updatedAt": "2026-06-11T06:09:36.755Z"
         }
       ]
     },
@@ -210,7 +210,7 @@
       "slug": "event-37-horse",
       "name": "Event #37: $1,500 H.O.R.S.E.",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-37-horse/chips.htm",
-      "playersLeft": 595,
+      "playersLeft": 314,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
