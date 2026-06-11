@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T03:50:26.823Z",
+  "updatedAt": "2026-06-11T03:56:47.893Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -153,7 +153,7 @@
       "slug": "event-34-colossus",
       "name": "Event #34: $500 COLOSSUS",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-      "playersLeft": 1058,
+      "playersLeft": 854,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
