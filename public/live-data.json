@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T22:05:58.476Z",
+  "updatedAt": "2026-06-11T22:12:18.991Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -27,13 +27,13 @@
         "buyin": 100000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 30,
+        "playersLeft": 52,
         "currentDay": "2",
         "status": "active",
-        "rank": 14,
+        "rank": 15,
         "chips": 1350000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T22:05:58.473Z"
+        "updatedAt": "2026-06-11T22:12:18.988Z"
       },
       "eventHistory": [
         {
@@ -43,13 +43,13 @@
           "buyin": 100000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 30,
+          "playersLeft": 52,
           "currentDay": "2",
           "status": "active",
-          "rank": 14,
+          "rank": 15,
           "chips": 1350000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T22:05:58.473Z"
+          "updatedAt": "2026-06-11T22:12:18.988Z"
         }
       ]
     },
@@ -123,7 +123,7 @@
         "rank": 48,
         "chips": 568000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T22:05:58.475Z"
+        "updatedAt": "2026-06-11T22:12:18.990Z"
       },
       "eventHistory": [
         {
@@ -139,7 +139,7 @@
           "rank": 48,
           "chips": 568000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T22:05:58.475Z"
+          "updatedAt": "2026-06-11T22:12:18.990Z"
         }
       ]
     },
@@ -205,7 +205,7 @@
       "slug": "event-36-high-roller",
       "name": "Event #36: $100,000 High Roller No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-36-high-roller/chips.htm",
-      "playersLeft": 30,
+      "playersLeft": 52,
       "totalEntries": null,
       "buyin": 100000,
       "completed": false
@@ -214,7 +214,7 @@
       "slug": "event-37-horse",
       "name": "Event #37: $1,500 H.O.R.S.E.",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-37-horse/chips.htm",
-      "playersLeft": 123,
+      "playersLeft": 108,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
