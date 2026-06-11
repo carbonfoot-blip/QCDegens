@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T00:21:52.636Z",
+  "updatedAt": "2026-06-11T00:28:12.203Z",
   "teamScore": 138,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 36,
         "chips": 207000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T00:21:52.633Z"
+        "updatedAt": "2026-06-11T00:28:12.201Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 36,
           "chips": 207000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T00:21:52.633Z"
+          "updatedAt": "2026-06-11T00:28:12.201Z"
         }
       ]
     },
@@ -91,7 +91,7 @@
         "rank": 142,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T00:21:52.635Z"
+        "updatedAt": "2026-06-11T00:28:12.202Z"
       },
       "eventHistory": [
         {
@@ -107,7 +107,7 @@
           "rank": 142,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T00:21:52.635Z"
+          "updatedAt": "2026-06-11T00:28:12.202Z"
         }
       ]
     },
@@ -212,7 +212,7 @@
       "slug": "event-34-colossus",
       "name": "Event #34: $500 COLOSSUS",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-      "playersLeft": null,
+      "playersLeft": 1225,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
@@ -221,7 +221,7 @@
       "slug": "event-35-plo",
       "name": "Event #35: $1,500 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-35-plo/chips.htm",
-      "playersLeft": null,
+      "playersLeft": 378,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
