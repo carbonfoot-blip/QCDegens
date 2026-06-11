@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T05:06:19.490Z",
+  "updatedAt": "2026-06-11T05:12:39.058Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -26,13 +26,13 @@
         "buyin": 100000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 42,
+        "playersLeft": 39,
         "currentDay": "1",
         "status": "active",
         "rank": 32,
         "chips": 535000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T05:06:19.487Z"
+        "updatedAt": "2026-06-11T05:12:39.056Z"
       },
       "eventHistory": [
         {
@@ -42,13 +42,13 @@
           "buyin": 100000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 42,
+          "playersLeft": 39,
           "currentDay": "1",
           "status": "active",
           "rank": 32,
           "chips": 535000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T05:06:19.487Z"
+          "updatedAt": "2026-06-11T05:12:39.056Z"
         }
       ]
     },
@@ -138,7 +138,7 @@
       "slug": "event-18-monster-stack",
       "name": "Event #18: $1,500 Monster Stack No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-18-monster-stack/chips.htm",
-      "playersLeft": 5,
+      "playersLeft": 4,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -174,7 +174,7 @@
       "slug": "event-33-plo-hi-lo-championship",
       "name": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-33-plo-hi-lo-championship/chips.htm",
-      "playersLeft": 62,
+      "playersLeft": 61,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
@@ -201,7 +201,7 @@
       "slug": "event-36-high-roller",
       "name": "Event #36: $100,000 High Roller No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-36-high-roller/chips.htm",
-      "playersLeft": 42,
+      "playersLeft": 39,
       "totalEntries": null,
       "buyin": 100000,
       "completed": false
