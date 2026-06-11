@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T23:34:45.004Z",
+  "updatedAt": "2026-06-11T23:41:04.561Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,10 +30,10 @@
         "playersLeft": 40,
         "currentDay": "2",
         "status": "active",
-        "rank": 25,
+        "rank": 24,
         "chips": 1100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T23:34:45.001Z"
+        "updatedAt": "2026-06-11T23:41:04.558Z"
       },
       "eventHistory": [
         {
@@ -46,10 +46,10 @@
           "playersLeft": 40,
           "currentDay": "2",
           "status": "active",
-          "rank": 25,
+          "rank": 24,
           "chips": 1100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T23:34:45.001Z"
+          "updatedAt": "2026-06-11T23:41:04.558Z"
         }
       ]
     },
@@ -90,10 +90,10 @@
         "playersLeft": 44,
         "currentDay": "1",
         "status": "active",
-        "rank": 37,
+        "rank": 38,
         "chips": 46200,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T23:34:45.002Z"
+        "updatedAt": "2026-06-11T23:41:04.560Z"
       },
       "eventHistory": [
         {
@@ -106,10 +106,10 @@
           "playersLeft": 44,
           "currentDay": "1",
           "status": "active",
-          "rank": 37,
+          "rank": 38,
           "chips": 46200,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T23:34:45.002Z"
+          "updatedAt": "2026-06-11T23:41:04.560Z"
         }
       ]
     },
@@ -153,7 +153,7 @@
         "rank": 61,
         "chips": 568000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T23:34:45.003Z"
+        "updatedAt": "2026-06-11T23:41:04.560Z"
       },
       "eventHistory": [
         {
@@ -169,7 +169,7 @@
           "rank": 61,
           "chips": 568000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T23:34:45.003Z"
+          "updatedAt": "2026-06-11T23:41:04.560Z"
         }
       ]
     },
@@ -244,7 +244,7 @@
       "slug": "event-37-horse",
       "name": "Event #37: $1,500 H.O.R.S.E.",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-37-horse/chips.htm",
-      "playersLeft": 94,
+      "playersLeft": 78,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
