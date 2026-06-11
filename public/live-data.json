@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T05:44:20.047Z",
+  "updatedAt": "2026-06-11T05:50:38.698Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -32,7 +32,7 @@
         "rank": 22,
         "chips": 775000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T05:44:20.044Z"
+        "updatedAt": "2026-06-11T05:50:38.695Z"
       },
       "eventHistory": [
         {
@@ -48,7 +48,7 @@
           "rank": 22,
           "chips": 775000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T05:44:20.044Z"
+          "updatedAt": "2026-06-11T05:50:38.695Z"
         }
       ]
     },
@@ -183,7 +183,7 @@
       "slug": "event-34-colossus",
       "name": "Event #34: $500 COLOSSUS",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-      "playersLeft": 854,
+      "playersLeft": 501,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
