@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T13:13:54.187Z",
+  "updatedAt": "2026-06-11T13:20:26.759Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -10,8 +10,7 @@
     "event-28-600-deepstack-mixed",
     "event-27-10000-dealers-choice-championship",
     "event-26-2000-no-limit-holdem",
-    "event-25-500-freezeout",
-    "event-24-high-roller"
+    "event-25-500-freezeout"
   ],
   "players": [
     {
@@ -34,7 +33,7 @@
         "rank": 18,
         "chips": 1190000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T13:13:54.185Z"
+        "updatedAt": "2026-06-11T13:20:26.755Z"
       },
       "eventHistory": [
         {
@@ -50,7 +49,7 @@
           "rank": 18,
           "chips": 1190000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T13:13:54.185Z"
+          "updatedAt": "2026-06-11T13:20:26.755Z"
         }
       ]
     },
@@ -124,7 +123,7 @@
         "rank": 36,
         "chips": 568000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T13:13:54.187Z"
+        "updatedAt": "2026-06-11T13:20:26.757Z"
       },
       "eventHistory": [
         {
@@ -140,7 +139,7 @@
           "rank": 36,
           "chips": 568000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T13:13:54.187Z"
+          "updatedAt": "2026-06-11T13:20:26.757Z"
         }
       ]
     },
@@ -248,6 +247,15 @@
       "completed": false
     },
     {
+      "slug": "event-38-limit-holdem-championship",
+      "name": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-38-limit-holdem-championship/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 10000,
+      "completed": false
+    },
+    {
       "slug": "event-31-super-turbo-bounty",
       "name": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-31-super-turbo-bounty/chips.htm",
@@ -290,15 +298,6 @@
       "playersLeft": 1,
       "totalEntries": null,
       "buyin": 500,
-      "completed": true
-    },
-    {
-      "slug": "event-24-high-roller",
-      "name": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-24-high-roller/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 25000,
       "completed": true
     }
   ]
