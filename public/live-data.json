@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T22:44:05.875Z",
+  "updatedAt": "2026-06-11T22:50:26.458Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,10 +30,10 @@
         "playersLeft": 65,
         "currentDay": "2",
         "status": "active",
-        "rank": 18,
+        "rank": 19,
         "chips": 1100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T22:44:05.872Z"
+        "updatedAt": "2026-06-11T22:50:26.455Z"
       },
       "eventHistory": [
         {
@@ -46,10 +46,10 @@
           "playersLeft": 65,
           "currentDay": "2",
           "status": "active",
-          "rank": 18,
+          "rank": 19,
           "chips": 1100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T22:44:05.872Z"
+          "updatedAt": "2026-06-11T22:50:26.455Z"
         }
       ]
     },
@@ -87,13 +87,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 37,
+        "playersLeft": 43,
         "currentDay": "1",
         "status": "active",
-        "rank": 6,
+        "rank": 7,
         "chips": 70000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T22:44:05.873Z"
+        "updatedAt": "2026-06-11T22:50:26.456Z"
       },
       "eventHistory": [
         {
@@ -103,13 +103,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 37,
+          "playersLeft": 43,
           "currentDay": "1",
           "status": "active",
-          "rank": 6,
+          "rank": 7,
           "chips": 70000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T22:44:05.873Z"
+          "updatedAt": "2026-06-11T22:50:26.456Z"
         }
       ]
     },
@@ -153,7 +153,7 @@
         "rank": 48,
         "chips": 568000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T22:44:05.874Z"
+        "updatedAt": "2026-06-11T22:50:26.457Z"
       },
       "eventHistory": [
         {
@@ -169,7 +169,7 @@
           "rank": 48,
           "chips": 568000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T22:44:05.874Z"
+          "updatedAt": "2026-06-11T22:50:26.457Z"
         }
       ]
     },
@@ -253,7 +253,7 @@
       "slug": "event-38-limit-holdem-championship",
       "name": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-38-limit-holdem-championship/chips.htm",
-      "playersLeft": 37,
+      "playersLeft": 43,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
