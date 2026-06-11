@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T22:37:41.787Z",
+  "updatedAt": "2026-06-11T22:44:05.875Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,10 +30,10 @@
         "playersLeft": 65,
         "currentDay": "2",
         "status": "active",
-        "rank": 17,
+        "rank": 18,
         "chips": 1100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T22:37:41.784Z"
+        "updatedAt": "2026-06-11T22:44:05.872Z"
       },
       "eventHistory": [
         {
@@ -46,10 +46,10 @@
           "playersLeft": 65,
           "currentDay": "2",
           "status": "active",
-          "rank": 17,
+          "rank": 18,
           "chips": 1100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T22:37:41.784Z"
+          "updatedAt": "2026-06-11T22:44:05.872Z"
         }
       ]
     },
@@ -93,7 +93,7 @@
         "rank": 6,
         "chips": 70000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T22:37:41.785Z"
+        "updatedAt": "2026-06-11T22:44:05.873Z"
       },
       "eventHistory": [
         {
@@ -109,7 +109,7 @@
           "rank": 6,
           "chips": 70000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T22:37:41.785Z"
+          "updatedAt": "2026-06-11T22:44:05.873Z"
         }
       ]
     },
@@ -153,7 +153,7 @@
         "rank": 48,
         "chips": 568000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T22:37:41.786Z"
+        "updatedAt": "2026-06-11T22:44:05.874Z"
       },
       "eventHistory": [
         {
@@ -169,7 +169,7 @@
           "rank": 48,
           "chips": 568000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T22:37:41.786Z"
+          "updatedAt": "2026-06-11T22:44:05.874Z"
         }
       ]
     },
@@ -208,7 +208,7 @@
       "slug": "event-33-plo-hi-lo-championship",
       "name": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-33-plo-hi-lo-championship/chips.htm",
-      "playersLeft": 17,
+      "playersLeft": 15,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
