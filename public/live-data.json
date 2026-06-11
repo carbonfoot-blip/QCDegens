@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T22:18:39.127Z",
+  "updatedAt": "2026-06-11T22:24:58.470Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -27,13 +27,13 @@
         "buyin": 100000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 63,
+        "playersLeft": 65,
         "currentDay": "2",
         "status": "active",
         "rank": 16,
         "chips": 1100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T22:18:39.124Z"
+        "updatedAt": "2026-06-11T22:24:58.467Z"
       },
       "eventHistory": [
         {
@@ -43,13 +43,13 @@
           "buyin": 100000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 63,
+          "playersLeft": 65,
           "currentDay": "2",
           "status": "active",
           "rank": 16,
           "chips": 1100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T22:18:39.124Z"
+          "updatedAt": "2026-06-11T22:24:58.467Z"
         }
       ]
     },
@@ -80,8 +80,38 @@
       "pts2026": 16,
       "salary": 27,
       "cashes2026": 6,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-38-limit-holdem-championship",
+        "eventName": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-38-limit-holdem-championship/chips.htm",
+        "buyin": 10000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 37,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 2,
+        "chips": 70000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-11T22:24:58.469Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-38-limit-holdem-championship",
+          "eventName": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-38-limit-holdem-championship/chips.htm",
+          "buyin": 10000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 37,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 2,
+          "chips": 70000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-11T22:24:58.469Z"
+        }
+      ]
     },
     {
       "name": "Ben Lamb",
@@ -123,7 +153,7 @@
         "rank": 48,
         "chips": 568000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T22:18:39.126Z"
+        "updatedAt": "2026-06-11T22:24:58.470Z"
       },
       "eventHistory": [
         {
@@ -139,7 +169,7 @@
           "rank": 48,
           "chips": 568000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T22:18:39.126Z"
+          "updatedAt": "2026-06-11T22:24:58.470Z"
         }
       ]
     },
@@ -205,7 +235,7 @@
       "slug": "event-36-high-roller",
       "name": "Event #36: $100,000 High Roller No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-36-high-roller/chips.htm",
-      "playersLeft": 63,
+      "playersLeft": 65,
       "totalEntries": null,
       "buyin": 100000,
       "completed": false
@@ -223,7 +253,7 @@
       "slug": "event-38-limit-holdem-championship",
       "name": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-38-limit-holdem-championship/chips.htm",
-      "playersLeft": 34,
+      "playersLeft": 37,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
