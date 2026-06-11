@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-11T01:56:41.657Z",
-  "teamScore": 138,
+  "updatedAt": "2026-06-11T02:03:00.905Z",
+  "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
     "event-31-super-turbo-bounty",
@@ -28,10 +28,10 @@
         "playersLeft": 80,
         "currentDay": "2",
         "status": "active",
-        "rank": 72,
+        "rank": 71,
         "chips": 110000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T01:56:41.654Z"
+        "updatedAt": "2026-06-11T02:03:00.902Z"
       },
       "eventHistory": [
         {
@@ -44,10 +44,10 @@
           "playersLeft": 80,
           "currentDay": "2",
           "status": "active",
-          "rank": 72,
+          "rank": 71,
           "chips": 110000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T01:56:41.654Z"
+          "updatedAt": "2026-06-11T02:03:00.902Z"
         }
       ]
     },
@@ -115,9 +115,9 @@
       "name": "John Riordan",
       "slug": "john-riordan",
       "isBonus": false,
-      "pts2026": 3,
+      "pts2026": 4,
       "salary": 12,
-      "cashes2026": 3,
+      "cashes2026": 4,
       "liveStatus": null,
       "eventHistory": []
     },
