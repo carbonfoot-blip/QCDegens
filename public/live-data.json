@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T22:24:58.470Z",
+  "updatedAt": "2026-06-11T22:31:21.238Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 16,
         "chips": 1100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T22:24:58.467Z"
+        "updatedAt": "2026-06-11T22:31:21.235Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 16,
           "chips": 1100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T22:24:58.467Z"
+          "updatedAt": "2026-06-11T22:31:21.235Z"
         }
       ]
     },
@@ -90,10 +90,10 @@
         "playersLeft": 37,
         "currentDay": "1",
         "status": "active",
-        "rank": 2,
+        "rank": 3,
         "chips": 70000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T22:24:58.469Z"
+        "updatedAt": "2026-06-11T22:31:21.237Z"
       },
       "eventHistory": [
         {
@@ -106,10 +106,10 @@
           "playersLeft": 37,
           "currentDay": "1",
           "status": "active",
-          "rank": 2,
+          "rank": 3,
           "chips": 70000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T22:24:58.469Z"
+          "updatedAt": "2026-06-11T22:31:21.237Z"
         }
       ]
     },
@@ -153,7 +153,7 @@
         "rank": 48,
         "chips": 568000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T22:24:58.470Z"
+        "updatedAt": "2026-06-11T22:31:21.237Z"
       },
       "eventHistory": [
         {
@@ -169,7 +169,7 @@
           "rank": 48,
           "chips": 568000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T22:24:58.470Z"
+          "updatedAt": "2026-06-11T22:31:21.237Z"
         }
       ]
     },
@@ -199,7 +199,7 @@
       "slug": "event-32-nlh",
       "name": "Event #32: $3,000 No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-32-nlh/chips.htm",
-      "playersLeft": 36,
+      "playersLeft": 27,
       "totalEntries": null,
       "buyin": 3000,
       "completed": false
@@ -244,7 +244,7 @@
       "slug": "event-37-horse",
       "name": "Event #37: $1,500 H.O.R.S.E.",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-37-horse/chips.htm",
-      "playersLeft": 107,
+      "playersLeft": 105,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
