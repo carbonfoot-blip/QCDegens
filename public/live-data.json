@@ -1,8 +1,9 @@
 {
-  "updatedAt": "2026-06-11T03:06:14.516Z",
+  "updatedAt": "2026-06-11T03:12:33.014Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
+    "event-30-limit-holdem",
     "event-31-super-turbo-bounty",
     "event-28-600-deepstack-mixed",
     "event-27-10000-dealers-choice-championship",
@@ -31,7 +32,7 @@
         "rank": 69,
         "chips": 110000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T03:06:14.514Z"
+        "updatedAt": "2026-06-11T03:12:33.011Z"
       },
       "eventHistory": [
         {
@@ -47,7 +48,7 @@
           "rank": 69,
           "chips": 110000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T03:06:14.514Z"
+          "updatedAt": "2026-06-11T03:12:33.011Z"
         }
       ]
     },
@@ -155,10 +156,10 @@
       "slug": "event-30-limit-holdem",
       "name": "Event #30: $1,500 Limit Hold’em 7-Handed",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-30-limit-holdem/chips.htm",
-      "playersLeft": 2,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 1500,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-32-nlh",
