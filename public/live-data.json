@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T04:09:25.796Z",
+  "updatedAt": "2026-06-11T04:15:45.003Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -19,8 +19,38 @@
       "pts2026": 64,
       "salary": 116,
       "cashes2026": 3,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-36-high-roller",
+        "eventName": "Event #36: $100,000 High Roller No-Limit Hold’em",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-36-high-roller/chips.htm",
+        "buyin": 100000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 44,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 27,
+        "chips": 600000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-11T04:15:45.000Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-36-high-roller",
+          "eventName": "Event #36: $100,000 High Roller No-Limit Hold’em",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-36-high-roller/chips.htm",
+          "buyin": 100000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 44,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 27,
+          "chips": 600000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-11T04:15:45.000Z"
+        }
+      ]
     },
     {
       "name": "Calvin Anderson",
@@ -171,7 +201,7 @@
       "slug": "event-36-high-roller",
       "name": "Event #36: $100,000 High Roller No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-36-high-roller/chips.htm",
-      "playersLeft": 42,
+      "playersLeft": 44,
       "totalEntries": null,
       "buyin": 100000,
       "completed": false
