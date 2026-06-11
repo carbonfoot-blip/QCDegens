@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T08:27:30.139Z",
+  "updatedAt": "2026-06-11T08:33:49.359Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -34,7 +34,7 @@
         "rank": 18,
         "chips": 1190000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T08:27:30.136Z"
+        "updatedAt": "2026-06-11T08:33:49.357Z"
       },
       "eventHistory": [
         {
@@ -50,7 +50,7 @@
           "rank": 18,
           "chips": 1190000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T08:27:30.136Z"
+          "updatedAt": "2026-06-11T08:33:49.357Z"
         }
       ]
     },
@@ -111,8 +111,38 @@
       "pts2026": 2,
       "salary": 1,
       "cashes2026": 2,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-34-colossus",
+        "eventName": "Event #34: $500 COLOSSUS",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
+        "buyin": 500,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 501,
+        "currentDay": "1a",
+        "status": "active",
+        "rank": 36,
+        "chips": 568000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-11T08:33:49.358Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-34-colossus",
+          "eventName": "Event #34: $500 COLOSSUS",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
+          "buyin": 500,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 501,
+          "currentDay": "1a",
+          "status": "active",
+          "rank": 36,
+          "chips": 568000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-11T08:33:49.358Z"
+        }
+      ]
     },
     {
       "name": "John Riordan",
@@ -176,7 +206,7 @@
       "slug": "event-33-plo-hi-lo-championship",
       "name": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-33-plo-hi-lo-championship/chips.htm",
-      "playersLeft": 29,
+      "playersLeft": 25,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
@@ -194,7 +224,7 @@
       "slug": "event-35-plo",
       "name": "Event #35: $1,500 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-35-plo/chips.htm",
-      "playersLeft": 148,
+      "playersLeft": 71,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
