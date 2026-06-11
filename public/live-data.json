@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-11T20:16:51.238Z",
+  "updatedAt": "2026-06-11T20:23:20.175Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -27,13 +27,13 @@
         "buyin": 100000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 34,
+        "playersLeft": 33,
         "currentDay": "2",
         "status": "active",
-        "rank": 18,
+        "rank": 17,
         "chips": 1190000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T20:16:51.235Z"
+        "updatedAt": "2026-06-11T20:23:20.171Z"
       },
       "eventHistory": [
         {
@@ -43,13 +43,13 @@
           "buyin": 100000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 34,
+          "playersLeft": 33,
           "currentDay": "2",
           "status": "active",
-          "rank": 18,
+          "rank": 17,
           "chips": 1190000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T20:16:51.235Z"
+          "updatedAt": "2026-06-11T20:23:20.171Z"
         }
       ]
     },
@@ -123,7 +123,7 @@
         "rank": 36,
         "chips": 568000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-11T20:16:51.237Z"
+        "updatedAt": "2026-06-11T20:23:20.174Z"
       },
       "eventHistory": [
         {
@@ -139,7 +139,7 @@
           "rank": 36,
           "chips": 568000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-11T20:16:51.237Z"
+          "updatedAt": "2026-06-11T20:23:20.174Z"
         }
       ]
     },
@@ -178,7 +178,7 @@
       "slug": "event-33-plo-hi-lo-championship",
       "name": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-33-plo-hi-lo-championship/chips.htm",
-      "playersLeft": 25,
+      "playersLeft": 24,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
@@ -205,7 +205,7 @@
       "slug": "event-36-high-roller",
       "name": "Event #36: $100,000 High Roller No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-36-high-roller/chips.htm",
-      "playersLeft": 34,
+      "playersLeft": 33,
       "totalEntries": null,
       "buyin": 100000,
       "completed": false
