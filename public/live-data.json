@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T22:06:07.185Z",
+  "updatedAt": "2026-06-12T22:12:33.904Z",
   "teamScore": 140,
   "completedEvents": [
     "event-3-industry-employees",
@@ -29,9 +29,9 @@
         "currentDay": "2",
         "status": "active",
         "rank": 5,
-        "chips": 288000,
+        "chips": 260000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T22:06:07.181Z"
+        "updatedAt": "2026-06-12T22:12:33.900Z"
       },
       "eventHistory": [
         {
@@ -45,9 +45,9 @@
           "currentDay": "2",
           "status": "active",
           "rank": 5,
-          "chips": 288000,
+          "chips": 260000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T22:06:07.181Z"
+          "updatedAt": "2026-06-12T22:12:33.900Z"
         }
       ]
     },
@@ -111,7 +111,7 @@
         "rank": 483,
         "chips": 141000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T22:06:07.183Z"
+        "updatedAt": "2026-06-12T22:12:33.903Z"
       },
       "eventHistory": [
         {
@@ -127,7 +127,7 @@
           "rank": 483,
           "chips": 141000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T22:06:07.183Z"
+          "updatedAt": "2026-06-12T22:12:33.903Z"
         }
       ]
     },
