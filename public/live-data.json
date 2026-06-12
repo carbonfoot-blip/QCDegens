@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T20:49:21.233Z",
+  "updatedAt": "2026-06-12T20:55:53.176Z",
   "teamScore": 140,
   "completedEvents": [
     "event-3-industry-employees",
@@ -28,10 +28,10 @@
         "playersLeft": 54,
         "currentDay": "2",
         "status": "active",
-        "rank": 7,
-        "chips": 210000,
+        "rank": 6,
+        "chips": 240000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T20:49:21.229Z"
+        "updatedAt": "2026-06-12T20:55:53.172Z"
       },
       "eventHistory": [
         {
@@ -44,10 +44,10 @@
           "playersLeft": 54,
           "currentDay": "2",
           "status": "active",
-          "rank": 7,
-          "chips": 210000,
+          "rank": 6,
+          "chips": 240000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T20:49:21.229Z"
+          "updatedAt": "2026-06-12T20:55:53.172Z"
         }
       ]
     },
@@ -91,7 +91,7 @@
         "rank": 49,
         "chips": 48000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T20:49:21.231Z"
+        "updatedAt": "2026-06-12T20:55:53.174Z"
       },
       "eventHistory": [
         {
@@ -107,7 +107,7 @@
           "rank": 49,
           "chips": 48000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T20:49:21.231Z"
+          "updatedAt": "2026-06-12T20:55:53.174Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
         "rank": 483,
         "chips": 141000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T20:49:21.232Z"
+        "updatedAt": "2026-06-12T20:55:53.174Z"
       },
       "eventHistory": [
         {
@@ -157,7 +157,7 @@
           "rank": 483,
           "chips": 141000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T20:49:21.232Z"
+          "updatedAt": "2026-06-12T20:55:53.174Z"
         }
       ]
     },
@@ -224,7 +224,7 @@
       "slug": "event-35-plo",
       "name": "Event #35: $1,500 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-35-plo/chips.htm",
-      "playersLeft": 124,
+      "playersLeft": 110,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
