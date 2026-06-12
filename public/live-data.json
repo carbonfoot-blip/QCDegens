@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T09:11:01.774Z",
+  "updatedAt": "2026-06-12T09:17:14.425Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 8,
         "chips": 182000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T09:11:01.772Z"
+        "updatedAt": "2026-06-12T09:17:14.424Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 8,
           "chips": 182000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T09:11:01.772Z"
+          "updatedAt": "2026-06-12T09:17:14.424Z"
         }
       ]
     },
@@ -93,7 +93,7 @@
         "rank": 37,
         "chips": 48000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T09:11:01.773Z"
+        "updatedAt": "2026-06-12T09:17:14.424Z"
       },
       "eventHistory": [
         {
@@ -109,7 +109,7 @@
           "rank": 37,
           "chips": 48000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T09:11:01.773Z"
+          "updatedAt": "2026-06-12T09:17:14.424Z"
         }
       ]
     },
@@ -205,7 +205,7 @@
       "slug": "event-36-high-roller",
       "name": "Event #36: $100,000 High Roller No-Limit Hold’em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-36-high-roller/chips.htm",
-      "playersLeft": 11,
+      "playersLeft": 10,
       "totalEntries": null,
       "buyin": 100000,
       "completed": false
