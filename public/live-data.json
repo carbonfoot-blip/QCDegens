@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T02:43:59.020Z",
+  "updatedAt": "2026-06-12T02:50:16.357Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 21,
         "chips": 1100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T02:43:59.018Z"
+        "updatedAt": "2026-06-12T02:50:16.355Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 21,
           "chips": 1100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T02:43:59.018Z"
+          "updatedAt": "2026-06-12T02:50:16.355Z"
         },
         {
           "eventSlug": "event-38-limit-holdem-championship",
@@ -64,7 +64,7 @@
           "rank": 40,
           "chips": 45000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T02:43:59.018Z"
+          "updatedAt": "2026-06-12T02:50:16.355Z"
         }
       ]
     },
@@ -105,10 +105,10 @@
         "playersLeft": 51,
         "currentDay": "1",
         "status": "active",
-        "rank": 13,
+        "rank": 14,
         "chips": 120000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T02:43:59.019Z"
+        "updatedAt": "2026-06-12T02:50:16.356Z"
       },
       "eventHistory": [
         {
@@ -121,10 +121,10 @@
           "playersLeft": 51,
           "currentDay": "1",
           "status": "active",
-          "rank": 13,
+          "rank": 14,
           "chips": 120000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T02:43:59.019Z"
+          "updatedAt": "2026-06-12T02:50:16.356Z"
         }
       ]
     },
@@ -168,7 +168,7 @@
         "rank": 64,
         "chips": 568000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T02:43:59.019Z"
+        "updatedAt": "2026-06-12T02:50:16.356Z"
       },
       "eventHistory": [
         {
@@ -184,7 +184,7 @@
           "rank": 64,
           "chips": 568000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T02:43:59.019Z"
+          "updatedAt": "2026-06-12T02:50:16.356Z"
         }
       ]
     },
@@ -214,7 +214,7 @@
       "slug": "event-32-nlh",
       "name": "Event #32: $3,000 No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-32-nlh/chips.htm",
-      "playersLeft": 16,
+      "playersLeft": 15,
       "totalEntries": null,
       "buyin": 3000,
       "completed": false
@@ -259,7 +259,7 @@
       "slug": "event-37-horse",
       "name": "Event #37: $1,500 H.O.R.S.E.",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-37-horse/chips.htm",
-      "playersLeft": 36,
+      "playersLeft": 35,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
