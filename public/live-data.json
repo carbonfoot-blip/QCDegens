@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T04:37:13.887Z",
+  "updatedAt": "2026-06-12T04:43:31.373Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,10 +30,10 @@
         "playersLeft": 45,
         "currentDay": "1",
         "status": "active",
-        "rank": 28,
-        "chips": 90000,
+        "rank": 29,
+        "chips": 85000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T04:37:13.885Z"
+        "updatedAt": "2026-06-12T04:43:31.371Z"
       },
       "eventHistory": [
         {
@@ -46,10 +46,10 @@
           "playersLeft": 45,
           "currentDay": "1",
           "status": "active",
-          "rank": 28,
-          "chips": 90000,
+          "rank": 29,
+          "chips": 85000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T04:37:13.885Z"
+          "updatedAt": "2026-06-12T04:43:31.371Z"
         }
       ]
     },
@@ -93,7 +93,7 @@
         "rank": 19,
         "chips": 120000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T04:37:13.886Z"
+        "updatedAt": "2026-06-12T04:43:31.372Z"
       },
       "eventHistory": [
         {
@@ -109,7 +109,7 @@
           "rank": 19,
           "chips": 120000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T04:37:13.886Z"
+          "updatedAt": "2026-06-12T04:43:31.372Z"
         }
       ]
     },
@@ -153,7 +153,7 @@
         "rank": 64,
         "chips": 568000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T04:37:13.886Z"
+        "updatedAt": "2026-06-12T04:43:31.372Z"
       },
       "eventHistory": [
         {
@@ -169,7 +169,7 @@
           "rank": 64,
           "chips": 568000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T04:37:13.886Z"
+          "updatedAt": "2026-06-12T04:43:31.372Z"
         }
       ]
     },
@@ -244,7 +244,7 @@
       "slug": "event-37-horse",
       "name": "Event #37: $1,500 H.O.R.S.E.",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-37-horse/chips.htm",
-      "playersLeft": 27,
+      "playersLeft": 26,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
