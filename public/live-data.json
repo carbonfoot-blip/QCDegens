@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T13:38:49.375Z",
+  "updatedAt": "2026-06-12T13:45:23.103Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -8,9 +8,7 @@
     "event-29-50000-high-roller",
     "event-28-600-deepstack-mixed",
     "event-27-10000-dealers-choice-championship",
-    "event-26-2000-no-limit-holdem",
-    "event-25-500-freezeout",
-    "event-24-high-roller"
+    "event-26-2000-no-limit-holdem"
   ],
   "players": [
     {
@@ -33,7 +31,7 @@
         "rank": 8,
         "chips": 182000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T13:38:49.371Z"
+        "updatedAt": "2026-06-12T13:45:23.100Z"
       },
       "eventHistory": [
         {
@@ -49,7 +47,7 @@
           "rank": 8,
           "chips": 182000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T13:38:49.371Z"
+          "updatedAt": "2026-06-12T13:45:23.100Z"
         }
       ]
     },
@@ -93,7 +91,7 @@
         "rank": 37,
         "chips": 48000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T13:38:49.373Z"
+        "updatedAt": "2026-06-12T13:45:23.101Z"
       },
       "eventHistory": [
         {
@@ -109,7 +107,7 @@
           "rank": 37,
           "chips": 48000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T13:38:49.373Z"
+          "updatedAt": "2026-06-12T13:45:23.101Z"
         }
       ]
     },
@@ -143,7 +141,7 @@
         "rank": 483,
         "chips": 141000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T13:38:49.373Z"
+        "updatedAt": "2026-06-12T13:45:23.102Z"
       },
       "eventHistory": [
         {
@@ -159,7 +157,7 @@
           "rank": 483,
           "chips": 141000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T13:38:49.373Z"
+          "updatedAt": "2026-06-12T13:45:23.102Z"
         }
       ]
     },
@@ -259,6 +257,24 @@
       "completed": false
     },
     {
+      "slug": "event-39-seniors-high-roller",
+      "name": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-39-seniors-high-roller/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 5000,
+      "completed": false
+    },
+    {
+      "slug": "event-40-razz",
+      "name": "Event #40: $1,500 Razz",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-40-razz/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": false
+    },
+    {
       "slug": "event-31-super-turbo-bounty",
       "name": "Event #31: $1,500 Super Turbo Bounty No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-31-super-turbo-bounty/chips.htm",
@@ -310,24 +326,6 @@
       "playersLeft": 1,
       "totalEntries": null,
       "buyin": 2000,
-      "completed": true
-    },
-    {
-      "slug": "event-25-500-freezeout",
-      "name": "Event #25: $500 Freezeout No-Limit Holdem",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-25-500-freezeout/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 500,
-      "completed": true
-    },
-    {
-      "slug": "event-24-high-roller",
-      "name": "Event #24: $25,000 High Roller Six Handed No-Limit Hold’em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-24-high-roller/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 25000,
       "completed": true
     }
   ]
