@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T04:24:38.002Z",
+  "updatedAt": "2026-06-12T04:30:57.299Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 22,
         "chips": 645000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T04:24:37.999Z"
+        "updatedAt": "2026-06-12T04:30:57.296Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 22,
           "chips": 645000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T04:24:37.999Z"
+          "updatedAt": "2026-06-12T04:30:57.296Z"
         },
         {
           "eventSlug": "event-38-limit-holdem-championship",
@@ -61,10 +61,10 @@
           "playersLeft": 48,
           "currentDay": "1",
           "status": "active",
-          "rank": 26,
+          "rank": 27,
           "chips": 90000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T04:24:37.999Z"
+          "updatedAt": "2026-06-12T04:30:57.297Z"
         }
       ]
     },
@@ -105,10 +105,10 @@
         "playersLeft": 48,
         "currentDay": "1",
         "status": "active",
-        "rank": 15,
+        "rank": 16,
         "chips": 120000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T04:24:38.000Z"
+        "updatedAt": "2026-06-12T04:30:57.298Z"
       },
       "eventHistory": [
         {
@@ -121,10 +121,10 @@
           "playersLeft": 48,
           "currentDay": "1",
           "status": "active",
-          "rank": 15,
+          "rank": 16,
           "chips": 120000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T04:24:38.000Z"
+          "updatedAt": "2026-06-12T04:30:57.298Z"
         }
       ]
     },
@@ -168,7 +168,7 @@
         "rank": 64,
         "chips": 568000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T04:24:38.001Z"
+        "updatedAt": "2026-06-12T04:30:57.298Z"
       },
       "eventHistory": [
         {
@@ -184,7 +184,7 @@
           "rank": 64,
           "chips": 568000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T04:24:38.001Z"
+          "updatedAt": "2026-06-12T04:30:57.298Z"
         }
       ]
     },
