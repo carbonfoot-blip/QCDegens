@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T04:12:00.995Z",
+  "updatedAt": "2026-06-12T04:18:20.465Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -27,13 +27,13 @@
         "buyin": 100000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 25,
+        "playersLeft": 23,
         "currentDay": "2",
         "status": "active",
-        "rank": 20,
-        "chips": 1100000,
+        "rank": 22,
+        "chips": 645000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T04:12:00.993Z"
+        "updatedAt": "2026-06-12T04:18:20.462Z"
       },
       "eventHistory": [
         {
@@ -43,13 +43,13 @@
           "buyin": 100000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 25,
+          "playersLeft": 23,
           "currentDay": "2",
           "status": "active",
-          "rank": 20,
-          "chips": 1100000,
+          "rank": 22,
+          "chips": 645000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T04:12:00.993Z"
+          "updatedAt": "2026-06-12T04:18:20.462Z"
         },
         {
           "eventSlug": "event-38-limit-holdem-championship",
@@ -61,10 +61,10 @@
           "playersLeft": 48,
           "currentDay": "1",
           "status": "active",
-          "rank": 24,
+          "rank": 25,
           "chips": 96000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T04:12:00.993Z"
+          "updatedAt": "2026-06-12T04:18:20.463Z"
         }
       ]
     },
@@ -108,7 +108,7 @@
         "rank": 15,
         "chips": 120000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T04:12:00.994Z"
+        "updatedAt": "2026-06-12T04:18:20.464Z"
       },
       "eventHistory": [
         {
@@ -124,7 +124,7 @@
           "rank": 15,
           "chips": 120000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T04:12:00.994Z"
+          "updatedAt": "2026-06-12T04:18:20.464Z"
         }
       ]
     },
@@ -168,7 +168,7 @@
         "rank": 64,
         "chips": 568000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T04:12:00.995Z"
+        "updatedAt": "2026-06-12T04:18:20.464Z"
       },
       "eventHistory": [
         {
@@ -184,7 +184,7 @@
           "rank": 64,
           "chips": 568000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T04:12:00.995Z"
+          "updatedAt": "2026-06-12T04:18:20.464Z"
         }
       ]
     },
@@ -250,7 +250,7 @@
       "slug": "event-36-high-roller",
       "name": "Event #36: $100,000 High Roller No-Limit Hold’em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-36-high-roller/chips.htm",
-      "playersLeft": 25,
+      "playersLeft": 23,
       "totalEntries": null,
       "buyin": 100000,
       "completed": false
