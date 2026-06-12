@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T22:51:19.983Z",
+  "updatedAt": "2026-06-12T22:57:46.070Z",
   "teamScore": 140,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 9,
         "chips": 260000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T22:51:19.979Z"
+        "updatedAt": "2026-06-12T22:57:46.066Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 9,
           "chips": 260000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T22:51:19.979Z"
+          "updatedAt": "2026-06-12T22:57:46.066Z"
         }
       ]
     },
@@ -111,7 +111,7 @@
         "rank": 483,
         "chips": 141000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T22:51:19.982Z"
+        "updatedAt": "2026-06-12T22:57:46.069Z"
       },
       "eventHistory": [
         {
@@ -127,7 +127,7 @@
           "rank": 483,
           "chips": 141000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T22:51:19.982Z"
+          "updatedAt": "2026-06-12T22:57:46.069Z"
         }
       ]
     },
@@ -239,7 +239,7 @@
       "slug": "event-40-razz",
       "name": "Event #40: $1,500 Razz",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-40-razz/chips.htm",
-      "playersLeft": null,
+      "playersLeft": 354,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
