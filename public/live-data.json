@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T06:23:30.112Z",
+  "updatedAt": "2026-06-12T06:29:40.096Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 8,
         "chips": 182000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T06:23:30.111Z"
+        "updatedAt": "2026-06-12T06:29:40.094Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 8,
           "chips": 182000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T06:23:30.111Z"
+          "updatedAt": "2026-06-12T06:29:40.094Z"
         }
       ]
     },
@@ -93,7 +93,7 @@
         "rank": 37,
         "chips": 48000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T06:23:30.112Z"
+        "updatedAt": "2026-06-12T06:29:40.095Z"
       },
       "eventHistory": [
         {
@@ -109,7 +109,7 @@
           "rank": 37,
           "chips": 48000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T06:23:30.112Z"
+          "updatedAt": "2026-06-12T06:29:40.095Z"
         }
       ]
     },
@@ -187,7 +187,7 @@
       "slug": "event-34-colossus",
       "name": "Event #34: $500 COLOSSUS",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-      "playersLeft": 1607,
+      "playersLeft": 655,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
@@ -214,7 +214,7 @@
       "slug": "event-37-horse",
       "name": "Event #37: $1,500 H.O.R.S.E.",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-37-horse/chips.htm",
-      "playersLeft": 23,
+      "playersLeft": 21,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
