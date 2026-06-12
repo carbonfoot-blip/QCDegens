@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-12T19:18:01.092Z",
-  "teamScore": 139,
+  "updatedAt": "2026-06-12T19:24:32.148Z",
+  "teamScore": 140,
   "completedEvents": [
     "event-3-industry-employees",
     "event-31-super-turbo-bounty",
@@ -31,7 +31,7 @@
         "rank": 8,
         "chips": 182000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T19:18:01.089Z"
+        "updatedAt": "2026-06-12T19:24:32.143Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 8,
           "chips": 182000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T19:18:01.089Z"
+          "updatedAt": "2026-06-12T19:24:32.143Z"
         }
       ]
     },
@@ -55,9 +55,9 @@
       "name": "Calvin Anderson",
       "slug": "calvin-anderson",
       "isBonus": false,
-      "pts2026": 35,
+      "pts2026": 36,
       "salary": 25,
-      "cashes2026": 2,
+      "cashes2026": 3,
       "liveStatus": null,
       "eventHistory": []
     },
@@ -91,7 +91,7 @@
         "rank": 37,
         "chips": 48000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T19:18:01.091Z"
+        "updatedAt": "2026-06-12T19:24:32.145Z"
       },
       "eventHistory": [
         {
@@ -107,7 +107,7 @@
           "rank": 37,
           "chips": 48000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T19:18:01.091Z"
+          "updatedAt": "2026-06-12T19:24:32.145Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
         "rank": 483,
         "chips": 141000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T19:18:01.091Z"
+        "updatedAt": "2026-06-12T19:24:32.147Z"
       },
       "eventHistory": [
         {
@@ -157,7 +157,7 @@
           "rank": 483,
           "chips": 141000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T19:18:01.091Z"
+          "updatedAt": "2026-06-12T19:24:32.147Z"
         }
       ]
     },
