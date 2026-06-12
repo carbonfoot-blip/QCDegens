@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T21:09:02.761Z",
+  "updatedAt": "2026-06-12T21:15:33.478Z",
   "teamScore": 140,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 3,
         "chips": 320000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T21:09:02.758Z"
+        "updatedAt": "2026-06-12T21:15:33.474Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 3,
           "chips": 320000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T21:09:02.758Z"
+          "updatedAt": "2026-06-12T21:15:33.474Z"
         }
       ]
     },
@@ -78,38 +78,8 @@
       "pts2026": 16,
       "salary": 27,
       "cashes2026": 6,
-      "liveStatus": {
-        "eventSlug": "event-38-limit-holdem-championship",
-        "eventName": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-38-limit-holdem-championship/chips.htm",
-        "buyin": 10000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 51,
-        "currentDay": "2",
-        "status": "active",
-        "rank": 49,
-        "chips": 48000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T21:09:02.759Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-38-limit-holdem-championship",
-          "eventName": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-38-limit-holdem-championship/chips.htm",
-          "buyin": 10000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 51,
-          "currentDay": "2",
-          "status": "active",
-          "rank": 49,
-          "chips": 48000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T21:09:02.759Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Ben Lamb",
@@ -141,7 +111,7 @@
         "rank": 483,
         "chips": 141000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T21:09:02.760Z"
+        "updatedAt": "2026-06-12T21:15:33.477Z"
       },
       "eventHistory": [
         {
@@ -157,7 +127,7 @@
           "rank": 483,
           "chips": 141000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T21:09:02.760Z"
+          "updatedAt": "2026-06-12T21:15:33.477Z"
         }
       ]
     },
