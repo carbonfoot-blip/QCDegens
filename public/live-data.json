@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T02:25:08.199Z",
+  "updatedAt": "2026-06-12T02:31:26.033Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 21,
         "chips": 1100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T02:25:08.196Z"
+        "updatedAt": "2026-06-12T02:31:26.030Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 21,
           "chips": 1100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T02:25:08.196Z"
+          "updatedAt": "2026-06-12T02:31:26.030Z"
         },
         {
           "eventSlug": "event-38-limit-holdem-championship",
@@ -61,10 +61,10 @@
           "playersLeft": 50,
           "currentDay": "1",
           "status": "active",
-          "rank": 50,
+          "rank": 51,
           "chips": 37000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T02:25:08.197Z"
+          "updatedAt": "2026-06-12T02:31:26.030Z"
         }
       ]
     },
@@ -108,7 +108,7 @@
         "rank": 12,
         "chips": 120000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T02:25:08.198Z"
+        "updatedAt": "2026-06-12T02:31:26.031Z"
       },
       "eventHistory": [
         {
@@ -124,7 +124,7 @@
           "rank": 12,
           "chips": 120000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T02:25:08.198Z"
+          "updatedAt": "2026-06-12T02:31:26.031Z"
         }
       ]
     },
@@ -168,7 +168,7 @@
         "rank": 64,
         "chips": 568000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T02:25:08.198Z"
+        "updatedAt": "2026-06-12T02:31:26.032Z"
       },
       "eventHistory": [
         {
@@ -184,7 +184,7 @@
           "rank": 64,
           "chips": 568000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T02:25:08.198Z"
+          "updatedAt": "2026-06-12T02:31:26.032Z"
         }
       ]
     },
