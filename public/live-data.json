@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T05:02:22.642Z",
+  "updatedAt": "2026-06-12T05:08:39.794Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,10 +30,10 @@
         "playersLeft": 45,
         "currentDay": "1",
         "status": "active",
-        "rank": 28,
+        "rank": 27,
         "chips": 95000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T05:02:22.640Z"
+        "updatedAt": "2026-06-12T05:08:39.791Z"
       },
       "eventHistory": [
         {
@@ -46,10 +46,10 @@
           "playersLeft": 45,
           "currentDay": "1",
           "status": "active",
-          "rank": 28,
+          "rank": 27,
           "chips": 95000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T05:02:22.640Z"
+          "updatedAt": "2026-06-12T05:08:39.791Z"
         }
       ]
     },
@@ -93,7 +93,7 @@
         "rank": 40,
         "chips": 80000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T05:02:22.641Z"
+        "updatedAt": "2026-06-12T05:08:39.793Z"
       },
       "eventHistory": [
         {
@@ -109,7 +109,7 @@
           "rank": 40,
           "chips": 80000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T05:02:22.641Z"
+          "updatedAt": "2026-06-12T05:08:39.793Z"
         }
       ]
     },
@@ -153,7 +153,7 @@
         "rank": 64,
         "chips": 568000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T05:02:22.641Z"
+        "updatedAt": "2026-06-12T05:08:39.793Z"
       },
       "eventHistory": [
         {
@@ -169,7 +169,7 @@
           "rank": 64,
           "chips": 568000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T05:02:22.641Z"
+          "updatedAt": "2026-06-12T05:08:39.793Z"
         }
       ]
     },
@@ -235,7 +235,7 @@
       "slug": "event-36-high-roller",
       "name": "Event #36: $100,000 High Roller No-Limit Hold’em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-36-high-roller/chips.htm",
-      "playersLeft": 21,
+      "playersLeft": 20,
       "totalEntries": null,
       "buyin": 100000,
       "completed": false
