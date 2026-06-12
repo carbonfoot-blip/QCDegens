@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T06:48:11.650Z",
+  "updatedAt": "2026-06-12T06:54:31.003Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 8,
         "chips": 182000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T06:48:11.649Z"
+        "updatedAt": "2026-06-12T06:54:30.999Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 8,
           "chips": 182000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T06:48:11.649Z"
+          "updatedAt": "2026-06-12T06:54:30.999Z"
         }
       ]
     },
@@ -93,7 +93,7 @@
         "rank": 37,
         "chips": 48000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T06:48:11.649Z"
+        "updatedAt": "2026-06-12T06:54:31.000Z"
       },
       "eventHistory": [
         {
@@ -109,7 +109,7 @@
           "rank": 37,
           "chips": 48000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T06:48:11.649Z"
+          "updatedAt": "2026-06-12T06:54:31.000Z"
         }
       ]
     },
@@ -130,8 +130,38 @@
       "pts2026": 17,
       "salary": 2,
       "cashes2026": 7,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-34-colossus",
+        "eventName": "Event #34: $500 COLOSSUS",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
+        "buyin": 500,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 655,
+        "currentDay": "1b",
+        "status": "active",
+        "rank": 483,
+        "chips": 141000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-12T06:54:31.001Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-34-colossus",
+          "eventName": "Event #34: $500 COLOSSUS",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
+          "buyin": 500,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 655,
+          "currentDay": "1b",
+          "status": "active",
+          "rank": 483,
+          "chips": 141000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-12T06:54:31.001Z"
+        }
+      ]
     },
     {
       "name": "Ryan Leng",
