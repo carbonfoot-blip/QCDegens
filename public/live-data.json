@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T20:23:14.256Z",
+  "updatedAt": "2026-06-12T20:29:46.074Z",
   "teamScore": 140,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 7,
         "chips": 210000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T20:23:14.251Z"
+        "updatedAt": "2026-06-12T20:29:46.070Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 7,
           "chips": 210000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T20:23:14.251Z"
+          "updatedAt": "2026-06-12T20:29:46.070Z"
         }
       ]
     },
@@ -88,10 +88,10 @@
         "playersLeft": 54,
         "currentDay": "2",
         "status": "active",
-        "rank": 49,
+        "rank": 47,
         "chips": 48000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T20:23:14.254Z"
+        "updatedAt": "2026-06-12T20:29:46.072Z"
       },
       "eventHistory": [
         {
@@ -104,10 +104,10 @@
           "playersLeft": 54,
           "currentDay": "2",
           "status": "active",
-          "rank": 49,
+          "rank": 47,
           "chips": 48000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T20:23:14.254Z"
+          "updatedAt": "2026-06-12T20:29:46.072Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
         "rank": 483,
         "chips": 141000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T20:23:14.255Z"
+        "updatedAt": "2026-06-12T20:29:46.073Z"
       },
       "eventHistory": [
         {
@@ -157,7 +157,7 @@
           "rank": 483,
           "chips": 141000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T20:23:14.255Z"
+          "updatedAt": "2026-06-12T20:29:46.073Z"
         }
       ]
     },
@@ -224,7 +224,7 @@
       "slug": "event-35-plo",
       "name": "Event #35: $1,500 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-35-plo/chips.htm",
-      "playersLeft": 138,
+      "playersLeft": 124,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -242,7 +242,7 @@
       "slug": "event-37-horse",
       "name": "Event #37: $1,500 H.O.R.S.E.",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-37-horse/chips.htm",
-      "playersLeft": 14,
+      "playersLeft": 13,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
