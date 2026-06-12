@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T05:46:22.398Z",
+  "updatedAt": "2026-06-12T05:52:33.901Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 9,
         "chips": 180000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T05:46:22.396Z"
+        "updatedAt": "2026-06-12T05:52:33.899Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 9,
           "chips": 180000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T05:46:22.396Z"
+          "updatedAt": "2026-06-12T05:52:33.899Z"
         }
       ]
     },
@@ -93,7 +93,7 @@
         "rank": 40,
         "chips": 80000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T05:46:22.397Z"
+        "updatedAt": "2026-06-12T05:52:33.900Z"
       },
       "eventHistory": [
         {
@@ -109,7 +109,7 @@
           "rank": 40,
           "chips": 80000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T05:46:22.397Z"
+          "updatedAt": "2026-06-12T05:52:33.900Z"
         }
       ]
     },
@@ -140,38 +140,8 @@
       "pts2026": 2,
       "salary": 1,
       "cashes2026": 2,
-      "liveStatus": {
-        "eventSlug": "event-34-colossus",
-        "eventName": "Event #34: $500 COLOSSUS",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-        "buyin": 500,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 501,
-        "currentDay": "2a",
-        "status": "active",
-        "rank": 73,
-        "chips": 568000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T05:46:22.397Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-34-colossus",
-          "eventName": "Event #34: $500 COLOSSUS",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-          "buyin": 500,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 501,
-          "currentDay": "2a",
-          "status": "active",
-          "rank": 73,
-          "chips": 568000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T05:46:22.397Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "John Riordan",
@@ -217,7 +187,7 @@
       "slug": "event-34-colossus",
       "name": "Event #34: $500 COLOSSUS",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-      "playersLeft": 501,
+      "playersLeft": 1607,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
