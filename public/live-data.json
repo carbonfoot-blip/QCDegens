@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T06:54:31.003Z",
+  "updatedAt": "2026-06-12T07:00:50.759Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 8,
         "chips": 182000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T06:54:30.999Z"
+        "updatedAt": "2026-06-12T07:00:50.756Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 8,
           "chips": 182000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T06:54:30.999Z"
+          "updatedAt": "2026-06-12T07:00:50.756Z"
         }
       ]
     },
@@ -93,7 +93,7 @@
         "rank": 37,
         "chips": 48000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T06:54:31.000Z"
+        "updatedAt": "2026-06-12T07:00:50.758Z"
       },
       "eventHistory": [
         {
@@ -109,7 +109,7 @@
           "rank": 37,
           "chips": 48000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T06:54:31.000Z"
+          "updatedAt": "2026-06-12T07:00:50.758Z"
         }
       ]
     },
@@ -143,7 +143,7 @@
         "rank": 483,
         "chips": 141000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T06:54:31.001Z"
+        "updatedAt": "2026-06-12T07:00:50.758Z"
       },
       "eventHistory": [
         {
@@ -159,7 +159,7 @@
           "rank": 483,
           "chips": 141000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T06:54:31.001Z"
+          "updatedAt": "2026-06-12T07:00:50.758Z"
         }
       ]
     },
@@ -199,7 +199,7 @@
       "slug": "event-32-nlh",
       "name": "Event #32: $3,000 No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-32-nlh/chips.htm",
-      "playersLeft": 8,
+      "playersLeft": 7,
       "totalEntries": null,
       "buyin": 3000,
       "completed": false
