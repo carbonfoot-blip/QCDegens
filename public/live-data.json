@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T04:43:31.373Z",
+  "updatedAt": "2026-06-12T04:49:48.507Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,9 +31,9 @@
         "currentDay": "1",
         "status": "active",
         "rank": 29,
-        "chips": 85000,
+        "chips": 95000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T04:43:31.371Z"
+        "updatedAt": "2026-06-12T04:49:48.505Z"
       },
       "eventHistory": [
         {
@@ -47,9 +47,9 @@
           "currentDay": "1",
           "status": "active",
           "rank": 29,
-          "chips": 85000,
+          "chips": 95000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T04:43:31.371Z"
+          "updatedAt": "2026-06-12T04:49:48.505Z"
         }
       ]
     },
@@ -90,10 +90,10 @@
         "playersLeft": 45,
         "currentDay": "1",
         "status": "active",
-        "rank": 19,
+        "rank": 20,
         "chips": 120000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T04:43:31.372Z"
+        "updatedAt": "2026-06-12T04:49:48.506Z"
       },
       "eventHistory": [
         {
@@ -106,10 +106,10 @@
           "playersLeft": 45,
           "currentDay": "1",
           "status": "active",
-          "rank": 19,
+          "rank": 20,
           "chips": 120000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T04:43:31.372Z"
+          "updatedAt": "2026-06-12T04:49:48.506Z"
         }
       ]
     },
@@ -153,7 +153,7 @@
         "rank": 64,
         "chips": 568000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T04:43:31.372Z"
+        "updatedAt": "2026-06-12T04:49:48.506Z"
       },
       "eventHistory": [
         {
@@ -169,7 +169,7 @@
           "rank": 64,
           "chips": 568000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T04:43:31.372Z"
+          "updatedAt": "2026-06-12T04:49:48.506Z"
         }
       ]
     },
@@ -235,7 +235,7 @@
       "slug": "event-36-high-roller",
       "name": "Event #36: $100,000 High Roller No-Limit Hold’em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-36-high-roller/chips.htm",
-      "playersLeft": 23,
+      "playersLeft": 22,
       "totalEntries": null,
       "buyin": 100000,
       "completed": false
