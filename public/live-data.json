@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-12T03:53:08.192Z",
+  "updatedAt": "2026-06-12T03:59:24.207Z",
   "teamScore": 139,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 21,
         "chips": 1100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T03:53:08.189Z"
+        "updatedAt": "2026-06-12T03:59:24.204Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 21,
           "chips": 1100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T03:53:08.189Z"
+          "updatedAt": "2026-06-12T03:59:24.204Z"
         },
         {
           "eventSlug": "event-38-limit-holdem-championship",
@@ -64,7 +64,7 @@
           "rank": 25,
           "chips": 96000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T03:53:08.189Z"
+          "updatedAt": "2026-06-12T03:59:24.204Z"
         }
       ]
     },
@@ -105,10 +105,10 @@
         "playersLeft": 48,
         "currentDay": "1",
         "status": "active",
-        "rank": 16,
+        "rank": 17,
         "chips": 120000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T03:53:08.190Z"
+        "updatedAt": "2026-06-12T03:59:24.205Z"
       },
       "eventHistory": [
         {
@@ -121,10 +121,10 @@
           "playersLeft": 48,
           "currentDay": "1",
           "status": "active",
-          "rank": 16,
+          "rank": 17,
           "chips": 120000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T03:53:08.190Z"
+          "updatedAt": "2026-06-12T03:59:24.205Z"
         }
       ]
     },
@@ -168,7 +168,7 @@
         "rank": 64,
         "chips": 568000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-12T03:53:08.191Z"
+        "updatedAt": "2026-06-12T03:59:24.206Z"
       },
       "eventHistory": [
         {
@@ -184,7 +184,7 @@
           "rank": 64,
           "chips": 568000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-12T03:53:08.191Z"
+          "updatedAt": "2026-06-12T03:59:24.206Z"
         }
       ]
     },
