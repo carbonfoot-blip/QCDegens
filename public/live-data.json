@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T19:13:26.573Z",
+  "updatedAt": "2026-06-13T19:19:55.143Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -60,10 +60,10 @@
         "playersLeft": 291,
         "currentDay": "2",
         "status": "active",
-        "rank": 258,
+        "rank": 257,
         "chips": 50000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-13T19:13:26.571Z"
+        "updatedAt": "2026-06-13T19:19:55.141Z"
       },
       "eventHistory": [
         {
@@ -76,10 +76,10 @@
           "playersLeft": 291,
           "currentDay": "2",
           "status": "active",
-          "rank": 258,
+          "rank": 257,
           "chips": 50000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-13T19:13:26.571Z"
+          "updatedAt": "2026-06-13T19:19:55.141Z"
         }
       ]
     },
@@ -148,7 +148,7 @@
       "slug": "event-35-plo",
       "name": "Event #35: $1,500 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-35-plo/chips.htm",
-      "playersLeft": 15,
+      "playersLeft": 14,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -184,7 +184,7 @@
       "slug": "event-41-super-high-roller",
       "name": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-41-super-high-roller/chips.htm",
-      "playersLeft": null,
+      "playersLeft": 10,
       "totalEntries": null,
       "buyin": 250000,
       "completed": false
