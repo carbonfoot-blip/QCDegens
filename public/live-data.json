@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T19:58:18.452Z",
+  "updatedAt": "2026-06-13T20:04:42.530Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -60,10 +60,10 @@
         "playersLeft": 291,
         "currentDay": "2",
         "status": "active",
-        "rank": 258,
+        "rank": 257,
         "chips": 50000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-13T19:58:18.449Z"
+        "updatedAt": "2026-06-13T20:04:42.528Z"
       },
       "eventHistory": [
         {
@@ -76,10 +76,10 @@
           "playersLeft": 291,
           "currentDay": "2",
           "status": "active",
-          "rank": 258,
+          "rank": 257,
           "chips": 50000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-13T19:58:18.449Z"
+          "updatedAt": "2026-06-13T20:04:42.528Z"
         }
       ]
     },
@@ -148,7 +148,7 @@
       "slug": "event-35-plo",
       "name": "Event #35: $1,500 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-35-plo/chips.htm",
-      "playersLeft": 14,
+      "playersLeft": 13,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
