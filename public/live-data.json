@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T20:49:29.713Z",
+  "updatedAt": "2026-06-13T20:55:53.126Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -57,13 +57,13 @@
         "buyin": 5000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 291,
+        "playersLeft": 240,
         "currentDay": "2",
         "status": "active",
         "rank": 257,
         "chips": 50000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-13T20:49:29.711Z"
+        "updatedAt": "2026-06-13T20:55:53.124Z"
       },
       "eventHistory": [
         {
@@ -73,13 +73,13 @@
           "buyin": 5000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 291,
+          "playersLeft": 240,
           "currentDay": "2",
           "status": "active",
           "rank": 257,
           "chips": 50000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-13T20:49:29.711Z"
+          "updatedAt": "2026-06-13T20:55:53.124Z"
         }
       ]
     },
@@ -166,7 +166,7 @@
       "slug": "event-39-seniors-high-roller",
       "name": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-39-seniors-high-roller/chips.htm",
-      "playersLeft": 291,
+      "playersLeft": 240,
       "totalEntries": null,
       "buyin": 5000,
       "completed": false
@@ -193,7 +193,7 @@
       "slug": "event-42-big-o-championship",
       "name": "Event #42: $10,000 Big O Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-42-big-o-championship/chips.htm",
-      "playersLeft": null,
+      "playersLeft": 34,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
