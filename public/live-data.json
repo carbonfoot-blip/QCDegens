@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T01:11:29.865Z",
+  "updatedAt": "2026-06-13T01:17:49.766Z",
   "teamScore": 140,
   "completedEvents": [
     "event-3-industry-employees",
@@ -25,13 +25,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 26,
+        "playersLeft": 24,
         "currentDay": "2",
         "status": "active",
         "rank": 17,
         "chips": 210000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-13T01:11:29.862Z"
+        "updatedAt": "2026-06-13T01:17:49.764Z"
       },
       "eventHistory": [
         {
@@ -41,13 +41,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 26,
+          "playersLeft": 24,
           "currentDay": "2",
           "status": "active",
           "rank": 17,
           "chips": 210000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-13T01:11:29.862Z"
+          "updatedAt": "2026-06-13T01:17:49.764Z"
         }
       ]
     },
@@ -111,7 +111,7 @@
         "rank": 482,
         "chips": 141000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-13T01:11:29.864Z"
+        "updatedAt": "2026-06-13T01:17:49.765Z"
       },
       "eventHistory": [
         {
@@ -127,7 +127,7 @@
           "rank": 482,
           "chips": 141000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-13T01:11:29.864Z"
+          "updatedAt": "2026-06-13T01:17:49.765Z"
         }
       ]
     },
@@ -221,7 +221,7 @@
       "slug": "event-38-limit-holdem-championship",
       "name": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-38-limit-holdem-championship/chips.htm",
-      "playersLeft": 26,
+      "playersLeft": 24,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
@@ -239,7 +239,7 @@
       "slug": "event-40-razz",
       "name": "Event #40: $1,500 Razz",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-40-razz/chips.htm",
-      "playersLeft": 354,
+      "playersLeft": 367,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
