@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T21:08:39.301Z",
+  "updatedAt": "2026-06-13T21:14:59.661Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -63,7 +63,7 @@
         "rank": 257,
         "chips": 50000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-13T21:08:39.298Z"
+        "updatedAt": "2026-06-13T21:14:59.660Z"
       },
       "eventHistory": [
         {
@@ -79,7 +79,7 @@
           "rank": 257,
           "chips": 50000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-13T21:08:39.298Z"
+          "updatedAt": "2026-06-13T21:14:59.660Z"
         }
       ]
     },
@@ -175,7 +175,7 @@
       "slug": "event-40-razz",
       "name": "Event #40: $1,500 Razz",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-40-razz/chips.htm",
-      "playersLeft": 83,
+      "playersLeft": 81,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -184,7 +184,7 @@
       "slug": "event-41-super-high-roller",
       "name": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-41-super-high-roller/chips.htm",
-      "playersLeft": 19,
+      "playersLeft": 20,
       "totalEntries": null,
       "buyin": 250000,
       "completed": false
