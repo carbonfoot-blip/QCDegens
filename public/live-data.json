@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T07:08:22.936Z",
+  "updatedAt": "2026-06-13T07:14:33.540Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -146,7 +146,7 @@
       "slug": "event-36-high-roller",
       "name": "Event #36: $100,000 High Roller No-Limit Hold’em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-36-high-roller/chips.htm",
-      "playersLeft": 3,
+      "playersLeft": 2,
       "totalEntries": null,
       "buyin": 100000,
       "completed": false
