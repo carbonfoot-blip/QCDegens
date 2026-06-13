@@ -1,9 +1,10 @@
 {
-  "updatedAt": "2026-06-13T06:55:57.551Z",
+  "updatedAt": "2026-06-13T07:02:10.265Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
     "event-32-nlh",
+    "event-33-plo-hi-lo-championship",
     "event-31-super-turbo-bounty",
     "event-30-limit-holdem",
     "event-29-50000-high-roller",
@@ -106,7 +107,7 @@
   "activeEvents": [
     {
       "slug": "event-32-nlh",
-      "name": "Event #32: $3,000 No-Limit Holdem\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
+      "name": "Event #32: $3,000 No-Limit Holdem",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-32-nlh/chips.htm",
       "playersLeft": 1,
       "totalEntries": null,
@@ -117,10 +118,10 @@
       "slug": "event-33-plo-hi-lo-championship",
       "name": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-33-plo-hi-lo-championship/chips.htm",
-      "playersLeft": 2,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 10000,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-34-colossus",
@@ -135,7 +136,7 @@
       "slug": "event-35-plo",
       "name": "Event #35: $1,500 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-35-plo/chips.htm",
-      "playersLeft": 17,
+      "playersLeft": 15,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -171,7 +172,7 @@
       "slug": "event-39-seniors-high-roller",
       "name": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-39-seniors-high-roller/chips.htm",
-      "playersLeft": 300,
+      "playersLeft": 291,
       "totalEntries": null,
       "buyin": 5000,
       "completed": false
