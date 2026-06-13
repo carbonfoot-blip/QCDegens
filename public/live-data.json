@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T22:11:52.117Z",
+  "updatedAt": "2026-06-13T22:18:12.336Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 12,
         "chips": 1550000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-13T22:11:52.112Z"
+        "updatedAt": "2026-06-13T22:18:12.332Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 12,
           "chips": 1550000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-13T22:11:52.112Z"
+          "updatedAt": "2026-06-13T22:18:12.332Z"
         }
       ]
     },
@@ -87,13 +87,13 @@
         "buyin": 5000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 231,
+        "playersLeft": 189,
         "currentDay": "2",
         "status": "active",
         "rank": 256,
         "chips": 50000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-13T22:11:52.114Z"
+        "updatedAt": "2026-06-13T22:18:12.334Z"
       },
       "eventHistory": [
         {
@@ -103,13 +103,13 @@
           "buyin": 5000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 231,
+          "playersLeft": 189,
           "currentDay": "2",
           "status": "active",
           "rank": 256,
           "chips": 50000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-13T22:11:52.114Z"
+          "updatedAt": "2026-06-13T22:18:12.334Z"
         }
       ]
     },
@@ -196,7 +196,7 @@
       "slug": "event-39-seniors-high-roller",
       "name": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-39-seniors-high-roller/chips.htm",
-      "playersLeft": 231,
+      "playersLeft": 189,
       "totalEntries": null,
       "buyin": 5000,
       "completed": false
@@ -223,7 +223,7 @@
       "slug": "event-42-big-o-championship",
       "name": "Event #42: $10,000 Big O Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-42-big-o-championship/chips.htm",
-      "playersLeft": 102,
+      "playersLeft": 137,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
