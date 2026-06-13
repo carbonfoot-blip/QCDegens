@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T06:37:26.527Z",
+  "updatedAt": "2026-06-13T06:43:37.445Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -171,7 +171,7 @@
       "slug": "event-39-seniors-high-roller",
       "name": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-39-seniors-high-roller/chips.htm",
-      "playersLeft": 375,
+      "playersLeft": 310,
       "totalEntries": null,
       "buyin": 5000,
       "completed": false
@@ -180,7 +180,7 @@
       "slug": "event-40-razz",
       "name": "Event #40: $1,500 Razz",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-40-razz/chips.htm",
-      "playersLeft": 192,
+      "playersLeft": 154,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
