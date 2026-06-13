@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T04:08:56.569Z",
+  "updatedAt": "2026-06-13T04:15:08.122Z",
   "teamScore": 140,
   "completedEvents": [
     "event-3-industry-employees",
@@ -28,10 +28,10 @@
         "playersLeft": 18,
         "currentDay": "2",
         "status": "active",
-        "rank": 13,
-        "chips": 320000,
+        "rank": 8,
+        "chips": 400000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-13T04:08:56.566Z"
+        "updatedAt": "2026-06-13T04:15:08.120Z"
       },
       "eventHistory": [
         {
@@ -44,10 +44,10 @@
           "playersLeft": 18,
           "currentDay": "2",
           "status": "active",
-          "rank": 13,
-          "chips": 320000,
+          "rank": 8,
+          "chips": 400000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-13T04:08:56.566Z"
+          "updatedAt": "2026-06-13T04:15:08.120Z"
         }
       ]
     },
@@ -98,38 +98,8 @@
       "pts2026": 17,
       "salary": 2,
       "cashes2026": 7,
-      "liveStatus": {
-        "eventSlug": "event-34-colossus",
-        "eventName": "Event #34: $500 COLOSSUS",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-        "buyin": 500,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 655,
-        "currentDay": "2b",
-        "status": "active",
-        "rank": 484,
-        "chips": 141000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-13T04:08:56.568Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-34-colossus",
-          "eventName": "Event #34: $500 COLOSSUS",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-          "buyin": 500,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 655,
-          "currentDay": "2b",
-          "status": "active",
-          "rank": 484,
-          "chips": 141000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-13T04:08:56.568Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Ryan Leng",
