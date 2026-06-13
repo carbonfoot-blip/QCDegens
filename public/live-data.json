@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T05:54:09.012Z",
+  "updatedAt": "2026-06-13T06:00:21.550Z",
   "teamScore": 140,
   "completedEvents": [
     "event-3-industry-employees",
@@ -153,7 +153,7 @@
       "slug": "event-37-horse",
       "name": "Event #37: $1,500 H.O.R.S.E.",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-37-horse/chips.htm",
-      "playersLeft": 3,
+      "playersLeft": 2,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
