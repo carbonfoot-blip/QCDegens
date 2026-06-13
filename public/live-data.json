@@ -1,10 +1,11 @@
 {
-  "updatedAt": "2026-06-13T07:02:10.265Z",
+  "updatedAt": "2026-06-13T07:08:22.936Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
     "event-32-nlh",
     "event-33-plo-hi-lo-championship",
+    "event-37-horse",
     "event-31-super-turbo-bounty",
     "event-30-limit-holdem",
     "event-29-50000-high-roller",
@@ -154,16 +155,16 @@
       "slug": "event-37-horse",
       "name": "Event #37: $1,500 H.O.R.S.E.",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-37-horse/chips.htm",
-      "playersLeft": 2,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 1500,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-38-limit-holdem-championship",
       "name": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-38-limit-holdem-championship/chips.htm",
-      "playersLeft": 9,
+      "playersLeft": 8,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
