@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T01:17:49.766Z",
+  "updatedAt": "2026-06-13T01:24:09.896Z",
   "teamScore": 140,
   "completedEvents": [
     "event-3-industry-employees",
@@ -25,13 +25,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 24,
+        "playersLeft": 23,
         "currentDay": "2",
         "status": "active",
-        "rank": 17,
-        "chips": 210000,
+        "rank": 12,
+        "chips": 300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-13T01:17:49.764Z"
+        "updatedAt": "2026-06-13T01:24:09.894Z"
       },
       "eventHistory": [
         {
@@ -41,13 +41,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 24,
+          "playersLeft": 23,
           "currentDay": "2",
           "status": "active",
-          "rank": 17,
-          "chips": 210000,
+          "rank": 12,
+          "chips": 300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-13T01:17:49.764Z"
+          "updatedAt": "2026-06-13T01:24:09.894Z"
         }
       ]
     },
@@ -111,7 +111,7 @@
         "rank": 482,
         "chips": 141000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-13T01:17:49.765Z"
+        "updatedAt": "2026-06-13T01:24:09.895Z"
       },
       "eventHistory": [
         {
@@ -127,7 +127,7 @@
           "rank": 482,
           "chips": 141000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-13T01:17:49.765Z"
+          "updatedAt": "2026-06-13T01:24:09.895Z"
         }
       ]
     },
@@ -221,7 +221,7 @@
       "slug": "event-38-limit-holdem-championship",
       "name": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-38-limit-holdem-championship/chips.htm",
-      "playersLeft": 24,
+      "playersLeft": 23,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
