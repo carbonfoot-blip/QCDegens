@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T06:31:16.625Z",
+  "updatedAt": "2026-06-13T06:37:26.527Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -135,7 +135,7 @@
       "slug": "event-35-plo",
       "name": "Event #35: $1,500 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-35-plo/chips.htm",
-      "playersLeft": 19,
+      "playersLeft": 17,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
