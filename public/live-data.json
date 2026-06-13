@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T23:02:32.295Z",
+  "updatedAt": "2026-06-13T23:08:51.030Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,10 +30,10 @@
         "playersLeft": 27,
         "currentDay": "1",
         "status": "active",
-        "rank": 12,
+        "rank": 11,
         "chips": 1550000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-13T23:02:32.289Z"
+        "updatedAt": "2026-06-13T23:08:51.027Z"
       },
       "eventHistory": [
         {
@@ -46,10 +46,10 @@
           "playersLeft": 27,
           "currentDay": "1",
           "status": "active",
-          "rank": 12,
+          "rank": 11,
           "chips": 1550000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-13T23:02:32.289Z"
+          "updatedAt": "2026-06-13T23:08:51.027Z"
         }
       ]
     },
@@ -83,7 +83,7 @@
         "rank": 17,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-13T23:02:32.290Z"
+        "updatedAt": "2026-06-13T23:08:51.028Z"
       },
       "eventHistory": [
         {
@@ -99,7 +99,7 @@
           "rank": 17,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-13T23:02:32.290Z"
+          "updatedAt": "2026-06-13T23:08:51.028Z"
         }
       ]
     },
@@ -120,10 +120,10 @@
         "playersLeft": 169,
         "currentDay": "2",
         "status": "active",
-        "rank": 255,
+        "rank": 256,
         "chips": 50000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-13T23:02:32.291Z"
+        "updatedAt": "2026-06-13T23:08:51.029Z"
       },
       "eventHistory": [
         {
@@ -136,10 +136,10 @@
           "playersLeft": 169,
           "currentDay": "2",
           "status": "active",
-          "rank": 255,
+          "rank": 256,
           "chips": 50000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-13T23:02:32.291Z"
+          "updatedAt": "2026-06-13T23:08:51.029Z"
         }
       ]
     },
@@ -235,7 +235,7 @@
       "slug": "event-40-razz",
       "name": "Event #40: $1,500 Razz",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-40-razz/chips.htm",
-      "playersLeft": 62,
+      "playersLeft": 58,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
