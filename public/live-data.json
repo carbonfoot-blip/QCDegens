@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-13T21:52:55.837Z",
+  "updatedAt": "2026-06-13T21:59:14.293Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -63,7 +63,7 @@
         "rank": 255,
         "chips": 50000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-13T21:52:55.835Z"
+        "updatedAt": "2026-06-13T21:59:14.291Z"
       },
       "eventHistory": [
         {
@@ -79,7 +79,7 @@
           "rank": 255,
           "chips": 50000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-13T21:52:55.835Z"
+          "updatedAt": "2026-06-13T21:59:14.291Z"
         }
       ]
     },
@@ -157,7 +157,7 @@
       "slug": "event-38-limit-holdem-championship",
       "name": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-38-limit-holdem-championship/chips.htm",
-      "playersLeft": 6,
+      "playersLeft": 5,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
