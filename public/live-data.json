@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-13T06:00:21.550Z",
-  "teamScore": 140,
+  "updatedAt": "2026-06-13T06:06:33.563Z",
+  "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
     "event-32-nlh",
@@ -16,9 +16,9 @@
       "name": "Daniel Negreanu",
       "slug": "daniel-negreanu",
       "isBonus": false,
-      "pts2026": 64,
+      "pts2026": 75,
       "salary": 116,
-      "cashes2026": 3,
+      "cashes2026": 4,
       "liveStatus": null,
       "eventHistory": []
     },
@@ -135,7 +135,7 @@
       "slug": "event-35-plo",
       "name": "Event #35: $1,500 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-35-plo/chips.htm",
-      "playersLeft": 23,
+      "playersLeft": 19,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
