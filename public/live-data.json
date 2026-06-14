@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T06:31:40.519Z",
+  "updatedAt": "2026-06-14T06:37:57.981Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -35,7 +35,7 @@
         "rank": 4,
         "chips": 2890000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T06:31:40.517Z"
+        "updatedAt": "2026-06-14T06:37:57.979Z"
       },
       "eventHistory": [
         {
@@ -51,7 +51,7 @@
           "rank": 4,
           "chips": 2890000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T06:31:40.517Z"
+          "updatedAt": "2026-06-14T06:37:57.979Z"
         }
       ]
     },
@@ -89,13 +89,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 181,
+        "playersLeft": 172,
         "currentDay": "1",
         "status": "active",
-        "rank": 116,
-        "chips": 60000,
+        "rank": 72,
+        "chips": 105000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T06:31:40.518Z"
+        "updatedAt": "2026-06-14T06:37:57.980Z"
       },
       "eventHistory": [
         {
@@ -105,13 +105,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 181,
+          "playersLeft": 172,
           "currentDay": "1",
           "status": "active",
-          "rank": 116,
-          "chips": 60000,
+          "rank": 72,
+          "chips": 105000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T06:31:40.518Z"
+          "updatedAt": "2026-06-14T06:37:57.980Z"
         }
       ]
     },
@@ -225,7 +225,7 @@
       "slug": "event-42-big-o-championship",
       "name": "Event #42: $10,000 Big O Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-42-big-o-championship/chips.htm",
-      "playersLeft": 181,
+      "playersLeft": 172,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
