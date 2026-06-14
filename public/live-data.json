@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T06:25:22.657Z",
+  "updatedAt": "2026-06-14T06:31:40.519Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -29,13 +29,13 @@
         "buyin": 250000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 34,
+        "playersLeft": 33,
         "currentDay": "1",
         "status": "active",
         "rank": 4,
         "chips": 2890000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T06:25:22.655Z"
+        "updatedAt": "2026-06-14T06:31:40.517Z"
       },
       "eventHistory": [
         {
@@ -45,13 +45,13 @@
           "buyin": 250000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 34,
+          "playersLeft": 33,
           "currentDay": "1",
           "status": "active",
           "rank": 4,
           "chips": 2890000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T06:25:22.655Z"
+          "updatedAt": "2026-06-14T06:31:40.517Z"
         }
       ]
     },
@@ -95,7 +95,7 @@
         "rank": 116,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T06:25:22.656Z"
+        "updatedAt": "2026-06-14T06:31:40.518Z"
       },
       "eventHistory": [
         {
@@ -111,7 +111,7 @@
           "rank": 116,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T06:25:22.656Z"
+          "updatedAt": "2026-06-14T06:31:40.518Z"
         }
       ]
     },
@@ -198,7 +198,7 @@
       "slug": "event-39-seniors-high-roller",
       "name": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-39-seniors-high-roller/chips.htm",
-      "playersLeft": 65,
+      "playersLeft": 59,
       "totalEntries": null,
       "buyin": 5000,
       "completed": false
@@ -216,7 +216,7 @@
       "slug": "event-41-super-high-roller",
       "name": "Event #41: $250,000 Super High Roller No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-41-super-high-roller/chips.htm",
-      "playersLeft": 34,
+      "playersLeft": 33,
       "totalEntries": null,
       "buyin": 250000,
       "completed": false
