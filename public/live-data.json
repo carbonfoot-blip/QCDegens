@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T05:28:41.945Z",
+  "updatedAt": "2026-06-14T05:35:00.910Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -29,13 +29,13 @@
         "buyin": 250000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 33,
+        "playersLeft": 34,
         "currentDay": "1",
         "status": "active",
         "rank": 15,
         "chips": 1700000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T05:28:41.941Z"
+        "updatedAt": "2026-06-14T05:35:00.908Z"
       },
       "eventHistory": [
         {
@@ -45,13 +45,13 @@
           "buyin": 250000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 33,
+          "playersLeft": 34,
           "currentDay": "1",
           "status": "active",
           "rank": 15,
           "chips": 1700000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T05:28:41.941Z"
+          "updatedAt": "2026-06-14T05:35:00.908Z"
         }
       ]
     },
@@ -92,10 +92,10 @@
         "playersLeft": 191,
         "currentDay": "1",
         "status": "active",
-        "rank": 104,
+        "rank": 106,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T05:28:41.943Z"
+        "updatedAt": "2026-06-14T05:35:00.909Z"
       },
       "eventHistory": [
         {
@@ -108,10 +108,10 @@
           "playersLeft": 191,
           "currentDay": "1",
           "status": "active",
-          "rank": 104,
+          "rank": 106,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T05:28:41.943Z"
+          "updatedAt": "2026-06-14T05:35:00.909Z"
         }
       ]
     },
@@ -216,7 +216,7 @@
       "slug": "event-41-super-high-roller",
       "name": "Event #41: $250,000 Super High Roller No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-41-super-high-roller/chips.htm",
-      "playersLeft": 33,
+      "playersLeft": 34,
       "totalEntries": null,
       "buyin": 250000,
       "completed": false
