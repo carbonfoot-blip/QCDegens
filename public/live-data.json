@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T21:00:42.133Z",
+  "updatedAt": "2026-06-14T21:07:17.615Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -26,13 +26,13 @@
         "buyin": 250000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 34,
+        "playersLeft": 38,
         "currentDay": "2",
         "status": "active",
-        "rank": 5,
-        "chips": 2740000,
+        "rank": 11,
+        "chips": 2100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T21:00:42.130Z"
+        "updatedAt": "2026-06-14T21:07:17.611Z"
       },
       "eventHistory": [
         {
@@ -42,13 +42,13 @@
           "buyin": 250000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 34,
+          "playersLeft": 38,
           "currentDay": "2",
           "status": "active",
-          "rank": 5,
-          "chips": 2740000,
+          "rank": 11,
+          "chips": 2100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T21:00:42.130Z"
+          "updatedAt": "2026-06-14T21:07:17.611Z"
         }
       ]
     },
@@ -89,10 +89,10 @@
         "playersLeft": 146,
         "currentDay": "2",
         "status": "active",
-        "rank": 96,
+        "rank": 95,
         "chips": 197000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T21:00:42.131Z"
+        "updatedAt": "2026-06-14T21:07:17.613Z"
       },
       "eventHistory": [
         {
@@ -105,10 +105,10 @@
           "playersLeft": 146,
           "currentDay": "2",
           "status": "active",
-          "rank": 96,
+          "rank": 95,
           "chips": 197000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T21:00:42.131Z"
+          "updatedAt": "2026-06-14T21:07:17.613Z"
         }
       ]
     },
@@ -142,7 +142,7 @@
         "rank": 196,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T21:00:42.132Z"
+        "updatedAt": "2026-06-14T21:07:17.613Z"
       },
       "eventHistory": [
         {
@@ -158,7 +158,7 @@
           "rank": 196,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T21:00:42.132Z"
+          "updatedAt": "2026-06-14T21:07:17.613Z"
         }
       ]
     },
@@ -182,7 +182,7 @@
         "rank": 2,
         "chips": 1800000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T21:00:42.132Z"
+        "updatedAt": "2026-06-14T21:07:17.613Z"
       },
       "eventHistory": [
         {
@@ -198,7 +198,7 @@
           "rank": 2,
           "chips": 1800000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T21:00:42.132Z"
+          "updatedAt": "2026-06-14T21:07:17.613Z"
         }
       ]
     },
@@ -229,10 +229,10 @@
         "playersLeft": 146,
         "currentDay": "2",
         "status": "active",
-        "rank": 97,
+        "rank": 96,
         "chips": 81500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T21:00:42.132Z"
+        "updatedAt": "2026-06-14T21:07:17.614Z"
       },
       "eventHistory": [
         {
@@ -245,10 +245,10 @@
           "playersLeft": 146,
           "currentDay": "2",
           "status": "active",
-          "rank": 97,
+          "rank": 96,
           "chips": 81500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T21:00:42.132Z"
+          "updatedAt": "2026-06-14T21:07:17.614Z"
         }
       ]
     }
@@ -267,7 +267,7 @@
       "slug": "event-39-seniors-high-roller",
       "name": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-39-seniors-high-roller/chips.htm",
-      "playersLeft": 32,
+      "playersLeft": 31,
       "totalEntries": null,
       "buyin": 5000,
       "completed": false
@@ -285,7 +285,7 @@
       "slug": "event-41-super-high-roller",
       "name": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-41-super-high-roller/chips.htm",
-      "playersLeft": 34,
+      "playersLeft": 38,
       "totalEntries": null,
       "buyin": 250000,
       "completed": false
