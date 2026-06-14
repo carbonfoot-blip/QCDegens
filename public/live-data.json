@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T17:07:03.991Z",
+  "updatedAt": "2026-06-14T17:13:35.497Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -32,7 +32,7 @@
         "rank": 4,
         "chips": 2970000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T17:07:03.988Z"
+        "updatedAt": "2026-06-14T17:13:35.493Z"
       },
       "eventHistory": [
         {
@@ -48,7 +48,7 @@
           "rank": 4,
           "chips": 2970000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T17:07:03.988Z"
+          "updatedAt": "2026-06-14T17:13:35.493Z"
         }
       ]
     },
@@ -92,7 +92,7 @@
         "rank": 98,
         "chips": 197000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T17:07:03.990Z"
+        "updatedAt": "2026-06-14T17:13:35.495Z"
       },
       "eventHistory": [
         {
@@ -108,7 +108,7 @@
           "rank": 98,
           "chips": 197000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T17:07:03.990Z"
+          "updatedAt": "2026-06-14T17:13:35.495Z"
         }
       ]
     },
@@ -142,7 +142,7 @@
         "rank": 187,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T17:07:03.990Z"
+        "updatedAt": "2026-06-14T17:13:35.495Z"
       },
       "eventHistory": [
         {
@@ -158,7 +158,7 @@
           "rank": 187,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T17:07:03.990Z"
+          "updatedAt": "2026-06-14T17:13:35.495Z"
         }
       ]
     },
@@ -182,7 +182,7 @@
         "rank": 23,
         "chips": 658000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T17:07:03.990Z"
+        "updatedAt": "2026-06-14T17:13:35.495Z"
       },
       "eventHistory": [
         {
@@ -198,7 +198,7 @@
           "rank": 23,
           "chips": 658000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T17:07:03.990Z"
+          "updatedAt": "2026-06-14T17:13:35.495Z"
         }
       ]
     },
@@ -232,7 +232,7 @@
         "rank": 99,
         "chips": 81500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T17:07:03.991Z"
+        "updatedAt": "2026-06-14T17:13:35.496Z"
       },
       "eventHistory": [
         {
@@ -248,7 +248,7 @@
           "rank": 99,
           "chips": 81500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T17:07:03.991Z"
+          "updatedAt": "2026-06-14T17:13:35.496Z"
         }
       ]
     }
@@ -303,7 +303,7 @@
       "slug": "event-43-deepstack",
       "name": "Event #43: $800 8-Handed Deepstack No-Limit",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-43-deepstack/chips.htm",
-      "playersLeft": null,
+      "playersLeft": 1113,
       "totalEntries": null,
       "buyin": 800,
       "completed": false
