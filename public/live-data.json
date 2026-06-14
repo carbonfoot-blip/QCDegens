@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T03:16:05.686Z",
+  "updatedAt": "2026-06-14T03:22:24.500Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,10 +31,10 @@
         "playersLeft": 30,
         "currentDay": "1",
         "status": "active",
-        "rank": 18,
-        "chips": 1549000,
+        "rank": 27,
+        "chips": 977000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T03:16:05.681Z"
+        "updatedAt": "2026-06-14T03:22:24.497Z"
       },
       "eventHistory": [
         {
@@ -47,10 +47,10 @@
           "playersLeft": 30,
           "currentDay": "1",
           "status": "active",
-          "rank": 18,
-          "chips": 1549000,
+          "rank": 27,
+          "chips": 977000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T03:16:05.681Z"
+          "updatedAt": "2026-06-14T03:22:24.497Z"
         }
       ]
     },
@@ -81,10 +81,10 @@
         "playersLeft": 206,
         "currentDay": "1",
         "status": "active",
-        "rank": 148,
+        "rank": 149,
         "chips": 62300,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T03:16:05.683Z"
+        "updatedAt": "2026-06-14T03:22:24.498Z"
       },
       "eventHistory": [
         {
@@ -97,10 +97,10 @@
           "playersLeft": 206,
           "currentDay": "1",
           "status": "active",
-          "rank": 148,
+          "rank": 149,
           "chips": 62300,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T03:16:05.683Z"
+          "updatedAt": "2026-06-14T03:22:24.498Z"
         }
       ]
     },
@@ -118,13 +118,13 @@
         "buyin": 5000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 118,
+        "playersLeft": 115,
         "currentDay": "2",
         "status": "active",
-        "rank": 258,
+        "rank": 249,
         "chips": 50000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T03:16:05.684Z"
+        "updatedAt": "2026-06-14T03:22:24.498Z"
       },
       "eventHistory": [
         {
@@ -134,13 +134,13 @@
           "buyin": 5000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 118,
+          "playersLeft": 115,
           "currentDay": "2",
           "status": "active",
-          "rank": 258,
+          "rank": 249,
           "chips": 50000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T03:16:05.684Z"
+          "updatedAt": "2026-06-14T03:22:24.498Z"
         },
         {
           "eventSlug": "event-42-big-o-championship",
@@ -155,7 +155,7 @@
           "rank": 91,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T03:16:05.684Z"
+          "updatedAt": "2026-06-14T03:22:24.498Z"
         }
       ]
     },
@@ -242,7 +242,7 @@
       "slug": "event-39-seniors-high-roller",
       "name": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-39-seniors-high-roller/chips.htm",
-      "playersLeft": 118,
+      "playersLeft": 115,
       "totalEntries": null,
       "buyin": 5000,
       "completed": false
