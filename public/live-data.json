@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T02:19:11.384Z",
+  "updatedAt": "2026-06-14T02:25:35.189Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 15,
         "chips": 1549000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T02:19:11.380Z"
+        "updatedAt": "2026-06-14T02:25:35.186Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 15,
           "chips": 1549000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T02:19:11.380Z"
+          "updatedAt": "2026-06-14T02:25:35.186Z"
         }
       ]
     },
@@ -83,7 +83,7 @@
         "rank": 147,
         "chips": 62300,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T02:19:11.381Z"
+        "updatedAt": "2026-06-14T02:25:35.187Z"
       },
       "eventHistory": [
         {
@@ -99,7 +99,7 @@
           "rank": 147,
           "chips": 62300,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T02:19:11.381Z"
+          "updatedAt": "2026-06-14T02:25:35.187Z"
         }
       ]
     },
@@ -123,7 +123,7 @@
         "rank": 259,
         "chips": 50000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T02:19:11.382Z"
+        "updatedAt": "2026-06-14T02:25:35.187Z"
       },
       "eventHistory": [
         {
@@ -139,7 +139,7 @@
           "rank": 259,
           "chips": 50000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T02:19:11.382Z"
+          "updatedAt": "2026-06-14T02:25:35.187Z"
         },
         {
           "eventSlug": "event-42-big-o-championship",
@@ -154,7 +154,7 @@
           "rank": 84,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T02:19:11.382Z"
+          "updatedAt": "2026-06-14T02:25:35.187Z"
         }
       ]
     },
