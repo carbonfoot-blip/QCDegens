@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T06:19:06.040Z",
+  "updatedAt": "2026-06-14T06:25:22.657Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -32,10 +32,10 @@
         "playersLeft": 34,
         "currentDay": "1",
         "status": "active",
-        "rank": 7,
-        "chips": 2300000,
+        "rank": 4,
+        "chips": 2890000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T06:19:06.038Z"
+        "updatedAt": "2026-06-14T06:25:22.655Z"
       },
       "eventHistory": [
         {
@@ -48,10 +48,10 @@
           "playersLeft": 34,
           "currentDay": "1",
           "status": "active",
-          "rank": 7,
-          "chips": 2300000,
+          "rank": 4,
+          "chips": 2890000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T06:19:06.038Z"
+          "updatedAt": "2026-06-14T06:25:22.655Z"
         }
       ]
     },
@@ -92,10 +92,10 @@
         "playersLeft": 181,
         "currentDay": "1",
         "status": "active",
-        "rank": 115,
+        "rank": 116,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T06:19:06.039Z"
+        "updatedAt": "2026-06-14T06:25:22.656Z"
       },
       "eventHistory": [
         {
@@ -108,10 +108,10 @@
           "playersLeft": 181,
           "currentDay": "1",
           "status": "active",
-          "rank": 115,
+          "rank": 116,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T06:19:06.039Z"
+          "updatedAt": "2026-06-14T06:25:22.656Z"
         }
       ]
     },
@@ -207,7 +207,7 @@
       "slug": "event-40-razz",
       "name": "Event #40: $1,500 Razz",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-40-razz/chips.htm",
-      "playersLeft": 9,
+      "playersLeft": 8,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
