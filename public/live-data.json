@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T03:53:54.056Z",
+  "updatedAt": "2026-06-14T04:00:10.555Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -28,13 +28,13 @@
         "buyin": 250000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 30,
+        "playersLeft": 31,
         "currentDay": "1",
         "status": "active",
         "rank": 28,
         "chips": 647000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T03:53:54.054Z"
+        "updatedAt": "2026-06-14T04:00:10.552Z"
       },
       "eventHistory": [
         {
@@ -44,13 +44,13 @@
           "buyin": 250000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 30,
+          "playersLeft": 31,
           "currentDay": "1",
           "status": "active",
           "rank": 28,
           "chips": 647000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T03:53:54.054Z"
+          "updatedAt": "2026-06-14T04:00:10.552Z"
         }
       ]
     },
@@ -84,7 +84,7 @@
         "rank": 153,
         "chips": 62300,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T03:53:54.054Z"
+        "updatedAt": "2026-06-14T04:00:10.553Z"
       },
       "eventHistory": [
         {
@@ -100,7 +100,7 @@
           "rank": 153,
           "chips": 62300,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T03:53:54.054Z"
+          "updatedAt": "2026-06-14T04:00:10.553Z"
         }
       ]
     },
@@ -124,7 +124,7 @@
         "rank": 96,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T03:53:54.055Z"
+        "updatedAt": "2026-06-14T04:00:10.553Z"
       },
       "eventHistory": [
         {
@@ -140,7 +140,7 @@
           "rank": 96,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T03:53:54.055Z"
+          "updatedAt": "2026-06-14T04:00:10.553Z"
         }
       ]
     },
@@ -236,7 +236,7 @@
       "slug": "event-40-razz",
       "name": "Event #40: $1,500 Razz",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-40-razz/chips.htm",
-      "playersLeft": 19,
+      "playersLeft": 18,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -245,7 +245,7 @@
       "slug": "event-41-super-high-roller",
       "name": "Event #41: $250,000 Super High Roller No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-41-super-high-roller/chips.htm",
-      "playersLeft": 30,
+      "playersLeft": 31,
       "totalEntries": null,
       "buyin": 250000,
       "completed": false
