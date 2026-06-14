@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T21:51:47.337Z",
+  "updatedAt": "2026-06-14T21:58:07.417Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -32,7 +32,7 @@
         "rank": 12,
         "chips": 2100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T21:51:47.334Z"
+        "updatedAt": "2026-06-14T21:58:07.413Z"
       },
       "eventHistory": [
         {
@@ -48,7 +48,7 @@
           "rank": 12,
           "chips": 2100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T21:51:47.334Z"
+          "updatedAt": "2026-06-14T21:58:07.413Z"
         }
       ]
     },
@@ -92,7 +92,7 @@
         "rank": 37,
         "chips": 215000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T21:51:47.335Z"
+        "updatedAt": "2026-06-14T21:58:07.414Z"
       },
       "eventHistory": [
         {
@@ -108,7 +108,7 @@
           "rank": 37,
           "chips": 215000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T21:51:47.335Z"
+          "updatedAt": "2026-06-14T21:58:07.414Z"
         }
       ]
     },
@@ -142,7 +142,7 @@
         "rank": 196,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T21:51:47.336Z"
+        "updatedAt": "2026-06-14T21:58:07.415Z"
       },
       "eventHistory": [
         {
@@ -158,7 +158,7 @@
           "rank": 196,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T21:51:47.336Z"
+          "updatedAt": "2026-06-14T21:58:07.415Z"
         }
       ]
     },
@@ -182,7 +182,7 @@
         "rank": 2,
         "chips": 1800000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T21:51:47.336Z"
+        "updatedAt": "2026-06-14T21:58:07.416Z"
       },
       "eventHistory": [
         {
@@ -198,7 +198,7 @@
           "rank": 2,
           "chips": 1800000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T21:51:47.336Z"
+          "updatedAt": "2026-06-14T21:58:07.416Z"
         }
       ]
     },
@@ -232,7 +232,7 @@
         "rank": 100,
         "chips": 81500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T21:51:47.336Z"
+        "updatedAt": "2026-06-14T21:58:07.416Z"
       },
       "eventHistory": [
         {
@@ -248,7 +248,7 @@
           "rank": 100,
           "chips": 81500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T21:51:47.336Z"
+          "updatedAt": "2026-06-14T21:58:07.416Z"
         }
       ]
     }
@@ -267,7 +267,7 @@
       "slug": "event-39-seniors-high-roller",
       "name": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-39-seniors-high-roller/chips.htm",
-      "playersLeft": 26,
+      "playersLeft": 24,
       "totalEntries": null,
       "buyin": 5000,
       "completed": false
