@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T11:39:55.860Z",
+  "updatedAt": "2026-06-14T11:46:17.014Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -11,8 +11,7 @@
     "event-32-nlh",
     "event-31-super-turbo-bounty",
     "event-30-limit-holdem",
-    "event-29-50000-high-roller",
-    "event-28-600-deepstack-mixed"
+    "event-29-50000-high-roller"
   ],
   "players": [
     {
@@ -35,7 +34,7 @@
         "rank": 4,
         "chips": 2970000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T11:39:55.857Z"
+        "updatedAt": "2026-06-14T11:46:17.012Z"
       },
       "eventHistory": [
         {
@@ -51,7 +50,7 @@
           "rank": 4,
           "chips": 2970000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T11:39:55.857Z"
+          "updatedAt": "2026-06-14T11:46:17.012Z"
         }
       ]
     },
@@ -95,7 +94,7 @@
         "rank": 98,
         "chips": 197000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T11:39:55.859Z"
+        "updatedAt": "2026-06-14T11:46:17.013Z"
       },
       "eventHistory": [
         {
@@ -111,7 +110,7 @@
           "rank": 98,
           "chips": 197000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T11:39:55.859Z"
+          "updatedAt": "2026-06-14T11:46:17.013Z"
         }
       ]
     },
@@ -132,8 +131,38 @@
       "pts2026": 17,
       "salary": 2,
       "cashes2026": 7,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-34-colossus",
+        "eventName": "Event #34: $500 COLOSSUS",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
+        "buyin": 500,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 655,
+        "currentDay": "2d",
+        "status": "active",
+        "rank": 187,
+        "chips": 146000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-14T11:46:17.013Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-34-colossus",
+          "eventName": "Event #34: $500 COLOSSUS",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
+          "buyin": 500,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 655,
+          "currentDay": "2d",
+          "status": "active",
+          "rank": 187,
+          "chips": 146000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-14T11:46:17.013Z"
+        }
+      ]
     },
     {
       "name": "Ryan Leng",
@@ -142,8 +171,38 @@
       "pts2026": 2,
       "salary": 1,
       "cashes2026": 2,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-34-colossus",
+        "eventName": "Event #34: $500 COLOSSUS",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
+        "buyin": 500,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 655,
+        "currentDay": "2d",
+        "status": "active",
+        "rank": 23,
+        "chips": 658000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-14T11:46:17.013Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-34-colossus",
+          "eventName": "Event #34: $500 COLOSSUS",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
+          "buyin": 500,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 655,
+          "currentDay": "2d",
+          "status": "active",
+          "rank": 23,
+          "chips": 658000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-14T11:46:17.013Z"
+        }
+      ]
     },
     {
       "name": "John Riordan",
@@ -175,7 +234,7 @@
         "rank": 99,
         "chips": 81500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T11:39:55.859Z"
+        "updatedAt": "2026-06-14T11:46:17.014Z"
       },
       "eventHistory": [
         {
@@ -191,7 +250,7 @@
           "rank": 99,
           "chips": 81500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T11:39:55.859Z"
+          "updatedAt": "2026-06-14T11:46:17.014Z"
         }
       ]
     }
@@ -261,6 +320,15 @@
       "completed": false
     },
     {
+      "slug": "event-43-deepstack",
+      "name": "Event #43: $800 8-Handed Deepstack No-Limit",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-43-deepstack/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 800,
+      "completed": false
+    },
+    {
       "slug": "event-37-horse",
       "name": "Event #37: $1,500 H.O.R.S.E.",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-37-horse/chips.htm",
@@ -321,15 +389,6 @@
       "playersLeft": 1,
       "totalEntries": null,
       "buyin": 50000,
-      "completed": true
-    },
-    {
-      "slug": "event-28-600-deepstack-mixed",
-      "name": "Event #28: $600 Deepstack Mixed No-Limit Hold'em; Pot-Limit Omaha",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-28-600-deepstack-mixed/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 600,
       "completed": true
     }
   ]
