@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T04:06:29.476Z",
+  "updatedAt": "2026-06-14T04:12:48.727Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,10 +31,10 @@
         "playersLeft": 31,
         "currentDay": "1",
         "status": "active",
-        "rank": 28,
-        "chips": 647000,
+        "rank": 22,
+        "chips": 1200000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T04:06:29.474Z"
+        "updatedAt": "2026-06-14T04:12:48.725Z"
       },
       "eventHistory": [
         {
@@ -47,10 +47,10 @@
           "playersLeft": 31,
           "currentDay": "1",
           "status": "active",
-          "rank": 28,
-          "chips": 647000,
+          "rank": 22,
+          "chips": 1200000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T04:06:29.474Z"
+          "updatedAt": "2026-06-14T04:12:48.725Z"
         }
       ]
     },
@@ -84,7 +84,7 @@
         "rank": 153,
         "chips": 62300,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T04:06:29.475Z"
+        "updatedAt": "2026-06-14T04:12:48.725Z"
       },
       "eventHistory": [
         {
@@ -100,7 +100,7 @@
           "rank": 153,
           "chips": 62300,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T04:06:29.475Z"
+          "updatedAt": "2026-06-14T04:12:48.725Z"
         }
       ]
     },
@@ -124,7 +124,7 @@
         "rank": 96,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T04:06:29.475Z"
+        "updatedAt": "2026-06-14T04:12:48.726Z"
       },
       "eventHistory": [
         {
@@ -140,7 +140,7 @@
           "rank": 96,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T04:06:29.475Z"
+          "updatedAt": "2026-06-14T04:12:48.726Z"
         }
       ]
     },
@@ -227,7 +227,7 @@
       "slug": "event-39-seniors-high-roller",
       "name": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-39-seniors-high-roller/chips.htm",
-      "playersLeft": 92,
+      "playersLeft": 90,
       "totalEntries": null,
       "buyin": 5000,
       "completed": false
@@ -236,7 +236,7 @@
       "slug": "event-40-razz",
       "name": "Event #40: $1,500 Razz",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-40-razz/chips.htm",
-      "playersLeft": 18,
+      "playersLeft": 16,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
