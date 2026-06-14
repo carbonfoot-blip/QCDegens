@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T21:07:17.615Z",
+  "updatedAt": "2026-06-14T21:13:43.437Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -26,13 +26,13 @@
         "buyin": 250000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 38,
+        "playersLeft": 39,
         "currentDay": "2",
         "status": "active",
         "rank": 11,
         "chips": 2100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T21:07:17.611Z"
+        "updatedAt": "2026-06-14T21:13:43.435Z"
       },
       "eventHistory": [
         {
@@ -42,13 +42,13 @@
           "buyin": 250000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 38,
+          "playersLeft": 39,
           "currentDay": "2",
           "status": "active",
           "rank": 11,
           "chips": 2100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T21:07:17.611Z"
+          "updatedAt": "2026-06-14T21:13:43.435Z"
         }
       ]
     },
@@ -89,10 +89,10 @@
         "playersLeft": 146,
         "currentDay": "2",
         "status": "active",
-        "rank": 95,
-        "chips": 197000,
+        "rank": 75,
+        "chips": 115000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T21:07:17.613Z"
+        "updatedAt": "2026-06-14T21:13:43.436Z"
       },
       "eventHistory": [
         {
@@ -105,10 +105,10 @@
           "playersLeft": 146,
           "currentDay": "2",
           "status": "active",
-          "rank": 95,
-          "chips": 197000,
+          "rank": 75,
+          "chips": 115000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T21:07:17.613Z"
+          "updatedAt": "2026-06-14T21:13:43.436Z"
         }
       ]
     },
@@ -142,7 +142,7 @@
         "rank": 196,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T21:07:17.613Z"
+        "updatedAt": "2026-06-14T21:13:43.436Z"
       },
       "eventHistory": [
         {
@@ -158,7 +158,7 @@
           "rank": 196,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T21:07:17.613Z"
+          "updatedAt": "2026-06-14T21:13:43.436Z"
         }
       ]
     },
@@ -182,7 +182,7 @@
         "rank": 2,
         "chips": 1800000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T21:07:17.613Z"
+        "updatedAt": "2026-06-14T21:13:43.436Z"
       },
       "eventHistory": [
         {
@@ -198,7 +198,7 @@
           "rank": 2,
           "chips": 1800000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T21:07:17.613Z"
+          "updatedAt": "2026-06-14T21:13:43.436Z"
         }
       ]
     },
@@ -229,10 +229,10 @@
         "playersLeft": 146,
         "currentDay": "2",
         "status": "active",
-        "rank": 96,
+        "rank": 97,
         "chips": 81500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T21:07:17.614Z"
+        "updatedAt": "2026-06-14T21:13:43.437Z"
       },
       "eventHistory": [
         {
@@ -245,10 +245,10 @@
           "playersLeft": 146,
           "currentDay": "2",
           "status": "active",
-          "rank": 96,
+          "rank": 97,
           "chips": 81500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T21:07:17.614Z"
+          "updatedAt": "2026-06-14T21:13:43.437Z"
         }
       ]
     }
@@ -285,7 +285,7 @@
       "slug": "event-41-super-high-roller",
       "name": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-41-super-high-roller/chips.htm",
-      "playersLeft": 38,
+      "playersLeft": 39,
       "totalEntries": null,
       "buyin": 250000,
       "completed": false
@@ -312,7 +312,7 @@
       "slug": "event-44-super-turbo-bounty",
       "name": "Event #44: $10,000 Super Turbo Bounty No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-44-super-turbo-bounty/chips.htm",
-      "playersLeft": null,
+      "playersLeft": 287,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
