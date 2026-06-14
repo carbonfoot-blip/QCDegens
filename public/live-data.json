@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T03:03:28.395Z",
+  "updatedAt": "2026-06-14T03:09:47.648Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,10 +31,10 @@
         "playersLeft": 30,
         "currentDay": "1",
         "status": "active",
-        "rank": 18,
+        "rank": 19,
         "chips": 1549000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T03:03:28.392Z"
+        "updatedAt": "2026-06-14T03:09:47.645Z"
       },
       "eventHistory": [
         {
@@ -47,10 +47,10 @@
           "playersLeft": 30,
           "currentDay": "1",
           "status": "active",
-          "rank": 18,
+          "rank": 19,
           "chips": 1549000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T03:03:28.392Z"
+          "updatedAt": "2026-06-14T03:09:47.645Z"
         }
       ]
     },
@@ -84,7 +84,7 @@
         "rank": 148,
         "chips": 62300,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T03:03:28.392Z"
+        "updatedAt": "2026-06-14T03:09:47.646Z"
       },
       "eventHistory": [
         {
@@ -100,7 +100,7 @@
           "rank": 148,
           "chips": 62300,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T03:03:28.392Z"
+          "updatedAt": "2026-06-14T03:09:47.646Z"
         }
       ]
     },
@@ -121,10 +121,10 @@
         "playersLeft": 128,
         "currentDay": "2",
         "status": "active",
-        "rank": 259,
+        "rank": 258,
         "chips": 50000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T03:03:28.393Z"
+        "updatedAt": "2026-06-14T03:09:47.646Z"
       },
       "eventHistory": [
         {
@@ -137,10 +137,10 @@
           "playersLeft": 128,
           "currentDay": "2",
           "status": "active",
-          "rank": 259,
+          "rank": 258,
           "chips": 50000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T03:03:28.393Z"
+          "updatedAt": "2026-06-14T03:09:47.646Z"
         },
         {
           "eventSlug": "event-42-big-o-championship",
@@ -155,7 +155,7 @@
           "rank": 91,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T03:03:28.393Z"
+          "updatedAt": "2026-06-14T03:09:47.646Z"
         }
       ]
     },
