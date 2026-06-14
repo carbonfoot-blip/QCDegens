@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T22:23:30.323Z",
+  "updatedAt": "2026-06-14T22:29:50.754Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -19,38 +19,8 @@
       "pts2026": 75,
       "salary": 116,
       "cashes2026": 4,
-      "liveStatus": {
-        "eventSlug": "event-41-super-high-roller",
-        "eventName": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-41-super-high-roller/chips.htm",
-        "buyin": 250000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 35,
-        "currentDay": "2",
-        "status": "active",
-        "rank": 12,
-        "chips": 2100000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T22:23:30.320Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-41-super-high-roller",
-          "eventName": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-41-super-high-roller/chips.htm",
-          "buyin": 250000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 35,
-          "currentDay": "2",
-          "status": "active",
-          "rank": 12,
-          "chips": 2100000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T22:23:30.320Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Calvin Anderson",
@@ -89,10 +59,10 @@
         "playersLeft": 158,
         "currentDay": "2",
         "status": "active",
-        "rank": 40,
+        "rank": 39,
         "chips": 215000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T22:23:30.322Z"
+        "updatedAt": "2026-06-14T22:29:50.752Z"
       },
       "eventHistory": [
         {
@@ -105,10 +75,10 @@
           "playersLeft": 158,
           "currentDay": "2",
           "status": "active",
-          "rank": 40,
+          "rank": 39,
           "chips": 215000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T22:23:30.322Z"
+          "updatedAt": "2026-06-14T22:29:50.752Z"
         }
       ]
     },
@@ -142,7 +112,7 @@
         "rank": 196,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T22:23:30.322Z"
+        "updatedAt": "2026-06-14T22:29:50.753Z"
       },
       "eventHistory": [
         {
@@ -158,7 +128,7 @@
           "rank": 196,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T22:23:30.322Z"
+          "updatedAt": "2026-06-14T22:29:50.753Z"
         }
       ]
     },
@@ -182,7 +152,7 @@
         "rank": 2,
         "chips": 1800000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T22:23:30.322Z"
+        "updatedAt": "2026-06-14T22:29:50.753Z"
       },
       "eventHistory": [
         {
@@ -198,7 +168,7 @@
           "rank": 2,
           "chips": 1800000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T22:23:30.322Z"
+          "updatedAt": "2026-06-14T22:29:50.753Z"
         }
       ]
     },
@@ -232,7 +202,7 @@
         "rank": 96,
         "chips": 81500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T22:23:30.323Z"
+        "updatedAt": "2026-06-14T22:29:50.753Z"
       },
       "eventHistory": [
         {
@@ -248,7 +218,7 @@
           "rank": 96,
           "chips": 81500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T22:23:30.323Z"
+          "updatedAt": "2026-06-14T22:29:50.753Z"
         }
       ]
     }
@@ -267,7 +237,7 @@
       "slug": "event-39-seniors-high-roller",
       "name": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-39-seniors-high-roller/chips.htm",
-      "playersLeft": 24,
+      "playersLeft": 23,
       "totalEntries": null,
       "buyin": 5000,
       "completed": false
