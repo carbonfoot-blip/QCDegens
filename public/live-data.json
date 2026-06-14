@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T03:28:43.267Z",
+  "updatedAt": "2026-06-14T03:35:02.000Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -34,7 +34,7 @@
         "rank": 27,
         "chips": 977000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T03:28:43.263Z"
+        "updatedAt": "2026-06-14T03:35:01.996Z"
       },
       "eventHistory": [
         {
@@ -50,7 +50,7 @@
           "rank": 27,
           "chips": 977000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T03:28:43.263Z"
+          "updatedAt": "2026-06-14T03:35:01.996Z"
         }
       ]
     },
@@ -84,7 +84,7 @@
         "rank": 149,
         "chips": 62300,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T03:28:43.264Z"
+        "updatedAt": "2026-06-14T03:35:01.997Z"
       },
       "eventHistory": [
         {
@@ -100,7 +100,7 @@
           "rank": 149,
           "chips": 62300,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T03:28:43.264Z"
+          "updatedAt": "2026-06-14T03:35:01.997Z"
         }
       ]
     },
@@ -121,10 +121,10 @@
         "playersLeft": 115,
         "currentDay": "2",
         "status": "active",
-        "rank": 249,
+        "rank": 250,
         "chips": 50000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T03:28:43.265Z"
+        "updatedAt": "2026-06-14T03:35:01.998Z"
       },
       "eventHistory": [
         {
@@ -137,10 +137,10 @@
           "playersLeft": 115,
           "currentDay": "2",
           "status": "active",
-          "rank": 249,
+          "rank": 250,
           "chips": 50000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T03:28:43.265Z"
+          "updatedAt": "2026-06-14T03:35:01.998Z"
         },
         {
           "eventSlug": "event-42-big-o-championship",
@@ -155,7 +155,7 @@
           "rank": 91,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T03:28:43.265Z"
+          "updatedAt": "2026-06-14T03:35:01.998Z"
         }
       ]
     },
