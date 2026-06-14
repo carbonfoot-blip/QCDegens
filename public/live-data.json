@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T06:56:48.782Z",
+  "updatedAt": "2026-06-14T07:03:06.255Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -24,7 +24,7 @@
       "cashes2026": 4,
       "liveStatus": {
         "eventSlug": "event-41-super-high-roller",
-        "eventName": "Event #41: $250,000 Super High Roller No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
+        "eventName": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
         "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-41-super-high-roller/chips.htm",
         "buyin": 250000,
         "totalEntries": null,
@@ -35,12 +35,12 @@
         "rank": 5,
         "chips": 2890000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T06:56:48.780Z"
+        "updatedAt": "2026-06-14T07:03:06.253Z"
       },
       "eventHistory": [
         {
           "eventSlug": "event-41-super-high-roller",
-          "eventName": "Event #41: $250,000 Super High Roller No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
+          "eventName": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
           "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-41-super-high-roller/chips.htm",
           "buyin": 250000,
           "totalEntries": null,
@@ -51,7 +51,7 @@
           "rank": 5,
           "chips": 2890000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T06:56:48.780Z"
+          "updatedAt": "2026-06-14T07:03:06.253Z"
         }
       ]
     },
@@ -95,7 +95,7 @@
         "rank": 74,
         "chips": 105000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T06:56:48.781Z"
+        "updatedAt": "2026-06-14T07:03:06.254Z"
       },
       "eventHistory": [
         {
@@ -111,7 +111,7 @@
           "rank": 74,
           "chips": 105000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T06:56:48.781Z"
+          "updatedAt": "2026-06-14T07:03:06.254Z"
         }
       ]
     },
@@ -175,7 +175,7 @@
         "rank": 73,
         "chips": 105000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T06:56:48.782Z"
+        "updatedAt": "2026-06-14T07:03:06.255Z"
       },
       "eventHistory": [
         {
@@ -191,7 +191,7 @@
           "rank": 73,
           "chips": 105000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T06:56:48.782Z"
+          "updatedAt": "2026-06-14T07:03:06.255Z"
         }
       ]
     }
@@ -244,7 +244,7 @@
     },
     {
       "slug": "event-41-super-high-roller",
-      "name": "Event #41: $250,000 Super High Roller No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
+      "name": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-41-super-high-roller/chips.htm",
       "playersLeft": 33,
       "totalEntries": null,
