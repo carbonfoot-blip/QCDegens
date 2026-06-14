@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T15:29:00.039Z",
+  "updatedAt": "2026-06-14T15:35:33.176Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -32,7 +32,7 @@
         "rank": 4,
         "chips": 2970000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T15:29:00.036Z"
+        "updatedAt": "2026-06-14T15:35:33.171Z"
       },
       "eventHistory": [
         {
@@ -48,7 +48,7 @@
           "rank": 4,
           "chips": 2970000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T15:29:00.036Z"
+          "updatedAt": "2026-06-14T15:35:33.171Z"
         }
       ]
     },
@@ -92,7 +92,7 @@
         "rank": 98,
         "chips": 197000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T15:29:00.037Z"
+        "updatedAt": "2026-06-14T15:35:33.173Z"
       },
       "eventHistory": [
         {
@@ -108,7 +108,7 @@
           "rank": 98,
           "chips": 197000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T15:29:00.037Z"
+          "updatedAt": "2026-06-14T15:35:33.173Z"
         }
       ]
     },
@@ -136,13 +136,13 @@
         "buyin": 500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 655,
+        "playersLeft": 1362,
         "currentDay": "2d",
         "status": "active",
         "rank": 187,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T15:29:00.038Z"
+        "updatedAt": "2026-06-14T15:35:33.175Z"
       },
       "eventHistory": [
         {
@@ -152,13 +152,13 @@
           "buyin": 500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 655,
+          "playersLeft": 1362,
           "currentDay": "2d",
           "status": "active",
           "rank": 187,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T15:29:00.038Z"
+          "updatedAt": "2026-06-14T15:35:33.175Z"
         }
       ]
     },
@@ -176,13 +176,13 @@
         "buyin": 500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 655,
+        "playersLeft": 1362,
         "currentDay": "2d",
         "status": "active",
         "rank": 23,
         "chips": 658000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T15:29:00.038Z"
+        "updatedAt": "2026-06-14T15:35:33.175Z"
       },
       "eventHistory": [
         {
@@ -192,13 +192,13 @@
           "buyin": 500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 655,
+          "playersLeft": 1362,
           "currentDay": "2d",
           "status": "active",
           "rank": 23,
           "chips": 658000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T15:29:00.038Z"
+          "updatedAt": "2026-06-14T15:35:33.175Z"
         }
       ]
     },
@@ -232,7 +232,7 @@
         "rank": 99,
         "chips": 81500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T15:29:00.039Z"
+        "updatedAt": "2026-06-14T15:35:33.176Z"
       },
       "eventHistory": [
         {
@@ -248,7 +248,7 @@
           "rank": 99,
           "chips": 81500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T15:29:00.039Z"
+          "updatedAt": "2026-06-14T15:35:33.176Z"
         }
       ]
     }
@@ -258,7 +258,7 @@
       "slug": "event-34-colossus",
       "name": "Event #34: $500 COLOSSUS",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-      "playersLeft": 655,
+      "playersLeft": 1362,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
