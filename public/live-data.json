@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T04:50:44.887Z",
+  "updatedAt": "2026-06-14T04:57:04.321Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -32,10 +32,10 @@
         "playersLeft": 33,
         "currentDay": "1",
         "status": "active",
-        "rank": 23,
-        "chips": 1179000,
+        "rank": 10,
+        "chips": 1900000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T04:50:44.885Z"
+        "updatedAt": "2026-06-14T04:57:04.318Z"
       },
       "eventHistory": [
         {
@@ -48,10 +48,10 @@
           "playersLeft": 33,
           "currentDay": "1",
           "status": "active",
-          "rank": 23,
-          "chips": 1179000,
+          "rank": 10,
+          "chips": 1900000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T04:50:44.885Z"
+          "updatedAt": "2026-06-14T04:57:04.318Z"
         }
       ]
     },
@@ -89,13 +89,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 201,
+        "playersLeft": 195,
         "currentDay": "1",
         "status": "active",
         "rank": 99,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-14T04:50:44.886Z"
+        "updatedAt": "2026-06-14T04:57:04.319Z"
       },
       "eventHistory": [
         {
@@ -105,13 +105,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 201,
+          "playersLeft": 195,
           "currentDay": "1",
           "status": "active",
           "rank": 99,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-14T04:50:44.886Z"
+          "updatedAt": "2026-06-14T04:57:04.319Z"
         }
       ]
     },
@@ -198,7 +198,7 @@
       "slug": "event-39-seniors-high-roller",
       "name": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-39-seniors-high-roller/chips.htm",
-      "playersLeft": 81,
+      "playersLeft": 79,
       "totalEntries": null,
       "buyin": 5000,
       "completed": false
@@ -225,7 +225,7 @@
       "slug": "event-42-big-o-championship",
       "name": "Event #42: $10,000 Big O Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-42-big-o-championship/chips.htm",
-      "playersLeft": 201,
+      "playersLeft": 195,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
