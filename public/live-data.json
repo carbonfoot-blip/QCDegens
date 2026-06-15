@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T19:23:58.332Z",
+  "updatedAt": "2026-06-15T19:30:26.571Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -26,12 +26,12 @@
         "totalEntries": null,
         "prizePool": null,
         "playersLeft": 204,
-        "currentDay": "1",
+        "currentDay": "2",
         "status": "active",
         "rank": 54,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T19:23:58.327Z"
+        "updatedAt": "2026-06-15T19:30:26.567Z"
       },
       "eventHistory": [
         {
@@ -42,12 +42,12 @@
           "totalEntries": null,
           "prizePool": null,
           "playersLeft": 204,
-          "currentDay": "1",
+          "currentDay": "2",
           "status": "active",
           "rank": 54,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T19:23:58.327Z"
+          "updatedAt": "2026-06-15T19:30:26.567Z"
         }
       ]
     },
@@ -118,10 +118,10 @@
         "playersLeft": 222,
         "currentDay": "3",
         "status": "active",
-        "rank": 11,
+        "rank": 12,
         "chips": 7085000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T19:23:58.330Z"
+        "updatedAt": "2026-06-15T19:30:26.570Z"
       },
       "eventHistory": [
         {
@@ -134,10 +134,10 @@
           "playersLeft": 222,
           "currentDay": "3",
           "status": "active",
-          "rank": 11,
+          "rank": 12,
           "chips": 7085000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T19:23:58.330Z"
+          "updatedAt": "2026-06-15T19:30:26.570Z"
         }
       ]
     },
@@ -166,12 +166,12 @@
         "totalEntries": null,
         "prizePool": null,
         "playersLeft": 204,
-        "currentDay": "1",
+        "currentDay": "2",
         "status": "active",
         "rank": 63,
         "chips": 129900,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T19:23:58.331Z"
+        "updatedAt": "2026-06-15T19:30:26.571Z"
       },
       "eventHistory": [
         {
@@ -182,12 +182,12 @@
           "totalEntries": null,
           "prizePool": null,
           "playersLeft": 204,
-          "currentDay": "1",
+          "currentDay": "2",
           "status": "active",
           "rank": 63,
           "chips": 129900,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T19:23:58.331Z"
+          "updatedAt": "2026-06-15T19:30:26.571Z"
         }
       ]
     }
@@ -233,7 +233,7 @@
       "slug": "event-43-deepstack",
       "name": "Event #43: $800 8-Handed Deepstack No-Limit",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-43-deepstack/chips.htm",
-      "playersLeft": 163,
+      "playersLeft": 142,
       "totalEntries": null,
       "buyin": 800,
       "completed": false
