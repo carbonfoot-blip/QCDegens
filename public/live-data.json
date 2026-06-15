@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T17:51:07.837Z",
+  "updatedAt": "2026-06-15T17:57:45.560Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 54,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T17:51:07.833Z"
+        "updatedAt": "2026-06-15T17:57:45.556Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 54,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T17:51:07.833Z"
+          "updatedAt": "2026-06-15T17:57:45.556Z"
         }
       ]
     },
@@ -121,7 +121,7 @@
         "rank": 9,
         "chips": 7085000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T17:51:07.836Z"
+        "updatedAt": "2026-06-15T17:57:45.559Z"
       },
       "eventHistory": [
         {
@@ -137,7 +137,7 @@
           "rank": 9,
           "chips": 7085000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T17:51:07.836Z"
+          "updatedAt": "2026-06-15T17:57:45.559Z"
         }
       ]
     },
@@ -171,7 +171,7 @@
         "rank": 63,
         "chips": 129900,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T17:51:07.837Z"
+        "updatedAt": "2026-06-15T17:57:45.560Z"
       },
       "eventHistory": [
         {
@@ -187,7 +187,7 @@
           "rank": 63,
           "chips": 129900,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T17:51:07.837Z"
+          "updatedAt": "2026-06-15T17:57:45.560Z"
         }
       ]
     }
@@ -239,15 +239,6 @@
       "completed": false
     },
     {
-      "slug": "event-44-super-turbo-bounty",
-      "name": "Event #44: $10,000 Super Turbo Bounty No-Limit Hold'em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-44-super-turbo-bounty/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 10000,
-      "completed": true
-    },
-    {
       "slug": "event-45-mixed-omaha-hi-lo-seven-card-stud",
       "name": "Event #45: $2,500 Mixed Omaha Hi-Lo 8 or Better; Seven Card Stud Hi-Lo 8 or Better",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-45-mixed-omaha-hi-lo-seven-card-stud/chips.htm",
@@ -282,6 +273,15 @@
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
+    },
+    {
+      "slug": "event-44-super-turbo-bounty",
+      "name": "Event #44: $10,000 Super Turbo Bounty No-Limit Hold'em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-44-super-turbo-bounty/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 10000,
+      "completed": true
     },
     {
       "slug": "event-40-razz",
