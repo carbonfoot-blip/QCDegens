@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T22:22:47.377Z",
+  "updatedAt": "2026-06-15T22:29:04.045Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -25,13 +25,13 @@
         "buyin": 2500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 141,
+        "playersLeft": 139,
         "currentDay": "2",
         "status": "active",
         "rank": 61,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T22:22:47.375Z"
+        "updatedAt": "2026-06-15T22:29:04.041Z"
       },
       "eventHistory": [
         {
@@ -41,13 +41,13 @@
           "buyin": 2500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 141,
+          "playersLeft": 139,
           "currentDay": "2",
           "status": "active",
           "rank": 61,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T22:22:47.375Z"
+          "updatedAt": "2026-06-15T22:29:04.041Z"
         }
       ]
     },
@@ -135,13 +135,13 @@
         "buyin": 2500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 141,
+        "playersLeft": 139,
         "currentDay": "2",
         "status": "active",
         "rank": 20,
         "chips": 220000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T22:22:47.377Z"
+        "updatedAt": "2026-06-15T22:29:04.044Z"
       },
       "eventHistory": [
         {
@@ -151,13 +151,13 @@
           "buyin": 2500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 141,
+          "playersLeft": 139,
           "currentDay": "2",
           "status": "active",
           "rank": 20,
           "chips": 220000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T22:22:47.377Z"
+          "updatedAt": "2026-06-15T22:29:04.044Z"
         }
       ]
     }
@@ -212,7 +212,7 @@
       "slug": "event-45-mixed-omaha-hi-lo-seven-card-stud",
       "name": "Event #45: $2,500 Mixed Omaha Hi-Lo 8 or Better; Seven Card Stud Hi-Lo 8 or Better",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-45-mixed-omaha-hi-lo-seven-card-stud/chips.htm",
-      "playersLeft": 141,
+      "playersLeft": 139,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
