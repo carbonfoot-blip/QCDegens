@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-06-15T16:38:20.584Z",
+  "updatedAt": "2026-06-15T16:44:56.269Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
-    "event-40-razz",
     "event-44-super-turbo-bounty",
+    "event-40-razz",
     "event-38-limit-holdem-championship",
     "event-37-horse",
     "event-36-high-roller",
@@ -31,7 +31,7 @@
         "rank": 54,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T16:38:20.581Z"
+        "updatedAt": "2026-06-15T16:44:56.265Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 54,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T16:38:20.581Z"
+          "updatedAt": "2026-06-15T16:44:56.265Z"
         }
       ]
     },
@@ -121,7 +121,7 @@
         "rank": 4,
         "chips": 7085000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T16:38:20.583Z"
+        "updatedAt": "2026-06-15T16:44:56.268Z"
       },
       "eventHistory": [
         {
@@ -137,7 +137,7 @@
           "rank": 4,
           "chips": 7085000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T16:38:20.583Z"
+          "updatedAt": "2026-06-15T16:44:56.268Z"
         }
       ]
     },
@@ -171,7 +171,7 @@
         "rank": 63,
         "chips": 129900,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T16:38:20.584Z"
+        "updatedAt": "2026-06-15T16:44:56.269Z"
       },
       "eventHistory": [
         {
@@ -187,7 +187,7 @@
           "rank": 63,
           "chips": 129900,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T16:38:20.584Z"
+          "updatedAt": "2026-06-15T16:44:56.269Z"
         }
       ]
     }
@@ -210,15 +210,6 @@
       "totalEntries": null,
       "buyin": 5000,
       "completed": false
-    },
-    {
-      "slug": "event-40-razz",
-      "name": "Event #40: $1,500 Razz",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-40-razz/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 1500,
-      "completed": true
     },
     {
       "slug": "event-41-super-high-roller",
@@ -291,6 +282,15 @@
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
+    },
+    {
+      "slug": "event-40-razz",
+      "name": "Event #40: $1,500 Razz",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-40-razz/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": true
     },
     {
       "slug": "event-38-limit-holdem-championship",
