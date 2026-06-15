@@ -1,8 +1,9 @@
 {
-  "updatedAt": "2026-06-15T05:44:08.222Z",
+  "updatedAt": "2026-06-15T05:50:25.218Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
+    "event-40-razz",
     "event-38-limit-holdem-championship",
     "event-37-horse",
     "event-36-high-roller",
@@ -82,7 +83,7 @@
         "rank": 228,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T05:44:08.221Z"
+        "updatedAt": "2026-06-15T05:50:25.217Z"
       },
       "eventHistory": [
         {
@@ -98,7 +99,7 @@
           "rank": 228,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T05:44:08.221Z"
+          "updatedAt": "2026-06-15T05:50:25.217Z"
         }
       ]
     },
@@ -122,7 +123,7 @@
         "rank": 4,
         "chips": 7100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T05:44:08.221Z"
+        "updatedAt": "2026-06-15T05:50:25.217Z"
       },
       "eventHistory": [
         {
@@ -138,7 +139,7 @@
           "rank": 4,
           "chips": 7100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T05:44:08.221Z"
+          "updatedAt": "2026-06-15T05:50:25.217Z"
         }
       ]
     },
@@ -186,10 +187,10 @@
       "slug": "event-40-razz",
       "name": "Event #40: $1,500 Razz",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-40-razz/chips.htm",
-      "playersLeft": 2,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 1500,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-41-super-high-roller",
