@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T13:46:21.081Z",
+  "updatedAt": "2026-06-15T13:52:56.399Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -8,8 +8,7 @@
     "event-38-limit-holdem-championship",
     "event-37-horse",
     "event-36-high-roller",
-    "event-35-plo",
-    "event-33-plo-hi-lo-championship"
+    "event-35-plo"
   ],
   "players": [
     {
@@ -32,7 +31,7 @@
         "rank": 54,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T13:46:21.078Z"
+        "updatedAt": "2026-06-15T13:52:56.395Z"
       },
       "eventHistory": [
         {
@@ -48,7 +47,7 @@
           "rank": 54,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T13:46:21.078Z"
+          "updatedAt": "2026-06-15T13:52:56.395Z"
         }
       ]
     },
@@ -122,7 +121,7 @@
         "rank": 4,
         "chips": 7085000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T13:46:21.080Z"
+        "updatedAt": "2026-06-15T13:52:56.397Z"
       },
       "eventHistory": [
         {
@@ -138,7 +137,7 @@
           "rank": 4,
           "chips": 7085000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T13:46:21.080Z"
+          "updatedAt": "2026-06-15T13:52:56.397Z"
         }
       ]
     },
@@ -172,7 +171,7 @@
         "rank": 63,
         "chips": 129900,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T13:46:21.080Z"
+        "updatedAt": "2026-06-15T13:52:56.398Z"
       },
       "eventHistory": [
         {
@@ -188,7 +187,7 @@
           "rank": 63,
           "chips": 129900,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T13:46:21.080Z"
+          "updatedAt": "2026-06-15T13:52:56.398Z"
         }
       ]
     }
@@ -276,6 +275,15 @@
       "completed": false
     },
     {
+      "slug": "event-48-razz-championship",
+      "name": "Event #48: $10,000 Razz Championship",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-48-razz-championship/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 10000,
+      "completed": false
+    },
+    {
       "slug": "event-47-high-roller-plo",
       "name": "Event #47: $25,000 High Roller Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
@@ -318,15 +326,6 @@
       "playersLeft": 1,
       "totalEntries": null,
       "buyin": 1500,
-      "completed": true
-    },
-    {
-      "slug": "event-33-plo-hi-lo-championship",
-      "name": "Event #33: $10,000 Pot-Limit Omaha Hi-Lo 8 or Better Championship",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-33-plo-hi-lo-championship/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 10000,
       "completed": true
     }
   ]
