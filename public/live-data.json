@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T22:35:29.609Z",
+  "updatedAt": "2026-06-15T22:41:49.145Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -28,10 +28,10 @@
         "playersLeft": 139,
         "currentDay": "2",
         "status": "active",
-        "rank": 61,
+        "rank": 63,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T22:35:29.607Z"
+        "updatedAt": "2026-06-15T22:41:49.143Z"
       },
       "eventHistory": [
         {
@@ -44,10 +44,10 @@
           "playersLeft": 139,
           "currentDay": "2",
           "status": "active",
-          "rank": 61,
+          "rank": 63,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T22:35:29.607Z"
+          "updatedAt": "2026-06-15T22:41:49.143Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
         "rank": 20,
         "chips": 220000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T22:35:29.609Z"
+        "updatedAt": "2026-06-15T22:41:49.145Z"
       },
       "eventHistory": [
         {
@@ -157,7 +157,7 @@
           "rank": 20,
           "chips": 220000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T22:35:29.609Z"
+          "updatedAt": "2026-06-15T22:41:49.145Z"
         }
       ]
     }
@@ -167,7 +167,7 @@
       "slug": "event-34-colossus",
       "name": "Event #34: $500 COLOSSUS",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-      "playersLeft": 91,
+      "playersLeft": 81,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
@@ -230,7 +230,7 @@
       "slug": "event-47-high-roller-plo",
       "name": "Event #47: $25,000 High Roller Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
-      "playersLeft": 44,
+      "playersLeft": 46,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
