@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T21:19:29.562Z",
+  "updatedAt": "2026-06-15T21:25:51.574Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 57,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T21:19:29.559Z"
+        "updatedAt": "2026-06-15T21:25:51.570Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 57,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T21:19:29.559Z"
+          "updatedAt": "2026-06-15T21:25:51.570Z"
         }
       ]
     },
@@ -121,7 +121,7 @@
         "rank": 26,
         "chips": 7085000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T21:19:29.561Z"
+        "updatedAt": "2026-06-15T21:25:51.573Z"
       },
       "eventHistory": [
         {
@@ -137,7 +137,7 @@
           "rank": 26,
           "chips": 7085000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T21:19:29.561Z"
+          "updatedAt": "2026-06-15T21:25:51.573Z"
         }
       ]
     },
@@ -171,7 +171,7 @@
         "rank": 66,
         "chips": 129900,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T21:19:29.562Z"
+        "updatedAt": "2026-06-15T21:25:51.574Z"
       },
       "eventHistory": [
         {
@@ -187,7 +187,7 @@
           "rank": 66,
           "chips": 129900,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T21:19:29.562Z"
+          "updatedAt": "2026-06-15T21:25:51.574Z"
         }
       ]
     }
@@ -260,7 +260,7 @@
       "slug": "event-47-high-roller-plo",
       "name": "Event #47: $25,000 High Roller Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
-      "playersLeft": 34,
+      "playersLeft": 40,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
