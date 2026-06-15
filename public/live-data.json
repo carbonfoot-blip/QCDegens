@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T00:54:46.008Z",
+  "updatedAt": "2026-06-15T01:01:09.477Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -62,7 +62,7 @@
         "rank": 74,
         "chips": 100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T00:54:46.006Z"
+        "updatedAt": "2026-06-15T01:01:09.475Z"
       },
       "eventHistory": [
         {
@@ -78,7 +78,7 @@
           "rank": 74,
           "chips": 100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T00:54:46.006Z"
+          "updatedAt": "2026-06-15T01:01:09.475Z"
         }
       ]
     },
@@ -112,7 +112,7 @@
         "rank": 206,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T00:54:46.007Z"
+        "updatedAt": "2026-06-15T01:01:09.476Z"
       },
       "eventHistory": [
         {
@@ -128,7 +128,7 @@
           "rank": 206,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T00:54:46.007Z"
+          "updatedAt": "2026-06-15T01:01:09.476Z"
         }
       ]
     },
@@ -152,7 +152,7 @@
         "rank": 14,
         "chips": 1800000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T00:54:46.007Z"
+        "updatedAt": "2026-06-15T01:01:09.477Z"
       },
       "eventHistory": [
         {
@@ -168,7 +168,7 @@
           "rank": 14,
           "chips": 1800000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T00:54:46.007Z"
+          "updatedAt": "2026-06-15T01:01:09.477Z"
         }
       ]
     },
@@ -207,7 +207,7 @@
       "slug": "event-39-seniors-high-roller",
       "name": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-39-seniors-high-roller/chips.htm",
-      "playersLeft": 16,
+      "playersLeft": 15,
       "totalEntries": null,
       "buyin": 5000,
       "completed": false
