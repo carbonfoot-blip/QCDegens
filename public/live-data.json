@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T00:29:35.797Z",
+  "updatedAt": "2026-06-15T00:35:52.519Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -59,10 +59,10 @@
         "playersLeft": 97,
         "currentDay": "2",
         "status": "active",
-        "rank": 72,
+        "rank": 73,
         "chips": 100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T00:29:35.795Z"
+        "updatedAt": "2026-06-15T00:35:52.517Z"
       },
       "eventHistory": [
         {
@@ -75,10 +75,10 @@
           "playersLeft": 97,
           "currentDay": "2",
           "status": "active",
-          "rank": 72,
+          "rank": 73,
           "chips": 100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T00:29:35.795Z"
+          "updatedAt": "2026-06-15T00:35:52.517Z"
         }
       ]
     },
@@ -112,7 +112,7 @@
         "rank": 206,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T00:29:35.796Z"
+        "updatedAt": "2026-06-15T00:35:52.518Z"
       },
       "eventHistory": [
         {
@@ -128,7 +128,7 @@
           "rank": 206,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T00:29:35.796Z"
+          "updatedAt": "2026-06-15T00:35:52.518Z"
         }
       ]
     },
@@ -152,7 +152,7 @@
         "rank": 14,
         "chips": 1800000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T00:29:35.796Z"
+        "updatedAt": "2026-06-15T00:35:52.518Z"
       },
       "eventHistory": [
         {
@@ -168,7 +168,7 @@
           "rank": 14,
           "chips": 1800000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T00:29:35.796Z"
+          "updatedAt": "2026-06-15T00:35:52.518Z"
         }
       ]
     },
@@ -252,7 +252,7 @@
       "slug": "event-44-super-turbo-bounty",
       "name": "Event #44: $10,000 Super Turbo Bounty No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-44-super-turbo-bounty/chips.htm",
-      "playersLeft": 130,
+      "playersLeft": 129,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
