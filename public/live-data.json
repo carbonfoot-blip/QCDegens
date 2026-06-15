@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T05:56:42.717Z",
+  "updatedAt": "2026-06-15T06:03:00.058Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -83,7 +83,7 @@
         "rank": 228,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T05:56:42.716Z"
+        "updatedAt": "2026-06-15T06:03:00.056Z"
       },
       "eventHistory": [
         {
@@ -99,7 +99,7 @@
           "rank": 228,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T05:56:42.716Z"
+          "updatedAt": "2026-06-15T06:03:00.056Z"
         }
       ]
     },
@@ -123,7 +123,7 @@
         "rank": 4,
         "chips": 7100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T05:56:42.717Z"
+        "updatedAt": "2026-06-15T06:03:00.057Z"
       },
       "eventHistory": [
         {
@@ -139,7 +139,7 @@
           "rank": 4,
           "chips": 7100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T05:56:42.717Z"
+          "updatedAt": "2026-06-15T06:03:00.057Z"
         }
       ]
     },
@@ -205,7 +205,7 @@
       "slug": "event-42-big-o-championship",
       "name": "Event #42: $10,000 Big O Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-42-big-o-championship/chips.htm",
-      "playersLeft": 55,
+      "playersLeft": 50,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
