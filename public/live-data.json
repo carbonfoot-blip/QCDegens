@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T05:37:51.312Z",
+  "updatedAt": "2026-06-15T05:44:08.222Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -82,7 +82,7 @@
         "rank": 228,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T05:37:51.311Z"
+        "updatedAt": "2026-06-15T05:44:08.221Z"
       },
       "eventHistory": [
         {
@@ -98,7 +98,7 @@
           "rank": 228,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T05:37:51.311Z"
+          "updatedAt": "2026-06-15T05:44:08.221Z"
         }
       ]
     },
@@ -122,7 +122,7 @@
         "rank": 4,
         "chips": 7100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T05:37:51.312Z"
+        "updatedAt": "2026-06-15T05:44:08.221Z"
       },
       "eventHistory": [
         {
@@ -138,7 +138,7 @@
           "rank": 4,
           "chips": 7100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T05:37:51.312Z"
+          "updatedAt": "2026-06-15T05:44:08.221Z"
         }
       ]
     },
@@ -213,7 +213,7 @@
       "slug": "event-43-deepstack",
       "name": "Event #43: $800 8-Handed Deepstack No-Limit",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-43-deepstack/chips.htm",
-      "playersLeft": 997,
+      "playersLeft": 437,
       "totalEntries": null,
       "buyin": 800,
       "completed": false
