@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T18:57:35.074Z",
+  "updatedAt": "2026-06-15T19:04:12.517Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 54,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T18:57:35.070Z"
+        "updatedAt": "2026-06-15T19:04:12.513Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 54,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T18:57:35.070Z"
+          "updatedAt": "2026-06-15T19:04:12.513Z"
         }
       ]
     },
@@ -121,7 +121,7 @@
         "rank": 11,
         "chips": 7085000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T18:57:35.073Z"
+        "updatedAt": "2026-06-15T19:04:12.516Z"
       },
       "eventHistory": [
         {
@@ -137,7 +137,7 @@
           "rank": 11,
           "chips": 7085000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T18:57:35.073Z"
+          "updatedAt": "2026-06-15T19:04:12.516Z"
         }
       ]
     },
@@ -171,7 +171,7 @@
         "rank": 63,
         "chips": 129900,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T18:57:35.074Z"
+        "updatedAt": "2026-06-15T19:04:12.517Z"
       },
       "eventHistory": [
         {
@@ -187,7 +187,7 @@
           "rank": 63,
           "chips": 129900,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T18:57:35.074Z"
+          "updatedAt": "2026-06-15T19:04:12.517Z"
         }
       ]
     }
@@ -233,7 +233,7 @@
       "slug": "event-43-deepstack",
       "name": "Event #43: $800 8-Handed Deepstack No-Limit",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-43-deepstack/chips.htm",
-      "playersLeft": 185,
+      "playersLeft": 163,
       "totalEntries": null,
       "buyin": 800,
       "completed": false
@@ -269,7 +269,7 @@
       "slug": "event-47-high-roller-plo",
       "name": "Event #47: $25,000 High Roller Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
-      "playersLeft": null,
+      "playersLeft": 4,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
