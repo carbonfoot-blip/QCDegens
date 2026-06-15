@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T06:52:15.742Z",
+  "updatedAt": "2026-06-15T06:58:30.530Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -70,38 +70,8 @@
       "pts2026": 17,
       "salary": 2,
       "cashes2026": 7,
-      "liveStatus": {
-        "eventSlug": "event-34-colossus",
-        "eventName": "Event #34: $500 COLOSSUS",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-        "buyin": 500,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 303,
-        "currentDay": "2d",
-        "status": "active",
-        "rank": 228,
-        "chips": 146000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T06:52:15.741Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-34-colossus",
-          "eventName": "Event #34: $500 COLOSSUS",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-          "buyin": 500,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 303,
-          "currentDay": "2d",
-          "status": "active",
-          "rank": 228,
-          "chips": 146000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T06:52:15.741Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Ryan Leng",
@@ -121,9 +91,9 @@
         "currentDay": "2d",
         "status": "active",
         "rank": 4,
-        "chips": 7100000,
+        "chips": 7085000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T06:52:15.741Z"
+        "updatedAt": "2026-06-15T06:58:30.529Z"
       },
       "eventHistory": [
         {
@@ -137,9 +107,9 @@
           "currentDay": "2d",
           "status": "active",
           "rank": 4,
-          "chips": 7100000,
+          "chips": 7085000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T06:52:15.741Z"
+          "updatedAt": "2026-06-15T06:58:30.529Z"
         }
       ]
     },
@@ -178,7 +148,7 @@
       "slug": "event-39-seniors-high-roller",
       "name": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-39-seniors-high-roller/chips.htm",
-      "playersLeft": 8,
+      "playersLeft": 7,
       "totalEntries": null,
       "buyin": 5000,
       "completed": false
@@ -205,7 +175,7 @@
       "slug": "event-42-big-o-championship",
       "name": "Event #42: $10,000 Big O Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-42-big-o-championship/chips.htm",
-      "playersLeft": 41,
+      "playersLeft": 40,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
