@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T21:38:32.305Z",
+  "updatedAt": "2026-06-15T21:44:52.323Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 57,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T21:38:32.302Z"
+        "updatedAt": "2026-06-15T21:44:52.320Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 57,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T21:38:32.302Z"
+          "updatedAt": "2026-06-15T21:44:52.320Z"
         }
       ]
     },
@@ -118,10 +118,10 @@
         "playersLeft": 147,
         "currentDay": "3",
         "status": "active",
-        "rank": 26,
+        "rank": 27,
         "chips": 7085000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T21:38:32.303Z"
+        "updatedAt": "2026-06-15T21:44:52.322Z"
       },
       "eventHistory": [
         {
@@ -134,10 +134,10 @@
           "playersLeft": 147,
           "currentDay": "3",
           "status": "active",
-          "rank": 26,
+          "rank": 27,
           "chips": 7085000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T21:38:32.303Z"
+          "updatedAt": "2026-06-15T21:44:52.322Z"
         }
       ]
     },
@@ -171,7 +171,7 @@
         "rank": 66,
         "chips": 129900,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T21:38:32.305Z"
+        "updatedAt": "2026-06-15T21:44:52.323Z"
       },
       "eventHistory": [
         {
@@ -187,7 +187,7 @@
           "rank": 66,
           "chips": 129900,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T21:38:32.305Z"
+          "updatedAt": "2026-06-15T21:44:52.323Z"
         }
       ]
     }
@@ -215,7 +215,7 @@
       "slug": "event-41-super-high-roller",
       "name": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-41-super-high-roller/chips.htm",
-      "playersLeft": 9,
+      "playersLeft": 8,
       "totalEntries": null,
       "buyin": 250000,
       "completed": false
@@ -224,7 +224,7 @@
       "slug": "event-42-big-o-championship",
       "name": "Event #42: $10,000 Big O Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-42-big-o-championship/chips.htm",
-      "playersLeft": 23,
+      "playersLeft": 20,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
@@ -260,7 +260,7 @@
       "slug": "event-47-high-roller-plo",
       "name": "Event #47: $25,000 High Roller Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
-      "playersLeft": 40,
+      "playersLeft": 44,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
@@ -269,7 +269,7 @@
       "slug": "event-48-razz-championship",
       "name": "Event #48: $10,000 Razz Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-48-razz-championship/chips.htm",
-      "playersLeft": 19,
+      "playersLeft": 43,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
