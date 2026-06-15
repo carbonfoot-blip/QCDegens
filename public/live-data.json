@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T00:35:52.519Z",
+  "updatedAt": "2026-06-15T00:42:09.605Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -56,13 +56,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 97,
+        "playersLeft": 96,
         "currentDay": "2",
         "status": "active",
-        "rank": 73,
+        "rank": 74,
         "chips": 100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T00:35:52.517Z"
+        "updatedAt": "2026-06-15T00:42:09.603Z"
       },
       "eventHistory": [
         {
@@ -72,13 +72,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 97,
+          "playersLeft": 96,
           "currentDay": "2",
           "status": "active",
-          "rank": 73,
+          "rank": 74,
           "chips": 100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T00:35:52.517Z"
+          "updatedAt": "2026-06-15T00:42:09.603Z"
         }
       ]
     },
@@ -112,7 +112,7 @@
         "rank": 206,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T00:35:52.518Z"
+        "updatedAt": "2026-06-15T00:42:09.604Z"
       },
       "eventHistory": [
         {
@@ -128,7 +128,7 @@
           "rank": 206,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T00:35:52.518Z"
+          "updatedAt": "2026-06-15T00:42:09.604Z"
         }
       ]
     },
@@ -152,7 +152,7 @@
         "rank": 14,
         "chips": 1800000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T00:35:52.518Z"
+        "updatedAt": "2026-06-15T00:42:09.604Z"
       },
       "eventHistory": [
         {
@@ -168,7 +168,7 @@
           "rank": 14,
           "chips": 1800000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T00:35:52.518Z"
+          "updatedAt": "2026-06-15T00:42:09.604Z"
         }
       ]
     },
@@ -234,7 +234,7 @@
       "slug": "event-42-big-o-championship",
       "name": "Event #42: $10,000 Big O Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-42-big-o-championship/chips.htm",
-      "playersLeft": 97,
+      "playersLeft": 96,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
