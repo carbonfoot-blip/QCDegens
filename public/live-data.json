@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T02:16:03.085Z",
+  "updatedAt": "2026-06-15T02:22:19.154Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -82,7 +82,7 @@
         "rank": 213,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T02:16:03.083Z"
+        "updatedAt": "2026-06-15T02:22:19.153Z"
       },
       "eventHistory": [
         {
@@ -98,7 +98,7 @@
           "rank": 213,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T02:16:03.083Z"
+          "updatedAt": "2026-06-15T02:22:19.153Z"
         }
       ]
     },
@@ -122,7 +122,7 @@
         "rank": 26,
         "chips": 1800000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T02:16:03.084Z"
+        "updatedAt": "2026-06-15T02:22:19.153Z"
       },
       "eventHistory": [
         {
@@ -138,7 +138,7 @@
           "rank": 26,
           "chips": 1800000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T02:16:03.084Z"
+          "updatedAt": "2026-06-15T02:22:19.153Z"
         }
       ]
     },
@@ -222,7 +222,7 @@
       "slug": "event-44-super-turbo-bounty",
       "name": "Event #44: $10,000 Super Turbo Bounty No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-44-super-turbo-bounty/chips.htm",
-      "playersLeft": 76,
+      "playersLeft": 73,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
