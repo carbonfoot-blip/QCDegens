@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T19:49:44.668Z",
+  "updatedAt": "2026-06-15T19:56:11.063Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 54,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T19:49:44.665Z"
+        "updatedAt": "2026-06-15T19:56:11.060Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 54,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T19:49:44.665Z"
+          "updatedAt": "2026-06-15T19:56:11.060Z"
         }
       ]
     },
@@ -118,10 +118,10 @@
         "playersLeft": 186,
         "currentDay": "3",
         "status": "active",
-        "rank": 10,
+        "rank": 11,
         "chips": 7085000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T19:49:44.668Z"
+        "updatedAt": "2026-06-15T19:56:11.062Z"
       },
       "eventHistory": [
         {
@@ -134,10 +134,10 @@
           "playersLeft": 186,
           "currentDay": "3",
           "status": "active",
-          "rank": 10,
+          "rank": 11,
           "chips": 7085000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T19:49:44.668Z"
+          "updatedAt": "2026-06-15T19:56:11.062Z"
         }
       ]
     },
@@ -171,7 +171,7 @@
         "rank": 63,
         "chips": 129900,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T19:49:44.668Z"
+        "updatedAt": "2026-06-15T19:56:11.063Z"
       },
       "eventHistory": [
         {
@@ -187,7 +187,7 @@
           "rank": 63,
           "chips": 129900,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T19:49:44.668Z"
+          "updatedAt": "2026-06-15T19:56:11.063Z"
         }
       ]
     }
@@ -233,7 +233,7 @@
       "slug": "event-43-deepstack",
       "name": "Event #43: $800 8-Handed Deepstack No-Limit",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-43-deepstack/chips.htm",
-      "playersLeft": 142,
+      "playersLeft": 123,
       "totalEntries": null,
       "buyin": 800,
       "completed": false
@@ -251,9 +251,18 @@
       "slug": "event-46-seniors-championship",
       "name": "Event #46: $1,000 Seniors No-Limit Hold’em Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-46-seniors-championship/chips.htm",
-      "playersLeft": null,
+      "playersLeft": 2357,
       "totalEntries": null,
       "buyin": 1000,
+      "completed": false
+    },
+    {
+      "slug": "event-47-high-roller-plo",
+      "name": "Event #47: $25,000 High Roller Pot-Limit Omaha",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
+      "playersLeft": 15,
+      "totalEntries": null,
+      "buyin": 25000,
       "completed": false
     },
     {
@@ -263,15 +272,6 @@
       "playersLeft": null,
       "totalEntries": null,
       "buyin": 10000,
-      "completed": false
-    },
-    {
-      "slug": "event-47-high-roller-plo",
-      "name": "Event #47: $25,000 High Roller Pot-Limit Omaha",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
-      "playersLeft": 6,
-      "totalEntries": null,
-      "buyin": 25000,
       "completed": false
     },
     {
