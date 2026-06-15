@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T08:26:35.878Z",
+  "updatedAt": "2026-06-15T08:32:56.238Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -93,7 +93,7 @@
         "rank": 4,
         "chips": 7085000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T08:26:35.877Z"
+        "updatedAt": "2026-06-15T08:32:56.237Z"
       },
       "eventHistory": [
         {
@@ -109,7 +109,7 @@
           "rank": 4,
           "chips": 7085000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T08:26:35.877Z"
+          "updatedAt": "2026-06-15T08:32:56.237Z"
         }
       ]
     },
@@ -166,7 +166,7 @@
       "slug": "event-41-super-high-roller",
       "name": "Event #41: $250,000 Super High Roller No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-41-super-high-roller/chips.htm",
-      "playersLeft": 11,
+      "playersLeft": 10,
       "totalEntries": null,
       "buyin": 250000,
       "completed": false
@@ -202,7 +202,7 @@
       "slug": "event-45-mixed-omaha-hi-lo-seven-card-stud",
       "name": "Event #45: $2,500 Mixed Omaha Hi-Lo 8 or Better; Seven Card Stud Hi-Lo 8 or Better",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-45-mixed-omaha-hi-lo-seven-card-stud/chips.htm",
-      "playersLeft": 234,
+      "playersLeft": 204,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
