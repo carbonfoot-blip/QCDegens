@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T08:39:20.108Z",
+  "updatedAt": "2026-06-15T08:45:42.732Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -20,8 +20,38 @@
       "pts2026": 75,
       "salary": 116,
       "cashes2026": 4,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-45-mixed-omaha-hi-lo-seven-card-stud",
+        "eventName": "Event #45: $2,500 Mixed Omaha Hi-Lo 8 or Better; Seven Card Stud Hi-Lo 8 or Better",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-45-mixed-omaha-hi-lo-seven-card-stud/chips.htm",
+        "buyin": 2500,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 204,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 54,
+        "chips": 146000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-15T08:45:42.729Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-45-mixed-omaha-hi-lo-seven-card-stud",
+          "eventName": "Event #45: $2,500 Mixed Omaha Hi-Lo 8 or Better; Seven Card Stud Hi-Lo 8 or Better",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-45-mixed-omaha-hi-lo-seven-card-stud/chips.htm",
+          "buyin": 2500,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 204,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 54,
+          "chips": 146000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-15T08:45:42.729Z"
+        }
+      ]
     },
     {
       "name": "Calvin Anderson",
@@ -93,7 +123,7 @@
         "rank": 4,
         "chips": 7085000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T08:39:20.108Z"
+        "updatedAt": "2026-06-15T08:45:42.731Z"
       },
       "eventHistory": [
         {
@@ -109,7 +139,7 @@
           "rank": 4,
           "chips": 7085000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T08:39:20.108Z"
+          "updatedAt": "2026-06-15T08:45:42.731Z"
         }
       ]
     },
@@ -130,8 +160,38 @@
       "pts2026": 0,
       "salary": 0,
       "cashes2026": 0,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-45-mixed-omaha-hi-lo-seven-card-stud",
+        "eventName": "Event #45: $2,500 Mixed Omaha Hi-Lo 8 or Better; Seven Card Stud Hi-Lo 8 or Better",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-45-mixed-omaha-hi-lo-seven-card-stud/chips.htm",
+        "buyin": 2500,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 204,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 63,
+        "chips": 129900,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-15T08:45:42.731Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-45-mixed-omaha-hi-lo-seven-card-stud",
+          "eventName": "Event #45: $2,500 Mixed Omaha Hi-Lo 8 or Better; Seven Card Stud Hi-Lo 8 or Better",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-45-mixed-omaha-hi-lo-seven-card-stud/chips.htm",
+          "buyin": 2500,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 204,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 63,
+          "chips": 129900,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-15T08:45:42.731Z"
+        }
+      ]
     }
   ],
   "activeEvents": [
