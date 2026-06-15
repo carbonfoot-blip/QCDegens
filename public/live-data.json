@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T21:44:52.323Z",
+  "updatedAt": "2026-06-15T21:51:12.253Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 57,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T21:44:52.320Z"
+        "updatedAt": "2026-06-15T21:51:12.251Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 57,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T21:44:52.320Z"
+          "updatedAt": "2026-06-15T21:51:12.251Z"
         }
       ]
     },
@@ -108,38 +108,8 @@
       "pts2026": 3,
       "salary": 1,
       "cashes2026": 3,
-      "liveStatus": {
-        "eventSlug": "event-34-colossus",
-        "eventName": "Event #34: $500 COLOSSUS",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-        "buyin": 500,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 147,
-        "currentDay": "3",
-        "status": "active",
-        "rank": 27,
-        "chips": 7085000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T21:44:52.322Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-34-colossus",
-          "eventName": "Event #34: $500 COLOSSUS",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-          "buyin": 500,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 147,
-          "currentDay": "3",
-          "status": "active",
-          "rank": 27,
-          "chips": 7085000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T21:44:52.322Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "John Riordan",
@@ -168,10 +138,10 @@
         "playersLeft": 154,
         "currentDay": "2",
         "status": "active",
-        "rank": 66,
+        "rank": 67,
         "chips": 129900,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T21:44:52.323Z"
+        "updatedAt": "2026-06-15T21:51:12.253Z"
       },
       "eventHistory": [
         {
@@ -184,10 +154,10 @@
           "playersLeft": 154,
           "currentDay": "2",
           "status": "active",
-          "rank": 66,
+          "rank": 67,
           "chips": 129900,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T21:44:52.323Z"
+          "updatedAt": "2026-06-15T21:51:12.253Z"
         }
       ]
     }
