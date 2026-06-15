@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T06:45:59.917Z",
+  "updatedAt": "2026-06-15T06:52:15.742Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -77,13 +77,13 @@
         "buyin": 500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 569,
+        "playersLeft": 303,
         "currentDay": "2d",
         "status": "active",
         "rank": 228,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T06:45:59.916Z"
+        "updatedAt": "2026-06-15T06:52:15.741Z"
       },
       "eventHistory": [
         {
@@ -93,13 +93,13 @@
           "buyin": 500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 569,
+          "playersLeft": 303,
           "currentDay": "2d",
           "status": "active",
           "rank": 228,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T06:45:59.916Z"
+          "updatedAt": "2026-06-15T06:52:15.741Z"
         }
       ]
     },
@@ -117,13 +117,13 @@
         "buyin": 500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 569,
+        "playersLeft": 303,
         "currentDay": "2d",
         "status": "active",
         "rank": 4,
         "chips": 7100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T06:45:59.916Z"
+        "updatedAt": "2026-06-15T06:52:15.741Z"
       },
       "eventHistory": [
         {
@@ -133,13 +133,13 @@
           "buyin": 500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 569,
+          "playersLeft": 303,
           "currentDay": "2d",
           "status": "active",
           "rank": 4,
           "chips": 7100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T06:45:59.916Z"
+          "updatedAt": "2026-06-15T06:52:15.741Z"
         }
       ]
     },
@@ -169,7 +169,7 @@
       "slug": "event-34-colossus",
       "name": "Event #34: $500 COLOSSUS",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-      "playersLeft": 569,
+      "playersLeft": 303,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
