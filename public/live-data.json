@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-15T06:33:26.510Z",
+  "updatedAt": "2026-06-15T06:39:42.007Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
@@ -83,7 +83,7 @@
         "rank": 228,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T06:33:26.509Z"
+        "updatedAt": "2026-06-15T06:39:42.006Z"
       },
       "eventHistory": [
         {
@@ -99,7 +99,7 @@
           "rank": 228,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T06:33:26.509Z"
+          "updatedAt": "2026-06-15T06:39:42.006Z"
         }
       ]
     },
@@ -123,7 +123,7 @@
         "rank": 4,
         "chips": 7100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T06:33:26.509Z"
+        "updatedAt": "2026-06-15T06:39:42.006Z"
       },
       "eventHistory": [
         {
@@ -139,7 +139,7 @@
           "rank": 4,
           "chips": 7100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T06:33:26.509Z"
+          "updatedAt": "2026-06-15T06:39:42.006Z"
         }
       ]
     },
@@ -196,7 +196,7 @@
       "slug": "event-41-super-high-roller",
       "name": "Event #41: $250,000 Super High Roller No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-41-super-high-roller/chips.htm",
-      "playersLeft": 15,
+      "playersLeft": 13,
       "totalEntries": null,
       "buyin": 250000,
       "completed": false
@@ -205,7 +205,7 @@
       "slug": "event-42-big-o-championship",
       "name": "Event #42: $10,000 Big O Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-42-big-o-championship/chips.htm",
-      "playersLeft": 43,
+      "playersLeft": 41,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
