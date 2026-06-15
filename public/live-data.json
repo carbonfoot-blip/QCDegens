@@ -1,9 +1,10 @@
 {
-  "updatedAt": "2026-06-15T09:04:50.085Z",
+  "updatedAt": "2026-06-15T09:11:16.571Z",
   "teamScore": 151,
   "completedEvents": [
     "event-3-industry-employees",
     "event-40-razz",
+    "event-44-super-turbo-bounty",
     "event-38-limit-holdem-championship",
     "event-37-horse",
     "event-36-high-roller",
@@ -33,7 +34,7 @@
         "rank": 54,
         "chips": 146000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T09:04:50.083Z"
+        "updatedAt": "2026-06-15T09:11:16.568Z"
       },
       "eventHistory": [
         {
@@ -49,7 +50,7 @@
           "rank": 54,
           "chips": 146000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T09:04:50.083Z"
+          "updatedAt": "2026-06-15T09:11:16.568Z"
         }
       ]
     },
@@ -123,7 +124,7 @@
         "rank": 4,
         "chips": 7085000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T09:04:50.084Z"
+        "updatedAt": "2026-06-15T09:11:16.570Z"
       },
       "eventHistory": [
         {
@@ -139,7 +140,7 @@
           "rank": 4,
           "chips": 7085000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T09:04:50.084Z"
+          "updatedAt": "2026-06-15T09:11:16.570Z"
         }
       ]
     },
@@ -173,7 +174,7 @@
         "rank": 63,
         "chips": 129900,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-15T09:04:50.085Z"
+        "updatedAt": "2026-06-15T09:11:16.571Z"
       },
       "eventHistory": [
         {
@@ -189,7 +190,7 @@
           "rank": 63,
           "chips": 129900,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-15T09:04:50.085Z"
+          "updatedAt": "2026-06-15T09:11:16.571Z"
         }
       ]
     }
@@ -253,10 +254,10 @@
       "slug": "event-44-super-turbo-bounty",
       "name": "Event #44: $10,000 Super Turbo Bounty No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-44-super-turbo-bounty/chips.htm",
-      "playersLeft": 2,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 10000,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-45-mixed-omaha-hi-lo-seven-card-stud",
