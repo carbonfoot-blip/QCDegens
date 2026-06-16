@@ -1,10 +1,10 @@
 {
-  "updatedAt": "2026-06-16T15:49:43.591Z",
+  "updatedAt": "2026-06-16T15:56:11.990Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
-    "event-43-deepstack",
     "event-44-super-turbo-bounty",
+    "event-43-deepstack",
     "event-41-super-high-roller",
     "event-40-razz",
     "event-39-seniors-high-roller",
@@ -43,7 +43,7 @@
         "rank": 1,
         "chips": 343500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T15:49:43.590Z"
+        "updatedAt": "2026-06-16T15:56:11.989Z"
       },
       "eventHistory": [
         {
@@ -59,7 +59,7 @@
           "rank": 1,
           "chips": 343500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T15:49:43.590Z"
+          "updatedAt": "2026-06-16T15:56:11.989Z"
         }
       ]
     },
@@ -83,7 +83,7 @@
         "rank": 52,
         "chips": 41000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T15:49:43.590Z"
+        "updatedAt": "2026-06-16T15:56:11.989Z"
       },
       "eventHistory": [
         {
@@ -99,7 +99,7 @@
           "rank": 52,
           "chips": 41000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T15:49:43.590Z"
+          "updatedAt": "2026-06-16T15:56:11.989Z"
         }
       ]
     },
@@ -173,7 +173,7 @@
         "rank": 1,
         "chips": 1720000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T15:49:43.590Z"
+        "updatedAt": "2026-06-16T15:56:11.990Z"
       },
       "eventHistory": [
         {
@@ -189,7 +189,7 @@
           "rank": 1,
           "chips": 1720000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T15:49:43.590Z"
+          "updatedAt": "2026-06-16T15:56:11.990Z"
         }
       ]
     }
@@ -212,15 +212,6 @@
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
-    },
-    {
-      "slug": "event-43-deepstack",
-      "name": "Event #43: $800 8-Handed Deepstack No-Limit",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-43-deepstack/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 800,
-      "completed": true
     },
     {
       "slug": "event-45-mixed-omaha-hi-lo-seven-card-stud",
@@ -274,6 +265,15 @@
       "playersLeft": 1,
       "totalEntries": null,
       "buyin": 10000,
+      "completed": true
+    },
+    {
+      "slug": "event-43-deepstack",
+      "name": "Event #43: $800 8-Handed Deepstack No-Limit",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-43-deepstack/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 800,
       "completed": true
     },
     {
