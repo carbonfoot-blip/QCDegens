@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T00:59:19.822Z",
+  "updatedAt": "2026-06-16T01:05:34.075Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 26,
         "chips": 258000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T00:59:19.820Z"
+        "updatedAt": "2026-06-16T01:05:34.072Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 26,
           "chips": 258000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T00:59:19.820Z"
+          "updatedAt": "2026-06-16T01:05:34.072Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 39,
         "chips": 51500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T00:59:19.820Z"
+        "updatedAt": "2026-06-16T01:05:34.073Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 39,
           "chips": 51500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T00:59:19.820Z"
+          "updatedAt": "2026-06-16T01:05:34.073Z"
         }
       ]
     },
@@ -111,7 +111,7 @@
         "rank": 10,
         "chips": 82000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T00:59:19.820Z"
+        "updatedAt": "2026-06-16T01:05:34.073Z"
       },
       "eventHistory": [
         {
@@ -127,7 +127,7 @@
           "rank": 10,
           "chips": 82000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T00:59:19.820Z"
+          "updatedAt": "2026-06-16T01:05:34.073Z"
         }
       ]
     },
@@ -201,7 +201,7 @@
         "rank": 30,
         "chips": 220000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T00:59:19.822Z"
+        "updatedAt": "2026-06-16T01:05:34.074Z"
       },
       "eventHistory": [
         {
@@ -217,7 +217,7 @@
           "rank": 30,
           "chips": 220000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T00:59:19.822Z"
+          "updatedAt": "2026-06-16T01:05:34.074Z"
         }
       ]
     }
@@ -281,7 +281,7 @@
       "slug": "event-46-seniors-championship",
       "name": "Event #46: $1,000 Seniors No-Limit Hold’em Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-46-seniors-championship/chips.htm",
-      "playersLeft": 1472,
+      "playersLeft": 1374,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
