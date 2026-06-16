@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-16T08:33:55.240Z",
+  "updatedAt": "2026-06-16T08:40:16.113Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
     "event-39-seniors-high-roller",
     "event-41-super-high-roller",
-    "event-43-deepstack",
     "event-44-super-turbo-bounty",
+    "event-43-deepstack",
     "event-40-razz",
     "event-38-limit-holdem-championship",
     "event-37-horse",
@@ -44,7 +44,7 @@
         "rank": 1,
         "chips": 343500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T08:33:55.237Z"
+        "updatedAt": "2026-06-16T08:40:16.110Z"
       },
       "eventHistory": [
         {
@@ -60,7 +60,7 @@
           "rank": 1,
           "chips": 343500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T08:33:55.237Z"
+          "updatedAt": "2026-06-16T08:40:16.110Z"
         }
       ]
     },
@@ -84,7 +84,7 @@
         "rank": 52,
         "chips": 41000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T08:33:55.237Z"
+        "updatedAt": "2026-06-16T08:40:16.110Z"
       },
       "eventHistory": [
         {
@@ -100,7 +100,7 @@
           "rank": 52,
           "chips": 41000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T08:33:55.237Z"
+          "updatedAt": "2026-06-16T08:40:16.110Z"
         }
       ]
     },
@@ -124,7 +124,7 @@
         "rank": 479,
         "chips": 62500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T08:33:55.238Z"
+        "updatedAt": "2026-06-16T08:40:16.111Z"
       },
       "eventHistory": [
         {
@@ -140,7 +140,7 @@
           "rank": 479,
           "chips": 62500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T08:33:55.238Z"
+          "updatedAt": "2026-06-16T08:40:16.111Z"
         }
       ]
     },
@@ -194,7 +194,7 @@
         "rank": 26,
         "chips": 122000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T08:33:55.239Z"
+        "updatedAt": "2026-06-16T08:40:16.112Z"
       },
       "eventHistory": [
         {
@@ -210,7 +210,7 @@
           "rank": 26,
           "chips": 122000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T08:33:55.239Z"
+          "updatedAt": "2026-06-16T08:40:16.112Z"
         }
       ]
     },
@@ -234,7 +234,7 @@
         "rank": 1,
         "chips": 1720000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T08:33:55.239Z"
+        "updatedAt": "2026-06-16T08:40:16.113Z"
       },
       "eventHistory": [
         {
@@ -250,7 +250,7 @@
           "rank": 1,
           "chips": 1720000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T08:33:55.239Z"
+          "updatedAt": "2026-06-16T08:40:16.113Z"
         }
       ]
     }
@@ -291,15 +291,6 @@
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
-    },
-    {
-      "slug": "event-43-deepstack",
-      "name": "Event #43: $800 8-Handed Deepstack No-Limit",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-43-deepstack/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 800,
-      "completed": true
     },
     {
       "slug": "event-45-mixed-omaha-hi-lo-seven-card-stud",
@@ -344,6 +335,15 @@
       "playersLeft": 1,
       "totalEntries": null,
       "buyin": 10000,
+      "completed": true
+    },
+    {
+      "slug": "event-43-deepstack",
+      "name": "Event #43: $800 8-Handed Deepstack No-Limit",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-43-deepstack/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 800,
       "completed": true
     },
     {
