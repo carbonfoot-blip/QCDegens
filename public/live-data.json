@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T07:43:42.106Z",
+  "updatedAt": "2026-06-16T07:49:54.933Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -44,7 +44,7 @@
         "rank": 1,
         "chips": 343500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T07:43:42.105Z"
+        "updatedAt": "2026-06-16T07:49:54.932Z"
       },
       "eventHistory": [
         {
@@ -60,7 +60,7 @@
           "rank": 1,
           "chips": 343500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T07:43:42.105Z"
+          "updatedAt": "2026-06-16T07:49:54.932Z"
         }
       ]
     },
@@ -84,7 +84,7 @@
         "rank": 52,
         "chips": 41000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T07:43:42.105Z"
+        "updatedAt": "2026-06-16T07:49:54.932Z"
       },
       "eventHistory": [
         {
@@ -100,7 +100,7 @@
           "rank": 52,
           "chips": 41000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T07:43:42.105Z"
+          "updatedAt": "2026-06-16T07:49:54.932Z"
         }
       ]
     },
@@ -164,7 +164,7 @@
         "rank": 26,
         "chips": 122000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T07:43:42.106Z"
+        "updatedAt": "2026-06-16T07:49:54.933Z"
       },
       "eventHistory": [
         {
@@ -180,7 +180,7 @@
           "rank": 26,
           "chips": 122000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T07:43:42.106Z"
+          "updatedAt": "2026-06-16T07:49:54.933Z"
         }
       ]
     },
@@ -198,13 +198,13 @@
         "buyin": 2500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 26,
+        "playersLeft": 24,
         "currentDay": "2",
         "status": "active",
         "rank": 3,
         "chips": 1045000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T07:43:42.106Z"
+        "updatedAt": "2026-06-16T07:49:54.933Z"
       },
       "eventHistory": [
         {
@@ -214,13 +214,13 @@
           "buyin": 2500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 26,
+          "playersLeft": 24,
           "currentDay": "2",
           "status": "active",
           "rank": 3,
           "chips": 1045000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T07:43:42.106Z"
+          "updatedAt": "2026-06-16T07:49:54.933Z"
         }
       ]
     }
@@ -275,7 +275,7 @@
       "slug": "event-45-mixed-omaha-hi-lo-seven-card-stud",
       "name": "Event #45: $2,500 Mixed Omaha Hi-Lo 8 or Better; Seven Card Stud Hi-Lo 8 or Better",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-45-mixed-omaha-hi-lo-seven-card-stud/chips.htm",
-      "playersLeft": 26,
+      "playersLeft": 24,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
