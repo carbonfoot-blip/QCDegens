@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T02:44:43.143Z",
+  "updatedAt": "2026-06-16T02:50:58.462Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -18,8 +18,38 @@
       "pts2026": 75,
       "salary": 116,
       "cashes2026": 4,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-48-razz-championship",
+        "eventName": "Event #48: $10,000 Razz Championship",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-48-razz-championship/chips.htm",
+        "buyin": 10000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 74,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 61,
+        "chips": 40400,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-16T02:50:58.460Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-48-razz-championship",
+          "eventName": "Event #48: $10,000 Razz Championship",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-48-razz-championship/chips.htm",
+          "buyin": 10000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 74,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 61,
+          "chips": 40400,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-16T02:50:58.460Z"
+        }
+      ]
     },
     {
       "name": "Calvin Anderson",
@@ -41,7 +71,7 @@
         "rank": 2,
         "chips": 170000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T02:44:43.140Z"
+        "updatedAt": "2026-06-16T02:50:58.460Z"
       },
       "eventHistory": [
         {
@@ -57,7 +87,7 @@
           "rank": 2,
           "chips": 170000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T02:44:43.140Z"
+          "updatedAt": "2026-06-16T02:50:58.460Z"
         }
       ]
     },
@@ -78,10 +108,10 @@
         "playersLeft": 74,
         "currentDay": "1",
         "status": "active",
-        "rank": 36,
-        "chips": 60000,
+        "rank": 22,
+        "chips": 79500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T02:44:43.141Z"
+        "updatedAt": "2026-06-16T02:50:58.461Z"
       },
       "eventHistory": [
         {
@@ -94,10 +124,10 @@
           "playersLeft": 74,
           "currentDay": "1",
           "status": "active",
-          "rank": 36,
-          "chips": 60000,
+          "rank": 22,
+          "chips": 79500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T02:44:43.141Z"
+          "updatedAt": "2026-06-16T02:50:58.461Z"
         }
       ]
     },
@@ -161,7 +191,7 @@
         "rank": 24,
         "chips": 214500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T02:44:43.142Z"
+        "updatedAt": "2026-06-16T02:50:58.462Z"
       },
       "eventHistory": [
         {
@@ -177,7 +207,7 @@
           "rank": 24,
           "chips": 214500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T02:44:43.142Z"
+          "updatedAt": "2026-06-16T02:50:58.462Z"
         }
       ]
     },
@@ -201,7 +231,7 @@
         "rank": 32,
         "chips": 220000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T02:44:43.142Z"
+        "updatedAt": "2026-06-16T02:50:58.462Z"
       },
       "eventHistory": [
         {
@@ -217,7 +247,7 @@
           "rank": 32,
           "chips": 220000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T02:44:43.142Z"
+          "updatedAt": "2026-06-16T02:50:58.462Z"
         }
       ]
     }
@@ -227,7 +257,7 @@
       "slug": "event-34-colossus",
       "name": "Event #34: $500 COLOSSUS",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-      "playersLeft": 49,
+      "playersLeft": 33,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
@@ -236,7 +266,7 @@
       "slug": "event-39-seniors-high-roller",
       "name": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-39-seniors-high-roller/chips.htm",
-      "playersLeft": 4,
+      "playersLeft": 3,
       "totalEntries": null,
       "buyin": 5000,
       "completed": false
