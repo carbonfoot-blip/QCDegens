@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T08:14:50.173Z",
+  "updatedAt": "2026-06-16T08:21:11.654Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -44,7 +44,7 @@
         "rank": 1,
         "chips": 343500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T08:14:50.171Z"
+        "updatedAt": "2026-06-16T08:21:11.652Z"
       },
       "eventHistory": [
         {
@@ -60,7 +60,7 @@
           "rank": 1,
           "chips": 343500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T08:14:50.171Z"
+          "updatedAt": "2026-06-16T08:21:11.652Z"
         }
       ]
     },
@@ -84,7 +84,7 @@
         "rank": 52,
         "chips": 41000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T08:14:50.171Z"
+        "updatedAt": "2026-06-16T08:21:11.652Z"
       },
       "eventHistory": [
         {
@@ -100,7 +100,7 @@
           "rank": 52,
           "chips": 41000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T08:14:50.171Z"
+          "updatedAt": "2026-06-16T08:21:11.652Z"
         }
       ]
     },
@@ -111,8 +111,38 @@
       "pts2026": 16,
       "salary": 27,
       "cashes2026": 6,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-46-seniors-championship",
+        "eventName": "Event #46: $1,000 Seniors No-Limit Hold’em Championship",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-46-seniors-championship/chips.htm",
+        "buyin": 1000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 795,
+        "currentDay": "1a",
+        "status": "active",
+        "rank": 479,
+        "chips": 62500,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-16T08:21:11.653Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-46-seniors-championship",
+          "eventName": "Event #46: $1,000 Seniors No-Limit Hold’em Championship",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-46-seniors-championship/chips.htm",
+          "buyin": 1000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 795,
+          "currentDay": "1a",
+          "status": "active",
+          "rank": 479,
+          "chips": 62500,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-16T08:21:11.653Z"
+        }
+      ]
     },
     {
       "name": "Ben Lamb",
@@ -164,7 +194,7 @@
         "rank": 26,
         "chips": 122000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T08:14:50.172Z"
+        "updatedAt": "2026-06-16T08:21:11.654Z"
       },
       "eventHistory": [
         {
@@ -180,7 +210,7 @@
           "rank": 26,
           "chips": 122000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T08:14:50.172Z"
+          "updatedAt": "2026-06-16T08:21:11.654Z"
         }
       ]
     },
@@ -204,7 +234,7 @@
         "rank": 1,
         "chips": 1720000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T08:14:50.172Z"
+        "updatedAt": "2026-06-16T08:21:11.654Z"
       },
       "eventHistory": [
         {
@@ -220,7 +250,7 @@
           "rank": 1,
           "chips": 1720000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T08:14:50.172Z"
+          "updatedAt": "2026-06-16T08:21:11.654Z"
         }
       ]
     }
