@@ -1,8 +1,9 @@
 {
-  "updatedAt": "2026-06-16T03:47:11.397Z",
+  "updatedAt": "2026-06-16T03:53:24.567Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
+    "event-39-seniors-high-roller",
     "event-44-super-turbo-bounty",
     "event-40-razz",
     "event-38-limit-holdem-championship",
@@ -31,7 +32,7 @@
         "rank": 61,
         "chips": 40400,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T03:47:11.396Z"
+        "updatedAt": "2026-06-16T03:53:24.565Z"
       },
       "eventHistory": [
         {
@@ -47,7 +48,7 @@
           "rank": 61,
           "chips": 40400,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T03:47:11.396Z"
+          "updatedAt": "2026-06-16T03:53:24.565Z"
         }
       ]
     },
@@ -71,7 +72,7 @@
         "rank": 2,
         "chips": 175000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T03:47:11.396Z"
+        "updatedAt": "2026-06-16T03:53:24.566Z"
       },
       "eventHistory": [
         {
@@ -87,7 +88,7 @@
           "rank": 2,
           "chips": 175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T03:47:11.396Z"
+          "updatedAt": "2026-06-16T03:53:24.566Z"
         }
       ]
     },
@@ -108,10 +109,10 @@
         "playersLeft": 74,
         "currentDay": "1",
         "status": "active",
-        "rank": 21,
+        "rank": 23,
         "chips": 79500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T03:47:11.396Z"
+        "updatedAt": "2026-06-16T03:53:24.566Z"
       },
       "eventHistory": [
         {
@@ -124,10 +125,10 @@
           "playersLeft": 74,
           "currentDay": "1",
           "status": "active",
-          "rank": 21,
+          "rank": 23,
           "chips": 79500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T03:47:11.396Z"
+          "updatedAt": "2026-06-16T03:53:24.566Z"
         }
       ]
     },
@@ -191,7 +192,7 @@
         "rank": 26,
         "chips": 214500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T03:47:11.397Z"
+        "updatedAt": "2026-06-16T03:53:24.567Z"
       },
       "eventHistory": [
         {
@@ -207,7 +208,7 @@
           "rank": 26,
           "chips": 214500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T03:47:11.397Z"
+          "updatedAt": "2026-06-16T03:53:24.567Z"
         }
       ]
     },
@@ -225,13 +226,13 @@
         "buyin": 2500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 61,
+        "playersLeft": 60,
         "currentDay": "2",
         "status": "active",
         "rank": 17,
         "chips": 426000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T03:47:11.397Z"
+        "updatedAt": "2026-06-16T03:53:24.567Z"
       },
       "eventHistory": [
         {
@@ -241,13 +242,13 @@
           "buyin": 2500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 61,
+          "playersLeft": 60,
           "currentDay": "2",
           "status": "active",
           "rank": 17,
           "chips": 426000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T03:47:11.397Z"
+          "updatedAt": "2026-06-16T03:53:24.567Z"
         }
       ]
     }
@@ -266,10 +267,10 @@
       "slug": "event-39-seniors-high-roller",
       "name": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-39-seniors-high-roller/chips.htm",
-      "playersLeft": 2,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 5000,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-41-super-high-roller",
@@ -302,7 +303,7 @@
       "slug": "event-45-mixed-omaha-hi-lo-seven-card-stud",
       "name": "Event #45: $2,500 Mixed Omaha Hi-Lo 8 or Better; Seven Card Stud Hi-Lo 8 or Better",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-45-mixed-omaha-hi-lo-seven-card-stud/chips.htm",
-      "playersLeft": 61,
+      "playersLeft": 60,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
