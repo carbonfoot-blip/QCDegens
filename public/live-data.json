@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T19:35:57.382Z",
+  "updatedAt": "2026-06-16T19:42:20.721Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -43,7 +43,7 @@
         "rank": 1,
         "chips": 343500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T19:35:57.380Z"
+        "updatedAt": "2026-06-16T19:42:20.717Z"
       },
       "eventHistory": [
         {
@@ -59,7 +59,7 @@
           "rank": 1,
           "chips": 343500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T19:35:57.380Z"
+          "updatedAt": "2026-06-16T19:42:20.717Z"
         }
       ]
     },
@@ -83,7 +83,7 @@
         "rank": 52,
         "chips": 41000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T19:35:57.380Z"
+        "updatedAt": "2026-06-16T19:42:20.719Z"
       },
       "eventHistory": [
         {
@@ -99,7 +99,7 @@
           "rank": 52,
           "chips": 41000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T19:35:57.380Z"
+          "updatedAt": "2026-06-16T19:42:20.719Z"
         }
       ]
     },
@@ -123,7 +123,7 @@
         "rank": 480,
         "chips": 62500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T19:35:57.381Z"
+        "updatedAt": "2026-06-16T19:42:20.720Z"
       },
       "eventHistory": [
         {
@@ -139,7 +139,7 @@
           "rank": 480,
           "chips": 62500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T19:35:57.381Z"
+          "updatedAt": "2026-06-16T19:42:20.720Z"
         }
       ]
     },
@@ -203,7 +203,7 @@
         "rank": 1,
         "chips": 1720000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T19:35:57.382Z"
+        "updatedAt": "2026-06-16T19:42:20.721Z"
       },
       "eventHistory": [
         {
@@ -219,7 +219,7 @@
           "rank": 1,
           "chips": 1720000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T19:35:57.382Z"
+          "updatedAt": "2026-06-16T19:42:20.721Z"
         }
       ]
     }
