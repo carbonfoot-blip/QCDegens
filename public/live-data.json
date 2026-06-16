@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T01:30:27.810Z",
+  "updatedAt": "2026-06-16T01:36:41.891Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -38,10 +38,10 @@
         "playersLeft": 77,
         "currentDay": "1",
         "status": "active",
-        "rank": 41,
+        "rank": 42,
         "chips": 51500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T01:30:27.808Z"
+        "updatedAt": "2026-06-16T01:36:41.888Z"
       },
       "eventHistory": [
         {
@@ -54,10 +54,10 @@
           "playersLeft": 77,
           "currentDay": "1",
           "status": "active",
-          "rank": 41,
+          "rank": 42,
           "chips": 51500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T01:30:27.808Z"
+          "updatedAt": "2026-06-16T01:36:41.888Z"
         }
       ]
     },
@@ -81,7 +81,7 @@
         "rank": 9,
         "chips": 82000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T01:30:27.808Z"
+        "updatedAt": "2026-06-16T01:36:41.889Z"
       },
       "eventHistory": [
         {
@@ -97,7 +97,7 @@
           "rank": 9,
           "chips": 82000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T01:30:27.808Z"
+          "updatedAt": "2026-06-16T01:36:41.889Z"
         }
       ]
     },
@@ -148,8 +148,38 @@
       "pts2026": 4,
       "salary": 12,
       "cashes2026": 4,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-47-high-roller-plo",
+        "eventName": "Event #47: $25,000 High Roller Pot-Limit Omaha",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
+        "buyin": 25000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 46,
+        "currentDay": "1a",
+        "status": "active",
+        "rank": 35,
+        "chips": 150000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-16T01:36:41.891Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-47-high-roller-plo",
+          "eventName": "Event #47: $25,000 High Roller Pot-Limit Omaha",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
+          "buyin": 25000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 46,
+          "currentDay": "1a",
+          "status": "active",
+          "rank": 35,
+          "chips": 150000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-16T01:36:41.891Z"
+        }
+      ]
     },
     {
       "name": "Andrew Yeh",
@@ -171,7 +201,7 @@
         "rank": 28,
         "chips": 220000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T01:30:27.809Z"
+        "updatedAt": "2026-06-16T01:36:41.891Z"
       },
       "eventHistory": [
         {
@@ -187,7 +217,7 @@
           "rank": 28,
           "chips": 220000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T01:30:27.809Z"
+          "updatedAt": "2026-06-16T01:36:41.891Z"
         }
       ]
     }
