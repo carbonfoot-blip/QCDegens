@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T22:03:08.400Z",
+  "updatedAt": "2026-06-16T22:09:27.658Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -43,7 +43,7 @@
         "rank": 2,
         "chips": 308500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T22:03:08.397Z"
+        "updatedAt": "2026-06-16T22:09:27.656Z"
       },
       "eventHistory": [
         {
@@ -59,7 +59,7 @@
           "rank": 2,
           "chips": 308500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T22:03:08.397Z"
+          "updatedAt": "2026-06-16T22:09:27.656Z"
         }
       ]
     },
@@ -83,7 +83,7 @@
         "rank": 34,
         "chips": 110000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T22:03:08.398Z"
+        "updatedAt": "2026-06-16T22:09:27.656Z"
       },
       "eventHistory": [
         {
@@ -99,7 +99,7 @@
           "rank": 34,
           "chips": 110000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T22:03:08.398Z"
+          "updatedAt": "2026-06-16T22:09:27.656Z"
         }
       ]
     },
@@ -123,7 +123,7 @@
         "rank": 481,
         "chips": 62500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T22:03:08.399Z"
+        "updatedAt": "2026-06-16T22:09:27.657Z"
       },
       "eventHistory": [
         {
@@ -139,7 +139,7 @@
           "rank": 481,
           "chips": 62500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T22:03:08.399Z"
+          "updatedAt": "2026-06-16T22:09:27.657Z"
         }
       ]
     },
@@ -200,10 +200,10 @@
         "playersLeft": 16,
         "currentDay": "3",
         "status": "active",
-        "rank": 2,
+        "rank": 3,
         "chips": 2100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T22:03:08.400Z"
+        "updatedAt": "2026-06-16T22:09:27.658Z"
       },
       "eventHistory": [
         {
@@ -216,10 +216,10 @@
           "playersLeft": 16,
           "currentDay": "3",
           "status": "active",
-          "rank": 2,
+          "rank": 3,
           "chips": 2100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T22:03:08.400Z"
+          "updatedAt": "2026-06-16T22:09:27.658Z"
         }
       ]
     }
@@ -265,7 +265,7 @@
       "slug": "event-47-high-roller-plo",
       "name": "Event #47: $25,000 High Roller Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
-      "playersLeft": 95,
+      "playersLeft": 110,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
