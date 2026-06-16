@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T01:05:34.075Z",
+  "updatedAt": "2026-06-16T01:11:47.238Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -18,38 +18,8 @@
       "pts2026": 75,
       "salary": 116,
       "cashes2026": 4,
-      "liveStatus": {
-        "eventSlug": "event-45-mixed-omaha-hi-lo-seven-card-stud",
-        "eventName": "Event #45: $2,500 Mixed Omaha Hi-Lo 8 or Better; Seven Card Stud Hi-Lo 8 or Better",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-45-mixed-omaha-hi-lo-seven-card-stud/chips.htm",
-        "buyin": 2500,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 94,
-        "currentDay": "2",
-        "status": "active",
-        "rank": 26,
-        "chips": 258000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T01:05:34.072Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-45-mixed-omaha-hi-lo-seven-card-stud",
-          "eventName": "Event #45: $2,500 Mixed Omaha Hi-Lo 8 or Better; Seven Card Stud Hi-Lo 8 or Better",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-45-mixed-omaha-hi-lo-seven-card-stud/chips.htm",
-          "buyin": 2500,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 94,
-          "currentDay": "2",
-          "status": "active",
-          "rank": 26,
-          "chips": 258000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T01:05:34.072Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Calvin Anderson",
@@ -68,10 +38,10 @@
         "playersLeft": 77,
         "currentDay": "1",
         "status": "active",
-        "rank": 39,
+        "rank": 41,
         "chips": 51500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T01:05:34.073Z"
+        "updatedAt": "2026-06-16T01:11:47.236Z"
       },
       "eventHistory": [
         {
@@ -84,10 +54,10 @@
           "playersLeft": 77,
           "currentDay": "1",
           "status": "active",
-          "rank": 39,
+          "rank": 41,
           "chips": 51500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T01:05:34.073Z"
+          "updatedAt": "2026-06-16T01:11:47.236Z"
         }
       ]
     },
@@ -111,7 +81,7 @@
         "rank": 10,
         "chips": 82000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T01:05:34.073Z"
+        "updatedAt": "2026-06-16T01:11:47.237Z"
       },
       "eventHistory": [
         {
@@ -127,7 +97,7 @@
           "rank": 10,
           "chips": 82000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T01:05:34.073Z"
+          "updatedAt": "2026-06-16T01:11:47.237Z"
         }
       ]
     },
@@ -198,10 +168,10 @@
         "playersLeft": 94,
         "currentDay": "2",
         "status": "active",
-        "rank": 30,
+        "rank": 29,
         "chips": 220000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T01:05:34.074Z"
+        "updatedAt": "2026-06-16T01:11:47.238Z"
       },
       "eventHistory": [
         {
@@ -214,10 +184,10 @@
           "playersLeft": 94,
           "currentDay": "2",
           "status": "active",
-          "rank": 30,
+          "rank": 29,
           "chips": 220000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T01:05:34.074Z"
+          "updatedAt": "2026-06-16T01:11:47.238Z"
         }
       ]
     }
@@ -254,7 +224,7 @@
       "slug": "event-42-big-o-championship",
       "name": "Event #42: $10,000 Big O Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-42-big-o-championship/chips.htm",
-      "playersLeft": 11,
+      "playersLeft": 10,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
