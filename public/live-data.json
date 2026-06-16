@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T22:28:24.185Z",
+  "updatedAt": "2026-06-16T22:34:41.852Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -43,7 +43,7 @@
         "rank": 2,
         "chips": 308500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T22:28:24.181Z"
+        "updatedAt": "2026-06-16T22:34:41.850Z"
       },
       "eventHistory": [
         {
@@ -59,7 +59,7 @@
           "rank": 2,
           "chips": 308500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T22:28:24.181Z"
+          "updatedAt": "2026-06-16T22:34:41.850Z"
         }
       ]
     },
@@ -83,7 +83,7 @@
         "rank": 35,
         "chips": 110000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T22:28:24.182Z"
+        "updatedAt": "2026-06-16T22:34:41.850Z"
       },
       "eventHistory": [
         {
@@ -99,7 +99,7 @@
           "rank": 35,
           "chips": 110000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T22:28:24.182Z"
+          "updatedAt": "2026-06-16T22:34:41.850Z"
         }
       ]
     },
@@ -123,7 +123,7 @@
         "rank": 481,
         "chips": 62500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T22:28:24.182Z"
+        "updatedAt": "2026-06-16T22:34:41.851Z"
       },
       "eventHistory": [
         {
@@ -139,7 +139,7 @@
           "rank": 481,
           "chips": 62500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T22:28:24.182Z"
+          "updatedAt": "2026-06-16T22:34:41.851Z"
         }
       ]
     },
@@ -203,7 +203,7 @@
         "rank": 5,
         "chips": 1745000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T22:28:24.183Z"
+        "updatedAt": "2026-06-16T22:34:41.852Z"
       },
       "eventHistory": [
         {
@@ -219,7 +219,7 @@
           "rank": 5,
           "chips": 1745000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T22:28:24.183Z"
+          "updatedAt": "2026-06-16T22:34:41.852Z"
         }
       ]
     }
