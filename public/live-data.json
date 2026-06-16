@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T02:07:12.345Z",
+  "updatedAt": "2026-06-16T02:13:27.280Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -41,7 +41,7 @@
         "rank": 2,
         "chips": 170000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T02:07:12.343Z"
+        "updatedAt": "2026-06-16T02:13:27.278Z"
       },
       "eventHistory": [
         {
@@ -57,7 +57,7 @@
           "rank": 2,
           "chips": 170000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T02:07:12.343Z"
+          "updatedAt": "2026-06-16T02:13:27.278Z"
         }
       ]
     },
@@ -81,7 +81,7 @@
         "rank": 37,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T02:07:12.343Z"
+        "updatedAt": "2026-06-16T02:13:27.278Z"
       },
       "eventHistory": [
         {
@@ -97,7 +97,7 @@
           "rank": 37,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T02:07:12.343Z"
+          "updatedAt": "2026-06-16T02:13:27.278Z"
         }
       ]
     },
@@ -161,7 +161,7 @@
         "rank": 35,
         "chips": 150000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T02:07:12.344Z"
+        "updatedAt": "2026-06-16T02:13:27.279Z"
       },
       "eventHistory": [
         {
@@ -177,7 +177,7 @@
           "rank": 35,
           "chips": 150000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T02:07:12.344Z"
+          "updatedAt": "2026-06-16T02:13:27.279Z"
         }
       ]
     },
@@ -201,7 +201,7 @@
         "rank": 30,
         "chips": 220000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T02:07:12.344Z"
+        "updatedAt": "2026-06-16T02:13:27.279Z"
       },
       "eventHistory": [
         {
@@ -217,7 +217,7 @@
           "rank": 30,
           "chips": 220000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T02:07:12.344Z"
+          "updatedAt": "2026-06-16T02:13:27.279Z"
         }
       ]
     }
