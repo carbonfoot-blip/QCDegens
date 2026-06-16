@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T00:09:26.120Z",
+  "updatedAt": "2026-06-16T00:15:40.793Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -25,13 +25,13 @@
         "buyin": 2500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 116,
+        "playersLeft": 97,
         "currentDay": "2",
         "status": "active",
         "rank": 19,
         "chips": 258000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T00:09:26.118Z"
+        "updatedAt": "2026-06-16T00:15:40.790Z"
       },
       "eventHistory": [
         {
@@ -41,13 +41,13 @@
           "buyin": 2500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 116,
+          "playersLeft": 97,
           "currentDay": "2",
           "status": "active",
           "rank": 19,
           "chips": 258000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T00:09:26.118Z"
+          "updatedAt": "2026-06-16T00:15:40.790Z"
         }
       ]
     },
@@ -58,8 +58,38 @@
       "pts2026": 36,
       "salary": 25,
       "cashes2026": 3,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-48-razz-championship",
+        "eventName": "Event #48: $10,000 Razz Championship",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-48-razz-championship/chips.htm",
+        "buyin": 10000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 63,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 25,
+        "chips": 64000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-16T00:15:40.791Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-48-razz-championship",
+          "eventName": "Event #48: $10,000 Razz Championship",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-48-razz-championship/chips.htm",
+          "buyin": 10000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 63,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 25,
+          "chips": 64000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-16T00:15:40.791Z"
+        }
+      ]
     },
     {
       "name": "Yuval Bronshtein",
@@ -78,10 +108,10 @@
         "playersLeft": 63,
         "currentDay": "1",
         "status": "active",
-        "rank": 8,
+        "rank": 9,
         "chips": 82000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T00:09:26.119Z"
+        "updatedAt": "2026-06-16T00:15:40.791Z"
       },
       "eventHistory": [
         {
@@ -94,10 +124,10 @@
           "playersLeft": 63,
           "currentDay": "1",
           "status": "active",
-          "rank": 8,
+          "rank": 9,
           "chips": 82000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T00:09:26.119Z"
+          "updatedAt": "2026-06-16T00:15:40.791Z"
         }
       ]
     },
@@ -165,13 +195,13 @@
         "buyin": 2500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 116,
+        "playersLeft": 97,
         "currentDay": "2",
         "status": "active",
-        "rank": 25,
+        "rank": 26,
         "chips": 220000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T00:09:26.120Z"
+        "updatedAt": "2026-06-16T00:15:40.793Z"
       },
       "eventHistory": [
         {
@@ -181,13 +211,13 @@
           "buyin": 2500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 116,
+          "playersLeft": 97,
           "currentDay": "2",
           "status": "active",
-          "rank": 25,
+          "rank": 26,
           "chips": 220000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T00:09:26.120Z"
+          "updatedAt": "2026-06-16T00:15:40.793Z"
         }
       ]
     }
@@ -197,7 +227,7 @@
       "slug": "event-34-colossus",
       "name": "Event #34: $500 COLOSSUS",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-      "playersLeft": 65,
+      "playersLeft": 55,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
@@ -224,7 +254,7 @@
       "slug": "event-42-big-o-championship",
       "name": "Event #42: $10,000 Big O Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-42-big-o-championship/chips.htm",
-      "playersLeft": 13,
+      "playersLeft": 12,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
@@ -242,7 +272,7 @@
       "slug": "event-45-mixed-omaha-hi-lo-seven-card-stud",
       "name": "Event #45: $2,500 Mixed Omaha Hi-Lo 8 or Better; Seven Card Stud Hi-Lo 8 or Better",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-45-mixed-omaha-hi-lo-seven-card-stud/chips.htm",
-      "playersLeft": 116,
+      "playersLeft": 97,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
