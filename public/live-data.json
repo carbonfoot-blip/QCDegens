@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T06:47:44.180Z",
+  "updatedAt": "2026-06-16T06:53:57.483Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -27,13 +27,13 @@
         "buyin": 25000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 36,
+        "playersLeft": 28,
         "currentDay": "1a",
         "status": "active",
         "rank": 13,
         "chips": 435000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T06:47:44.178Z"
+        "updatedAt": "2026-06-16T06:53:57.482Z"
       },
       "eventHistory": [
         {
@@ -43,13 +43,13 @@
           "buyin": 25000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 36,
+          "playersLeft": 28,
           "currentDay": "1a",
           "status": "active",
           "rank": 13,
           "chips": 435000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T06:47:44.178Z"
+          "updatedAt": "2026-06-16T06:53:57.482Z"
         }
       ]
     },
@@ -73,7 +73,7 @@
         "rank": 1,
         "chips": 343500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T06:47:44.179Z"
+        "updatedAt": "2026-06-16T06:53:57.482Z"
       },
       "eventHistory": [
         {
@@ -89,7 +89,7 @@
           "rank": 1,
           "chips": 343500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T06:47:44.179Z"
+          "updatedAt": "2026-06-16T06:53:57.482Z"
         }
       ]
     },
@@ -113,7 +113,7 @@
         "rank": 52,
         "chips": 41000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T06:47:44.179Z"
+        "updatedAt": "2026-06-16T06:53:57.482Z"
       },
       "eventHistory": [
         {
@@ -129,7 +129,7 @@
           "rank": 52,
           "chips": 41000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T06:47:44.179Z"
+          "updatedAt": "2026-06-16T06:53:57.482Z"
         }
       ]
     },
@@ -187,13 +187,13 @@
         "buyin": 25000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 36,
+        "playersLeft": 28,
         "currentDay": "1a",
         "status": "active",
-        "rank": 35,
+        "rank": 34,
         "chips": 150000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T06:47:44.180Z"
+        "updatedAt": "2026-06-16T06:53:57.483Z"
       },
       "eventHistory": [
         {
@@ -203,13 +203,13 @@
           "buyin": 25000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 36,
+          "playersLeft": 28,
           "currentDay": "1a",
           "status": "active",
-          "rank": 35,
+          "rank": 34,
           "chips": 150000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T06:47:44.180Z"
+          "updatedAt": "2026-06-16T06:53:57.483Z"
         }
       ]
     },
@@ -233,7 +233,7 @@
         "rank": 3,
         "chips": 1045000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T06:47:44.180Z"
+        "updatedAt": "2026-06-16T06:53:57.483Z"
       },
       "eventHistory": [
         {
@@ -249,7 +249,7 @@
           "rank": 3,
           "chips": 1045000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T06:47:44.180Z"
+          "updatedAt": "2026-06-16T06:53:57.483Z"
         }
       ]
     }
@@ -259,7 +259,7 @@
       "slug": "event-34-colossus",
       "name": "Event #34: $500 COLOSSUS",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-      "playersLeft": 10,
+      "playersLeft": 9,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
@@ -322,7 +322,7 @@
       "slug": "event-47-high-roller-plo",
       "name": "Event #47: $25,000 High Roller Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
-      "playersLeft": 36,
+      "playersLeft": 28,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
