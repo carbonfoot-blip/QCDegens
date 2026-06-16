@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T05:51:39.998Z",
+  "updatedAt": "2026-06-16T05:57:50.733Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,10 +30,10 @@
         "playersLeft": 43,
         "currentDay": "1a",
         "status": "active",
-        "rank": 30,
-        "chips": 178000,
+        "rank": 35,
+        "chips": 150000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T05:51:39.996Z"
+        "updatedAt": "2026-06-16T05:57:50.731Z"
       },
       "eventHistory": [
         {
@@ -46,10 +46,10 @@
           "playersLeft": 43,
           "currentDay": "1a",
           "status": "active",
-          "rank": 30,
-          "chips": 178000,
+          "rank": 35,
+          "chips": 150000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T05:51:39.996Z"
+          "updatedAt": "2026-06-16T05:57:50.731Z"
         }
       ]
     },
@@ -73,7 +73,7 @@
         "rank": 13,
         "chips": 140000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T05:51:39.996Z"
+        "updatedAt": "2026-06-16T05:57:50.731Z"
       },
       "eventHistory": [
         {
@@ -89,7 +89,7 @@
           "rank": 13,
           "chips": 140000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T05:51:39.996Z"
+          "updatedAt": "2026-06-16T05:57:50.731Z"
         }
       ]
     },
@@ -113,7 +113,7 @@
         "rank": 51,
         "chips": 65000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T05:51:39.996Z"
+        "updatedAt": "2026-06-16T05:57:50.731Z"
       },
       "eventHistory": [
         {
@@ -129,7 +129,7 @@
           "rank": 51,
           "chips": 65000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T05:51:39.996Z"
+          "updatedAt": "2026-06-16T05:57:50.731Z"
         }
       ]
     },
@@ -190,10 +190,10 @@
         "playersLeft": 43,
         "currentDay": "1a",
         "status": "active",
-        "rank": 34,
+        "rank": 36,
         "chips": 150000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T05:51:39.997Z"
+        "updatedAt": "2026-06-16T05:57:50.732Z"
       },
       "eventHistory": [
         {
@@ -206,10 +206,10 @@
           "playersLeft": 43,
           "currentDay": "1a",
           "status": "active",
-          "rank": 34,
+          "rank": 36,
           "chips": 150000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T05:51:39.997Z"
+          "updatedAt": "2026-06-16T05:57:50.732Z"
         }
       ]
     },
@@ -230,10 +230,10 @@
         "playersLeft": 40,
         "currentDay": "2",
         "status": "active",
-        "rank": 18,
-        "chips": 426000,
+        "rank": 1,
+        "chips": 1045000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T05:51:39.997Z"
+        "updatedAt": "2026-06-16T05:57:50.732Z"
       },
       "eventHistory": [
         {
@@ -246,10 +246,10 @@
           "playersLeft": 40,
           "currentDay": "2",
           "status": "active",
-          "rank": 18,
-          "chips": 426000,
+          "rank": 1,
+          "chips": 1045000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T05:51:39.997Z"
+          "updatedAt": "2026-06-16T05:57:50.732Z"
         }
       ]
     }
@@ -313,7 +313,7 @@
       "slug": "event-46-seniors-championship",
       "name": "Event #46: $1,000 Seniors No-Limit Hold’em Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-46-seniors-championship/chips.htm",
-      "playersLeft": 799,
+      "playersLeft": 795,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
