@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T03:40:58.576Z",
+  "updatedAt": "2026-06-16T03:47:11.397Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 61,
         "chips": 40400,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T03:40:58.574Z"
+        "updatedAt": "2026-06-16T03:47:11.396Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 61,
           "chips": 40400,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T03:40:58.574Z"
+          "updatedAt": "2026-06-16T03:47:11.396Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 2,
         "chips": 175000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T03:40:58.574Z"
+        "updatedAt": "2026-06-16T03:47:11.396Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 2,
           "chips": 175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T03:40:58.574Z"
+          "updatedAt": "2026-06-16T03:47:11.396Z"
         }
       ]
     },
@@ -111,7 +111,7 @@
         "rank": 21,
         "chips": 79500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T03:40:58.574Z"
+        "updatedAt": "2026-06-16T03:47:11.396Z"
       },
       "eventHistory": [
         {
@@ -127,7 +127,7 @@
           "rank": 21,
           "chips": 79500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T03:40:58.574Z"
+          "updatedAt": "2026-06-16T03:47:11.396Z"
         }
       ]
     },
@@ -191,7 +191,7 @@
         "rank": 26,
         "chips": 214500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T03:40:58.575Z"
+        "updatedAt": "2026-06-16T03:47:11.397Z"
       },
       "eventHistory": [
         {
@@ -207,7 +207,7 @@
           "rank": 26,
           "chips": 214500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T03:40:58.575Z"
+          "updatedAt": "2026-06-16T03:47:11.397Z"
         }
       ]
     },
@@ -231,7 +231,7 @@
         "rank": 17,
         "chips": 426000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-16T03:40:58.576Z"
+        "updatedAt": "2026-06-16T03:47:11.397Z"
       },
       "eventHistory": [
         {
@@ -247,7 +247,7 @@
           "rank": 17,
           "chips": 426000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-16T03:40:58.576Z"
+          "updatedAt": "2026-06-16T03:47:11.397Z"
         }
       ]
     }
@@ -257,7 +257,7 @@
       "slug": "event-34-colossus",
       "name": "Event #34: $500 COLOSSUS",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-      "playersLeft": 30,
+      "playersLeft": 27,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
