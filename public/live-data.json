@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T05:18:27.299Z",
+  "updatedAt": "2026-06-17T05:24:54.721Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -34,7 +34,7 @@
         "rank": 25,
         "chips": 340000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-17T05:18:27.296Z"
+        "updatedAt": "2026-06-17T05:24:54.718Z"
       },
       "eventHistory": [
         {
@@ -50,7 +50,7 @@
           "rank": 25,
           "chips": 340000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-17T05:18:27.296Z"
+          "updatedAt": "2026-06-17T05:24:54.718Z"
         }
       ]
     },
@@ -68,13 +68,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 19,
+        "playersLeft": 17,
         "currentDay": "2",
         "status": "active",
         "rank": 1,
         "chips": 1150000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-17T05:18:27.296Z"
+        "updatedAt": "2026-06-17T05:24:54.719Z"
       },
       "eventHistory": [
         {
@@ -84,13 +84,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 19,
+          "playersLeft": 17,
           "currentDay": "2",
           "status": "active",
           "rank": 1,
           "chips": 1150000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-17T05:18:27.296Z"
+          "updatedAt": "2026-06-17T05:24:54.719Z"
         }
       ]
     },
@@ -108,13 +108,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 19,
+        "playersLeft": 17,
         "currentDay": "2",
         "status": "active",
-        "rank": 4,
+        "rank": 5,
         "chips": 760000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-17T05:18:27.297Z"
+        "updatedAt": "2026-06-17T05:24:54.719Z"
       },
       "eventHistory": [
         {
@@ -124,13 +124,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 19,
+          "playersLeft": 17,
           "currentDay": "2",
           "status": "active",
-          "rank": 4,
+          "rank": 5,
           "chips": 760000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-17T05:18:27.297Z"
+          "updatedAt": "2026-06-17T05:24:54.719Z"
         }
       ]
     },
@@ -154,7 +154,7 @@
         "rank": 7,
         "chips": 950000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-17T05:18:27.297Z"
+        "updatedAt": "2026-06-17T05:24:54.719Z"
       },
       "eventHistory": [
         {
@@ -170,7 +170,7 @@
           "rank": 7,
           "chips": 950000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-17T05:18:27.297Z"
+          "updatedAt": "2026-06-17T05:24:54.719Z"
         }
       ]
     },
@@ -275,7 +275,7 @@
       "slug": "event-48-razz-championship",
       "name": "Event #48: $10,000 Razz Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-48-razz-championship/chips.htm",
-      "playersLeft": 19,
+      "playersLeft": 17,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
