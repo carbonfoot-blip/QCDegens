@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-17T09:26:10.842Z",
+  "updatedAt": "2026-06-17T09:32:29.428Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
@@ -36,7 +36,7 @@
         "rank": 7,
         "chips": 789000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-17T09:26:10.840Z"
+        "updatedAt": "2026-06-17T09:32:29.425Z"
       },
       "eventHistory": [
         {
@@ -52,7 +52,7 @@
           "rank": 7,
           "chips": 789000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-17T09:26:10.840Z"
+          "updatedAt": "2026-06-17T09:32:29.425Z"
         }
       ]
     },
@@ -76,7 +76,7 @@
         "rank": 1,
         "chips": 1885000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-17T09:26:10.840Z"
+        "updatedAt": "2026-06-17T09:32:29.426Z"
       },
       "eventHistory": [
         {
@@ -92,7 +92,7 @@
           "rank": 1,
           "chips": 1885000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-17T09:26:10.840Z"
+          "updatedAt": "2026-06-17T09:32:29.426Z"
         }
       ]
     },
@@ -116,7 +116,7 @@
         "rank": 6,
         "chips": 625000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-17T09:26:10.841Z"
+        "updatedAt": "2026-06-17T09:32:29.426Z"
       },
       "eventHistory": [
         {
@@ -132,7 +132,7 @@
           "rank": 6,
           "chips": 625000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-17T09:26:10.841Z"
+          "updatedAt": "2026-06-17T09:32:29.426Z"
         }
       ]
     },
@@ -156,7 +156,7 @@
         "rank": 44,
         "chips": 625000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-17T09:26:10.841Z"
+        "updatedAt": "2026-06-17T09:32:29.426Z"
       },
       "eventHistory": [
         {
@@ -172,7 +172,7 @@
           "rank": 44,
           "chips": 625000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-17T09:26:10.841Z"
+          "updatedAt": "2026-06-17T09:32:29.426Z"
         }
       ]
     },
@@ -193,8 +193,38 @@
       "pts2026": 18,
       "salary": 2,
       "cashes2026": 8,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-49-freezeout",
+        "eventName": "Event #49: $2,500 Freezeout No-Limit Hold'em",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-49-freezeout/chips.htm",
+        "buyin": 2500,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 320,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 182,
+        "chips": 117000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-17T09:32:29.427Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-49-freezeout",
+          "eventName": "Event #49: $2,500 Freezeout No-Limit Hold'em",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-49-freezeout/chips.htm",
+          "buyin": 2500,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 320,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 182,
+          "chips": 117000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-17T09:32:29.427Z"
+        }
+      ]
     },
     {
       "name": "Ryan Leng",
