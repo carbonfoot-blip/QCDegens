@@ -1,19 +1,8 @@
 {
-  "updatedAt": "2026-06-17T09:57:47.648Z",
+  "updatedAt": "2026-06-17T10:03:14.825Z",
   "teamScore": 153,
   "completedEvents": [
-    "event-3-industry-employees",
-    "event-34-colossus",
-    "event-42-big-o-championship",
-    "event-45-mixed-omaha-hi-lo-seven-card-stud",
-    "event-44-super-turbo-bounty",
-    "event-43-deepstack",
-    "event-41-super-high-roller",
-    "event-40-razz",
-    "event-39-seniors-high-roller",
-    "event-38-limit-holdem-championship",
-    "event-37-horse",
-    "event-36-high-roller"
+    "event-3-industry-employees"
   ],
   "players": [
     {
@@ -23,38 +12,8 @@
       "pts2026": 75,
       "salary": 116,
       "cashes2026": 4,
-      "liveStatus": {
-        "eventSlug": "event-47-high-roller-plo",
-        "eventName": "Event #47: $25,000 High Roller Pot-Limit Omaha",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
-        "buyin": 25000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 110,
-        "currentDay": "1b",
-        "status": "active",
-        "rank": 7,
-        "chips": 789000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-17T09:57:47.646Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-47-high-roller-plo",
-          "eventName": "Event #47: $25,000 High Roller Pot-Limit Omaha",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
-          "buyin": 25000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 110,
-          "currentDay": "1b",
-          "status": "active",
-          "rank": 7,
-          "chips": 789000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-17T09:57:47.646Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Calvin Anderson",
@@ -63,38 +22,8 @@
       "pts2026": 36,
       "salary": 25,
       "cashes2026": 3,
-      "liveStatus": {
-        "eventSlug": "event-48-razz-championship",
-        "eventName": "Event #48: $10,000 Razz Championship",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-48-razz-championship/chips.htm",
-        "buyin": 10000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 8,
-        "currentDay": "2",
-        "status": "active",
-        "rank": 1,
-        "chips": 1885000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-17T09:57:47.646Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-48-razz-championship",
-          "eventName": "Event #48: $10,000 Razz Championship",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-48-razz-championship/chips.htm",
-          "buyin": 10000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 8,
-          "currentDay": "2",
-          "status": "active",
-          "rank": 1,
-          "chips": 1885000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-17T09:57:47.646Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Yuval Bronshtein",
@@ -103,38 +32,8 @@
       "pts2026": 1,
       "salary": 3,
       "cashes2026": 1,
-      "liveStatus": {
-        "eventSlug": "event-48-razz-championship",
-        "eventName": "Event #48: $10,000 Razz Championship",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-48-razz-championship/chips.htm",
-        "buyin": 10000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 8,
-        "currentDay": "2",
-        "status": "active",
-        "rank": 6,
-        "chips": 625000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-17T09:57:47.647Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-48-razz-championship",
-          "eventName": "Event #48: $10,000 Razz Championship",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-48-razz-championship/chips.htm",
-          "buyin": 10000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 8,
-          "currentDay": "2",
-          "status": "active",
-          "rank": 6,
-          "chips": 625000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-17T09:57:47.647Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Matt Glantz",
@@ -143,38 +42,8 @@
       "pts2026": 16,
       "salary": 27,
       "cashes2026": 6,
-      "liveStatus": {
-        "eventSlug": "event-46-seniors-championship",
-        "eventName": "Event #46: $1,000 Seniors No-Limit Hold’em Championship",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-46-seniors-championship/chips.htm",
-        "buyin": 1000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 1003,
-        "currentDay": "2a",
-        "status": "active",
-        "rank": 44,
-        "chips": 625000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-17T09:57:47.647Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-46-seniors-championship",
-          "eventName": "Event #46: $1,000 Seniors No-Limit Hold’em Championship",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-46-seniors-championship/chips.htm",
-          "buyin": 1000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 1003,
-          "currentDay": "2a",
-          "status": "active",
-          "rank": 44,
-          "chips": 625000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-17T09:57:47.647Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Ben Lamb",
@@ -193,38 +62,8 @@
       "pts2026": 18,
       "salary": 2,
       "cashes2026": 8,
-      "liveStatus": {
-        "eventSlug": "event-49-freezeout",
-        "eventName": "Event #49: $2,500 Freezeout No-Limit Hold'em",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-49-freezeout/chips.htm",
-        "buyin": 2500,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 320,
-        "currentDay": "1",
-        "status": "active",
-        "rank": 182,
-        "chips": 117000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-17T09:57:47.647Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-49-freezeout",
-          "eventName": "Event #49: $2,500 Freezeout No-Limit Hold'em",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-49-freezeout/chips.htm",
-          "buyin": 2500,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 320,
-          "currentDay": "1",
-          "status": "active",
-          "rank": 182,
-          "chips": 117000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-17T09:57:47.647Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Ryan Leng",
@@ -257,141 +96,5 @@
       "eventHistory": []
     }
   ],
-  "activeEvents": [
-    {
-      "slug": "event-34-colossus",
-      "name": "Event #34: $500 COLOSSUS",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 500,
-      "completed": true
-    },
-    {
-      "slug": "event-42-big-o-championship",
-      "name": "Event #42: $10,000 Big O Championship",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-42-big-o-championship/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 10000,
-      "completed": true
-    },
-    {
-      "slug": "event-45-mixed-omaha-hi-lo-seven-card-stud",
-      "name": "Event #45: $2,500 Mixed Omaha Hi-Lo 8 or Better; Seven Card Stud Hi-Lo 8 or Better",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-45-mixed-omaha-hi-lo-seven-card-stud/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 2500,
-      "completed": true
-    },
-    {
-      "slug": "event-46-seniors-championship",
-      "name": "Event #46: $1,000 Seniors No-Limit Hold’em Championship",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-46-seniors-championship/chips.htm",
-      "playersLeft": 1003,
-      "totalEntries": null,
-      "buyin": 1000,
-      "completed": false
-    },
-    {
-      "slug": "event-47-high-roller-plo",
-      "name": "Event #47: $25,000 High Roller Pot-Limit Omaha",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
-      "playersLeft": 110,
-      "totalEntries": null,
-      "buyin": 25000,
-      "completed": false
-    },
-    {
-      "slug": "event-48-razz-championship",
-      "name": "Event #48: $10,000 Razz Championship",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-48-razz-championship/chips.htm",
-      "playersLeft": 8,
-      "totalEntries": null,
-      "buyin": 10000,
-      "completed": false
-    },
-    {
-      "slug": "event-49-freezeout",
-      "name": "Event #49: $2,500 Freezeout No-Limit Hold'em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-49-freezeout/chips.htm",
-      "playersLeft": 320,
-      "totalEntries": null,
-      "buyin": 2500,
-      "completed": false
-    },
-    {
-      "slug": "event-44-super-turbo-bounty",
-      "name": "Event #44: $10,000 Super Turbo Bounty No-Limit Hold'em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-44-super-turbo-bounty/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 10000,
-      "completed": true
-    },
-    {
-      "slug": "event-43-deepstack",
-      "name": "Event #43: $800 8-Handed Deepstack No-Limit",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-43-deepstack/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 800,
-      "completed": true
-    },
-    {
-      "slug": "event-41-super-high-roller",
-      "name": "Event #41: $250,000 Super High Roller No-Limit Hold'em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-41-super-high-roller/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 250000,
-      "completed": true
-    },
-    {
-      "slug": "event-40-razz",
-      "name": "Event #40: $1,500 Razz",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-40-razz/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 1500,
-      "completed": true
-    },
-    {
-      "slug": "event-39-seniors-high-roller",
-      "name": "Event #39: $5,000 Seniors High Roller No-Limit Hold'em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-39-seniors-high-roller/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 5000,
-      "completed": true
-    },
-    {
-      "slug": "event-38-limit-holdem-championship",
-      "name": "Event #38: $10,000 Limit Hold'em Championship 7-Handed",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-38-limit-holdem-championship/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 10000,
-      "completed": true
-    },
-    {
-      "slug": "event-37-horse",
-      "name": "Event #37: $1,500 H.O.R.S.E.",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-37-horse/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 1500,
-      "completed": true
-    },
-    {
-      "slug": "event-36-high-roller",
-      "name": "Event #36: $100,000 High Roller No-Limit Hold’em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-36-high-roller/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 100000,
-      "completed": true
-    }
-  ]
+  "activeEvents": []
 }
