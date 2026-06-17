@@ -1,8 +1,9 @@
 {
-  "updatedAt": "2026-06-17T06:22:59.347Z",
+  "updatedAt": "2026-06-17T06:29:27.501Z",
   "teamScore": 153,
   "completedEvents": [
     "event-3-industry-employees",
+    "event-34-colossus",
     "event-42-big-o-championship",
     "event-44-super-turbo-bounty",
     "event-43-deepstack",
@@ -34,7 +35,7 @@
         "rank": 16,
         "chips": 500000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-17T06:22:59.344Z"
+        "updatedAt": "2026-06-17T06:29:27.497Z"
       },
       "eventHistory": [
         {
@@ -50,7 +51,7 @@
           "rank": 16,
           "chips": 500000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-17T06:22:59.344Z"
+          "updatedAt": "2026-06-17T06:29:27.497Z"
         }
       ]
     },
@@ -71,10 +72,10 @@
         "playersLeft": 15,
         "currentDay": "2",
         "status": "active",
-        "rank": 3,
+        "rank": 4,
         "chips": 1140000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-17T06:22:59.344Z"
+        "updatedAt": "2026-06-17T06:29:27.498Z"
       },
       "eventHistory": [
         {
@@ -87,10 +88,10 @@
           "playersLeft": 15,
           "currentDay": "2",
           "status": "active",
-          "rank": 3,
+          "rank": 4,
           "chips": 1140000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-17T06:22:59.344Z"
+          "updatedAt": "2026-06-17T06:29:27.498Z"
         }
       ]
     },
@@ -111,10 +112,10 @@
         "playersLeft": 15,
         "currentDay": "2",
         "status": "active",
-        "rank": 5,
-        "chips": 926000,
+        "rank": 3,
+        "chips": 1140000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-17T06:22:59.345Z"
+        "updatedAt": "2026-06-17T06:29:27.499Z"
       },
       "eventHistory": [
         {
@@ -127,10 +128,10 @@
           "playersLeft": 15,
           "currentDay": "2",
           "status": "active",
-          "rank": 5,
-          "chips": 926000,
+          "rank": 3,
+          "chips": 1140000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-17T06:22:59.345Z"
+          "updatedAt": "2026-06-17T06:29:27.499Z"
         }
       ]
     },
@@ -154,7 +155,7 @@
         "rank": 16,
         "chips": 950000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-17T06:22:59.345Z"
+        "updatedAt": "2026-06-17T06:29:27.499Z"
       },
       "eventHistory": [
         {
@@ -170,7 +171,7 @@
           "rank": 16,
           "chips": 950000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-17T06:22:59.345Z"
+          "updatedAt": "2026-06-17T06:29:27.499Z"
         }
       ]
     },
@@ -230,10 +231,10 @@
       "slug": "event-34-colossus",
       "name": "Event #34: $500 COLOSSUS\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-34-colossus/chips.htm",
-      "playersLeft": 2,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 500,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-42-big-o-championship",
