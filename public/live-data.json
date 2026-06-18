@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-18T19:39:32.741Z",
-  "teamScore": 342,
+  "updatedAt": "2026-06-18T19:46:17.450Z",
+  "teamScore": 344,
   "completedEvents": [
     "event-3-industry-employees",
     "event-48-razz-championship",
@@ -16,41 +16,11 @@
       "name": "Daniel Negreanu",
       "slug": "daniel-negreanu",
       "isBonus": false,
-      "pts2026": 75,
+      "pts2026": 77,
       "salary": 116,
-      "cashes2026": 4,
-      "liveStatus": {
-        "eventSlug": "event-47-high-roller-plo",
-        "eventName": "Event #47: $25,000 High Roller Pot-Limit Omaha",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
-        "buyin": 25000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 26,
-        "currentDay": "3",
-        "status": "active",
-        "rank": 22,
-        "chips": 995000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T19:39:32.738Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-47-high-roller-plo",
-          "eventName": "Event #47: $25,000 High Roller Pot-Limit Omaha",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
-          "buyin": 25000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 26,
-          "currentDay": "3",
-          "status": "active",
-          "rank": 22,
-          "chips": 995000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T19:39:32.738Z"
-        }
-      ]
+      "cashes2026": 5,
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Calvin Anderson",
@@ -72,7 +42,7 @@
         "rank": 1,
         "chips": 9300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T19:39:32.738Z"
+        "updatedAt": "2026-06-18T19:46:17.448Z"
       },
       "eventHistory": [
         {
@@ -88,7 +58,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T19:39:32.738Z"
+          "updatedAt": "2026-06-18T19:46:17.448Z"
         }
       ]
     },
@@ -112,7 +82,7 @@
         "rank": 40,
         "chips": 148500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T19:39:32.739Z"
+        "updatedAt": "2026-06-18T19:46:17.448Z"
       },
       "eventHistory": [
         {
@@ -128,7 +98,7 @@
           "rank": 40,
           "chips": 148500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T19:39:32.739Z"
+          "updatedAt": "2026-06-18T19:46:17.448Z"
         }
       ]
     },
@@ -149,10 +119,10 @@
         "playersLeft": 172,
         "currentDay": "3",
         "status": "active",
-        "rank": 94,
+        "rank": 95,
         "chips": 625000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T19:39:32.739Z"
+        "updatedAt": "2026-06-18T19:46:17.448Z"
       },
       "eventHistory": [
         {
@@ -165,10 +135,10 @@
           "playersLeft": 172,
           "currentDay": "3",
           "status": "active",
-          "rank": 94,
+          "rank": 95,
           "chips": 625000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T19:39:32.739Z"
+          "updatedAt": "2026-06-18T19:46:17.448Z"
         }
       ]
     },
@@ -202,7 +172,7 @@
         "rank": 16,
         "chips": 1500000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T19:39:32.740Z"
+        "updatedAt": "2026-06-18T19:46:17.449Z"
       },
       "eventHistory": [
         {
@@ -218,7 +188,7 @@
           "rank": 16,
           "chips": 1500000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T19:39:32.740Z"
+          "updatedAt": "2026-06-18T19:46:17.449Z"
         }
       ]
     },
@@ -267,7 +237,7 @@
       "slug": "event-47-high-roller-plo",
       "name": "Event #47: $25,000 High Roller Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
-      "playersLeft": 26,
+      "playersLeft": 24,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
