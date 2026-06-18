@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T22:14:08.264Z",
+  "updatedAt": "2026-06-18T22:20:29.001Z",
   "teamScore": 345,
   "completedEvents": [
     "event-3-industry-employees",
@@ -42,7 +42,7 @@
         "rank": 1,
         "chips": 9300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T22:14:08.261Z"
+        "updatedAt": "2026-06-18T22:20:28.998Z"
       },
       "eventHistory": [
         {
@@ -58,7 +58,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T22:14:08.261Z"
+          "updatedAt": "2026-06-18T22:20:28.998Z"
         }
       ]
     },
@@ -70,36 +70,21 @@
       "salary": 3,
       "cashes2026": 2,
       "liveStatus": {
-        "eventSlug": "event-52-nine-game-mix",
-        "eventName": "Event #52: $3,000 Nine Game Mix",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-52-nine-game-mix/chips.htm",
-        "buyin": 3000,
+        "eventSlug": "event-54-horse-championship",
+        "eventName": "Event #54: $10,000 H.O.R.S.E. Championship",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-54-horse-championship/chips.htm",
+        "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 118,
-        "currentDay": "2",
+        "playersLeft": 55,
+        "currentDay": "1",
         "status": "active",
-        "rank": 49,
-        "chips": 148500,
+        "rank": 29,
+        "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T22:14:08.262Z"
+        "updatedAt": "2026-06-18T22:20:28.998Z"
       },
       "eventHistory": [
-        {
-          "eventSlug": "event-52-nine-game-mix",
-          "eventName": "Event #52: $3,000 Nine Game Mix",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-52-nine-game-mix/chips.htm",
-          "buyin": 3000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 118,
-          "currentDay": "2",
-          "status": "active",
-          "rank": 49,
-          "chips": 148500,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T22:14:08.262Z"
-        },
         {
           "eventSlug": "event-54-horse-championship",
           "eventName": "Event #54: $10,000 H.O.R.S.E. Championship",
@@ -110,10 +95,10 @@
           "playersLeft": 55,
           "currentDay": "1",
           "status": "active",
-          "rank": 28,
+          "rank": 29,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T22:14:08.262Z"
+          "updatedAt": "2026-06-18T22:20:28.998Z"
         }
       ]
     },
@@ -137,7 +122,7 @@
         "rank": 55,
         "chips": 850000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T22:14:08.262Z"
+        "updatedAt": "2026-06-18T22:20:28.998Z"
       },
       "eventHistory": [
         {
@@ -153,7 +138,7 @@
           "rank": 55,
           "chips": 850000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T22:14:08.262Z"
+          "updatedAt": "2026-06-18T22:20:28.998Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -165,10 +150,10 @@
           "playersLeft": 55,
           "currentDay": "1",
           "status": "active",
-          "rank": 20,
+          "rank": 22,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T22:14:08.262Z"
+          "updatedAt": "2026-06-18T22:20:28.999Z"
         }
       ]
     },
@@ -202,7 +187,7 @@
         "rank": 17,
         "chips": 1500000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T22:14:08.263Z"
+        "updatedAt": "2026-06-18T22:20:28.999Z"
       },
       "eventHistory": [
         {
@@ -218,7 +203,7 @@
           "rank": 17,
           "chips": 1500000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T22:14:08.263Z"
+          "updatedAt": "2026-06-18T22:20:28.999Z"
         }
       ]
     },
