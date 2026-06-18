@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T01:42:21.467Z",
+  "updatedAt": "2026-06-18T01:48:50.116Z",
   "teamScore": 214,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 11,
         "chips": 1600000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T01:42:21.463Z"
+        "updatedAt": "2026-06-18T01:48:50.112Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 11,
           "chips": 1600000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T01:42:21.463Z"
+          "updatedAt": "2026-06-18T01:48:50.112Z"
         }
       ]
     },
@@ -71,9 +71,9 @@
         "currentDay": "3",
         "status": "active",
         "rank": 1,
-        "chips": 5400000,
+        "chips": 4800000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T01:42:21.463Z"
+        "updatedAt": "2026-06-18T01:48:50.113Z"
       },
       "eventHistory": [
         {
@@ -87,9 +87,9 @@
           "currentDay": "3",
           "status": "active",
           "rank": 1,
-          "chips": 5400000,
+          "chips": 4800000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T01:42:21.463Z"
+          "updatedAt": "2026-06-18T01:48:50.113Z"
         }
       ]
     },
@@ -143,7 +143,7 @@
         "rank": 83,
         "chips": 140000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T01:42:21.465Z"
+        "updatedAt": "2026-06-18T01:48:50.115Z"
       },
       "eventHistory": [
         {
@@ -159,7 +159,7 @@
           "rank": 83,
           "chips": 140000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T01:42:21.465Z"
+          "updatedAt": "2026-06-18T01:48:50.115Z"
         }
       ]
     },
@@ -193,7 +193,7 @@
         "rank": 67,
         "chips": 200000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T01:42:21.466Z"
+        "updatedAt": "2026-06-18T01:48:50.115Z"
       },
       "eventHistory": [
         {
@@ -209,7 +209,7 @@
           "rank": 67,
           "chips": 200000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T01:42:21.466Z"
+          "updatedAt": "2026-06-18T01:48:50.115Z"
         }
       ]
     },
