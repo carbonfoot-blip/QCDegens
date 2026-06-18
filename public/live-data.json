@@ -1,8 +1,9 @@
 {
-  "updatedAt": "2026-06-18T07:05:55.909Z",
+  "updatedAt": "2026-06-18T07:12:27.089Z",
   "teamScore": 342,
   "completedEvents": [
     "event-3-industry-employees",
+    "event-48-razz-championship",
     "event-45-mixed-omaha-hi-lo-seven-card-stud",
     "event-44-super-turbo-bounty",
     "event-43-deepstack",
@@ -30,10 +31,10 @@
         "playersLeft": 32,
         "currentDay": "2",
         "status": "active",
-        "rank": 22,
-        "chips": 1650000,
+        "rank": 27,
+        "chips": 1100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T07:05:55.904Z"
+        "updatedAt": "2026-06-18T07:12:27.084Z"
       },
       "eventHistory": [
         {
@@ -46,10 +47,10 @@
           "playersLeft": 32,
           "currentDay": "2",
           "status": "active",
-          "rank": 22,
-          "chips": 1650000,
+          "rank": 27,
+          "chips": 1100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T07:05:55.904Z"
+          "updatedAt": "2026-06-18T07:12:27.084Z"
         }
       ]
     },
@@ -67,13 +68,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 2,
+        "playersLeft": 1,
         "currentDay": "3",
         "status": "active",
         "rank": 1,
         "chips": 9300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T07:05:55.905Z"
+        "updatedAt": "2026-06-18T07:12:27.085Z"
       },
       "eventHistory": [
         {
@@ -83,13 +84,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 2,
+          "playersLeft": 1,
           "currentDay": "3",
           "status": "active",
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T07:05:55.905Z"
+          "updatedAt": "2026-06-18T07:12:27.085Z"
         }
       ]
     },
@@ -143,7 +144,7 @@
         "rank": 6,
         "chips": 2400000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T07:05:55.907Z"
+        "updatedAt": "2026-06-18T07:12:27.087Z"
       },
       "eventHistory": [
         {
@@ -159,7 +160,7 @@
           "rank": 6,
           "chips": 2400000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T07:05:55.907Z"
+          "updatedAt": "2026-06-18T07:12:27.087Z"
         }
       ]
     },
@@ -217,10 +218,10 @@
       "slug": "event-48-razz-championship",
       "name": "Event #48: $10,000 Razz Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-48-razz-championship/chips.htm",
-      "playersLeft": 2,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 10000,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-49-freezeout",
@@ -244,7 +245,7 @@
       "slug": "event-51-mystery-bounty",
       "name": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-51-mystery-bounty/chips.htm",
-      "playersLeft": 123,
+      "playersLeft": 114,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
@@ -253,7 +254,7 @@
       "slug": "event-52-nine-game-mix",
       "name": "Event #52: $3,000 Nine Game Mix",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-52-nine-game-mix/chips.htm",
-      "playersLeft": 209,
+      "playersLeft": 200,
       "totalEntries": null,
       "buyin": 3000,
       "completed": false
