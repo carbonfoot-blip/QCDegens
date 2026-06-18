@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T19:33:01.165Z",
+  "updatedAt": "2026-06-18T19:39:32.741Z",
   "teamScore": 342,
   "completedEvents": [
     "event-3-industry-employees",
@@ -26,13 +26,13 @@
         "buyin": 25000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 28,
+        "playersLeft": 26,
         "currentDay": "3",
         "status": "active",
         "rank": 22,
         "chips": 995000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T19:33:01.161Z"
+        "updatedAt": "2026-06-18T19:39:32.738Z"
       },
       "eventHistory": [
         {
@@ -42,13 +42,13 @@
           "buyin": 25000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 28,
+          "playersLeft": 26,
           "currentDay": "3",
           "status": "active",
           "rank": 22,
           "chips": 995000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T19:33:01.161Z"
+          "updatedAt": "2026-06-18T19:39:32.738Z"
         }
       ]
     },
@@ -72,7 +72,7 @@
         "rank": 1,
         "chips": 9300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T19:33:01.162Z"
+        "updatedAt": "2026-06-18T19:39:32.738Z"
       },
       "eventHistory": [
         {
@@ -88,7 +88,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T19:33:01.162Z"
+          "updatedAt": "2026-06-18T19:39:32.738Z"
         }
       ]
     },
@@ -112,7 +112,7 @@
         "rank": 40,
         "chips": 148500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T19:33:01.162Z"
+        "updatedAt": "2026-06-18T19:39:32.739Z"
       },
       "eventHistory": [
         {
@@ -128,7 +128,7 @@
           "rank": 40,
           "chips": 148500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T19:33:01.162Z"
+          "updatedAt": "2026-06-18T19:39:32.739Z"
         }
       ]
     },
@@ -146,13 +146,13 @@
         "buyin": 1000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 191,
+        "playersLeft": 172,
         "currentDay": "3",
         "status": "active",
-        "rank": 93,
+        "rank": 94,
         "chips": 625000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T19:33:01.163Z"
+        "updatedAt": "2026-06-18T19:39:32.739Z"
       },
       "eventHistory": [
         {
@@ -162,13 +162,13 @@
           "buyin": 1000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 191,
+          "playersLeft": 172,
           "currentDay": "3",
           "status": "active",
-          "rank": 93,
+          "rank": 94,
           "chips": 625000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T19:33:01.163Z"
+          "updatedAt": "2026-06-18T19:39:32.739Z"
         }
       ]
     },
@@ -202,7 +202,7 @@
         "rank": 16,
         "chips": 1500000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T19:33:01.164Z"
+        "updatedAt": "2026-06-18T19:39:32.740Z"
       },
       "eventHistory": [
         {
@@ -218,7 +218,7 @@
           "rank": 16,
           "chips": 1500000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T19:33:01.164Z"
+          "updatedAt": "2026-06-18T19:39:32.740Z"
         }
       ]
     },
@@ -258,7 +258,7 @@
       "slug": "event-46-seniors-championship",
       "name": "Event #46: $1,000 Seniors No-Limit Hold’em Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-46-seniors-championship/chips.htm",
-      "playersLeft": 191,
+      "playersLeft": 172,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -267,7 +267,7 @@
       "slug": "event-47-high-roller-plo",
       "name": "Event #47: $25,000 High Roller Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
-      "playersLeft": 28,
+      "playersLeft": 26,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
@@ -312,7 +312,7 @@
       "slug": "event-53-five-card-plo",
       "name": "Event #53: $1,500 Five Card Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-53-five-card-plo/chips.htm",
-      "playersLeft": null,
+      "playersLeft": 258,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
