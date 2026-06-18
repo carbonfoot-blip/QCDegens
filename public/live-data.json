@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T08:28:25.145Z",
+  "updatedAt": "2026-06-18T08:34:47.146Z",
   "teamScore": 342,
   "completedEvents": [
     "event-3-industry-employees",
@@ -34,7 +34,7 @@
         "rank": 27,
         "chips": 750000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T08:28:25.142Z"
+        "updatedAt": "2026-06-18T08:34:47.143Z"
       },
       "eventHistory": [
         {
@@ -50,7 +50,7 @@
           "rank": 27,
           "chips": 750000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T08:28:25.142Z"
+          "updatedAt": "2026-06-18T08:34:47.143Z"
         }
       ]
     },
@@ -74,7 +74,7 @@
         "rank": 1,
         "chips": 9300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T08:28:25.143Z"
+        "updatedAt": "2026-06-18T08:34:47.144Z"
       },
       "eventHistory": [
         {
@@ -90,7 +90,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T08:28:25.143Z"
+          "updatedAt": "2026-06-18T08:34:47.144Z"
         }
       ]
     },
@@ -144,7 +144,7 @@
         "rank": 16,
         "chips": 1500000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T08:28:25.144Z"
+        "updatedAt": "2026-06-18T08:34:47.145Z"
       },
       "eventHistory": [
         {
@@ -160,7 +160,7 @@
           "rank": 16,
           "chips": 1500000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T08:28:25.144Z"
+          "updatedAt": "2026-06-18T08:34:47.145Z"
         }
       ]
     },
@@ -245,7 +245,7 @@
       "slug": "event-51-mystery-bounty",
       "name": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-51-mystery-bounty/chips.htm",
-      "playersLeft": 181,
+      "playersLeft": 88,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
