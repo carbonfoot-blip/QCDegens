@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-18T22:39:28.043Z",
-  "teamScore": 345,
+  "updatedAt": "2026-06-18T22:45:47.905Z",
+  "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
     "event-48-razz-championship",
@@ -42,7 +42,7 @@
         "rank": 1,
         "chips": 9300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T22:39:28.038Z"
+        "updatedAt": "2026-06-18T22:45:47.902Z"
       },
       "eventHistory": [
         {
@@ -58,7 +58,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T22:39:28.038Z"
+          "updatedAt": "2026-06-18T22:45:47.902Z"
         }
       ]
     },
@@ -82,7 +82,7 @@
         "rank": 46,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T22:39:28.039Z"
+        "updatedAt": "2026-06-18T22:45:47.902Z"
       },
       "eventHistory": [
         {
@@ -98,7 +98,7 @@
           "rank": 46,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T22:39:28.039Z"
+          "updatedAt": "2026-06-18T22:45:47.902Z"
         }
       ]
     },
@@ -119,10 +119,10 @@
         "playersLeft": 116,
         "currentDay": "3",
         "status": "active",
-        "rank": 56,
+        "rank": 55,
         "chips": 850000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T22:39:28.039Z"
+        "updatedAt": "2026-06-18T22:45:47.903Z"
       },
       "eventHistory": [
         {
@@ -135,10 +135,10 @@
           "playersLeft": 116,
           "currentDay": "3",
           "status": "active",
-          "rank": 56,
+          "rank": 55,
           "chips": 850000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T22:39:28.039Z"
+          "updatedAt": "2026-06-18T22:45:47.903Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -153,7 +153,7 @@
           "rank": 39,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T22:39:28.040Z"
+          "updatedAt": "2026-06-18T22:45:47.903Z"
         }
       ]
     },
@@ -171,9 +171,9 @@
       "name": "Shawn Buchanan",
       "slug": "shawn-buchanan",
       "isBonus": false,
-      "pts2026": 18,
+      "pts2026": 34,
       "salary": 2,
-      "cashes2026": 8,
+      "cashes2026": 9,
       "liveStatus": null,
       "eventHistory": []
     },
@@ -258,7 +258,7 @@
       "slug": "event-52-nine-game-mix",
       "name": "Event #52: $3,000 Nine Game Mix",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-52-nine-game-mix/chips.htm",
-      "playersLeft": 112,
+      "playersLeft": 110,
       "totalEntries": null,
       "buyin": 3000,
       "completed": false
