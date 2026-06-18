@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T08:34:47.146Z",
+  "updatedAt": "2026-06-18T08:41:06.722Z",
   "teamScore": 342,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,10 +31,10 @@
         "playersLeft": 31,
         "currentDay": "2",
         "status": "active",
-        "rank": 27,
-        "chips": 750000,
+        "rank": 26,
+        "chips": 995000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T08:34:47.143Z"
+        "updatedAt": "2026-06-18T08:41:06.719Z"
       },
       "eventHistory": [
         {
@@ -47,10 +47,10 @@
           "playersLeft": 31,
           "currentDay": "2",
           "status": "active",
-          "rank": 27,
-          "chips": 750000,
+          "rank": 26,
+          "chips": 995000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T08:34:47.143Z"
+          "updatedAt": "2026-06-18T08:41:06.719Z"
         }
       ]
     },
@@ -74,7 +74,7 @@
         "rank": 1,
         "chips": 9300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T08:34:47.144Z"
+        "updatedAt": "2026-06-18T08:41:06.720Z"
       },
       "eventHistory": [
         {
@@ -90,7 +90,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T08:34:47.144Z"
+          "updatedAt": "2026-06-18T08:41:06.720Z"
         }
       ]
     },
@@ -101,8 +101,38 @@
       "pts2026": 62,
       "salary": 3,
       "cashes2026": 2,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-52-nine-game-mix",
+        "eventName": "Event #52: $3,000 Nine Game Mix",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-52-nine-game-mix/chips.htm",
+        "buyin": 3000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 164,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 39,
+        "chips": 148500,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-18T08:41:06.720Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-52-nine-game-mix",
+          "eventName": "Event #52: $3,000 Nine Game Mix",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-52-nine-game-mix/chips.htm",
+          "buyin": 3000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 164,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 39,
+          "chips": 148500,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-18T08:41:06.720Z"
+        }
+      ]
     },
     {
       "name": "Matt Glantz",
@@ -144,7 +174,7 @@
         "rank": 16,
         "chips": 1500000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T08:34:47.145Z"
+        "updatedAt": "2026-06-18T08:41:06.721Z"
       },
       "eventHistory": [
         {
@@ -160,7 +190,7 @@
           "rank": 16,
           "chips": 1500000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T08:34:47.145Z"
+          "updatedAt": "2026-06-18T08:41:06.721Z"
         }
       ]
     },
