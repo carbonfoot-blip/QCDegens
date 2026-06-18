@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T20:12:16.041Z",
+  "updatedAt": "2026-06-18T20:18:46.054Z",
   "teamScore": 344,
   "completedEvents": [
     "event-3-industry-employees",
@@ -42,7 +42,7 @@
         "rank": 1,
         "chips": 9300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T20:12:16.037Z"
+        "updatedAt": "2026-06-18T20:18:46.050Z"
       },
       "eventHistory": [
         {
@@ -58,7 +58,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T20:12:16.037Z"
+          "updatedAt": "2026-06-18T20:18:46.050Z"
         }
       ]
     },
@@ -76,13 +76,13 @@
         "buyin": 3000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 164,
+        "playersLeft": 161,
         "currentDay": "2",
         "status": "active",
-        "rank": 40,
+        "rank": 41,
         "chips": 148500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T20:12:16.038Z"
+        "updatedAt": "2026-06-18T20:18:46.052Z"
       },
       "eventHistory": [
         {
@@ -92,13 +92,13 @@
           "buyin": 3000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 164,
+          "playersLeft": 161,
           "currentDay": "2",
           "status": "active",
-          "rank": 40,
+          "rank": 41,
           "chips": 148500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T20:12:16.038Z"
+          "updatedAt": "2026-06-18T20:18:46.052Z"
         }
       ]
     },
@@ -116,13 +116,13 @@
         "buyin": 1000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 172,
+        "playersLeft": 157,
         "currentDay": "3",
         "status": "active",
         "rank": 97,
         "chips": 625000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T20:12:16.038Z"
+        "updatedAt": "2026-06-18T20:18:46.052Z"
       },
       "eventHistory": [
         {
@@ -132,13 +132,13 @@
           "buyin": 1000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 172,
+          "playersLeft": 157,
           "currentDay": "3",
           "status": "active",
           "rank": 97,
           "chips": 625000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T20:12:16.038Z"
+          "updatedAt": "2026-06-18T20:18:46.052Z"
         }
       ]
     },
@@ -166,13 +166,13 @@
         "buyin": 2500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 28,
+        "playersLeft": 27,
         "currentDay": "3",
         "status": "active",
         "rank": 16,
         "chips": 1500000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T20:12:16.039Z"
+        "updatedAt": "2026-06-18T20:18:46.053Z"
       },
       "eventHistory": [
         {
@@ -182,13 +182,13 @@
           "buyin": 2500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 28,
+          "playersLeft": 27,
           "currentDay": "3",
           "status": "active",
           "rank": 16,
           "chips": 1500000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T20:12:16.039Z"
+          "updatedAt": "2026-06-18T20:18:46.053Z"
         }
       ]
     },
@@ -228,7 +228,7 @@
       "slug": "event-46-seniors-championship",
       "name": "Event #46: $1,000 Seniors No-Limit Hold’em Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-46-seniors-championship/chips.htm",
-      "playersLeft": 172,
+      "playersLeft": 157,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -246,7 +246,7 @@
       "slug": "event-49-freezeout",
       "name": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-49-freezeout/chips.htm",
-      "playersLeft": 28,
+      "playersLeft": 27,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
@@ -273,7 +273,7 @@
       "slug": "event-52-nine-game-mix",
       "name": "Event #52: $3,000 Nine Game Mix",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-52-nine-game-mix/chips.htm",
-      "playersLeft": 164,
+      "playersLeft": 161,
       "totalEntries": null,
       "buyin": 3000,
       "completed": false
