@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-18T06:59:29.830Z",
-  "teamScore": 216,
+  "updatedAt": "2026-06-18T07:05:55.909Z",
+  "teamScore": 342,
   "completedEvents": [
     "event-3-industry-employees",
     "event-45-mixed-omaha-hi-lo-seven-card-stud",
@@ -27,13 +27,13 @@
         "buyin": 25000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 33,
+        "playersLeft": 32,
         "currentDay": "2",
         "status": "active",
-        "rank": 25,
-        "chips": 1050000,
+        "rank": 22,
+        "chips": 1650000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T06:59:29.823Z"
+        "updatedAt": "2026-06-18T07:05:55.904Z"
       },
       "eventHistory": [
         {
@@ -43,13 +43,13 @@
           "buyin": 25000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 33,
+          "playersLeft": 32,
           "currentDay": "2",
           "status": "active",
-          "rank": 25,
-          "chips": 1050000,
+          "rank": 22,
+          "chips": 1650000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T06:59:29.823Z"
+          "updatedAt": "2026-06-18T07:05:55.904Z"
         }
       ]
     },
@@ -57,9 +57,9 @@
       "name": "Calvin Anderson",
       "slug": "calvin-anderson",
       "isBonus": false,
-      "pts2026": 36,
+      "pts2026": 162,
       "salary": 25,
-      "cashes2026": 3,
+      "cashes2026": 4,
       "liveStatus": {
         "eventSlug": "event-48-razz-championship",
         "eventName": "Event #48: $10,000 Razz Championship",
@@ -71,9 +71,9 @@
         "currentDay": "3",
         "status": "active",
         "rank": 1,
-        "chips": 8000000,
+        "chips": 9300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T06:59:29.824Z"
+        "updatedAt": "2026-06-18T07:05:55.905Z"
       },
       "eventHistory": [
         {
@@ -87,9 +87,9 @@
           "currentDay": "3",
           "status": "active",
           "rank": 1,
-          "chips": 8000000,
+          "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T06:59:29.824Z"
+          "updatedAt": "2026-06-18T07:05:55.905Z"
         }
       ]
     },
@@ -143,7 +143,7 @@
         "rank": 6,
         "chips": 2400000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T06:59:29.827Z"
+        "updatedAt": "2026-06-18T07:05:55.907Z"
       },
       "eventHistory": [
         {
@@ -159,7 +159,7 @@
           "rank": 6,
           "chips": 2400000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T06:59:29.827Z"
+          "updatedAt": "2026-06-18T07:05:55.907Z"
         }
       ]
     },
@@ -208,7 +208,7 @@
       "slug": "event-47-high-roller-plo",
       "name": "Event #47: $25,000 High Roller Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
-      "playersLeft": 33,
+      "playersLeft": 32,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
@@ -242,7 +242,7 @@
     },
     {
       "slug": "event-51-mystery-bounty",
-      "name": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
+      "name": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-51-mystery-bounty/chips.htm",
       "playersLeft": 123,
       "totalEntries": null,
