@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T05:42:17.776Z",
+  "updatedAt": "2026-06-18T05:48:43.029Z",
   "teamScore": 216,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,10 +30,10 @@
         "playersLeft": 43,
         "currentDay": "2",
         "status": "active",
-        "rank": 17,
-        "chips": 1825000,
+        "rank": 19,
+        "chips": 1650000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T05:42:17.770Z"
+        "updatedAt": "2026-06-18T05:48:43.024Z"
       },
       "eventHistory": [
         {
@@ -46,10 +46,10 @@
           "playersLeft": 43,
           "currentDay": "2",
           "status": "active",
-          "rank": 17,
-          "chips": 1825000,
+          "rank": 19,
+          "chips": 1650000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T05:42:17.770Z"
+          "updatedAt": "2026-06-18T05:48:43.024Z"
         }
       ]
     },
@@ -71,9 +71,9 @@
         "currentDay": "3",
         "status": "active",
         "rank": 1,
-        "chips": 5400000,
+        "chips": 5900000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T05:42:17.770Z"
+        "updatedAt": "2026-06-18T05:48:43.025Z"
       },
       "eventHistory": [
         {
@@ -87,9 +87,9 @@
           "currentDay": "3",
           "status": "active",
           "rank": 1,
-          "chips": 5400000,
+          "chips": 5900000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T05:42:17.770Z"
+          "updatedAt": "2026-06-18T05:48:43.025Z"
         }
       ]
     },
@@ -140,10 +140,10 @@
         "playersLeft": 44,
         "currentDay": "2",
         "status": "active",
-        "rank": 22,
+        "rank": 24,
         "chips": 915000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T05:42:17.774Z"
+        "updatedAt": "2026-06-18T05:48:43.027Z"
       },
       "eventHistory": [
         {
@@ -156,10 +156,10 @@
           "playersLeft": 44,
           "currentDay": "2",
           "status": "active",
-          "rank": 22,
+          "rank": 24,
           "chips": 915000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T05:42:17.774Z"
+          "updatedAt": "2026-06-18T05:48:43.027Z"
         }
       ]
     },
@@ -244,7 +244,7 @@
       "slug": "event-51-mystery-bounty",
       "name": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-51-mystery-bounty/chips.htm",
-      "playersLeft": 235,
+      "playersLeft": 200,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
