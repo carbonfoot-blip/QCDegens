@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T06:07:59.715Z",
+  "updatedAt": "2026-06-18T06:14:24.843Z",
   "teamScore": 216,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 27,
         "chips": 1050000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T06:07:59.711Z"
+        "updatedAt": "2026-06-18T06:14:24.837Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 27,
           "chips": 1050000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T06:07:59.711Z"
+          "updatedAt": "2026-06-18T06:14:24.837Z"
         }
       ]
     },
@@ -73,7 +73,7 @@
         "rank": 1,
         "chips": 6400000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T06:07:59.712Z"
+        "updatedAt": "2026-06-18T06:14:24.839Z"
       },
       "eventHistory": [
         {
@@ -89,7 +89,7 @@
           "rank": 1,
           "chips": 6400000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T06:07:59.712Z"
+          "updatedAt": "2026-06-18T06:14:24.839Z"
         }
       ]
     },
@@ -137,13 +137,13 @@
         "buyin": 2500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 43,
+        "playersLeft": 42,
         "currentDay": "2",
         "status": "active",
-        "rank": 24,
-        "chips": 915000,
+        "rank": 15,
+        "chips": 1500000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T06:07:59.714Z"
+        "updatedAt": "2026-06-18T06:14:24.841Z"
       },
       "eventHistory": [
         {
@@ -153,13 +153,13 @@
           "buyin": 2500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 43,
+          "playersLeft": 42,
           "currentDay": "2",
           "status": "active",
-          "rank": 24,
-          "chips": 915000,
+          "rank": 15,
+          "chips": 1500000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T06:07:59.714Z"
+          "updatedAt": "2026-06-18T06:14:24.841Z"
         }
       ]
     },
@@ -226,7 +226,7 @@
       "slug": "event-49-freezeout",
       "name": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-49-freezeout/chips.htm",
-      "playersLeft": 43,
+      "playersLeft": 42,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
