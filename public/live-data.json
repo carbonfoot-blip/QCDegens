@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T23:36:28.346Z",
+  "updatedAt": "2026-06-18T23:42:46.831Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -42,7 +42,7 @@
         "rank": 1,
         "chips": 9300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T23:36:28.343Z"
+        "updatedAt": "2026-06-18T23:42:46.828Z"
       },
       "eventHistory": [
         {
@@ -58,7 +58,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T23:36:28.343Z"
+          "updatedAt": "2026-06-18T23:42:46.828Z"
         }
       ]
     },
@@ -79,10 +79,10 @@
         "playersLeft": 88,
         "currentDay": "1",
         "status": "active",
-        "rank": 54,
+        "rank": 55,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T23:36:28.343Z"
+        "updatedAt": "2026-06-18T23:42:46.829Z"
       },
       "eventHistory": [
         {
@@ -95,10 +95,10 @@
           "playersLeft": 88,
           "currentDay": "1",
           "status": "active",
-          "rank": 54,
+          "rank": 55,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T23:36:28.343Z"
+          "updatedAt": "2026-06-18T23:42:46.829Z"
         }
       ]
     },
@@ -119,10 +119,10 @@
         "playersLeft": 88,
         "currentDay": "1",
         "status": "active",
-        "rank": 49,
+        "rank": 50,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T23:36:28.344Z"
+        "updatedAt": "2026-06-18T23:42:46.829Z"
       },
       "eventHistory": [
         {
@@ -135,10 +135,10 @@
           "playersLeft": 88,
           "currentDay": "1",
           "status": "active",
-          "rank": 49,
+          "rank": 50,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T23:36:28.344Z"
+          "updatedAt": "2026-06-18T23:42:46.829Z"
         }
       ]
     },
@@ -216,7 +216,7 @@
       "slug": "event-49-freezeout",
       "name": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-49-freezeout/chips.htm",
-      "playersLeft": 13,
+      "playersLeft": 12,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
@@ -234,7 +234,7 @@
       "slug": "event-51-mystery-bounty",
       "name": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-51-mystery-bounty/chips.htm",
-      "playersLeft": 32,
+      "playersLeft": 31,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
