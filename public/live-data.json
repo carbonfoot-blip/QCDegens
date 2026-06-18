@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-18T00:17:27.306Z",
-  "teamScore": 153,
+  "updatedAt": "2026-06-18T00:24:00.041Z",
+  "teamScore": 214,
   "completedEvents": [
     "event-3-industry-employees",
     "event-45-mixed-omaha-hi-lo-seven-card-stud",
@@ -27,13 +27,13 @@
         "buyin": 25000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 81,
+        "playersLeft": 80,
         "currentDay": "2",
         "status": "active",
         "rank": 29,
         "chips": 925000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T00:17:27.302Z"
+        "updatedAt": "2026-06-18T00:24:00.036Z"
       },
       "eventHistory": [
         {
@@ -43,13 +43,13 @@
           "buyin": 25000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 81,
+          "playersLeft": 80,
           "currentDay": "2",
           "status": "active",
           "rank": 29,
           "chips": 925000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T00:17:27.302Z"
+          "updatedAt": "2026-06-18T00:24:00.036Z"
         }
       ]
     },
@@ -73,7 +73,7 @@
         "rank": 1,
         "chips": 3800000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T00:17:27.303Z"
+        "updatedAt": "2026-06-18T00:24:00.037Z"
       },
       "eventHistory": [
         {
@@ -89,7 +89,7 @@
           "rank": 1,
           "chips": 3800000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T00:17:27.303Z"
+          "updatedAt": "2026-06-18T00:24:00.037Z"
         }
       ]
     },
@@ -97,9 +97,9 @@
       "name": "Yuval Bronshtein",
       "slug": "yuval-bronshtein",
       "isBonus": false,
-      "pts2026": 1,
+      "pts2026": 62,
       "salary": 3,
-      "cashes2026": 1,
+      "cashes2026": 2,
       "liveStatus": null,
       "eventHistory": []
     },
@@ -143,7 +143,7 @@
         "rank": 99,
         "chips": 140000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T00:17:27.305Z"
+        "updatedAt": "2026-06-18T00:24:00.039Z"
       },
       "eventHistory": [
         {
@@ -159,7 +159,7 @@
           "rank": 99,
           "chips": 140000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T00:17:27.305Z"
+          "updatedAt": "2026-06-18T00:24:00.039Z"
         }
       ]
     },
@@ -187,13 +187,13 @@
         "buyin": 25000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 81,
+        "playersLeft": 80,
         "currentDay": "2",
         "status": "active",
         "rank": 75,
         "chips": 200000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T00:17:27.305Z"
+        "updatedAt": "2026-06-18T00:24:00.040Z"
       },
       "eventHistory": [
         {
@@ -203,13 +203,13 @@
           "buyin": 25000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 81,
+          "playersLeft": 80,
           "currentDay": "2",
           "status": "active",
           "rank": 75,
           "chips": 200000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T00:17:27.305Z"
+          "updatedAt": "2026-06-18T00:24:00.040Z"
         }
       ]
     },
@@ -238,7 +238,7 @@
       "slug": "event-47-high-roller-plo",
       "name": "Event #47: $25,000 High Roller Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
-      "playersLeft": 81,
+      "playersLeft": 80,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
