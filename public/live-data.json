@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-18T04:18:18.852Z",
-  "teamScore": 214,
+  "updatedAt": "2026-06-18T04:24:47.980Z",
+  "teamScore": 216,
   "completedEvents": [
     "event-3-industry-employees",
     "event-45-mixed-omaha-hi-lo-seven-card-stud",
@@ -27,13 +27,13 @@
         "buyin": 25000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 54,
+        "playersLeft": 53,
         "currentDay": "2",
         "status": "active",
-        "rank": 14,
+        "rank": 16,
         "chips": 1640000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T04:18:18.848Z"
+        "updatedAt": "2026-06-18T04:24:47.976Z"
       },
       "eventHistory": [
         {
@@ -43,13 +43,13 @@
           "buyin": 25000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 54,
+          "playersLeft": 53,
           "currentDay": "2",
           "status": "active",
-          "rank": 14,
+          "rank": 16,
           "chips": 1640000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T04:18:18.848Z"
+          "updatedAt": "2026-06-18T04:24:47.976Z"
         }
       ]
     },
@@ -73,7 +73,7 @@
         "rank": 1,
         "chips": 5300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T04:18:18.848Z"
+        "updatedAt": "2026-06-18T04:24:47.977Z"
       },
       "eventHistory": [
         {
@@ -89,7 +89,7 @@
           "rank": 1,
           "chips": 5300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T04:18:18.848Z"
+          "updatedAt": "2026-06-18T04:24:47.977Z"
         }
       ]
     },
@@ -143,7 +143,7 @@
         "rank": 38,
         "chips": 340000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T04:18:18.850Z"
+        "updatedAt": "2026-06-18T04:24:47.979Z"
       },
       "eventHistory": [
         {
@@ -159,7 +159,7 @@
           "rank": 38,
           "chips": 340000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T04:18:18.850Z"
+          "updatedAt": "2026-06-18T04:24:47.979Z"
         }
       ]
     },
@@ -177,9 +177,9 @@
       "name": "John Riordan",
       "slug": "john-riordan",
       "isBonus": false,
-      "pts2026": 4,
+      "pts2026": 6,
       "salary": 12,
-      "cashes2026": 4,
+      "cashes2026": 5,
       "liveStatus": null,
       "eventHistory": []
     },
@@ -208,7 +208,7 @@
       "slug": "event-47-high-roller-plo",
       "name": "Event #47: $25,000 High Roller Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
-      "playersLeft": 54,
+      "playersLeft": 53,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
