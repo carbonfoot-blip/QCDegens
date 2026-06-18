@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T23:42:46.831Z",
+  "updatedAt": "2026-06-18T23:49:03.768Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -42,7 +42,7 @@
         "rank": 1,
         "chips": 9300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T23:42:46.828Z"
+        "updatedAt": "2026-06-18T23:49:03.765Z"
       },
       "eventHistory": [
         {
@@ -58,7 +58,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T23:42:46.828Z"
+          "updatedAt": "2026-06-18T23:49:03.765Z"
         }
       ]
     },
@@ -82,7 +82,7 @@
         "rank": 55,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T23:42:46.829Z"
+        "updatedAt": "2026-06-18T23:49:03.766Z"
       },
       "eventHistory": [
         {
@@ -98,7 +98,7 @@
           "rank": 55,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T23:42:46.829Z"
+          "updatedAt": "2026-06-18T23:49:03.766Z"
         }
       ]
     },
@@ -122,7 +122,7 @@
         "rank": 50,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T23:42:46.829Z"
+        "updatedAt": "2026-06-18T23:49:03.766Z"
       },
       "eventHistory": [
         {
@@ -138,7 +138,7 @@
           "rank": 50,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T23:42:46.829Z"
+          "updatedAt": "2026-06-18T23:49:03.766Z"
         }
       ]
     },
@@ -198,7 +198,7 @@
       "slug": "event-46-seniors-championship",
       "name": "Event #46: $1,000 Seniors No-Limit Hold’em Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-46-seniors-championship/chips.htm",
-      "playersLeft": 116,
+      "playersLeft": 87,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -216,7 +216,7 @@
       "slug": "event-49-freezeout",
       "name": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-49-freezeout/chips.htm",
-      "playersLeft": 12,
+      "playersLeft": 11,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
