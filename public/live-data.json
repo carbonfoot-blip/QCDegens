@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-18T23:30:09.230Z",
+  "updatedAt": "2026-06-18T23:36:28.346Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -42,7 +42,7 @@
         "rank": 1,
         "chips": 9300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T23:30:09.227Z"
+        "updatedAt": "2026-06-18T23:36:28.343Z"
       },
       "eventHistory": [
         {
@@ -58,7 +58,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T23:30:09.227Z"
+          "updatedAt": "2026-06-18T23:36:28.343Z"
         }
       ]
     },
@@ -82,7 +82,7 @@
         "rank": 54,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T23:30:09.228Z"
+        "updatedAt": "2026-06-18T23:36:28.343Z"
       },
       "eventHistory": [
         {
@@ -98,7 +98,7 @@
           "rank": 54,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T23:30:09.228Z"
+          "updatedAt": "2026-06-18T23:36:28.343Z"
         }
       ]
     },
@@ -122,7 +122,7 @@
         "rank": 49,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-18T23:30:09.228Z"
+        "updatedAt": "2026-06-18T23:36:28.344Z"
       },
       "eventHistory": [
         {
@@ -138,7 +138,7 @@
           "rank": 49,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-18T23:30:09.228Z"
+          "updatedAt": "2026-06-18T23:36:28.344Z"
         }
       ]
     },
@@ -216,7 +216,7 @@
       "slug": "event-49-freezeout",
       "name": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-49-freezeout/chips.htm",
-      "playersLeft": 14,
+      "playersLeft": 13,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
@@ -243,7 +243,7 @@
       "slug": "event-52-nine-game-mix",
       "name": "Event #52: $3,000 Nine Game Mix",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-52-nine-game-mix/chips.htm",
-      "playersLeft": 97,
+      "playersLeft": 93,
       "totalEntries": null,
       "buyin": 3000,
       "completed": false
