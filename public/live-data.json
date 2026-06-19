@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T07:41:38.095Z",
+  "updatedAt": "2026-06-19T07:47:57.575Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -43,7 +43,7 @@
         "rank": 12,
         "chips": 243500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T07:41:38.093Z"
+        "updatedAt": "2026-06-19T07:47:57.573Z"
       },
       "eventHistory": [
         {
@@ -59,7 +59,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T07:41:38.094Z"
+          "updatedAt": "2026-06-19T07:47:57.573Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -74,7 +74,7 @@
           "rank": 12,
           "chips": 243500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T07:41:38.093Z"
+          "updatedAt": "2026-06-19T07:47:57.573Z"
         }
       ]
     },
@@ -98,7 +98,7 @@
         "rank": 46,
         "chips": 74500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T07:41:38.094Z"
+        "updatedAt": "2026-06-19T07:47:57.574Z"
       },
       "eventHistory": [
         {
@@ -114,7 +114,7 @@
           "rank": 46,
           "chips": 74500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T07:41:38.094Z"
+          "updatedAt": "2026-06-19T07:47:57.574Z"
         }
       ]
     },
@@ -229,7 +229,7 @@
       "slug": "event-52-nine-game-mix",
       "name": "Event #52: $3,000 Nine Game Mix",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-52-nine-game-mix/chips.htm",
-      "playersLeft": 22,
+      "playersLeft": 21,
       "totalEntries": null,
       "buyin": 3000,
       "completed": false
@@ -238,7 +238,7 @@
       "slug": "event-53-five-card-plo",
       "name": "Event #53: $1,500 Five Card Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-53-five-card-plo/chips.htm",
-      "playersLeft": 124,
+      "playersLeft": 118,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
