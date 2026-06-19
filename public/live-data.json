@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T22:25:03.580Z",
+  "updatedAt": "2026-06-19T22:31:20.012Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -28,10 +28,10 @@
         "playersLeft": 33,
         "currentDay": "1",
         "status": "active",
-        "rank": 25,
+        "rank": 24,
         "chips": 280000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T22:25:03.577Z"
+        "updatedAt": "2026-06-19T22:31:20.010Z"
       },
       "eventHistory": [
         {
@@ -44,10 +44,10 @@
           "playersLeft": 33,
           "currentDay": "1",
           "status": "active",
-          "rank": 25,
+          "rank": 24,
           "chips": 280000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T22:25:03.577Z"
+          "updatedAt": "2026-06-19T22:31:20.010Z"
         }
       ]
     },
@@ -68,10 +68,10 @@
         "playersLeft": 64,
         "currentDay": "2",
         "status": "active",
-        "rank": 9,
-        "chips": 275000,
+        "rank": 13,
+        "chips": 235000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T22:25:03.578Z"
+        "updatedAt": "2026-06-19T22:31:20.010Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T22:25:03.578Z"
+          "updatedAt": "2026-06-19T22:31:20.010Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -99,10 +99,10 @@
           "playersLeft": 64,
           "currentDay": "2",
           "status": "active",
-          "rank": 9,
-          "chips": 275000,
+          "rank": 13,
+          "chips": 235000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T22:25:03.578Z"
+          "updatedAt": "2026-06-19T22:31:20.010Z"
         }
       ]
     },
@@ -123,10 +123,10 @@
         "playersLeft": 64,
         "currentDay": "2",
         "status": "active",
-        "rank": 48,
+        "rank": 47,
         "chips": 74500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T22:25:03.578Z"
+        "updatedAt": "2026-06-19T22:31:20.010Z"
       },
       "eventHistory": [
         {
@@ -139,10 +139,10 @@
           "playersLeft": 64,
           "currentDay": "2",
           "status": "active",
-          "rank": 48,
+          "rank": 47,
           "chips": 74500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T22:25:03.578Z"
+          "updatedAt": "2026-06-19T22:31:20.010Z"
         }
       ]
     },
@@ -221,7 +221,7 @@
       "slug": "event-47-high-roller-plo",
       "name": "Event #47: $25,000 High Roller Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
-      "playersLeft": 3,
+      "playersLeft": 2,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
