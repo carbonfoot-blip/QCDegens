@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T19:21:21.735Z",
+  "updatedAt": "2026-06-19T19:27:41.534Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -41,7 +41,7 @@
         "rank": 12,
         "chips": 243500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T19:21:21.731Z"
+        "updatedAt": "2026-06-19T19:27:41.532Z"
       },
       "eventHistory": [
         {
@@ -57,7 +57,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T19:21:21.731Z"
+          "updatedAt": "2026-06-19T19:27:41.532Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -72,7 +72,7 @@
           "rank": 12,
           "chips": 243500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T19:21:21.731Z"
+          "updatedAt": "2026-06-19T19:27:41.532Z"
         }
       ]
     },
@@ -96,7 +96,7 @@
         "rank": 46,
         "chips": 74500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T19:21:21.732Z"
+        "updatedAt": "2026-06-19T19:27:41.532Z"
       },
       "eventHistory": [
         {
@@ -112,7 +112,7 @@
           "rank": 46,
           "chips": 74500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T19:21:21.732Z"
+          "updatedAt": "2026-06-19T19:27:41.532Z"
         }
       ]
     },
@@ -182,7 +182,7 @@
       "slug": "event-46-seniors-championship",
       "name": "Event #46: $1,000 Seniors No-Limit Hold’em Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-46-seniors-championship/chips.htm",
-      "playersLeft": 19,
+      "playersLeft": 17,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -245,7 +245,7 @@
       "slug": "event-55-high-roller-plo",
       "name": "Event #55: $50,000 High Roller Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-55-high-roller-plo/chips.htm",
-      "playersLeft": 6,
+      "playersLeft": 9,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
