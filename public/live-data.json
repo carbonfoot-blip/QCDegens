@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T06:32:42.676Z",
+  "updatedAt": "2026-06-19T06:38:58.333Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -39,10 +39,10 @@
         "playersLeft": 69,
         "currentDay": "1",
         "status": "active",
-        "rank": 11,
+        "rank": 12,
         "chips": 243500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T06:32:42.674Z"
+        "updatedAt": "2026-06-19T06:38:58.331Z"
       },
       "eventHistory": [
         {
@@ -58,7 +58,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T06:32:42.674Z"
+          "updatedAt": "2026-06-19T06:38:58.331Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -70,10 +70,10 @@
           "playersLeft": 69,
           "currentDay": "1",
           "status": "active",
-          "rank": 11,
+          "rank": 12,
           "chips": 243500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T06:32:42.674Z"
+          "updatedAt": "2026-06-19T06:38:58.331Z"
         }
       ]
     },
@@ -94,10 +94,10 @@
         "playersLeft": 69,
         "currentDay": "1",
         "status": "active",
-        "rank": 111,
-        "chips": 37000,
+        "rank": 46,
+        "chips": 74500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T06:32:42.675Z"
+        "updatedAt": "2026-06-19T06:38:58.331Z"
       },
       "eventHistory": [
         {
@@ -110,10 +110,10 @@
           "playersLeft": 69,
           "currentDay": "1",
           "status": "active",
-          "rank": 111,
-          "chips": 37000,
+          "rank": 46,
+          "chips": 74500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T06:32:42.675Z"
+          "updatedAt": "2026-06-19T06:38:58.331Z"
         }
       ]
     },
@@ -124,38 +124,8 @@
       "pts2026": 17,
       "salary": 27,
       "cashes2026": 7,
-      "liveStatus": {
-        "eventSlug": "event-54-horse-championship",
-        "eventName": "Event #54: $10,000 H.O.R.S.E. Championship",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-54-horse-championship/chips.htm",
-        "buyin": 10000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 69,
-        "currentDay": "1",
-        "status": "active",
-        "rank": 92,
-        "chips": 60000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T06:32:42.675Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-54-horse-championship",
-          "eventName": "Event #54: $10,000 H.O.R.S.E. Championship",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-54-horse-championship/chips.htm",
-          "buyin": 10000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 69,
-          "currentDay": "1",
-          "status": "active",
-          "rank": 92,
-          "chips": 60000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T06:32:42.675Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Ben Lamb",
@@ -249,7 +219,7 @@
       "slug": "event-51-mystery-bounty",
       "name": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-51-mystery-bounty/chips.htm",
-      "playersLeft": 11,
+      "playersLeft": 10,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
@@ -258,7 +228,7 @@
       "slug": "event-52-nine-game-mix",
       "name": "Event #52: $3,000 Nine Game Mix",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-52-nine-game-mix/chips.htm",
-      "playersLeft": 30,
+      "playersLeft": 29,
       "totalEntries": null,
       "buyin": 3000,
       "completed": false
