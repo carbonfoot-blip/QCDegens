@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T05:55:07.336Z",
+  "updatedAt": "2026-06-19T06:01:22.836Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -42,7 +42,7 @@
         "rank": 11,
         "chips": 243500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T05:55:07.334Z"
+        "updatedAt": "2026-06-19T06:01:22.834Z"
       },
       "eventHistory": [
         {
@@ -58,7 +58,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T05:55:07.334Z"
+          "updatedAt": "2026-06-19T06:01:22.834Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -73,7 +73,7 @@
           "rank": 11,
           "chips": 243500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T05:55:07.334Z"
+          "updatedAt": "2026-06-19T06:01:22.834Z"
         }
       ]
     },
@@ -94,10 +94,10 @@
         "playersLeft": 69,
         "currentDay": "1",
         "status": "active",
-        "rank": 120,
+        "rank": 111,
         "chips": 37000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T05:55:07.335Z"
+        "updatedAt": "2026-06-19T06:01:22.834Z"
       },
       "eventHistory": [
         {
@@ -110,10 +110,10 @@
           "playersLeft": 69,
           "currentDay": "1",
           "status": "active",
-          "rank": 120,
+          "rank": 111,
           "chips": 37000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T05:55:07.335Z"
+          "updatedAt": "2026-06-19T06:01:22.834Z"
         }
       ]
     },
@@ -134,10 +134,10 @@
         "playersLeft": 69,
         "currentDay": "1",
         "status": "active",
-        "rank": 99,
+        "rank": 92,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T05:55:07.335Z"
+        "updatedAt": "2026-06-19T06:01:22.835Z"
       },
       "eventHistory": [
         {
@@ -150,10 +150,10 @@
           "playersLeft": 69,
           "currentDay": "1",
           "status": "active",
-          "rank": 99,
+          "rank": 92,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T05:55:07.335Z"
+          "updatedAt": "2026-06-19T06:01:22.835Z"
         }
       ]
     },
@@ -240,7 +240,7 @@
       "slug": "event-50-millionaire-maker",
       "name": "Event #50: $1,500 Millionaire Maker",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-50-millionaire-maker/chips.htm",
-      "playersLeft": 1471,
+      "playersLeft": 693,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -249,7 +249,7 @@
       "slug": "event-51-mystery-bounty",
       "name": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-51-mystery-bounty/chips.htm",
-      "playersLeft": 15,
+      "playersLeft": 14,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
