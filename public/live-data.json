@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T13:53:37.455Z",
+  "updatedAt": "2026-06-19T14:00:04.074Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -41,7 +41,7 @@
         "rank": 12,
         "chips": 243500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T13:53:37.452Z"
+        "updatedAt": "2026-06-19T14:00:04.072Z"
       },
       "eventHistory": [
         {
@@ -57,7 +57,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T13:53:37.452Z"
+          "updatedAt": "2026-06-19T14:00:04.072Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -72,7 +72,7 @@
           "rank": 12,
           "chips": 243500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T13:53:37.452Z"
+          "updatedAt": "2026-06-19T14:00:04.072Z"
         }
       ]
     },
@@ -96,7 +96,7 @@
         "rank": 46,
         "chips": 74500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T13:53:37.453Z"
+        "updatedAt": "2026-06-19T14:00:04.072Z"
       },
       "eventHistory": [
         {
@@ -112,7 +112,7 @@
           "rank": 46,
           "chips": 74500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T13:53:37.453Z"
+          "updatedAt": "2026-06-19T14:00:04.072Z"
         }
       ]
     },
