@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T03:17:45.327Z",
+  "updatedAt": "2026-06-19T03:24:05.197Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -32,7 +32,7 @@
         "rank": 110,
         "chips": 18400,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T03:17:45.324Z"
+        "updatedAt": "2026-06-19T03:24:05.195Z"
       },
       "eventHistory": [
         {
@@ -48,7 +48,7 @@
           "rank": 110,
           "chips": 18400,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T03:17:45.324Z"
+          "updatedAt": "2026-06-19T03:24:05.195Z"
         }
       ]
     },
@@ -72,7 +72,7 @@
         "rank": 29,
         "chips": 90800,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T03:17:45.325Z"
+        "updatedAt": "2026-06-19T03:24:05.195Z"
       },
       "eventHistory": [
         {
@@ -88,7 +88,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T03:17:45.325Z"
+          "updatedAt": "2026-06-19T03:24:05.195Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -103,7 +103,7 @@
           "rank": 29,
           "chips": 90800,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T03:17:45.325Z"
+          "updatedAt": "2026-06-19T03:24:05.195Z"
         }
       ]
     },
@@ -127,7 +127,7 @@
         "rank": 107,
         "chips": 40500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T03:17:45.325Z"
+        "updatedAt": "2026-06-19T03:24:05.195Z"
       },
       "eventHistory": [
         {
@@ -143,7 +143,7 @@
           "rank": 107,
           "chips": 40500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T03:17:45.325Z"
+          "updatedAt": "2026-06-19T03:24:05.195Z"
         }
       ]
     },
@@ -164,10 +164,10 @@
         "playersLeft": 88,
         "currentDay": "1",
         "status": "active",
-        "rank": 84,
+        "rank": 83,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T03:17:45.326Z"
+        "updatedAt": "2026-06-19T03:24:05.196Z"
       },
       "eventHistory": [
         {
@@ -180,10 +180,10 @@
           "playersLeft": 88,
           "currentDay": "1",
           "status": "active",
-          "rank": 84,
+          "rank": 83,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T03:17:45.326Z"
+          "updatedAt": "2026-06-19T03:24:05.196Z"
         }
       ]
     },
@@ -247,7 +247,7 @@
         "rank": 114,
         "chips": 38500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T03:17:45.326Z"
+        "updatedAt": "2026-06-19T03:24:05.197Z"
       },
       "eventHistory": [
         {
@@ -263,7 +263,7 @@
           "rank": 114,
           "chips": 38500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T03:17:45.326Z"
+          "updatedAt": "2026-06-19T03:24:05.197Z"
         }
       ]
     }
@@ -300,7 +300,7 @@
       "slug": "event-50-millionaire-maker",
       "name": "Event #50: $1,500 Millionaire Maker",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-50-millionaire-maker/chips.htm",
-      "playersLeft": 712,
+      "playersLeft": 1471,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -309,7 +309,7 @@
       "slug": "event-51-mystery-bounty",
       "name": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-51-mystery-bounty/chips.htm",
-      "playersLeft": 25,
+      "playersLeft": 24,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
@@ -327,7 +327,7 @@
       "slug": "event-53-five-card-plo",
       "name": "Event #53: $1,500 Five Card Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-53-five-card-plo/chips.htm",
-      "playersLeft": 436,
+      "playersLeft": 353,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
