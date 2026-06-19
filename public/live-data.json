@@ -1,9 +1,8 @@
 {
-  "updatedAt": "2026-06-19T18:55:54.296Z",
+  "updatedAt": "2026-06-19T19:02:21.714Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
-    "event-55-high-roller-plo",
     "event-49-freezeout",
     "event-48-razz-championship",
     "event-45-mixed-omaha-hi-lo-seven-card-stud",
@@ -37,12 +36,12 @@
         "totalEntries": null,
         "prizePool": null,
         "playersLeft": 69,
-        "currentDay": "1",
+        "currentDay": "2",
         "status": "active",
         "rank": 12,
         "chips": 243500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T18:55:54.293Z"
+        "updatedAt": "2026-06-19T19:02:21.710Z"
       },
       "eventHistory": [
         {
@@ -58,7 +57,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T18:55:54.293Z"
+          "updatedAt": "2026-06-19T19:02:21.711Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -68,12 +67,12 @@
           "totalEntries": null,
           "prizePool": null,
           "playersLeft": 69,
-          "currentDay": "1",
+          "currentDay": "2",
           "status": "active",
           "rank": 12,
           "chips": 243500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T18:55:54.293Z"
+          "updatedAt": "2026-06-19T19:02:21.710Z"
         }
       ]
     },
@@ -92,12 +91,12 @@
         "totalEntries": null,
         "prizePool": null,
         "playersLeft": 69,
-        "currentDay": "1",
+        "currentDay": "2",
         "status": "active",
         "rank": 46,
         "chips": 74500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T18:55:54.294Z"
+        "updatedAt": "2026-06-19T19:02:21.711Z"
       },
       "eventHistory": [
         {
@@ -108,12 +107,12 @@
           "totalEntries": null,
           "prizePool": null,
           "playersLeft": 69,
-          "currentDay": "1",
+          "currentDay": "2",
           "status": "active",
           "rank": 46,
           "chips": 74500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T18:55:54.294Z"
+          "updatedAt": "2026-06-19T19:02:21.711Z"
         }
       ]
     },
@@ -183,7 +182,7 @@
       "slug": "event-46-seniors-championship",
       "name": "Event #46: $1,000 Seniors No-Limit Hold’em Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-46-seniors-championship/chips.htm",
-      "playersLeft": 21,
+      "playersLeft": 19,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -246,10 +245,10 @@
       "slug": "event-55-high-roller-plo",
       "name": "Event #55: $50,000 High Roller Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-55-high-roller-plo/chips.htm",
-      "playersLeft": 1,
+      "playersLeft": 4,
       "totalEntries": null,
       "buyin": 50000,
-      "completed": true
+      "completed": false
     },
     {
       "slug": "event-56-nlh",
