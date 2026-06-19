@@ -1,8 +1,9 @@
 {
-  "updatedAt": "2026-06-19T06:45:12.703Z",
+  "updatedAt": "2026-06-19T06:51:31.250Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
+    "event-49-freezeout",
     "event-48-razz-championship",
     "event-45-mixed-omaha-hi-lo-seven-card-stud",
     "event-44-super-turbo-bounty",
@@ -42,7 +43,7 @@
         "rank": 12,
         "chips": 243500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T06:45:12.701Z"
+        "updatedAt": "2026-06-19T06:51:31.247Z"
       },
       "eventHistory": [
         {
@@ -58,7 +59,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T06:45:12.702Z"
+          "updatedAt": "2026-06-19T06:51:31.248Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -73,7 +74,7 @@
           "rank": 12,
           "chips": 243500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T06:45:12.701Z"
+          "updatedAt": "2026-06-19T06:51:31.247Z"
         }
       ]
     },
@@ -97,7 +98,7 @@
         "rank": 46,
         "chips": 74500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T06:45:12.702Z"
+        "updatedAt": "2026-06-19T06:51:31.248Z"
       },
       "eventHistory": [
         {
@@ -113,7 +114,7 @@
           "rank": 46,
           "chips": 74500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T06:45:12.702Z"
+          "updatedAt": "2026-06-19T06:51:31.248Z"
         }
       ]
     },
@@ -201,10 +202,10 @@
       "slug": "event-49-freezeout",
       "name": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-49-freezeout/chips.htm",
-      "playersLeft": 2,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 2500,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-50-millionaire-maker",
