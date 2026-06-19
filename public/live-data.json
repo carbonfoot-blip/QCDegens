@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T03:55:46.886Z",
+  "updatedAt": "2026-06-19T04:02:10.424Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -32,7 +32,7 @@
         "rank": 121,
         "chips": 18400,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T03:55:46.883Z"
+        "updatedAt": "2026-06-19T04:02:10.421Z"
       },
       "eventHistory": [
         {
@@ -48,7 +48,7 @@
           "rank": 121,
           "chips": 18400,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T03:55:46.883Z"
+          "updatedAt": "2026-06-19T04:02:10.421Z"
         }
       ]
     },
@@ -72,7 +72,7 @@
         "rank": 35,
         "chips": 105000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T03:55:46.884Z"
+        "updatedAt": "2026-06-19T04:02:10.422Z"
       },
       "eventHistory": [
         {
@@ -88,7 +88,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T03:55:46.884Z"
+          "updatedAt": "2026-06-19T04:02:10.422Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -103,7 +103,7 @@
           "rank": 35,
           "chips": 105000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T03:55:46.884Z"
+          "updatedAt": "2026-06-19T04:02:10.422Z"
         }
       ]
     },
@@ -124,10 +124,10 @@
         "playersLeft": 90,
         "currentDay": "1",
         "status": "active",
-        "rank": 119,
+        "rank": 118,
         "chips": 40500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T03:55:46.884Z"
+        "updatedAt": "2026-06-19T04:02:10.422Z"
       },
       "eventHistory": [
         {
@@ -140,10 +140,10 @@
           "playersLeft": 90,
           "currentDay": "1",
           "status": "active",
-          "rank": 119,
+          "rank": 118,
           "chips": 40500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T03:55:46.884Z"
+          "updatedAt": "2026-06-19T04:02:10.422Z"
         }
       ]
     },
@@ -164,10 +164,10 @@
         "playersLeft": 90,
         "currentDay": "1",
         "status": "active",
-        "rank": 95,
+        "rank": 94,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T03:55:46.885Z"
+        "updatedAt": "2026-06-19T04:02:10.423Z"
       },
       "eventHistory": [
         {
@@ -180,10 +180,10 @@
           "playersLeft": 90,
           "currentDay": "1",
           "status": "active",
-          "rank": 95,
+          "rank": 94,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T03:55:46.885Z"
+          "updatedAt": "2026-06-19T04:02:10.423Z"
         }
       ]
     },
@@ -247,7 +247,7 @@
         "rank": 125,
         "chips": 38500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T03:55:46.885Z"
+        "updatedAt": "2026-06-19T04:02:10.424Z"
       },
       "eventHistory": [
         {
@@ -263,7 +263,7 @@
           "rank": 125,
           "chips": 38500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T03:55:46.885Z"
+          "updatedAt": "2026-06-19T04:02:10.424Z"
         }
       ]
     }
@@ -318,7 +318,7 @@
       "slug": "event-52-nine-game-mix",
       "name": "Event #52: $3,000 Nine Game Mix",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-52-nine-game-mix/chips.htm",
-      "playersLeft": 56,
+      "playersLeft": 53,
       "totalEntries": null,
       "buyin": 3000,
       "completed": false
