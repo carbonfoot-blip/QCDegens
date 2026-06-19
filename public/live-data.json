@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T21:47:15.231Z",
+  "updatedAt": "2026-06-19T21:53:37.764Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -18,8 +18,38 @@
       "pts2026": 77,
       "salary": 116,
       "cashes2026": 5,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-55-high-roller-plo",
+        "eventName": "Event #55: $50,000 High Roller Pot-Limit Omaha",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-55-high-roller-plo/chips.htm",
+        "buyin": 50000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 27,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 11,
+        "chips": 300000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-19T21:53:37.762Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-55-high-roller-plo",
+          "eventName": "Event #55: $50,000 High Roller Pot-Limit Omaha",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-55-high-roller-plo/chips.htm",
+          "buyin": 50000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 27,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 11,
+          "chips": 300000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-19T21:53:37.762Z"
+        }
+      ]
     },
     {
       "name": "Calvin Anderson",
@@ -41,7 +71,7 @@
         "rank": 10,
         "chips": 275000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T21:47:15.229Z"
+        "updatedAt": "2026-06-19T21:53:37.762Z"
       },
       "eventHistory": [
         {
@@ -57,7 +87,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T21:47:15.229Z"
+          "updatedAt": "2026-06-19T21:53:37.762Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -72,7 +102,7 @@
           "rank": 10,
           "chips": 275000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T21:47:15.229Z"
+          "updatedAt": "2026-06-19T21:53:37.762Z"
         }
       ]
     },
@@ -96,7 +126,7 @@
         "rank": 47,
         "chips": 74500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T21:47:15.229Z"
+        "updatedAt": "2026-06-19T21:53:37.762Z"
       },
       "eventHistory": [
         {
@@ -112,7 +142,7 @@
           "rank": 47,
           "chips": 74500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T21:47:15.229Z"
+          "updatedAt": "2026-06-19T21:53:37.762Z"
         }
       ]
     },
@@ -245,7 +275,7 @@
       "slug": "event-55-high-roller-plo",
       "name": "Event #55: $50,000 High Roller Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-55-high-roller-plo/chips.htm",
-      "playersLeft": 22,
+      "playersLeft": 27,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
@@ -254,7 +284,7 @@
       "slug": "event-56-nlh",
       "name": "Event #56: $3,000 6-Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-56-nlh/chips.htm",
-      "playersLeft": null,
+      "playersLeft": 329,
       "totalEntries": null,
       "buyin": 3000,
       "completed": false
