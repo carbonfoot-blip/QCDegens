@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T23:33:38.079Z",
+  "updatedAt": "2026-06-19T23:39:54.363Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 4,
         "chips": 550000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T23:33:38.076Z"
+        "updatedAt": "2026-06-19T23:39:54.361Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 4,
           "chips": 550000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T23:33:38.076Z"
+          "updatedAt": "2026-06-19T23:39:54.361Z"
         }
       ]
     },
@@ -68,10 +68,10 @@
         "playersLeft": 53,
         "currentDay": "2",
         "status": "active",
-        "rank": 3,
-        "chips": 500000,
+        "rank": 5,
+        "chips": 392000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T23:33:38.076Z"
+        "updatedAt": "2026-06-19T23:39:54.361Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T23:33:38.076Z"
+          "updatedAt": "2026-06-19T23:39:54.361Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -99,10 +99,10 @@
           "playersLeft": 53,
           "currentDay": "2",
           "status": "active",
-          "rank": 3,
-          "chips": 500000,
+          "rank": 5,
+          "chips": 392000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T23:33:38.076Z"
+          "updatedAt": "2026-06-19T23:39:54.361Z"
         }
       ]
     },
@@ -123,10 +123,10 @@
         "playersLeft": 53,
         "currentDay": "2",
         "status": "active",
-        "rank": 48,
-        "chips": 74500,
+        "rank": 40,
+        "chips": 120000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T23:33:38.076Z"
+        "updatedAt": "2026-06-19T23:39:54.362Z"
       },
       "eventHistory": [
         {
@@ -139,10 +139,10 @@
           "playersLeft": 53,
           "currentDay": "2",
           "status": "active",
-          "rank": 48,
-          "chips": 74500,
+          "rank": 40,
+          "chips": 120000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T23:33:38.076Z"
+          "updatedAt": "2026-06-19T23:39:54.362Z"
         }
       ]
     },
