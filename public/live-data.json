@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T21:34:30.632Z",
+  "updatedAt": "2026-06-19T21:40:53.417Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -38,10 +38,10 @@
         "playersLeft": 86,
         "currentDay": "2",
         "status": "active",
-        "rank": 25,
+        "rank": 26,
         "chips": 161000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T21:34:30.630Z"
+        "updatedAt": "2026-06-19T21:40:53.414Z"
       },
       "eventHistory": [
         {
@@ -57,7 +57,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T21:34:30.630Z"
+          "updatedAt": "2026-06-19T21:40:53.414Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -69,10 +69,10 @@
           "playersLeft": 86,
           "currentDay": "2",
           "status": "active",
-          "rank": 25,
+          "rank": 26,
           "chips": 161000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T21:34:30.630Z"
+          "updatedAt": "2026-06-19T21:40:53.414Z"
         }
       ]
     },
@@ -93,10 +93,10 @@
         "playersLeft": 86,
         "currentDay": "2",
         "status": "active",
-        "rank": 48,
+        "rank": 47,
         "chips": 74500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T21:34:30.630Z"
+        "updatedAt": "2026-06-19T21:40:53.414Z"
       },
       "eventHistory": [
         {
@@ -109,10 +109,10 @@
           "playersLeft": 86,
           "currentDay": "2",
           "status": "active",
-          "rank": 48,
+          "rank": 47,
           "chips": 74500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T21:34:30.630Z"
+          "updatedAt": "2026-06-19T21:40:53.414Z"
         }
       ]
     },
@@ -227,7 +227,7 @@
       "slug": "event-53-five-card-plo",
       "name": "Event #53: $1,500 Five Card Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-53-five-card-plo/chips.htm",
-      "playersLeft": 43,
+      "playersLeft": 42,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
