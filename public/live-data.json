@@ -1,8 +1,9 @@
 {
-  "updatedAt": "2026-06-19T18:49:28.145Z",
+  "updatedAt": "2026-06-19T18:55:54.296Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
+    "event-55-high-roller-plo",
     "event-49-freezeout",
     "event-48-razz-championship",
     "event-45-mixed-omaha-hi-lo-seven-card-stud",
@@ -41,7 +42,7 @@
         "rank": 12,
         "chips": 243500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T18:49:28.142Z"
+        "updatedAt": "2026-06-19T18:55:54.293Z"
       },
       "eventHistory": [
         {
@@ -57,7 +58,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T18:49:28.142Z"
+          "updatedAt": "2026-06-19T18:55:54.293Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -72,7 +73,7 @@
           "rank": 12,
           "chips": 243500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T18:49:28.142Z"
+          "updatedAt": "2026-06-19T18:55:54.293Z"
         }
       ]
     },
@@ -96,7 +97,7 @@
         "rank": 46,
         "chips": 74500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T18:49:28.142Z"
+        "updatedAt": "2026-06-19T18:55:54.294Z"
       },
       "eventHistory": [
         {
@@ -112,7 +113,7 @@
           "rank": 46,
           "chips": 74500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T18:49:28.142Z"
+          "updatedAt": "2026-06-19T18:55:54.294Z"
         }
       ]
     },
@@ -182,7 +183,7 @@
       "slug": "event-46-seniors-championship",
       "name": "Event #46: $1,000 Seniors No-Limit Hold’em Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-46-seniors-championship/chips.htm",
-      "playersLeft": 22,
+      "playersLeft": 21,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -245,10 +246,10 @@
       "slug": "event-55-high-roller-plo",
       "name": "Event #55: $50,000 High Roller Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-55-high-roller-plo/chips.htm",
-      "playersLeft": null,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 50000,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-56-nlh",
