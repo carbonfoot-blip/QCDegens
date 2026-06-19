@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-19T22:18:47.291Z",
+  "updatedAt": "2026-06-19T22:25:03.580Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -28,10 +28,10 @@
         "playersLeft": 33,
         "currentDay": "1",
         "status": "active",
-        "rank": 17,
-        "chips": 300000,
+        "rank": 25,
+        "chips": 280000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T22:18:47.288Z"
+        "updatedAt": "2026-06-19T22:25:03.577Z"
       },
       "eventHistory": [
         {
@@ -44,10 +44,10 @@
           "playersLeft": 33,
           "currentDay": "1",
           "status": "active",
-          "rank": 17,
-          "chips": 300000,
+          "rank": 25,
+          "chips": 280000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T22:18:47.288Z"
+          "updatedAt": "2026-06-19T22:25:03.577Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 9,
         "chips": 275000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T22:18:47.289Z"
+        "updatedAt": "2026-06-19T22:25:03.578Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T22:18:47.289Z"
+          "updatedAt": "2026-06-19T22:25:03.578Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -102,7 +102,7 @@
           "rank": 9,
           "chips": 275000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T22:18:47.289Z"
+          "updatedAt": "2026-06-19T22:25:03.578Z"
         }
       ]
     },
@@ -126,7 +126,7 @@
         "rank": 48,
         "chips": 74500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-19T22:18:47.289Z"
+        "updatedAt": "2026-06-19T22:25:03.578Z"
       },
       "eventHistory": [
         {
@@ -142,7 +142,7 @@
           "rank": 48,
           "chips": 74500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-19T22:18:47.289Z"
+          "updatedAt": "2026-06-19T22:25:03.578Z"
         }
       ]
     },
