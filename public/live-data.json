@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T12:53:24.297Z",
+  "updatedAt": "2026-06-20T12:59:48.910Z",
   "teamScore": 363,
   "completedEvents": [
     "event-3-industry-employees",
@@ -10,8 +10,7 @@
     "event-49-freezeout",
     "event-48-razz-championship",
     "event-45-mixed-omaha-hi-lo-seven-card-stud",
-    "event-44-super-turbo-bounty",
-    "event-43-deepstack"
+    "event-44-super-turbo-bounty"
   ],
   "players": [
     {
@@ -34,7 +33,7 @@
         "rank": 2,
         "chips": 1750000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T12:53:24.296Z"
+        "updatedAt": "2026-06-20T12:59:48.909Z"
       },
       "eventHistory": [
         {
@@ -50,7 +49,7 @@
           "rank": 2,
           "chips": 1750000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T12:53:24.296Z"
+          "updatedAt": "2026-06-20T12:59:48.909Z"
         }
       ]
     },
@@ -74,7 +73,7 @@
         "rank": 1,
         "chips": 2200000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T12:53:24.296Z"
+        "updatedAt": "2026-06-20T12:59:48.909Z"
       },
       "eventHistory": [
         {
@@ -90,7 +89,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T12:53:24.296Z"
+          "updatedAt": "2026-06-20T12:59:48.909Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -105,7 +104,7 @@
           "rank": 1,
           "chips": 2200000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T12:53:24.296Z"
+          "updatedAt": "2026-06-20T12:59:48.909Z"
         }
       ]
     },
@@ -272,6 +271,15 @@
       "completed": false
     },
     {
+      "slug": "event-58-limit-2-7-lowball-triple-draw",
+      "name": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-58-limit-2-7-lowball-triple-draw/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": false
+    },
+    {
       "slug": "event-49-freezeout",
       "name": "Event #49: $2,500 Freezeout No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-49-freezeout/chips.htm",
@@ -305,15 +313,6 @@
       "playersLeft": 1,
       "totalEntries": null,
       "buyin": 10000,
-      "completed": true
-    },
-    {
-      "slug": "event-43-deepstack",
-      "name": "Event #43: $800 8-Handed Deepstack No-Limit",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-43-deepstack/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 800,
       "completed": true
     }
   ]
