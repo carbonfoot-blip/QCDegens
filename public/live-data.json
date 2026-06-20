@@ -1,11 +1,12 @@
 {
-  "updatedAt": "2026-06-20T09:08:22.831Z",
+  "updatedAt": "2026-06-20T09:14:36.020Z",
   "teamScore": 363,
   "completedEvents": [
     "event-3-industry-employees",
     "event-46-seniors-championship",
     "event-47-high-roller-plo",
     "event-51-mystery-bounty",
+    "event-52-nine-game-mix",
     "event-49-freezeout",
     "event-48-razz-championship",
     "event-45-mixed-omaha-hi-lo-seven-card-stud",
@@ -34,7 +35,7 @@
         "rank": 2,
         "chips": 1750000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T09:08:22.830Z"
+        "updatedAt": "2026-06-20T09:14:36.018Z"
       },
       "eventHistory": [
         {
@@ -50,7 +51,7 @@
           "rank": 2,
           "chips": 1750000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T09:08:22.830Z"
+          "updatedAt": "2026-06-20T09:14:36.018Z"
         }
       ]
     },
@@ -74,7 +75,7 @@
         "rank": 1,
         "chips": 2200000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T09:08:22.830Z"
+        "updatedAt": "2026-06-20T09:14:36.019Z"
       },
       "eventHistory": [
         {
@@ -90,7 +91,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T09:08:22.830Z"
+          "updatedAt": "2026-06-20T09:14:36.019Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -105,7 +106,7 @@
           "rank": 1,
           "chips": 2200000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T09:08:22.830Z"
+          "updatedAt": "2026-06-20T09:14:36.019Z"
         }
       ]
     },
@@ -221,10 +222,10 @@
       "slug": "event-52-nine-game-mix",
       "name": "Event #52: $3,000 Nine Game Mix",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-52-nine-game-mix/chips.htm",
-      "playersLeft": 2,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 3000,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-53-five-card-plo",
