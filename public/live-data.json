@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T21:36:25.250Z",
+  "updatedAt": "2026-06-20T21:42:42.872Z",
   "teamScore": 363,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 1,
         "chips": 2275000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T21:36:25.247Z"
+        "updatedAt": "2026-06-20T21:42:42.870Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 1,
           "chips": 2275000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:36:25.247Z"
+          "updatedAt": "2026-06-20T21:42:42.870Z"
         }
       ]
     },
@@ -71,9 +71,9 @@
         "currentDay": "3",
         "status": "active",
         "rank": 2,
-        "chips": 1700000,
+        "chips": 2500000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T21:36:25.248Z"
+        "updatedAt": "2026-06-20T21:42:42.870Z"
       },
       "eventHistory": [
         {
@@ -89,7 +89,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:36:25.248Z"
+          "updatedAt": "2026-06-20T21:42:42.870Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -102,9 +102,9 @@
           "currentDay": "3",
           "status": "active",
           "rank": 2,
-          "chips": 1700000,
+          "chips": 2500000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:36:25.248Z"
+          "updatedAt": "2026-06-20T21:42:42.870Z"
         }
       ]
     },
@@ -178,7 +178,7 @@
         "rank": 46,
         "chips": 300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T21:36:25.249Z"
+        "updatedAt": "2026-06-20T21:42:42.871Z"
       },
       "eventHistory": [
         {
@@ -194,7 +194,7 @@
           "rank": 46,
           "chips": 300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:36:25.249Z"
+          "updatedAt": "2026-06-20T21:42:42.871Z"
         }
       ]
     },
