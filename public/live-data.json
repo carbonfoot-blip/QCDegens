@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T16:05:47.719Z",
+  "updatedAt": "2026-06-20T16:12:12.319Z",
   "teamScore": 363,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 2,
         "chips": 1750000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T16:05:47.717Z"
+        "updatedAt": "2026-06-20T16:12:12.316Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 2,
           "chips": 1750000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T16:05:47.717Z"
+          "updatedAt": "2026-06-20T16:12:12.316Z"
         }
       ]
     },
@@ -73,7 +73,7 @@
         "rank": 1,
         "chips": 2200000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T16:05:47.718Z"
+        "updatedAt": "2026-06-20T16:12:12.316Z"
       },
       "eventHistory": [
         {
@@ -89,7 +89,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T16:05:47.718Z"
+          "updatedAt": "2026-06-20T16:12:12.316Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -104,7 +104,7 @@
           "rank": 1,
           "chips": 2200000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T16:05:47.718Z"
+          "updatedAt": "2026-06-20T16:12:12.316Z"
         }
       ]
     },
@@ -184,7 +184,7 @@
       "slug": "event-50-millionaire-maker",
       "name": "Event #50: $1,500 Millionaire Maker",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-50-millionaire-maker/chips.htm",
-      "playersLeft": 935,
+      "playersLeft": 1235,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
