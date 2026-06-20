@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T21:04:33.010Z",
+  "updatedAt": "2026-06-20T21:10:55.463Z",
   "teamScore": 363,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 2,
         "chips": 1750000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T21:04:33.008Z"
+        "updatedAt": "2026-06-20T21:10:55.460Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 2,
           "chips": 1750000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:04:33.008Z"
+          "updatedAt": "2026-06-20T21:10:55.460Z"
         }
       ]
     },
@@ -73,7 +73,7 @@
         "rank": 2,
         "chips": 1950000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T21:04:33.008Z"
+        "updatedAt": "2026-06-20T21:10:55.460Z"
       },
       "eventHistory": [
         {
@@ -89,7 +89,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:04:33.008Z"
+          "updatedAt": "2026-06-20T21:10:55.460Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -104,7 +104,7 @@
           "rank": 2,
           "chips": 1950000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:04:33.008Z"
+          "updatedAt": "2026-06-20T21:10:55.460Z"
         }
       ]
     },
@@ -175,10 +175,10 @@
         "playersLeft": 55,
         "currentDay": "2",
         "status": "active",
-        "rank": 43,
+        "rank": 44,
         "chips": 300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T21:04:33.009Z"
+        "updatedAt": "2026-06-20T21:10:55.462Z"
       },
       "eventHistory": [
         {
@@ -191,10 +191,10 @@
           "playersLeft": 55,
           "currentDay": "2",
           "status": "active",
-          "rank": 43,
+          "rank": 44,
           "chips": 300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:04:33.009Z"
+          "updatedAt": "2026-06-20T21:10:55.462Z"
         }
       ]
     },
