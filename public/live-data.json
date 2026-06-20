@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T18:07:48.287Z",
+  "updatedAt": "2026-06-20T18:14:11.000Z",
   "teamScore": 363,
   "completedEvents": [
     "event-3-industry-employees",
@@ -28,12 +28,12 @@
         "totalEntries": null,
         "prizePool": null,
         "playersLeft": 30,
-        "currentDay": "1",
+        "currentDay": "2",
         "status": "active",
         "rank": 2,
         "chips": 1750000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T18:07:48.283Z"
+        "updatedAt": "2026-06-20T18:14:10.998Z"
       },
       "eventHistory": [
         {
@@ -44,12 +44,12 @@
           "totalEntries": null,
           "prizePool": null,
           "playersLeft": 30,
-          "currentDay": "1",
+          "currentDay": "2",
           "status": "active",
           "rank": 2,
           "chips": 1750000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T18:07:48.283Z"
+          "updatedAt": "2026-06-20T18:14:10.998Z"
         }
       ]
     },
@@ -73,7 +73,7 @@
         "rank": 1,
         "chips": 2200000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T18:07:48.284Z"
+        "updatedAt": "2026-06-20T18:14:10.998Z"
       },
       "eventHistory": [
         {
@@ -89,7 +89,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T18:07:48.284Z"
+          "updatedAt": "2026-06-20T18:14:10.998Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -104,7 +104,7 @@
           "rank": 1,
           "chips": 2200000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T18:07:48.284Z"
+          "updatedAt": "2026-06-20T18:14:10.998Z"
         }
       ]
     },
