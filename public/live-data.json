@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-20T08:37:17.155Z",
-  "teamScore": 362,
+  "updatedAt": "2026-06-20T08:43:30.144Z",
+  "teamScore": 363,
   "completedEvents": [
     "event-3-industry-employees",
     "event-46-seniors-championship",
@@ -34,7 +34,7 @@
         "rank": 2,
         "chips": 1750000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T08:37:17.153Z"
+        "updatedAt": "2026-06-20T08:43:30.142Z"
       },
       "eventHistory": [
         {
@@ -50,7 +50,7 @@
           "rank": 2,
           "chips": 1750000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T08:37:17.153Z"
+          "updatedAt": "2026-06-20T08:43:30.142Z"
         }
       ]
     },
@@ -74,7 +74,7 @@
         "rank": 1,
         "chips": 2200000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T08:37:17.154Z"
+        "updatedAt": "2026-06-20T08:43:30.143Z"
       },
       "eventHistory": [
         {
@@ -90,7 +90,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T08:37:17.154Z"
+          "updatedAt": "2026-06-20T08:43:30.143Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -105,7 +105,7 @@
           "rank": 1,
           "chips": 2200000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T08:37:17.154Z"
+          "updatedAt": "2026-06-20T08:43:30.143Z"
         }
       ]
     },
@@ -163,9 +163,9 @@
       "name": "John Riordan",
       "slug": "john-riordan",
       "isBonus": false,
-      "pts2026": 6,
+      "pts2026": 7,
       "salary": 12,
-      "cashes2026": 5,
+      "cashes2026": 6,
       "liveStatus": null,
       "eventHistory": []
     },
