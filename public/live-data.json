@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T21:30:05.803Z",
+  "updatedAt": "2026-06-20T21:36:25.250Z",
   "teamScore": 363,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 1,
         "chips": 2275000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T21:30:05.800Z"
+        "updatedAt": "2026-06-20T21:36:25.247Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 1,
           "chips": 2275000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:30:05.800Z"
+          "updatedAt": "2026-06-20T21:36:25.247Z"
         }
       ]
     },
@@ -71,9 +71,9 @@
         "currentDay": "3",
         "status": "active",
         "rank": 2,
-        "chips": 1950000,
+        "chips": 1700000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T21:30:05.800Z"
+        "updatedAt": "2026-06-20T21:36:25.248Z"
       },
       "eventHistory": [
         {
@@ -89,7 +89,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:30:05.801Z"
+          "updatedAt": "2026-06-20T21:36:25.248Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -102,9 +102,9 @@
           "currentDay": "3",
           "status": "active",
           "rank": 2,
-          "chips": 1950000,
+          "chips": 1700000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:30:05.800Z"
+          "updatedAt": "2026-06-20T21:36:25.248Z"
         }
       ]
     },
@@ -178,7 +178,7 @@
         "rank": 46,
         "chips": 300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T21:30:05.801Z"
+        "updatedAt": "2026-06-20T21:36:25.249Z"
       },
       "eventHistory": [
         {
@@ -194,7 +194,7 @@
           "rank": 46,
           "chips": 300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:30:05.801Z"
+          "updatedAt": "2026-06-20T21:36:25.249Z"
         }
       ]
     },
@@ -259,7 +259,7 @@
       "slug": "event-57-plo",
       "name": "Event #57: $1,000 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-57-plo/chips.htm",
-      "playersLeft": null,
+      "playersLeft": 236,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
