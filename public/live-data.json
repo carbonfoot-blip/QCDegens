@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T23:10:53.880Z",
+  "updatedAt": "2026-06-20T23:17:07.196Z",
   "teamScore": 363,
   "completedEvents": [
     "event-3-industry-employees",
@@ -27,13 +27,13 @@
         "buyin": 50000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 28,
+        "playersLeft": 27,
         "currentDay": "2",
         "status": "active",
         "rank": 1,
         "chips": 3900000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T23:10:53.878Z"
+        "updatedAt": "2026-06-20T23:17:07.194Z"
       },
       "eventHistory": [
         {
@@ -43,13 +43,13 @@
           "buyin": 50000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 28,
+          "playersLeft": 27,
           "currentDay": "2",
           "status": "active",
           "rank": 1,
           "chips": 3900000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T23:10:53.878Z"
+          "updatedAt": "2026-06-20T23:17:07.194Z"
         }
       ]
     },
@@ -73,7 +73,7 @@
         "rank": 4,
         "chips": 1300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T23:10:53.879Z"
+        "updatedAt": "2026-06-20T23:17:07.194Z"
       },
       "eventHistory": [
         {
@@ -89,7 +89,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T23:10:53.879Z"
+          "updatedAt": "2026-06-20T23:17:07.194Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -104,7 +104,7 @@
           "rank": 4,
           "chips": 1300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T23:10:53.879Z"
+          "updatedAt": "2026-06-20T23:17:07.194Z"
         }
       ]
     },
@@ -211,7 +211,7 @@
       "slug": "event-55-high-roller-plo",
       "name": "Event #55: $50,000 High Roller Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-55-high-roller-plo/chips.htm",
-      "playersLeft": 28,
+      "playersLeft": 27,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
