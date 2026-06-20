@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T21:49:01.052Z",
+  "updatedAt": "2026-06-20T21:55:19.072Z",
   "teamScore": 363,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 1,
         "chips": 2650000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T21:49:01.050Z"
+        "updatedAt": "2026-06-20T21:55:19.070Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 1,
           "chips": 2650000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:49:01.050Z"
+          "updatedAt": "2026-06-20T21:55:19.070Z"
         }
       ]
     },
@@ -73,7 +73,7 @@
         "rank": 2,
         "chips": 2380000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T21:49:01.050Z"
+        "updatedAt": "2026-06-20T21:55:19.070Z"
       },
       "eventHistory": [
         {
@@ -89,7 +89,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:49:01.051Z"
+          "updatedAt": "2026-06-20T21:55:19.070Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -104,7 +104,7 @@
           "rank": 2,
           "chips": 2380000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:49:01.050Z"
+          "updatedAt": "2026-06-20T21:55:19.070Z"
         }
       ]
     },
@@ -178,7 +178,7 @@
         "rank": 44,
         "chips": 300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T21:49:01.051Z"
+        "updatedAt": "2026-06-20T21:55:19.071Z"
       },
       "eventHistory": [
         {
@@ -194,7 +194,7 @@
           "rank": 44,
           "chips": 300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:49:01.051Z"
+          "updatedAt": "2026-06-20T21:55:19.071Z"
         }
       ]
     },
@@ -250,7 +250,7 @@
       "slug": "event-56-nlh",
       "name": "Event #56: $3,000 6-Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-56-nlh/chips.htm",
-      "playersLeft": 27,
+      "playersLeft": 24,
       "totalEntries": null,
       "buyin": 3000,
       "completed": false
