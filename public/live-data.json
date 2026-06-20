@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T08:31:02.792Z",
+  "updatedAt": "2026-06-20T08:37:17.155Z",
   "teamScore": 362,
   "completedEvents": [
     "event-3-industry-employees",
@@ -34,7 +34,7 @@
         "rank": 2,
         "chips": 1750000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T08:31:02.791Z"
+        "updatedAt": "2026-06-20T08:37:17.153Z"
       },
       "eventHistory": [
         {
@@ -50,7 +50,7 @@
           "rank": 2,
           "chips": 1750000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T08:31:02.791Z"
+          "updatedAt": "2026-06-20T08:37:17.153Z"
         }
       ]
     },
@@ -68,13 +68,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 12,
+        "playersLeft": 11,
         "currentDay": "2",
         "status": "active",
-        "rank": 2,
-        "chips": 1880000,
+        "rank": 1,
+        "chips": 2200000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T08:31:02.791Z"
+        "updatedAt": "2026-06-20T08:37:17.154Z"
       },
       "eventHistory": [
         {
@@ -90,7 +90,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T08:31:02.791Z"
+          "updatedAt": "2026-06-20T08:37:17.154Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -99,13 +99,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 12,
+          "playersLeft": 11,
           "currentDay": "2",
           "status": "active",
-          "rank": 2,
-          "chips": 1880000,
+          "rank": 1,
+          "chips": 2200000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T08:31:02.791Z"
+          "updatedAt": "2026-06-20T08:37:17.154Z"
         }
       ]
     },
@@ -239,7 +239,7 @@
       "slug": "event-54-horse-championship",
       "name": "Event #54: $10,000 H.O.R.S.E. Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-54-horse-championship/chips.htm",
-      "playersLeft": 12,
+      "playersLeft": 11,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
