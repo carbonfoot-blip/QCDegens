@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-06-20T15:59:22.478Z",
+  "updatedAt": "2026-06-20T16:05:47.719Z",
   "teamScore": 363,
   "completedEvents": [
     "event-3-industry-employees",
-    "event-46-seniors-championship",
-    "event-47-high-roller-plo",
     "event-51-mystery-bounty",
     "event-52-nine-game-mix",
     "event-49-freezeout",
     "event-48-razz-championship",
+    "event-47-high-roller-plo",
+    "event-46-seniors-championship",
     "event-45-mixed-omaha-hi-lo-seven-card-stud",
     "event-44-super-turbo-bounty"
   ],
@@ -33,7 +33,7 @@
         "rank": 2,
         "chips": 1750000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T15:59:22.475Z"
+        "updatedAt": "2026-06-20T16:05:47.717Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 2,
           "chips": 1750000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T15:59:22.475Z"
+          "updatedAt": "2026-06-20T16:05:47.717Z"
         }
       ]
     },
@@ -73,7 +73,7 @@
         "rank": 1,
         "chips": 2200000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T15:59:22.476Z"
+        "updatedAt": "2026-06-20T16:05:47.718Z"
       },
       "eventHistory": [
         {
@@ -89,7 +89,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T15:59:22.476Z"
+          "updatedAt": "2026-06-20T16:05:47.718Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -104,7 +104,7 @@
           "rank": 1,
           "chips": 2200000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T15:59:22.476Z"
+          "updatedAt": "2026-06-20T16:05:47.718Z"
         }
       ]
     },
@@ -180,24 +180,6 @@
     }
   ],
   "activeEvents": [
-    {
-      "slug": "event-46-seniors-championship",
-      "name": "Event #46: $1,000 Seniors No-Limit Hold’em Championship",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-46-seniors-championship/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 1000,
-      "completed": true
-    },
-    {
-      "slug": "event-47-high-roller-plo",
-      "name": "Event #47: $25,000 High Roller Pot-Limit Omaha",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 25000,
-      "completed": true
-    },
     {
       "slug": "event-50-millionaire-maker",
       "name": "Event #50: $1,500 Millionaire Maker",
@@ -295,6 +277,24 @@
       "playersLeft": 1,
       "totalEntries": null,
       "buyin": 10000,
+      "completed": true
+    },
+    {
+      "slug": "event-47-high-roller-plo",
+      "name": "Event #47: $25,000 High Roller Pot-Limit Omaha",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 25000,
+      "completed": true
+    },
+    {
+      "slug": "event-46-seniors-championship",
+      "name": "Event #46: $1,000 Seniors No-Limit Hold’em Championship",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-46-seniors-championship/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1000,
       "completed": true
     },
     {
