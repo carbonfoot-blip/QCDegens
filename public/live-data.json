@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T02:34:48.711Z",
+  "updatedAt": "2026-06-20T02:41:05.544Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 2,
         "chips": 1600000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T02:34:48.709Z"
+        "updatedAt": "2026-06-20T02:41:05.542Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 2,
           "chips": 1600000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T02:34:48.709Z"
+          "updatedAt": "2026-06-20T02:41:05.542Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 11,
         "chips": 450000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T02:34:48.709Z"
+        "updatedAt": "2026-06-20T02:41:05.542Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T02:34:48.710Z"
+          "updatedAt": "2026-06-20T02:41:05.542Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -102,7 +102,7 @@
           "rank": 11,
           "chips": 450000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T02:34:48.709Z"
+          "updatedAt": "2026-06-20T02:41:05.542Z"
         }
       ]
     },
@@ -218,7 +218,7 @@
       "slug": "event-52-nine-game-mix",
       "name": "Event #52: $3,000 Nine Game Mix",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-52-nine-game-mix/chips.htm",
-      "playersLeft": 6,
+      "playersLeft": 5,
       "totalEntries": null,
       "buyin": 3000,
       "completed": false
