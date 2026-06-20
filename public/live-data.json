@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-20T06:39:05.342Z",
-  "teamScore": 361,
+  "updatedAt": "2026-06-20T06:45:20.175Z",
+  "teamScore": 362,
   "completedEvents": [
     "event-3-industry-employees",
     "event-46-seniors-championship",
@@ -34,7 +34,7 @@
         "rank": 2,
         "chips": 1750000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T06:39:05.339Z"
+        "updatedAt": "2026-06-20T06:45:20.173Z"
       },
       "eventHistory": [
         {
@@ -50,7 +50,7 @@
           "rank": 2,
           "chips": 1750000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T06:39:05.339Z"
+          "updatedAt": "2026-06-20T06:45:20.173Z"
         }
       ]
     },
@@ -74,7 +74,7 @@
         "rank": 10,
         "chips": 560000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T06:39:05.340Z"
+        "updatedAt": "2026-06-20T06:45:20.174Z"
       },
       "eventHistory": [
         {
@@ -90,7 +90,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T06:39:05.340Z"
+          "updatedAt": "2026-06-20T06:45:20.174Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -105,7 +105,7 @@
           "rank": 10,
           "chips": 560000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T06:39:05.340Z"
+          "updatedAt": "2026-06-20T06:45:20.174Z"
         }
       ]
     },
@@ -153,9 +153,9 @@
       "name": "Ryan Leng",
       "slug": "ryan-leng",
       "isBonus": false,
-      "pts2026": 3,
+      "pts2026": 4,
       "salary": 1,
-      "cashes2026": 3,
+      "cashes2026": 4,
       "liveStatus": null,
       "eventHistory": []
     },
