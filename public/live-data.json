@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T03:25:01.436Z",
+  "updatedAt": "2026-06-20T03:31:18.161Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -32,7 +32,7 @@
         "rank": 2,
         "chips": 1600000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T03:25:01.433Z"
+        "updatedAt": "2026-06-20T03:31:18.158Z"
       },
       "eventHistory": [
         {
@@ -48,7 +48,7 @@
           "rank": 2,
           "chips": 1600000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T03:25:01.433Z"
+          "updatedAt": "2026-06-20T03:31:18.158Z"
         }
       ]
     },
@@ -72,7 +72,7 @@
         "rank": 13,
         "chips": 410000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T03:25:01.434Z"
+        "updatedAt": "2026-06-20T03:31:18.159Z"
       },
       "eventHistory": [
         {
@@ -88,7 +88,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T03:25:01.434Z"
+          "updatedAt": "2026-06-20T03:31:18.159Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -103,7 +103,7 @@
           "rank": 13,
           "chips": 410000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T03:25:01.434Z"
+          "updatedAt": "2026-06-20T03:31:18.159Z"
         }
       ]
     },
@@ -183,7 +183,7 @@
       "slug": "event-46-seniors-championship",
       "name": "Event #46: $1,000 Seniors No-Limit Hold’em Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-46-seniors-championship/chips.htm",
-      "playersLeft": 3,
+      "playersLeft": 2,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
