@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T03:50:03.466Z",
+  "updatedAt": "2026-06-20T03:56:18.481Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,9 +30,9 @@
         "currentDay": "1",
         "status": "active",
         "rank": 1,
-        "chips": 1730000,
+        "chips": 1700000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T03:50:03.464Z"
+        "updatedAt": "2026-06-20T03:56:18.479Z"
       },
       "eventHistory": [
         {
@@ -46,9 +46,9 @@
           "currentDay": "1",
           "status": "active",
           "rank": 1,
-          "chips": 1730000,
+          "chips": 1700000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T03:50:03.464Z"
+          "updatedAt": "2026-06-20T03:56:18.479Z"
         }
       ]
     },
@@ -72,7 +72,7 @@
         "rank": 13,
         "chips": 410000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T03:50:03.465Z"
+        "updatedAt": "2026-06-20T03:56:18.479Z"
       },
       "eventHistory": [
         {
@@ -88,7 +88,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T03:50:03.465Z"
+          "updatedAt": "2026-06-20T03:56:18.479Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -103,7 +103,7 @@
           "rank": 13,
           "chips": 410000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T03:50:03.465Z"
+          "updatedAt": "2026-06-20T03:56:18.479Z"
         }
       ]
     },
@@ -210,7 +210,7 @@
       "slug": "event-51-mystery-bounty",
       "name": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-51-mystery-bounty/chips.htm",
-      "playersLeft": 6,
+      "playersLeft": 5,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
@@ -219,7 +219,7 @@
       "slug": "event-52-nine-game-mix",
       "name": "Event #52: $3,000 Nine Game Mix",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-52-nine-game-mix/chips.htm",
-      "playersLeft": 5,
+      "playersLeft": 4,
       "totalEntries": null,
       "buyin": 3000,
       "completed": false
