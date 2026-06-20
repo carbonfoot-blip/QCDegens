@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T03:37:33.556Z",
+  "updatedAt": "2026-06-20T03:43:48.496Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -32,7 +32,7 @@
         "rank": 2,
         "chips": 1550000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T03:37:33.553Z"
+        "updatedAt": "2026-06-20T03:43:48.494Z"
       },
       "eventHistory": [
         {
@@ -48,7 +48,7 @@
           "rank": 2,
           "chips": 1550000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T03:37:33.553Z"
+          "updatedAt": "2026-06-20T03:43:48.494Z"
         }
       ]
     },
@@ -72,7 +72,7 @@
         "rank": 13,
         "chips": 410000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T03:37:33.554Z"
+        "updatedAt": "2026-06-20T03:43:48.494Z"
       },
       "eventHistory": [
         {
@@ -88,7 +88,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T03:37:33.554Z"
+          "updatedAt": "2026-06-20T03:43:48.494Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -103,7 +103,7 @@
           "rank": 13,
           "chips": 410000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T03:37:33.554Z"
+          "updatedAt": "2026-06-20T03:43:48.494Z"
         }
       ]
     },
@@ -210,7 +210,7 @@
       "slug": "event-51-mystery-bounty",
       "name": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-51-mystery-bounty/chips.htm",
-      "playersLeft": 7,
+      "playersLeft": 6,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
