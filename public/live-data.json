@@ -1,8 +1,16 @@
 {
-  "updatedAt": "2026-06-20T18:32:23.269Z",
+  "updatedAt": "2026-06-20T18:38:45.410Z",
   "teamScore": 363,
   "completedEvents": [
-    "event-3-industry-employees"
+    "event-3-industry-employees",
+    "event-52-nine-game-mix",
+    "event-51-mystery-bounty",
+    "event-49-freezeout",
+    "event-48-razz-championship",
+    "event-47-high-roller-plo",
+    "event-46-seniors-championship",
+    "event-45-mixed-omaha-hi-lo-seven-card-stud",
+    "event-44-super-turbo-bounty"
   ],
   "players": [
     {
@@ -12,8 +20,38 @@
       "pts2026": 77,
       "salary": 116,
       "cashes2026": 5,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-55-high-roller-plo",
+        "eventName": "Event #55: $50,000 High Roller Pot-Limit Omaha",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-55-high-roller-plo/chips.htm",
+        "buyin": 50000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 30,
+        "currentDay": "2",
+        "status": "active",
+        "rank": 2,
+        "chips": 1750000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-20T18:38:45.408Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-55-high-roller-plo",
+          "eventName": "Event #55: $50,000 High Roller Pot-Limit Omaha",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-55-high-roller-plo/chips.htm",
+          "buyin": 50000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 30,
+          "currentDay": "2",
+          "status": "active",
+          "rank": 2,
+          "chips": 1750000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-20T18:38:45.408Z"
+        }
+      ]
     },
     {
       "name": "Calvin Anderson",
@@ -22,8 +60,53 @@
       "pts2026": 162,
       "salary": 25,
       "cashes2026": 4,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-54-horse-championship",
+        "eventName": "Event #54: $10,000 H.O.R.S.E. Championship",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-54-horse-championship/chips.htm",
+        "buyin": 10000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 11,
+        "currentDay": "2",
+        "status": "active",
+        "rank": 1,
+        "chips": 2200000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-20T18:38:45.408Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-48-razz-championship",
+          "eventName": "Event #48: $10,000 Razz Championship",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-48-razz-championship/chips.htm",
+          "buyin": 10000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 1,
+          "currentDay": "3",
+          "status": "active",
+          "rank": 1,
+          "chips": 9300000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-20T18:38:45.408Z"
+        },
+        {
+          "eventSlug": "event-54-horse-championship",
+          "eventName": "Event #54: $10,000 H.O.R.S.E. Championship",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-54-horse-championship/chips.htm",
+          "buyin": 10000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 11,
+          "currentDay": "2",
+          "status": "active",
+          "rank": 1,
+          "chips": 2200000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-20T18:38:45.408Z"
+        }
+      ]
     },
     {
       "name": "Yuval Bronshtein",
@@ -96,5 +179,141 @@
       "eventHistory": []
     }
   ],
-  "activeEvents": []
+  "activeEvents": [
+    {
+      "slug": "event-50-millionaire-maker",
+      "name": "Event #50: $1,500 Millionaire Maker",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-50-millionaire-maker/chips.htm",
+      "playersLeft": 1235,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": false
+    },
+    {
+      "slug": "event-53-five-card-plo",
+      "name": "Event #53: $1,500 Five Card Pot-Limit Omaha",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-53-five-card-plo/chips.htm",
+      "playersLeft": 7,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": false
+    },
+    {
+      "slug": "event-54-horse-championship",
+      "name": "Event #54: $10,000 H.O.R.S.E. Championship",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-54-horse-championship/chips.htm",
+      "playersLeft": 11,
+      "totalEntries": null,
+      "buyin": 10000,
+      "completed": false
+    },
+    {
+      "slug": "event-55-high-roller-plo",
+      "name": "Event #55: $50,000 High Roller Pot-Limit Omaha",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-55-high-roller-plo/chips.htm",
+      "playersLeft": 30,
+      "totalEntries": null,
+      "buyin": 50000,
+      "completed": false
+    },
+    {
+      "slug": "event-56-nlh",
+      "name": "Event #56: $3,000 6-Handed No-Limit Hold’em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-56-nlh/chips.htm",
+      "playersLeft": 53,
+      "totalEntries": null,
+      "buyin": 3000,
+      "completed": false
+    },
+    {
+      "slug": "event-57-plo",
+      "name": "Event #57: $1,000 Pot-Limit Omaha",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-57-plo/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 1000,
+      "completed": false
+    },
+    {
+      "slug": "event-58-limit-2-7-lowball-triple-draw",
+      "name": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-58-limit-2-7-lowball-triple-draw/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": false
+    },
+    {
+      "slug": "event-52-nine-game-mix",
+      "name": "Event #52: $3,000 Nine Game Mix",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-52-nine-game-mix/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 3000,
+      "completed": true
+    },
+    {
+      "slug": "event-51-mystery-bounty",
+      "name": "Event #51: $10,000 Mystery Bounty No-Limit Hold'em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-51-mystery-bounty/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 10000,
+      "completed": true
+    },
+    {
+      "slug": "event-49-freezeout",
+      "name": "Event #49: $2,500 Freezeout No-Limit Hold'em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-49-freezeout/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 2500,
+      "completed": true
+    },
+    {
+      "slug": "event-48-razz-championship",
+      "name": "Event #48: $10,000 Razz Championship",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-48-razz-championship/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 10000,
+      "completed": true
+    },
+    {
+      "slug": "event-47-high-roller-plo",
+      "name": "Event #47: $25,000 High Roller Pot-Limit Omaha",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 25000,
+      "completed": true
+    },
+    {
+      "slug": "event-46-seniors-championship",
+      "name": "Event #46: $1,000 Seniors No-Limit Hold’em Championship",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-46-seniors-championship/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1000,
+      "completed": true
+    },
+    {
+      "slug": "event-45-mixed-omaha-hi-lo-seven-card-stud",
+      "name": "Event #45: $2,500 Mixed Omaha Hi-Lo 8 or Better; Seven Card Stud Hi-Lo 8 or Better",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-45-mixed-omaha-hi-lo-seven-card-stud/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 2500,
+      "completed": true
+    },
+    {
+      "slug": "event-44-super-turbo-bounty",
+      "name": "Event #44: $10,000 Super Turbo Bounty No-Limit Hold'em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-44-super-turbo-bounty/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 10000,
+      "completed": true
+    }
+  ]
 }
