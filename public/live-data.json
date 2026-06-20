@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T21:23:42.867Z",
+  "updatedAt": "2026-06-20T21:30:05.803Z",
   "teamScore": 363,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,10 +30,10 @@
         "playersLeft": 55,
         "currentDay": "2",
         "status": "active",
-        "rank": 2,
-        "chips": 1750000,
+        "rank": 1,
+        "chips": 2275000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T21:23:42.864Z"
+        "updatedAt": "2026-06-20T21:30:05.800Z"
       },
       "eventHistory": [
         {
@@ -46,10 +46,10 @@
           "playersLeft": 55,
           "currentDay": "2",
           "status": "active",
-          "rank": 2,
-          "chips": 1750000,
+          "rank": 1,
+          "chips": 2275000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:23:42.864Z"
+          "updatedAt": "2026-06-20T21:30:05.800Z"
         }
       ]
     },
@@ -73,7 +73,7 @@
         "rank": 2,
         "chips": 1950000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T21:23:42.865Z"
+        "updatedAt": "2026-06-20T21:30:05.800Z"
       },
       "eventHistory": [
         {
@@ -89,7 +89,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:23:42.865Z"
+          "updatedAt": "2026-06-20T21:30:05.801Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -104,7 +104,7 @@
           "rank": 2,
           "chips": 1950000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:23:42.865Z"
+          "updatedAt": "2026-06-20T21:30:05.800Z"
         }
       ]
     },
@@ -175,10 +175,10 @@
         "playersLeft": 55,
         "currentDay": "2",
         "status": "active",
-        "rank": 44,
+        "rank": 46,
         "chips": 300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T21:23:42.866Z"
+        "updatedAt": "2026-06-20T21:30:05.801Z"
       },
       "eventHistory": [
         {
@@ -191,10 +191,10 @@
           "playersLeft": 55,
           "currentDay": "2",
           "status": "active",
-          "rank": 44,
+          "rank": 46,
           "chips": 300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:23:42.866Z"
+          "updatedAt": "2026-06-20T21:30:05.801Z"
         }
       ]
     },
