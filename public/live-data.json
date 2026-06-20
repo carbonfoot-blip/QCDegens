@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T21:42:42.872Z",
+  "updatedAt": "2026-06-20T21:49:01.052Z",
   "teamScore": 363,
   "completedEvents": [
     "event-3-industry-employees",
@@ -27,13 +27,13 @@
         "buyin": 50000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 55,
+        "playersLeft": 37,
         "currentDay": "2",
         "status": "active",
         "rank": 1,
-        "chips": 2275000,
+        "chips": 2650000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T21:42:42.870Z"
+        "updatedAt": "2026-06-20T21:49:01.050Z"
       },
       "eventHistory": [
         {
@@ -43,13 +43,13 @@
           "buyin": 50000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 55,
+          "playersLeft": 37,
           "currentDay": "2",
           "status": "active",
           "rank": 1,
-          "chips": 2275000,
+          "chips": 2650000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:42:42.870Z"
+          "updatedAt": "2026-06-20T21:49:01.050Z"
         }
       ]
     },
@@ -71,9 +71,9 @@
         "currentDay": "3",
         "status": "active",
         "rank": 2,
-        "chips": 2500000,
+        "chips": 2380000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T21:42:42.870Z"
+        "updatedAt": "2026-06-20T21:49:01.050Z"
       },
       "eventHistory": [
         {
@@ -89,7 +89,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:42:42.870Z"
+          "updatedAt": "2026-06-20T21:49:01.051Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -102,9 +102,9 @@
           "currentDay": "3",
           "status": "active",
           "rank": 2,
-          "chips": 2500000,
+          "chips": 2380000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:42:42.870Z"
+          "updatedAt": "2026-06-20T21:49:01.050Z"
         }
       ]
     },
@@ -172,13 +172,13 @@
         "buyin": 50000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 55,
+        "playersLeft": 37,
         "currentDay": "2",
         "status": "active",
-        "rank": 46,
+        "rank": 44,
         "chips": 300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T21:42:42.871Z"
+        "updatedAt": "2026-06-20T21:49:01.051Z"
       },
       "eventHistory": [
         {
@@ -188,13 +188,13 @@
           "buyin": 50000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 55,
+          "playersLeft": 37,
           "currentDay": "2",
           "status": "active",
-          "rank": 46,
+          "rank": 44,
           "chips": 300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T21:42:42.871Z"
+          "updatedAt": "2026-06-20T21:49:01.051Z"
         }
       ]
     },
@@ -241,7 +241,7 @@
       "slug": "event-55-high-roller-plo",
       "name": "Event #55: $50,000 High Roller Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-55-high-roller-plo/chips.htm",
-      "playersLeft": 55,
+      "playersLeft": 37,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
@@ -250,7 +250,7 @@
       "slug": "event-56-nlh",
       "name": "Event #56: $3,000 6-Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-56-nlh/chips.htm",
-      "playersLeft": 28,
+      "playersLeft": 27,
       "totalEntries": null,
       "buyin": 3000,
       "completed": false
