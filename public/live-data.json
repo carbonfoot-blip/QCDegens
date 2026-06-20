@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T00:29:30.779Z",
+  "updatedAt": "2026-06-20T00:35:47.094Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 8,
         "chips": 623000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T00:29:30.776Z"
+        "updatedAt": "2026-06-20T00:35:47.091Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 8,
           "chips": 623000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T00:29:30.776Z"
+          "updatedAt": "2026-06-20T00:35:47.091Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 6,
         "chips": 392000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T00:29:30.777Z"
+        "updatedAt": "2026-06-20T00:35:47.092Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T00:29:30.777Z"
+          "updatedAt": "2026-06-20T00:35:47.092Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -102,7 +102,7 @@
           "rank": 6,
           "chips": 392000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T00:29:30.777Z"
+          "updatedAt": "2026-06-20T00:35:47.092Z"
         }
       ]
     },
@@ -126,7 +126,7 @@
         "rank": 38,
         "chips": 120000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T00:29:30.777Z"
+        "updatedAt": "2026-06-20T00:35:47.092Z"
       },
       "eventHistory": [
         {
@@ -142,7 +142,7 @@
           "rank": 38,
           "chips": 120000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T00:29:30.777Z"
+          "updatedAt": "2026-06-20T00:35:47.092Z"
         }
       ]
     },
@@ -257,7 +257,7 @@
       "slug": "event-53-five-card-plo",
       "name": "Event #53: $1,500 Five Card Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-53-five-card-plo/chips.htm",
-      "playersLeft": 24,
+      "playersLeft": 22,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
