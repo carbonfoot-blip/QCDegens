@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T00:48:21.602Z",
+  "updatedAt": "2026-06-20T00:54:36.365Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -29,9 +29,9 @@
         "currentDay": "1",
         "status": "active",
         "rank": 5,
-        "chips": 830000,
+        "chips": 840000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T00:48:21.600Z"
+        "updatedAt": "2026-06-20T00:54:36.362Z"
       },
       "eventHistory": [
         {
@@ -45,9 +45,9 @@
           "currentDay": "1",
           "status": "active",
           "rank": 5,
-          "chips": 830000,
+          "chips": 840000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T00:48:21.600Z"
+          "updatedAt": "2026-06-20T00:54:36.362Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 10,
         "chips": 325000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T00:48:21.600Z"
+        "updatedAt": "2026-06-20T00:54:36.363Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T00:48:21.600Z"
+          "updatedAt": "2026-06-20T00:54:36.363Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -102,7 +102,7 @@
           "rank": 10,
           "chips": 325000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T00:48:21.600Z"
+          "updatedAt": "2026-06-20T00:54:36.363Z"
         }
       ]
     },
@@ -126,7 +126,7 @@
         "rank": 37,
         "chips": 120000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T00:48:21.600Z"
+        "updatedAt": "2026-06-20T00:54:36.363Z"
       },
       "eventHistory": [
         {
@@ -142,7 +142,7 @@
           "rank": 37,
           "chips": 120000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T00:48:21.600Z"
+          "updatedAt": "2026-06-20T00:54:36.363Z"
         }
       ]
     },
