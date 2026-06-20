@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T17:16:46.403Z",
+  "updatedAt": "2026-06-20T17:23:11.062Z",
   "teamScore": 363,
   "completedEvents": [
     "event-3-industry-employees",
@@ -33,7 +33,7 @@
         "rank": 2,
         "chips": 1750000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T17:16:46.402Z"
+        "updatedAt": "2026-06-20T17:23:11.059Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 2,
           "chips": 1750000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T17:16:46.402Z"
+          "updatedAt": "2026-06-20T17:23:11.059Z"
         }
       ]
     },
@@ -61,19 +61,19 @@
       "salary": 25,
       "cashes2026": 4,
       "liveStatus": {
-        "eventSlug": "event-48-razz-championship",
-        "eventName": "Event #48: $10,000 Razz Championship",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-48-razz-championship/chips.htm",
+        "eventSlug": "event-54-horse-championship",
+        "eventName": "Event #54: $10,000 H.O.R.S.E. Championship",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-54-horse-championship/chips.htm",
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 1,
-        "currentDay": "3",
+        "playersLeft": 11,
+        "currentDay": "2",
         "status": "active",
         "rank": 1,
-        "chips": 9300000,
+        "chips": 2200000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T17:16:46.402Z"
+        "updatedAt": "2026-06-20T17:23:11.059Z"
       },
       "eventHistory": [
         {
@@ -89,7 +89,22 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T17:16:46.402Z"
+          "updatedAt": "2026-06-20T17:23:11.060Z"
+        },
+        {
+          "eventSlug": "event-54-horse-championship",
+          "eventName": "Event #54: $10,000 H.O.R.S.E. Championship",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-54-horse-championship/chips.htm",
+          "buyin": 10000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 11,
+          "currentDay": "2",
+          "status": "active",
+          "rank": 1,
+          "chips": 2200000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-20T17:23:11.059Z"
         }
       ]
     },
@@ -187,6 +202,9 @@
       "slug": "event-54-horse-championship",
       "name": "Event #54: $10,000 H.O.R.S.E. Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-54-horse-championship/chips.htm",
+      "playersLeft": 11,
+      "totalEntries": null,
+      "buyin": 10000,
       "completed": false
     },
     {
