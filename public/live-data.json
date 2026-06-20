@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T02:03:27.166Z",
+  "updatedAt": "2026-06-20T02:09:41.389Z",
   "teamScore": 361,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 1,
         "chips": 1600000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T02:03:27.164Z"
+        "updatedAt": "2026-06-20T02:09:41.387Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 1,
           "chips": 1600000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T02:03:27.164Z"
+          "updatedAt": "2026-06-20T02:09:41.387Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 10,
         "chips": 325000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T02:03:27.164Z"
+        "updatedAt": "2026-06-20T02:09:41.387Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T02:03:27.164Z"
+          "updatedAt": "2026-06-20T02:09:41.387Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -102,7 +102,7 @@
           "rank": 10,
           "chips": 325000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T02:03:27.164Z"
+          "updatedAt": "2026-06-20T02:09:41.387Z"
         }
       ]
     },
@@ -126,7 +126,7 @@
         "rank": 32,
         "chips": 120000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-20T02:03:27.164Z"
+        "updatedAt": "2026-06-20T02:09:41.388Z"
       },
       "eventHistory": [
         {
@@ -142,7 +142,7 @@
           "rank": 32,
           "chips": 120000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-20T02:03:27.164Z"
+          "updatedAt": "2026-06-20T02:09:41.388Z"
         }
       ]
     },
@@ -212,7 +212,7 @@
       "slug": "event-46-seniors-championship",
       "name": "Event #46: $1,000 Seniors No-Limit Hold’em Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-46-seniors-championship/chips.htm",
-      "playersLeft": 5,
+      "playersLeft": 4,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
