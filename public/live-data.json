@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T06:26:45.980Z",
+  "updatedAt": "2026-06-21T06:32:58.864Z",
   "teamScore": 363,
   "completedEvents": [
     "event-3-industry-employees",
@@ -34,7 +34,7 @@
         "rank": 15,
         "chips": 1455000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-21T06:26:45.978Z"
+        "updatedAt": "2026-06-21T06:32:58.862Z"
       },
       "eventHistory": [
         {
@@ -50,7 +50,7 @@
           "rank": 15,
           "chips": 1455000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T06:26:45.978Z"
+          "updatedAt": "2026-06-21T06:32:58.862Z"
         }
       ]
     },
@@ -72,9 +72,9 @@
         "currentDay": "3",
         "status": "active",
         "rank": 1,
-        "chips": 5525000,
+        "chips": 6700000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-21T06:26:45.978Z"
+        "updatedAt": "2026-06-21T06:32:58.862Z"
       },
       "eventHistory": [
         {
@@ -90,7 +90,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T06:26:45.978Z"
+          "updatedAt": "2026-06-21T06:32:58.862Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -103,9 +103,9 @@
           "currentDay": "3",
           "status": "active",
           "rank": 1,
-          "chips": 5525000,
+          "chips": 6700000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T06:26:45.978Z"
+          "updatedAt": "2026-06-21T06:32:58.862Z"
         }
       ]
     },
