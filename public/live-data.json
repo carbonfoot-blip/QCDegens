@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T16:01:43.137Z",
+  "updatedAt": "2026-06-21T16:08:21.852Z",
   "teamScore": 500,
   "completedEvents": [
     "event-3-industry-employees",
@@ -44,7 +44,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-21T16:01:43.133Z"
+        "updatedAt": "2026-06-21T16:08:21.848Z"
       },
       "eventHistory": [
         {
@@ -60,7 +60,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T16:01:43.134Z"
+          "updatedAt": "2026-06-21T16:08:21.848Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -75,7 +75,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T16:01:43.133Z"
+          "updatedAt": "2026-06-21T16:08:21.848Z"
         }
       ]
     },
@@ -129,7 +129,7 @@
         "rank": 511,
         "chips": 92000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-21T16:01:43.135Z"
+        "updatedAt": "2026-06-21T16:08:21.850Z"
       },
       "eventHistory": [
         {
@@ -145,7 +145,7 @@
           "rank": 511,
           "chips": 92000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T16:01:43.135Z"
+          "updatedAt": "2026-06-21T16:08:21.850Z"
         }
       ]
     },
@@ -200,15 +200,6 @@
       "completed": false
     },
     {
-      "slug": "event-56-nlh",
-      "name": "Event #56: $3,000 6-Handed No-Limit Hold’em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-56-nlh/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 3000,
-      "completed": true
-    },
-    {
       "slug": "event-57-plo",
       "name": "Event #57: $1,000 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-57-plo/chips.htm",
@@ -243,6 +234,15 @@
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
+    },
+    {
+      "slug": "event-56-nlh",
+      "name": "Event #56: $3,000 6-Handed No-Limit Hold’em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-56-nlh/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 3000,
+      "completed": true
     },
     {
       "slug": "event-54-horse-championship",
