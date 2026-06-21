@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T12:29:58.825Z",
+  "updatedAt": "2026-06-21T12:36:26.375Z",
   "teamScore": 500,
   "completedEvents": [
     "event-3-industry-employees",
@@ -11,8 +11,7 @@
     "event-49-freezeout",
     "event-48-razz-championship",
     "event-47-high-roller-plo",
-    "event-46-seniors-championship",
-    "event-45-mixed-omaha-hi-lo-seven-card-stud"
+    "event-46-seniors-championship"
   ],
   "players": [
     {
@@ -45,7 +44,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-21T12:29:58.823Z"
+        "updatedAt": "2026-06-21T12:36:26.374Z"
       },
       "eventHistory": [
         {
@@ -61,7 +60,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T12:29:58.824Z"
+          "updatedAt": "2026-06-21T12:36:26.374Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -76,7 +75,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T12:29:58.823Z"
+          "updatedAt": "2026-06-21T12:36:26.374Z"
         }
       ]
     },
@@ -225,6 +224,15 @@
       "completed": false
     },
     {
+      "slug": "event-60-poker-players-championship",
+      "name": "Event #60: $50,000 Poker Players Championship",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-60-poker-players-championship/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 50000,
+      "completed": false
+    },
+    {
       "slug": "event-52-nine-game-mix",
       "name": "Event #52: $3,000 Nine Game Mix",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-52-nine-game-mix/chips.htm",
@@ -276,15 +284,6 @@
       "playersLeft": 1,
       "totalEntries": null,
       "buyin": 1000,
-      "completed": true
-    },
-    {
-      "slug": "event-45-mixed-omaha-hi-lo-seven-card-stud",
-      "name": "Event #45: $2,500 Mixed Omaha Hi-Lo 8 or Better; Seven Card Stud Hi-Lo 8 or Better",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-45-mixed-omaha-hi-lo-seven-card-stud/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 2500,
       "completed": true
     }
   ]
