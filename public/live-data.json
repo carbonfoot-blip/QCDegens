@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T07:34:42.480Z",
+  "updatedAt": "2026-06-21T07:40:57.683Z",
   "teamScore": 374,
   "completedEvents": [
     "event-3-industry-employees",
@@ -34,7 +34,7 @@
         "rank": 15,
         "chips": 1455000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-21T07:34:42.479Z"
+        "updatedAt": "2026-06-21T07:40:57.681Z"
       },
       "eventHistory": [
         {
@@ -50,7 +50,7 @@
           "rank": 15,
           "chips": 1455000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T07:34:42.479Z"
+          "updatedAt": "2026-06-21T07:40:57.681Z"
         }
       ]
     },
@@ -68,13 +68,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 3,
+        "playersLeft": 2,
         "currentDay": "3",
         "status": "active",
         "rank": 1,
-        "chips": 6810000,
+        "chips": 8700000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-21T07:34:42.479Z"
+        "updatedAt": "2026-06-21T07:40:57.681Z"
       },
       "eventHistory": [
         {
@@ -90,7 +90,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T07:34:42.479Z"
+          "updatedAt": "2026-06-21T07:40:57.682Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -99,13 +99,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 3,
+          "playersLeft": 2,
           "currentDay": "3",
           "status": "active",
           "rank": 1,
-          "chips": 6810000,
+          "chips": 8700000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T07:34:42.479Z"
+          "updatedAt": "2026-06-21T07:40:57.681Z"
         }
       ]
     },
@@ -203,7 +203,7 @@
       "slug": "event-54-horse-championship",
       "name": "Event #54: $10,000 H.O.R.S.E. Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-54-horse-championship/chips.htm",
-      "playersLeft": 3,
+      "playersLeft": 2,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
@@ -239,7 +239,7 @@
       "slug": "event-58-limit-2-7-lowball-triple-draw",
       "name": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-58-limit-2-7-lowball-triple-draw/chips.htm",
-      "playersLeft": 175,
+      "playersLeft": 134,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
