@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T21:13:38.609Z",
+  "updatedAt": "2026-06-21T21:20:07.918Z",
   "teamScore": 500,
   "completedEvents": [
     "event-3-industry-employees",
@@ -34,7 +34,7 @@
         "rank": 1,
         "chips": 310000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-21T21:13:38.605Z"
+        "updatedAt": "2026-06-21T21:20:07.915Z"
       },
       "eventHistory": [
         {
@@ -50,7 +50,7 @@
           "rank": 1,
           "chips": 310000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T21:13:38.605Z"
+          "updatedAt": "2026-06-21T21:20:07.915Z"
         }
       ]
     },
@@ -74,7 +74,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-21T21:13:38.605Z"
+        "updatedAt": "2026-06-21T21:20:07.916Z"
       },
       "eventHistory": [
         {
@@ -90,7 +90,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T21:13:38.606Z"
+          "updatedAt": "2026-06-21T21:20:07.916Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -105,7 +105,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T21:13:38.605Z"
+          "updatedAt": "2026-06-21T21:20:07.916Z"
         }
       ]
     },
@@ -159,7 +159,7 @@
         "rank": 515,
         "chips": 92000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-21T21:13:38.607Z"
+        "updatedAt": "2026-06-21T21:20:07.917Z"
       },
       "eventHistory": [
         {
@@ -175,7 +175,7 @@
           "rank": 515,
           "chips": 92000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T21:13:38.607Z"
+          "updatedAt": "2026-06-21T21:20:07.917Z"
         }
       ]
     },
@@ -242,7 +242,7 @@
       "slug": "event-58-limit-2-7-lowball-triple-draw",
       "name": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-58-limit-2-7-lowball-triple-draw/chips.htm",
-      "playersLeft": 104,
+      "playersLeft": 101,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
