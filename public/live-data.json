@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-06-21T15:35:09.166Z",
+  "updatedAt": "2026-06-21T15:41:47.332Z",
   "teamScore": 500,
   "completedEvents": [
     "event-3-industry-employees",
-    "event-53-five-card-plo",
     "event-54-horse-championship",
     "event-56-nlh",
+    "event-53-five-card-plo",
     "event-52-nine-game-mix",
     "event-51-mystery-bounty",
     "event-49-freezeout",
@@ -44,7 +44,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-21T15:35:09.164Z"
+        "updatedAt": "2026-06-21T15:41:47.328Z"
       },
       "eventHistory": [
         {
@@ -60,7 +60,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T15:35:09.164Z"
+          "updatedAt": "2026-06-21T15:41:47.328Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -75,7 +75,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T15:35:09.164Z"
+          "updatedAt": "2026-06-21T15:41:47.328Z"
         }
       ]
     },
@@ -129,7 +129,7 @@
         "rank": 511,
         "chips": 92000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-21T15:35:09.165Z"
+        "updatedAt": "2026-06-21T15:41:47.330Z"
       },
       "eventHistory": [
         {
@@ -145,7 +145,7 @@
           "rank": 511,
           "chips": 92000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T15:35:09.165Z"
+          "updatedAt": "2026-06-21T15:41:47.330Z"
         }
       ]
     },
@@ -189,15 +189,6 @@
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
-    },
-    {
-      "slug": "event-53-five-card-plo",
-      "name": "Event #53: $1,500 Five Card Pot-Limit Omaha",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-53-five-card-plo/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 1500,
-      "completed": true
     },
     {
       "slug": "event-54-horse-championship",
@@ -261,6 +252,15 @@
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
+    },
+    {
+      "slug": "event-53-five-card-plo",
+      "name": "Event #53: $1,500 Five Card Pot-Limit Omaha",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-53-five-card-plo/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": true
     },
     {
       "slug": "event-52-nine-game-mix",
