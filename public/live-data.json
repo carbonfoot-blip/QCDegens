@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T13:08:44.381Z",
+  "updatedAt": "2026-06-21T13:15:16.883Z",
   "teamScore": 500,
   "completedEvents": [
     "event-3-industry-employees",
@@ -44,7 +44,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-21T13:08:44.379Z"
+        "updatedAt": "2026-06-21T13:15:16.879Z"
       },
       "eventHistory": [
         {
@@ -60,7 +60,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T13:08:44.379Z"
+          "updatedAt": "2026-06-21T13:15:16.879Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -75,7 +75,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T13:08:44.379Z"
+          "updatedAt": "2026-06-21T13:15:16.879Z"
         }
       ]
     },
@@ -116,8 +116,38 @@
       "pts2026": 34,
       "salary": 2,
       "cashes2026": 9,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-50-millionaire-maker",
+        "eventName": "Event #50: $1,500 Millionaire Maker",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-50-millionaire-maker/chips.htm",
+        "buyin": 1500,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 1489,
+        "currentDay": "2d",
+        "status": "active",
+        "rank": 511,
+        "chips": 92000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-21T13:15:16.881Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-50-millionaire-maker",
+          "eventName": "Event #50: $1,500 Millionaire Maker",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-50-millionaire-maker/chips.htm",
+          "buyin": 1500,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 1489,
+          "currentDay": "2d",
+          "status": "active",
+          "rank": 511,
+          "chips": 92000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-21T13:15:16.881Z"
+        }
+      ]
     },
     {
       "name": "Ryan Leng",
