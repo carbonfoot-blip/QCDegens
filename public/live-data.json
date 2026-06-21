@@ -1,10 +1,11 @@
 {
-  "updatedAt": "2026-06-21T08:24:41.893Z",
+  "updatedAt": "2026-06-21T08:30:57.295Z",
   "teamScore": 500,
   "completedEvents": [
     "event-3-industry-employees",
     "event-53-five-card-plo",
     "event-54-horse-championship",
+    "event-56-nlh",
     "event-52-nine-game-mix",
     "event-51-mystery-bounty",
     "event-49-freezeout",
@@ -35,7 +36,7 @@
         "rank": 13,
         "chips": 1100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-21T08:24:41.891Z"
+        "updatedAt": "2026-06-21T08:30:57.293Z"
       },
       "eventHistory": [
         {
@@ -51,7 +52,7 @@
           "rank": 13,
           "chips": 1100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T08:24:41.891Z"
+          "updatedAt": "2026-06-21T08:30:57.293Z"
         }
       ]
     },
@@ -75,7 +76,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-21T08:24:41.891Z"
+        "updatedAt": "2026-06-21T08:30:57.294Z"
       },
       "eventHistory": [
         {
@@ -91,7 +92,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T08:24:41.892Z"
+          "updatedAt": "2026-06-21T08:30:57.294Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -106,7 +107,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T08:24:41.891Z"
+          "updatedAt": "2026-06-21T08:30:57.294Z"
         }
       ]
     },
@@ -222,10 +223,10 @@
       "slug": "event-56-nlh",
       "name": "Event #56: $3,000 6-Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-56-nlh/chips.htm",
-      "playersLeft": 2,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 3000,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-57-plo",
