@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-21T08:12:12.727Z",
+  "updatedAt": "2026-06-21T08:18:26.726Z",
   "teamScore": 374,
   "completedEvents": [
     "event-3-industry-employees",
@@ -29,13 +29,13 @@
         "buyin": 50000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 15,
+        "playersLeft": 14,
         "currentDay": "2",
         "status": "active",
         "rank": 12,
         "chips": 1100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-21T08:12:12.724Z"
+        "updatedAt": "2026-06-21T08:18:26.725Z"
       },
       "eventHistory": [
         {
@@ -45,13 +45,13 @@
           "buyin": 50000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 15,
+          "playersLeft": 14,
           "currentDay": "2",
           "status": "active",
           "rank": 12,
           "chips": 1100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T08:12:12.724Z"
+          "updatedAt": "2026-06-21T08:18:26.725Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-21T08:12:12.724Z"
+        "updatedAt": "2026-06-21T08:18:26.725Z"
       },
       "eventHistory": [
         {
@@ -91,7 +91,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T08:12:12.725Z"
+          "updatedAt": "2026-06-21T08:18:26.725Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -106,7 +106,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T08:12:12.724Z"
+          "updatedAt": "2026-06-21T08:18:26.725Z"
         }
       ]
     },
@@ -213,7 +213,7 @@
       "slug": "event-55-high-roller-plo",
       "name": "Event #55: $50,000 High Roller Pot-Limit Omaha\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-55-high-roller-plo/chips.htm",
-      "playersLeft": 15,
+      "playersLeft": 14,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
