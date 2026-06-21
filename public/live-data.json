@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-21T08:18:26.726Z",
-  "teamScore": 374,
+  "updatedAt": "2026-06-21T08:24:41.893Z",
+  "teamScore": 500,
   "completedEvents": [
     "event-3-industry-employees",
     "event-53-five-card-plo",
@@ -29,13 +29,13 @@
         "buyin": 50000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 14,
+        "playersLeft": 13,
         "currentDay": "2",
         "status": "active",
-        "rank": 12,
+        "rank": 13,
         "chips": 1100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-21T08:18:26.725Z"
+        "updatedAt": "2026-06-21T08:24:41.891Z"
       },
       "eventHistory": [
         {
@@ -45,13 +45,13 @@
           "buyin": 50000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 14,
+          "playersLeft": 13,
           "currentDay": "2",
           "status": "active",
-          "rank": 12,
+          "rank": 13,
           "chips": 1100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T08:18:26.725Z"
+          "updatedAt": "2026-06-21T08:24:41.891Z"
         }
       ]
     },
@@ -59,9 +59,9 @@
       "name": "Calvin Anderson",
       "slug": "calvin-anderson",
       "isBonus": false,
-      "pts2026": 162,
+      "pts2026": 288,
       "salary": 25,
-      "cashes2026": 4,
+      "cashes2026": 5,
       "liveStatus": {
         "eventSlug": "event-54-horse-championship",
         "eventName": "Event #54: $10,000 H.O.R.S.E. Championship",
@@ -75,7 +75,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-21T08:18:26.725Z"
+        "updatedAt": "2026-06-21T08:24:41.891Z"
       },
       "eventHistory": [
         {
@@ -91,7 +91,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T08:18:26.725Z"
+          "updatedAt": "2026-06-21T08:24:41.892Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -106,7 +106,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-21T08:18:26.725Z"
+          "updatedAt": "2026-06-21T08:24:41.891Z"
         }
       ]
     },
@@ -213,16 +213,16 @@
       "slug": "event-55-high-roller-plo",
       "name": "Event #55: $50,000 High Roller Pot-Limit Omaha\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-55-high-roller-plo/chips.htm",
-      "playersLeft": 14,
+      "playersLeft": 13,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
     },
     {
       "slug": "event-56-nlh",
-      "name": "Event #56: $3,000 6-Handed No-Limit Hold’em\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
+      "name": "Event #56: $3,000 6-Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-56-nlh/chips.htm",
-      "playersLeft": 7,
+      "playersLeft": 2,
       "totalEntries": null,
       "buyin": 3000,
       "completed": false
