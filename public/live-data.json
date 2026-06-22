@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T00:00:33.746Z",
+  "updatedAt": "2026-06-22T00:06:58.460Z",
   "teamScore": 500,
   "completedEvents": [
     "event-3-industry-employees",
@@ -28,13 +28,13 @@
         "buyin": 50000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 48,
+        "playersLeft": 50,
         "currentDay": "1",
         "status": "active",
         "rank": 18,
         "chips": 310000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T00:00:33.742Z"
+        "updatedAt": "2026-06-22T00:06:58.455Z"
       },
       "eventHistory": [
         {
@@ -44,13 +44,13 @@
           "buyin": 50000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 48,
+          "playersLeft": 50,
           "currentDay": "1",
           "status": "active",
           "rank": 18,
           "chips": 310000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T00:00:33.742Z"
+          "updatedAt": "2026-06-22T00:06:58.455Z"
         }
       ]
     },
@@ -74,7 +74,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T00:00:33.743Z"
+        "updatedAt": "2026-06-22T00:06:58.456Z"
       },
       "eventHistory": [
         {
@@ -90,7 +90,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T00:00:33.743Z"
+          "updatedAt": "2026-06-22T00:06:58.456Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -105,7 +105,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T00:00:33.743Z"
+          "updatedAt": "2026-06-22T00:06:58.456Z"
         }
       ]
     },
@@ -159,7 +159,7 @@
         "rank": 516,
         "chips": 92000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T00:00:33.744Z"
+        "updatedAt": "2026-06-22T00:06:58.457Z"
       },
       "eventHistory": [
         {
@@ -175,7 +175,7 @@
           "rank": 516,
           "chips": 92000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T00:00:33.744Z"
+          "updatedAt": "2026-06-22T00:06:58.457Z"
         }
       ]
     },
@@ -260,7 +260,7 @@
       "slug": "event-60-poker-players-championship",
       "name": "Event #60: $50,000 Poker Players Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-60-poker-players-championship/chips.htm",
-      "playersLeft": 48,
+      "playersLeft": 50,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
