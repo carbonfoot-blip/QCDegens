@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T05:30:45.996Z",
+  "updatedAt": "2026-06-22T05:37:09.025Z",
   "teamScore": 500,
   "completedEvents": [
     "event-3-industry-employees",
@@ -34,7 +34,7 @@
         "rank": 20,
         "chips": 395000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T05:30:45.991Z"
+        "updatedAt": "2026-06-22T05:37:09.022Z"
       },
       "eventHistory": [
         {
@@ -50,7 +50,7 @@
           "rank": 20,
           "chips": 395000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T05:30:45.991Z"
+          "updatedAt": "2026-06-22T05:37:09.022Z"
         }
       ]
     },
@@ -74,7 +74,7 @@
         "rank": 19,
         "chips": 408000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T05:30:45.991Z"
+        "updatedAt": "2026-06-22T05:37:09.022Z"
       },
       "eventHistory": [
         {
@@ -90,7 +90,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T05:30:45.991Z"
+          "updatedAt": "2026-06-22T05:37:09.022Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -105,7 +105,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T05:30:45.991Z"
+          "updatedAt": "2026-06-22T05:37:09.022Z"
         },
         {
           "eventSlug": "event-60-poker-players-championship",
@@ -120,7 +120,7 @@
           "rank": 19,
           "chips": 408000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T05:30:45.991Z"
+          "updatedAt": "2026-06-22T05:37:09.022Z"
         }
       ]
     },
@@ -154,7 +154,7 @@
         "rank": 1,
         "chips": 1025000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T05:30:45.993Z"
+        "updatedAt": "2026-06-22T05:37:09.024Z"
       },
       "eventHistory": [
         {
@@ -170,7 +170,7 @@
           "rank": 1,
           "chips": 1025000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T05:30:45.993Z"
+          "updatedAt": "2026-06-22T05:37:09.024Z"
         }
       ]
     },
@@ -201,10 +201,10 @@
         "playersLeft": 511,
         "currentDay": "2d",
         "status": "active",
-        "rank": 521,
+        "rank": 527,
         "chips": 92000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T05:30:45.994Z"
+        "updatedAt": "2026-06-22T05:37:09.024Z"
       },
       "eventHistory": [
         {
@@ -217,10 +217,10 @@
           "playersLeft": 511,
           "currentDay": "2d",
           "status": "active",
-          "rank": 521,
+          "rank": 527,
           "chips": 92000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T05:30:45.994Z"
+          "updatedAt": "2026-06-22T05:37:09.024Z"
         }
       ]
     },
@@ -287,7 +287,7 @@
       "slug": "event-58-limit-2-7-lowball-triple-draw",
       "name": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-58-limit-2-7-lowball-triple-draw/chips.htm",
-      "playersLeft": 22,
+      "playersLeft": 20,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
