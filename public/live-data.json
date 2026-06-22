@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T12:16:36.136Z",
+  "updatedAt": "2026-06-22T12:23:13.976Z",
   "teamScore": 500,
   "completedEvents": [
     "event-3-industry-employees",
@@ -10,9 +10,7 @@
     "event-52-nine-game-mix",
     "event-51-mystery-bounty",
     "event-49-freezeout",
-    "event-48-razz-championship",
-    "event-47-high-roller-plo",
-    "event-46-seniors-championship"
+    "event-48-razz-championship"
   ],
   "players": [
     {
@@ -35,7 +33,7 @@
         "rank": 49,
         "chips": 247000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T12:16:36.133Z"
+        "updatedAt": "2026-06-22T12:23:13.972Z"
       },
       "eventHistory": [
         {
@@ -51,7 +49,7 @@
           "rank": 49,
           "chips": 247000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T12:16:36.133Z"
+          "updatedAt": "2026-06-22T12:23:13.972Z"
         }
       ]
     },
@@ -75,7 +73,7 @@
         "rank": 58,
         "chips": 130000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T12:16:36.134Z"
+        "updatedAt": "2026-06-22T12:23:13.973Z"
       },
       "eventHistory": [
         {
@@ -91,7 +89,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T12:16:36.134Z"
+          "updatedAt": "2026-06-22T12:23:13.973Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -106,7 +104,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T12:16:36.134Z"
+          "updatedAt": "2026-06-22T12:23:13.973Z"
         },
         {
           "eventSlug": "event-60-poker-players-championship",
@@ -121,7 +119,7 @@
           "rank": 58,
           "chips": 130000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T12:16:36.134Z"
+          "updatedAt": "2026-06-22T12:23:13.973Z"
         }
       ]
     },
@@ -155,7 +153,7 @@
         "rank": 1,
         "chips": 989000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T12:16:36.135Z"
+        "updatedAt": "2026-06-22T12:23:13.974Z"
       },
       "eventHistory": [
         {
@@ -171,7 +169,7 @@
           "rank": 1,
           "chips": 989000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T12:16:36.135Z"
+          "updatedAt": "2026-06-22T12:23:13.974Z"
         }
       ]
     },
@@ -282,6 +280,24 @@
       "completed": false
     },
     {
+      "slug": "event-61-super-seniors",
+      "name": "Event #61: $1,000 Super Seniors",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-61-super-seniors/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 1000,
+      "completed": false
+    },
+    {
+      "slug": "event-62-nlh",
+      "name": "Event #62: $2,500 No-Limit Hold’em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-62-nlh/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 2500,
+      "completed": false
+    },
+    {
       "slug": "event-56-nlh",
       "name": "Event #56: $3,000 6-Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-56-nlh/chips.htm",
@@ -342,24 +358,6 @@
       "playersLeft": 1,
       "totalEntries": null,
       "buyin": 10000,
-      "completed": true
-    },
-    {
-      "slug": "event-47-high-roller-plo",
-      "name": "Event #47: $25,000 High Roller Pot-Limit Omaha",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-47-high-roller-plo/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 25000,
-      "completed": true
-    },
-    {
-      "slug": "event-46-seniors-championship",
-      "name": "Event #46: $1,000 Seniors No-Limit Hold’em Championship",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-46-seniors-championship/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 1000,
       "completed": true
     }
   ]
