@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T22:41:53.744Z",
+  "updatedAt": "2026-06-22T22:48:20.010Z",
   "teamScore": 502,
   "completedEvents": [
     "event-3-industry-employees",
@@ -20,38 +20,8 @@
       "pts2026": 88,
       "salary": 116,
       "cashes2026": 6,
-      "liveStatus": {
-        "eventSlug": "event-60-poker-players-championship",
-        "eventName": "Event #60: $50,000 Poker Players Championship",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-60-poker-players-championship/chips.htm",
-        "buyin": 50000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 72,
-        "currentDay": "2",
-        "status": "active",
-        "rank": 73,
-        "chips": 41000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T22:41:53.740Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-60-poker-players-championship",
-          "eventName": "Event #60: $50,000 Poker Players Championship",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-60-poker-players-championship/chips.htm",
-          "buyin": 50000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 72,
-          "currentDay": "2",
-          "status": "active",
-          "rank": 73,
-          "chips": 41000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T22:41:53.740Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Calvin Anderson",
@@ -73,7 +43,7 @@
         "rank": 45,
         "chips": 315000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T22:41:53.741Z"
+        "updatedAt": "2026-06-22T22:48:20.008Z"
       },
       "eventHistory": [
         {
@@ -89,7 +59,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T22:41:53.741Z"
+          "updatedAt": "2026-06-22T22:48:20.008Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -104,7 +74,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T22:41:53.741Z"
+          "updatedAt": "2026-06-22T22:48:20.008Z"
         },
         {
           "eventSlug": "event-60-poker-players-championship",
@@ -119,7 +89,7 @@
           "rank": 45,
           "chips": 315000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T22:41:53.741Z"
+          "updatedAt": "2026-06-22T22:48:20.008Z"
         }
       ]
     },
@@ -153,7 +123,7 @@
         "rank": 3,
         "chips": 989000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T22:41:53.742Z"
+        "updatedAt": "2026-06-22T22:48:20.009Z"
       },
       "eventHistory": [
         {
@@ -169,7 +139,7 @@
           "rank": 3,
           "chips": 989000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T22:41:53.742Z"
+          "updatedAt": "2026-06-22T22:48:20.009Z"
         }
       ]
     },
@@ -229,7 +199,7 @@
       "slug": "event-50-millionaire-maker",
       "name": "Event #50: $1,500 Millionaire Maker",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-50-millionaire-maker/chips.htm",
-      "playersLeft": 189,
+      "playersLeft": 188,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
