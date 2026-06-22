@@ -1,8 +1,9 @@
 {
-  "updatedAt": "2026-06-22T07:12:35.014Z",
+  "updatedAt": "2026-06-22T07:18:49.809Z",
   "teamScore": 500,
   "completedEvents": [
     "event-3-industry-employees",
+    "event-55-high-roller-plo",
     "event-56-nlh",
     "event-54-horse-championship",
     "event-53-five-card-plo",
@@ -31,10 +32,10 @@
         "playersLeft": 69,
         "currentDay": "1",
         "status": "active",
-        "rank": 44,
+        "rank": 43,
         "chips": 287500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T07:12:35.011Z"
+        "updatedAt": "2026-06-22T07:18:49.807Z"
       },
       "eventHistory": [
         {
@@ -47,10 +48,10 @@
           "playersLeft": 69,
           "currentDay": "1",
           "status": "active",
-          "rank": 44,
+          "rank": 43,
           "chips": 287500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T07:12:35.011Z"
+          "updatedAt": "2026-06-22T07:18:49.807Z"
         }
       ]
     },
@@ -74,7 +75,7 @@
         "rank": 64,
         "chips": 173000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T07:12:35.012Z"
+        "updatedAt": "2026-06-22T07:18:49.807Z"
       },
       "eventHistory": [
         {
@@ -90,7 +91,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T07:12:35.012Z"
+          "updatedAt": "2026-06-22T07:18:49.807Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -105,7 +106,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T07:12:35.012Z"
+          "updatedAt": "2026-06-22T07:18:49.807Z"
         },
         {
           "eventSlug": "event-60-poker-players-championship",
@@ -120,7 +121,7 @@
           "rank": 64,
           "chips": 173000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T07:12:35.012Z"
+          "updatedAt": "2026-06-22T07:18:49.807Z"
         }
       ]
     },
@@ -154,7 +155,7 @@
         "rank": 1,
         "chips": 926000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T07:12:35.012Z"
+        "updatedAt": "2026-06-22T07:18:49.808Z"
       },
       "eventHistory": [
         {
@@ -170,7 +171,7 @@
           "rank": 1,
           "chips": 926000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T07:12:35.012Z"
+          "updatedAt": "2026-06-22T07:18:49.808Z"
         }
       ]
     },
@@ -230,7 +231,7 @@
       "slug": "event-50-millionaire-maker",
       "name": "Event #50: $1,500 Millionaire Maker",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-50-millionaire-maker/chips.htm",
-      "playersLeft": 324,
+      "playersLeft": 424,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -239,10 +240,10 @@
       "slug": "event-55-high-roller-plo",
       "name": "Event #55: $50,000 High Roller Pot-Limit Omaha\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-55-high-roller-plo/chips.htm",
-      "playersLeft": 2,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 50000,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-57-plo",
