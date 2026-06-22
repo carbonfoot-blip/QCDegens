@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T04:20:52.910Z",
+  "updatedAt": "2026-06-22T04:27:13.330Z",
   "teamScore": 500,
   "completedEvents": [
     "event-3-industry-employees",
@@ -34,7 +34,7 @@
         "rank": 15,
         "chips": 425000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T04:20:52.907Z"
+        "updatedAt": "2026-06-22T04:27:13.325Z"
       },
       "eventHistory": [
         {
@@ -50,7 +50,7 @@
           "rank": 15,
           "chips": 425000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T04:20:52.907Z"
+          "updatedAt": "2026-06-22T04:27:13.325Z"
         }
       ]
     },
@@ -74,7 +74,7 @@
         "rank": 35,
         "chips": 305000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T04:20:52.907Z"
+        "updatedAt": "2026-06-22T04:27:13.325Z"
       },
       "eventHistory": [
         {
@@ -90,7 +90,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T04:20:52.908Z"
+          "updatedAt": "2026-06-22T04:27:13.326Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -105,7 +105,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T04:20:52.908Z"
+          "updatedAt": "2026-06-22T04:27:13.326Z"
         },
         {
           "eventSlug": "event-60-poker-players-championship",
@@ -120,7 +120,7 @@
           "rank": 35,
           "chips": 305000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T04:20:52.907Z"
+          "updatedAt": "2026-06-22T04:27:13.325Z"
         }
       ]
     },
@@ -154,7 +154,7 @@
         "rank": 1,
         "chips": 945000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T04:20:52.909Z"
+        "updatedAt": "2026-06-22T04:27:13.327Z"
       },
       "eventHistory": [
         {
@@ -170,7 +170,7 @@
           "rank": 1,
           "chips": 945000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T04:20:52.909Z"
+          "updatedAt": "2026-06-22T04:27:13.327Z"
         }
       ]
     },
@@ -204,7 +204,7 @@
         "rank": 521,
         "chips": 92000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T04:20:52.909Z"
+        "updatedAt": "2026-06-22T04:27:13.328Z"
       },
       "eventHistory": [
         {
@@ -220,7 +220,7 @@
           "rank": 521,
           "chips": 92000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T04:20:52.909Z"
+          "updatedAt": "2026-06-22T04:27:13.328Z"
         }
       ]
     },
