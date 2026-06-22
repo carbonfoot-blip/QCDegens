@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-22T08:40:13.086Z",
+  "updatedAt": "2026-06-22T08:46:34.161Z",
   "teamScore": 500,
   "completedEvents": [
     "event-3-industry-employees",
@@ -35,7 +35,7 @@
         "rank": 49,
         "chips": 247000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T08:40:13.084Z"
+        "updatedAt": "2026-06-22T08:46:34.158Z"
       },
       "eventHistory": [
         {
@@ -51,7 +51,7 @@
           "rank": 49,
           "chips": 247000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T08:40:13.084Z"
+          "updatedAt": "2026-06-22T08:46:34.158Z"
         }
       ]
     },
@@ -75,7 +75,7 @@
         "rank": 58,
         "chips": 130000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T08:40:13.084Z"
+        "updatedAt": "2026-06-22T08:46:34.158Z"
       },
       "eventHistory": [
         {
@@ -91,7 +91,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T08:40:13.084Z"
+          "updatedAt": "2026-06-22T08:46:34.158Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -106,7 +106,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T08:40:13.084Z"
+          "updatedAt": "2026-06-22T08:46:34.158Z"
         },
         {
           "eventSlug": "event-60-poker-players-championship",
@@ -121,7 +121,7 @@
           "rank": 58,
           "chips": 130000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T08:40:13.084Z"
+          "updatedAt": "2026-06-22T08:46:34.158Z"
         }
       ]
     },
@@ -155,7 +155,7 @@
         "rank": 1,
         "chips": 989000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-22T08:40:13.085Z"
+        "updatedAt": "2026-06-22T08:46:34.159Z"
       },
       "eventHistory": [
         {
@@ -171,7 +171,7 @@
           "rank": 1,
           "chips": 989000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-22T08:40:13.085Z"
+          "updatedAt": "2026-06-22T08:46:34.159Z"
         }
       ]
     },
