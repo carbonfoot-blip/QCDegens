@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T22:47:44.111Z",
+  "updatedAt": "2026-06-23T22:54:17.338Z",
   "teamScore": 505,
   "completedEvents": [
     "event-3-industry-employees",
@@ -28,10 +28,10 @@
         "playersLeft": 100,
         "currentDay": "2",
         "status": "active",
-        "rank": 25,
-        "chips": 830000,
+        "rank": 53,
+        "chips": 475000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T22:47:44.106Z"
+        "updatedAt": "2026-06-23T22:54:17.333Z"
       },
       "eventHistory": [
         {
@@ -44,10 +44,10 @@
           "playersLeft": 100,
           "currentDay": "2",
           "status": "active",
-          "rank": 25,
-          "chips": 830000,
+          "rank": 53,
+          "chips": 475000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T22:47:44.106Z"
+          "updatedAt": "2026-06-23T22:54:17.333Z"
         }
       ]
     },
@@ -65,13 +65,13 @@
         "buyin": 2500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 206,
+        "playersLeft": 151,
         "currentDay": "2",
         "status": "active",
         "rank": 167,
         "chips": 119000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T22:47:44.107Z"
+        "updatedAt": "2026-06-23T22:54:17.335Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T22:47:44.107Z"
+          "updatedAt": "2026-06-23T22:54:17.335Z"
         },
         {
           "eventSlug": "event-62-nlh",
@@ -96,13 +96,13 @@
           "buyin": 2500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 206,
+          "playersLeft": 151,
           "currentDay": "2",
           "status": "active",
           "rank": 167,
           "chips": 119000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T22:47:44.107Z"
+          "updatedAt": "2026-06-23T22:54:17.335Z"
         }
       ]
     },
@@ -123,10 +123,10 @@
         "playersLeft": 100,
         "currentDay": "2",
         "status": "active",
-        "rank": 67,
-        "chips": 348000,
+        "rank": 66,
+        "chips": 370000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T22:47:44.107Z"
+        "updatedAt": "2026-06-23T22:54:17.335Z"
       },
       "eventHistory": [
         {
@@ -139,10 +139,10 @@
           "playersLeft": 100,
           "currentDay": "2",
           "status": "active",
-          "rank": 67,
-          "chips": 348000,
+          "rank": 66,
+          "chips": 370000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T22:47:44.107Z"
+          "updatedAt": "2026-06-23T22:54:17.335Z"
         }
       ]
     },
@@ -163,10 +163,10 @@
         "playersLeft": 34,
         "currentDay": "3",
         "status": "active",
-        "rank": 14,
+        "rank": 15,
         "chips": 1000000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T22:47:44.108Z"
+        "updatedAt": "2026-06-23T22:54:17.335Z"
       },
       "eventHistory": [
         {
@@ -179,10 +179,10 @@
           "playersLeft": 34,
           "currentDay": "3",
           "status": "active",
-          "rank": 14,
+          "rank": 15,
           "chips": 1000000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T22:47:44.108Z"
+          "updatedAt": "2026-06-23T22:54:17.335Z"
         }
       ]
     },
@@ -287,7 +287,7 @@
       "slug": "event-62-nlh",
       "name": "Event #62: $2,500 No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-62-nlh/chips.htm",
-      "playersLeft": 206,
+      "playersLeft": 151,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
@@ -314,7 +314,7 @@
       "slug": "event-65-freezeout",
       "name": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-65-freezeout/chips.htm",
-      "playersLeft": 1171,
+      "playersLeft": 1580,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
