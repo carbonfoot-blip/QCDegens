@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-23T19:16:51.422Z",
-  "teamScore": 502,
+  "updatedAt": "2026-06-23T19:23:38.452Z",
+  "teamScore": 505,
   "completedEvents": [
     "event-3-industry-employees",
     "event-58-limit-2-7-lowball-triple-draw",
@@ -31,7 +31,7 @@
         "rank": 193,
         "chips": 87000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T19:16:51.416Z"
+        "updatedAt": "2026-06-23T19:23:38.446Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 193,
           "chips": 87000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T19:16:51.416Z"
+          "updatedAt": "2026-06-23T19:23:38.446Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 195,
         "chips": 119000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T19:16:51.418Z"
+        "updatedAt": "2026-06-23T19:23:38.448Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T19:16:51.418Z"
+          "updatedAt": "2026-06-23T19:23:38.448Z"
         },
         {
           "eventSlug": "event-62-nlh",
@@ -102,7 +102,7 @@
           "rank": 195,
           "chips": 119000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T19:16:51.418Z"
+          "updatedAt": "2026-06-23T19:23:38.448Z"
         }
       ]
     },
@@ -110,9 +110,9 @@
       "name": "Yuval Bronshtein",
       "slug": "yuval-bronshtein",
       "isBonus": false,
-      "pts2026": 62,
+      "pts2026": 63,
       "salary": 3,
-      "cashes2026": 2,
+      "cashes2026": 3,
       "liveStatus": {
         "eventSlug": "event-57-plo",
         "eventName": "Event #57: $1,000 Pot-Limit Omaha",
@@ -123,10 +123,10 @@
         "playersLeft": 213,
         "currentDay": "2",
         "status": "active",
-        "rank": 171,
+        "rank": 172,
         "chips": 124000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T19:16:51.418Z"
+        "updatedAt": "2026-06-23T19:23:38.448Z"
       },
       "eventHistory": [
         {
@@ -139,10 +139,10 @@
           "playersLeft": 213,
           "currentDay": "2",
           "status": "active",
-          "rank": 171,
+          "rank": 172,
           "chips": 124000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T19:16:51.418Z"
+          "updatedAt": "2026-06-23T19:23:38.448Z"
         }
       ]
     },
@@ -166,7 +166,7 @@
         "rank": 5,
         "chips": 1480000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T19:16:51.419Z"
+        "updatedAt": "2026-06-23T19:23:38.449Z"
       },
       "eventHistory": [
         {
@@ -182,7 +182,7 @@
           "rank": 5,
           "chips": 1480000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T19:16:51.419Z"
+          "updatedAt": "2026-06-23T19:23:38.449Z"
         }
       ]
     },
@@ -200,9 +200,9 @@
       "name": "Shawn Buchanan",
       "slug": "shawn-buchanan",
       "isBonus": false,
-      "pts2026": 35,
+      "pts2026": 36,
       "salary": 2,
-      "cashes2026": 10,
+      "cashes2026": 11,
       "liveStatus": null,
       "eventHistory": []
     },
@@ -220,9 +220,9 @@
       "name": "John Riordan",
       "slug": "john-riordan",
       "isBonus": false,
-      "pts2026": 7,
+      "pts2026": 8,
       "salary": 12,
-      "cashes2026": 6,
+      "cashes2026": 7,
       "liveStatus": null,
       "eventHistory": []
     },
@@ -278,7 +278,7 @@
       "slug": "event-61-super-seniors",
       "name": "Event #61: $1,000 Super Seniors",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-61-super-seniors/chips.htm",
-      "playersLeft": 701,
+      "playersLeft": 671,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
