@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T08:31:08.006Z",
+  "updatedAt": "2026-06-23T08:37:37.887Z",
   "teamScore": 502,
   "completedEvents": [
     "event-3-industry-employees",
@@ -44,7 +44,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T08:31:08.001Z"
+        "updatedAt": "2026-06-23T08:37:37.882Z"
       },
       "eventHistory": [
         {
@@ -60,7 +60,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T08:31:08.001Z"
+          "updatedAt": "2026-06-23T08:37:37.882Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -75,7 +75,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T08:31:08.001Z"
+          "updatedAt": "2026-06-23T08:37:37.882Z"
         }
       ]
     },
@@ -109,7 +109,7 @@
         "rank": 5,
         "chips": 1480000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T08:31:08.002Z"
+        "updatedAt": "2026-06-23T08:37:37.883Z"
       },
       "eventHistory": [
         {
@@ -125,7 +125,7 @@
           "rank": 5,
           "chips": 1480000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T08:31:08.002Z"
+          "updatedAt": "2026-06-23T08:37:37.883Z"
         }
       ]
     },
@@ -194,7 +194,7 @@
       "slug": "event-57-plo",
       "name": "Event #57: $1,000 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-57-plo/chips.htm",
-      "playersLeft": 253,
+      "playersLeft": 215,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -239,7 +239,7 @@
       "slug": "event-62-nlh",
       "name": "Event #62: $2,500 No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-62-nlh/chips.htm",
-      "playersLeft": 317,
+      "playersLeft": 312,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
