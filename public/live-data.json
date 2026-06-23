@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T08:11:36.085Z",
+  "updatedAt": "2026-06-23T08:18:07.322Z",
   "teamScore": 502,
   "completedEvents": [
     "event-3-industry-employees",
@@ -44,7 +44,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T08:11:36.080Z"
+        "updatedAt": "2026-06-23T08:18:07.316Z"
       },
       "eventHistory": [
         {
@@ -60,7 +60,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T08:11:36.080Z"
+          "updatedAt": "2026-06-23T08:18:07.316Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -75,7 +75,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T08:11:36.080Z"
+          "updatedAt": "2026-06-23T08:18:07.316Z"
         }
       ]
     },
@@ -109,7 +109,7 @@
         "rank": 5,
         "chips": 1480000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T08:11:36.081Z"
+        "updatedAt": "2026-06-23T08:18:07.317Z"
       },
       "eventHistory": [
         {
@@ -125,7 +125,7 @@
           "rank": 5,
           "chips": 1480000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T08:11:36.081Z"
+          "updatedAt": "2026-06-23T08:18:07.317Z"
         }
       ]
     },
@@ -185,7 +185,7 @@
       "slug": "event-50-millionaire-maker",
       "name": "Event #50: $1,500 Millionaire Maker",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-50-millionaire-maker/chips.htm",
-      "playersLeft": 84,
+      "playersLeft": 70,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -239,7 +239,7 @@
       "slug": "event-62-nlh",
       "name": "Event #62: $2,500 No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-62-nlh/chips.htm",
-      "playersLeft": 448,
+      "playersLeft": 317,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
