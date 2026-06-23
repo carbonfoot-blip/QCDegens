@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T16:40:20.276Z",
+  "updatedAt": "2026-06-23T16:47:09.174Z",
   "teamScore": 502,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 98,
         "chips": 87000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T16:40:20.269Z"
+        "updatedAt": "2026-06-23T16:47:09.168Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 98,
           "chips": 87000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T16:40:20.269Z"
+          "updatedAt": "2026-06-23T16:47:09.168Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 195,
         "chips": 119000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T16:40:20.272Z"
+        "updatedAt": "2026-06-23T16:47:09.170Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T16:40:20.272Z"
+          "updatedAt": "2026-06-23T16:47:09.170Z"
         },
         {
           "eventSlug": "event-62-nlh",
@@ -102,7 +102,7 @@
           "rank": 195,
           "chips": 119000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T16:40:20.272Z"
+          "updatedAt": "2026-06-23T16:47:09.170Z"
         }
       ]
     },
@@ -126,7 +126,7 @@
         "rank": 86,
         "chips": 124000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T16:40:20.272Z"
+        "updatedAt": "2026-06-23T16:47:09.171Z"
       },
       "eventHistory": [
         {
@@ -142,7 +142,7 @@
           "rank": 86,
           "chips": 124000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T16:40:20.272Z"
+          "updatedAt": "2026-06-23T16:47:09.171Z"
         }
       ]
     },
@@ -166,7 +166,7 @@
         "rank": 5,
         "chips": 1480000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T16:40:20.273Z"
+        "updatedAt": "2026-06-23T16:47:09.171Z"
       },
       "eventHistory": [
         {
@@ -182,7 +182,7 @@
           "rank": 5,
           "chips": 1480000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T16:40:20.273Z"
+          "updatedAt": "2026-06-23T16:47:09.171Z"
         }
       ]
     },
