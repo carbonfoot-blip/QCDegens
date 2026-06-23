@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T21:10:13.408Z",
+  "updatedAt": "2026-06-23T21:16:51.588Z",
   "teamScore": 505,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 53,
         "chips": 510000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T21:10:13.403Z"
+        "updatedAt": "2026-06-23T21:16:51.582Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 53,
           "chips": 510000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T21:10:13.403Z"
+          "updatedAt": "2026-06-23T21:16:51.582Z"
         }
       ]
     },
@@ -65,13 +65,13 @@
         "buyin": 2500,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 271,
+        "playersLeft": 262,
         "currentDay": "2",
         "status": "active",
         "rank": 195,
         "chips": 119000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T21:10:13.404Z"
+        "updatedAt": "2026-06-23T21:16:51.584Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T21:10:13.404Z"
+          "updatedAt": "2026-06-23T21:16:51.584Z"
         },
         {
           "eventSlug": "event-62-nlh",
@@ -96,13 +96,13 @@
           "buyin": 2500,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 271,
+          "playersLeft": 262,
           "currentDay": "2",
           "status": "active",
           "rank": 195,
           "chips": 119000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T21:10:13.404Z"
+          "updatedAt": "2026-06-23T21:16:51.584Z"
         }
       ]
     },
@@ -126,7 +126,7 @@
         "rank": 78,
         "chips": 348000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T21:10:13.405Z"
+        "updatedAt": "2026-06-23T21:16:51.584Z"
       },
       "eventHistory": [
         {
@@ -142,7 +142,7 @@
           "rank": 78,
           "chips": 348000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T21:10:13.405Z"
+          "updatedAt": "2026-06-23T21:16:51.584Z"
         }
       ]
     },
@@ -166,7 +166,7 @@
         "rank": 5,
         "chips": 1480000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T21:10:13.405Z"
+        "updatedAt": "2026-06-23T21:16:51.585Z"
       },
       "eventHistory": [
         {
@@ -182,7 +182,7 @@
           "rank": 5,
           "chips": 1480000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T21:10:13.405Z"
+          "updatedAt": "2026-06-23T21:16:51.585Z"
         }
       ]
     },
@@ -260,7 +260,7 @@
       "slug": "event-59-salute-to-warriors",
       "name": "Event #59: $500 Salute to Warriors",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-59-salute-to-warriors/chips.htm",
-      "playersLeft": 12,
+      "playersLeft": 10,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
@@ -278,7 +278,7 @@
       "slug": "event-61-super-seniors",
       "name": "Event #61: $1,000 Super Seniors",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-61-super-seniors/chips.htm",
-      "playersLeft": 548,
+      "playersLeft": 536,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -287,7 +287,7 @@
       "slug": "event-62-nlh",
       "name": "Event #62: $2,500 No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-62-nlh/chips.htm",
-      "playersLeft": 271,
+      "playersLeft": 262,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
@@ -305,7 +305,7 @@
       "slug": "event-64-high-roller-plo-nlh-mixed",
       "name": "Event #64: $25,000 High Roller PLO/NLH Mixed",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-64-high-roller-plo-nlh-mixed/chips.htm",
-      "playersLeft": 20,
+      "playersLeft": 36,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
