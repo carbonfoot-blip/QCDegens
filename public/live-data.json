@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T23:13:50.146Z",
+  "updatedAt": "2026-06-23T23:20:22.117Z",
   "teamScore": 505,
   "completedEvents": [
     "event-3-industry-employees",
@@ -25,13 +25,13 @@
         "buyin": 1000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 87,
+        "playersLeft": 86,
         "currentDay": "2",
         "status": "active",
-        "rank": 53,
+        "rank": 49,
         "chips": 475000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T23:13:50.141Z"
+        "updatedAt": "2026-06-23T23:20:22.113Z"
       },
       "eventHistory": [
         {
@@ -41,13 +41,13 @@
           "buyin": 1000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 87,
+          "playersLeft": 86,
           "currentDay": "2",
           "status": "active",
-          "rank": 53,
+          "rank": 49,
           "chips": 475000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T23:13:50.141Z"
+          "updatedAt": "2026-06-23T23:20:22.113Z"
         }
       ]
     },
@@ -68,10 +68,10 @@
         "playersLeft": 147,
         "currentDay": "2",
         "status": "active",
-        "rank": 128,
+        "rank": 129,
         "chips": 119000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T23:13:50.143Z"
+        "updatedAt": "2026-06-23T23:20:22.114Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T23:13:50.143Z"
+          "updatedAt": "2026-06-23T23:20:22.114Z"
         },
         {
           "eventSlug": "event-62-nlh",
@@ -99,10 +99,10 @@
           "playersLeft": 147,
           "currentDay": "2",
           "status": "active",
-          "rank": 128,
+          "rank": 129,
           "chips": 119000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T23:13:50.143Z"
+          "updatedAt": "2026-06-23T23:20:22.114Z"
         }
       ]
     },
@@ -113,38 +113,8 @@
       "pts2026": 63,
       "salary": 3,
       "cashes2026": 3,
-      "liveStatus": {
-        "eventSlug": "event-57-plo",
-        "eventName": "Event #57: $1,000 Pot-Limit Omaha",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-57-plo/chips.htm",
-        "buyin": 1000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 87,
-        "currentDay": "2",
-        "status": "active",
-        "rank": 66,
-        "chips": 370000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T23:13:50.143Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-57-plo",
-          "eventName": "Event #57: $1,000 Pot-Limit Omaha",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-57-plo/chips.htm",
-          "buyin": 1000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 87,
-          "currentDay": "2",
-          "status": "active",
-          "rank": 66,
-          "chips": 370000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T23:13:50.143Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Matt Glantz",
@@ -163,10 +133,10 @@
         "playersLeft": 31,
         "currentDay": "3",
         "status": "active",
-        "rank": 14,
+        "rank": 13,
         "chips": 1050000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T23:13:50.143Z"
+        "updatedAt": "2026-06-23T23:20:22.115Z"
       },
       "eventHistory": [
         {
@@ -179,10 +149,10 @@
           "playersLeft": 31,
           "currentDay": "3",
           "status": "active",
-          "rank": 14,
+          "rank": 13,
           "chips": 1050000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T23:13:50.143Z"
+          "updatedAt": "2026-06-23T23:20:22.115Z"
         }
       ]
     },
@@ -251,7 +221,7 @@
       "slug": "event-57-plo",
       "name": "Event #57: $1,000 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-57-plo/chips.htm",
-      "playersLeft": 87,
+      "playersLeft": 86,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
