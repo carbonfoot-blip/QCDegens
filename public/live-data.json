@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T23:33:22.954Z",
+  "updatedAt": "2026-06-23T23:39:52.396Z",
   "teamScore": 505,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 47,
         "chips": 475000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T23:33:22.947Z"
+        "updatedAt": "2026-06-23T23:39:52.392Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 47,
           "chips": 475000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T23:33:22.947Z"
+          "updatedAt": "2026-06-23T23:39:52.392Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 130,
         "chips": 119000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T23:33:22.949Z"
+        "updatedAt": "2026-06-23T23:39:52.393Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T23:33:22.949Z"
+          "updatedAt": "2026-06-23T23:39:52.393Z"
         },
         {
           "eventSlug": "event-62-nlh",
@@ -102,7 +102,7 @@
           "rank": 130,
           "chips": 119000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T23:33:22.949Z"
+          "updatedAt": "2026-06-23T23:39:52.393Z"
         }
       ]
     },
@@ -136,7 +136,7 @@
         "rank": 9,
         "chips": 1400000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T23:33:22.950Z"
+        "updatedAt": "2026-06-23T23:39:52.394Z"
       },
       "eventHistory": [
         {
@@ -152,7 +152,7 @@
           "rank": 9,
           "chips": 1400000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T23:33:22.950Z"
+          "updatedAt": "2026-06-23T23:39:52.394Z"
         }
       ]
     },
@@ -193,8 +193,38 @@
       "pts2026": 8,
       "salary": 12,
       "cashes2026": 7,
-      "liveStatus": null,
-      "eventHistory": []
+      "liveStatus": {
+        "eventSlug": "event-64-high-roller-plo-nlh-mixed",
+        "eventName": "Event #64: $25,000 High Roller PLO/NLH Mixed",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-64-high-roller-plo-nlh-mixed/chips.htm",
+        "buyin": 25000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 71,
+        "currentDay": "1",
+        "status": "active",
+        "rank": 51,
+        "chips": 137500,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-06-23T23:39:52.396Z"
+      },
+      "eventHistory": [
+        {
+          "eventSlug": "event-64-high-roller-plo-nlh-mixed",
+          "eventName": "Event #64: $25,000 High Roller PLO/NLH Mixed",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-64-high-roller-plo-nlh-mixed/chips.htm",
+          "buyin": 25000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 71,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 51,
+          "chips": 137500,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-06-23T23:39:52.396Z"
+        }
+      ]
     },
     {
       "name": "Andrew Yeh",
@@ -230,7 +260,7 @@
       "slug": "event-59-salute-to-warriors",
       "name": "Event #59: $500 Salute to Warriors",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-59-salute-to-warriors/chips.htm",
-      "playersLeft": 8,
+      "playersLeft": 6,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
@@ -248,7 +278,7 @@
       "slug": "event-61-super-seniors",
       "name": "Event #61: $1,000 Super Seniors",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-61-super-seniors/chips.htm",
-      "playersLeft": 460,
+      "playersLeft": 426,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
