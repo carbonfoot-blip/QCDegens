@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T04:42:18.412Z",
+  "updatedAt": "2026-06-23T04:48:36.990Z",
   "teamScore": 502,
   "completedEvents": [
     "event-3-industry-employees",
@@ -43,7 +43,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T04:42:18.410Z"
+        "updatedAt": "2026-06-23T04:48:36.986Z"
       },
       "eventHistory": [
         {
@@ -59,7 +59,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T04:42:18.410Z"
+          "updatedAt": "2026-06-23T04:48:36.986Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -74,7 +74,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T04:42:18.410Z"
+          "updatedAt": "2026-06-23T04:48:36.986Z"
         }
       ]
     },
@@ -102,13 +102,13 @@
         "buyin": 50000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 50,
+        "playersLeft": 48,
         "currentDay": "2",
         "status": "active",
         "rank": 12,
         "chips": 960000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T04:42:18.411Z"
+        "updatedAt": "2026-06-23T04:48:36.987Z"
       },
       "eventHistory": [
         {
@@ -118,13 +118,13 @@
           "buyin": 50000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 50,
+          "playersLeft": 48,
           "currentDay": "2",
           "status": "active",
           "rank": 12,
           "chips": 960000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T04:42:18.411Z"
+          "updatedAt": "2026-06-23T04:48:36.987Z"
         }
       ]
     },
@@ -220,7 +220,7 @@
       "slug": "event-60-poker-players-championship",
       "name": "Event #60: $50,000 Poker Players Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-60-poker-players-championship/chips.htm",
-      "playersLeft": 50,
+      "playersLeft": 48,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
