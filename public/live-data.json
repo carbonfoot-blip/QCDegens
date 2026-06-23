@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T23:46:22.145Z",
+  "updatedAt": "2026-06-23T23:52:54.990Z",
   "teamScore": 505,
   "completedEvents": [
     "event-3-industry-employees",
@@ -18,38 +18,8 @@
       "pts2026": 88,
       "salary": 116,
       "cashes2026": 6,
-      "liveStatus": {
-        "eventSlug": "event-57-plo",
-        "eventName": "Event #57: $1,000 Pot-Limit Omaha",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-57-plo/chips.htm",
-        "buyin": 1000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 84,
-        "currentDay": "2",
-        "status": "active",
-        "rank": 47,
-        "chips": 475000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T23:46:22.141Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-57-plo",
-          "eventName": "Event #57: $1,000 Pot-Limit Omaha",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-57-plo/chips.htm",
-          "buyin": 1000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 84,
-          "currentDay": "2",
-          "status": "active",
-          "rank": 47,
-          "chips": 475000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T23:46:22.141Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Calvin Anderson",
@@ -68,10 +38,10 @@
         "playersLeft": 124,
         "currentDay": "2",
         "status": "active",
-        "rank": 130,
+        "rank": 111,
         "chips": 119000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T23:46:22.142Z"
+        "updatedAt": "2026-06-23T23:52:54.984Z"
       },
       "eventHistory": [
         {
@@ -87,7 +57,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T23:46:22.142Z"
+          "updatedAt": "2026-06-23T23:52:54.985Z"
         },
         {
           "eventSlug": "event-62-nlh",
@@ -99,10 +69,10 @@
           "playersLeft": 124,
           "currentDay": "2",
           "status": "active",
-          "rank": 130,
+          "rank": 111,
           "chips": 119000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T23:46:22.142Z"
+          "updatedAt": "2026-06-23T23:52:54.984Z"
         }
       ]
     },
@@ -133,10 +103,10 @@
         "playersLeft": 28,
         "currentDay": "3",
         "status": "active",
-        "rank": 9,
-        "chips": 1400000,
+        "rank": 12,
+        "chips": 1200000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T23:46:22.143Z"
+        "updatedAt": "2026-06-23T23:52:54.986Z"
       },
       "eventHistory": [
         {
@@ -149,10 +119,10 @@
           "playersLeft": 28,
           "currentDay": "3",
           "status": "active",
-          "rank": 9,
-          "chips": 1400000,
+          "rank": 12,
+          "chips": 1200000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T23:46:22.143Z"
+          "updatedAt": "2026-06-23T23:52:54.986Z"
         }
       ]
     },
@@ -203,10 +173,10 @@
         "playersLeft": 71,
         "currentDay": "1",
         "status": "active",
-        "rank": 51,
+        "rank": 52,
         "chips": 137500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T23:46:22.145Z"
+        "updatedAt": "2026-06-23T23:52:54.989Z"
       },
       "eventHistory": [
         {
@@ -219,10 +189,10 @@
           "playersLeft": 71,
           "currentDay": "1",
           "status": "active",
-          "rank": 51,
+          "rank": 52,
           "chips": 137500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T23:46:22.145Z"
+          "updatedAt": "2026-06-23T23:52:54.989Z"
         }
       ]
     },
