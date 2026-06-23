@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T05:51:38.181Z",
+  "updatedAt": "2026-06-23T05:57:54.653Z",
   "teamScore": 502,
   "completedEvents": [
     "event-3-industry-employees",
@@ -43,7 +43,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T05:51:38.179Z"
+        "updatedAt": "2026-06-23T05:57:54.651Z"
       },
       "eventHistory": [
         {
@@ -59,7 +59,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T05:51:38.179Z"
+          "updatedAt": "2026-06-23T05:57:54.651Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -74,7 +74,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T05:51:38.179Z"
+          "updatedAt": "2026-06-23T05:57:54.651Z"
         }
       ]
     },
@@ -102,13 +102,13 @@
         "buyin": 50000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 46,
+        "playersLeft": 45,
         "currentDay": "2",
         "status": "active",
         "rank": 11,
         "chips": 960000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T05:51:38.180Z"
+        "updatedAt": "2026-06-23T05:57:54.652Z"
       },
       "eventHistory": [
         {
@@ -118,13 +118,13 @@
           "buyin": 50000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 46,
+          "playersLeft": 45,
           "currentDay": "2",
           "status": "active",
           "rank": 11,
           "chips": 960000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T05:51:38.180Z"
+          "updatedAt": "2026-06-23T05:57:54.652Z"
         }
       ]
     },
@@ -211,7 +211,7 @@
       "slug": "event-59-salute-to-warriors",
       "name": "Event #59: $500 Salute to Warriors",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-59-salute-to-warriors/chips.htm",
-      "playersLeft": 50,
+      "playersLeft": 46,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
@@ -220,7 +220,7 @@
       "slug": "event-60-poker-players-championship",
       "name": "Event #60: $50,000 Poker Players Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-60-poker-players-championship/chips.htm",
-      "playersLeft": 46,
+      "playersLeft": 45,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
