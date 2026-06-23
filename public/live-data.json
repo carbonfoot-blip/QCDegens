@@ -1,8 +1,9 @@
 {
-  "updatedAt": "2026-06-23T06:47:51.651Z",
+  "updatedAt": "2026-06-23T06:54:04.787Z",
   "teamScore": 502,
   "completedEvents": [
     "event-3-industry-employees",
+    "event-58-limit-2-7-lowball-triple-draw",
     "event-56-nlh",
     "event-55-high-roller-plo",
     "event-54-horse-championship",
@@ -43,7 +44,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T06:47:51.648Z"
+        "updatedAt": "2026-06-23T06:54:04.785Z"
       },
       "eventHistory": [
         {
@@ -59,7 +60,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T06:47:51.648Z"
+          "updatedAt": "2026-06-23T06:54:04.785Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -74,7 +75,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T06:47:51.648Z"
+          "updatedAt": "2026-06-23T06:54:04.785Z"
         }
       ]
     },
@@ -108,7 +109,7 @@
         "rank": 7,
         "chips": 1200000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T06:47:51.649Z"
+        "updatedAt": "2026-06-23T06:54:04.785Z"
       },
       "eventHistory": [
         {
@@ -124,7 +125,7 @@
           "rank": 7,
           "chips": 1200000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T06:47:51.649Z"
+          "updatedAt": "2026-06-23T06:54:04.785Z"
         }
       ]
     },
@@ -202,16 +203,16 @@
       "slug": "event-58-limit-2-7-lowball-triple-draw",
       "name": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-58-limit-2-7-lowball-triple-draw/chips.htm",
-      "playersLeft": 2,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 1500,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-59-salute-to-warriors",
       "name": "Event #59: $500 Salute to Warriors",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-59-salute-to-warriors/chips.htm",
-      "playersLeft": 41,
+      "playersLeft": 36,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
