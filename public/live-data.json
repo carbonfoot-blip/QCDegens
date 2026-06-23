@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T12:06:57.102Z",
+  "updatedAt": "2026-06-23T12:13:43.498Z",
   "teamScore": 502,
   "completedEvents": [
     "event-3-industry-employees",
@@ -10,8 +10,7 @@
     "event-53-five-card-plo",
     "event-52-nine-game-mix",
     "event-51-mystery-bounty",
-    "event-49-freezeout",
-    "event-48-razz-championship"
+    "event-49-freezeout"
   ],
   "players": [
     {
@@ -34,7 +33,7 @@
         "rank": 98,
         "chips": 87000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T12:06:57.096Z"
+        "updatedAt": "2026-06-23T12:13:43.493Z"
       },
       "eventHistory": [
         {
@@ -50,7 +49,7 @@
           "rank": 98,
           "chips": 87000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T12:06:57.096Z"
+          "updatedAt": "2026-06-23T12:13:43.493Z"
         }
       ]
     },
@@ -74,24 +73,9 @@
         "rank": 195,
         "chips": 119000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T12:06:57.098Z"
+        "updatedAt": "2026-06-23T12:13:43.494Z"
       },
       "eventHistory": [
-        {
-          "eventSlug": "event-48-razz-championship",
-          "eventName": "Event #48: $10,000 Razz Championship",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-48-razz-championship/chips.htm",
-          "buyin": 10000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 1,
-          "currentDay": "3",
-          "status": "active",
-          "rank": 1,
-          "chips": 9300000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T12:06:57.098Z"
-        },
         {
           "eventSlug": "event-54-horse-championship",
           "eventName": "Event #54: $10,000 H.O.R.S.E. Championship",
@@ -105,7 +89,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T12:06:57.098Z"
+          "updatedAt": "2026-06-23T12:13:43.494Z"
         },
         {
           "eventSlug": "event-62-nlh",
@@ -120,7 +104,7 @@
           "rank": 195,
           "chips": 119000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T12:06:57.098Z"
+          "updatedAt": "2026-06-23T12:13:43.494Z"
         }
       ]
     },
@@ -144,7 +128,7 @@
         "rank": 86,
         "chips": 124000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T12:06:57.098Z"
+        "updatedAt": "2026-06-23T12:13:43.494Z"
       },
       "eventHistory": [
         {
@@ -160,7 +144,7 @@
           "rank": 86,
           "chips": 124000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T12:06:57.098Z"
+          "updatedAt": "2026-06-23T12:13:43.494Z"
         }
       ]
     },
@@ -184,7 +168,7 @@
         "rank": 5,
         "chips": 1480000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T12:06:57.099Z"
+        "updatedAt": "2026-06-23T12:13:43.495Z"
       },
       "eventHistory": [
         {
@@ -200,7 +184,7 @@
           "rank": 5,
           "chips": 1480000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T12:06:57.099Z"
+          "updatedAt": "2026-06-23T12:13:43.495Z"
         }
       ]
     },
@@ -320,6 +304,15 @@
       "completed": false
     },
     {
+      "slug": "event-63-mystery-millions",
+      "name": "Event #63: $1,000 Mystery Millions No-Limit Hold'em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-63-mystery-millions/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 1000,
+      "completed": false
+    },
+    {
       "slug": "event-56-nlh",
       "name": "Event #56: $3,000 6-Handed No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-56-nlh/chips.htm",
@@ -380,15 +373,6 @@
       "playersLeft": 1,
       "totalEntries": null,
       "buyin": 2500,
-      "completed": true
-    },
-    {
-      "slug": "event-48-razz-championship",
-      "name": "Event #48: $10,000 Razz Championship",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-48-razz-championship/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 10000,
       "completed": true
     }
   ]
