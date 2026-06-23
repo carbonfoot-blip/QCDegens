@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T20:10:27.306Z",
+  "updatedAt": "2026-06-23T20:17:04.996Z",
   "teamScore": 505,
   "completedEvents": [
     "event-3-industry-employees",
@@ -25,13 +25,13 @@
         "buyin": 1000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 191,
+        "playersLeft": 163,
         "currentDay": "2",
         "status": "active",
         "rank": 158,
         "chips": 87000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T20:10:27.300Z"
+        "updatedAt": "2026-06-23T20:17:04.988Z"
       },
       "eventHistory": [
         {
@@ -41,13 +41,13 @@
           "buyin": 1000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 191,
+          "playersLeft": 163,
           "currentDay": "2",
           "status": "active",
           "rank": 158,
           "chips": 87000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T20:10:27.300Z"
+          "updatedAt": "2026-06-23T20:17:04.988Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 195,
         "chips": 119000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T20:10:27.301Z"
+        "updatedAt": "2026-06-23T20:17:04.990Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T20:10:27.301Z"
+          "updatedAt": "2026-06-23T20:17:04.990Z"
         },
         {
           "eventSlug": "event-62-nlh",
@@ -102,7 +102,7 @@
           "rank": 195,
           "chips": 119000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T20:10:27.301Z"
+          "updatedAt": "2026-06-23T20:17:04.990Z"
         }
       ]
     },
@@ -120,13 +120,13 @@
         "buyin": 1000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 191,
+        "playersLeft": 163,
         "currentDay": "2",
         "status": "active",
-        "rank": 83,
+        "rank": 84,
         "chips": 348000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T20:10:27.301Z"
+        "updatedAt": "2026-06-23T20:17:04.990Z"
       },
       "eventHistory": [
         {
@@ -136,13 +136,13 @@
           "buyin": 1000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 191,
+          "playersLeft": 163,
           "currentDay": "2",
           "status": "active",
-          "rank": 83,
+          "rank": 84,
           "chips": 348000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T20:10:27.301Z"
+          "updatedAt": "2026-06-23T20:17:04.990Z"
         }
       ]
     },
@@ -163,10 +163,10 @@
         "playersLeft": 39,
         "currentDay": "3",
         "status": "active",
-        "rank": 5,
+        "rank": 4,
         "chips": 1480000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T20:10:27.302Z"
+        "updatedAt": "2026-06-23T20:17:04.991Z"
       },
       "eventHistory": [
         {
@@ -179,10 +179,10 @@
           "playersLeft": 39,
           "currentDay": "3",
           "status": "active",
-          "rank": 5,
+          "rank": 4,
           "chips": 1480000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T20:10:27.302Z"
+          "updatedAt": "2026-06-23T20:17:04.991Z"
         }
       ]
     },
@@ -251,7 +251,7 @@
       "slug": "event-57-plo",
       "name": "Event #57: $1,000 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-57-plo/chips.htm",
-      "playersLeft": 191,
+      "playersLeft": 163,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -260,7 +260,7 @@
       "slug": "event-59-salute-to-warriors",
       "name": "Event #59: $500 Salute to Warriors",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-59-salute-to-warriors/chips.htm",
-      "playersLeft": 14,
+      "playersLeft": 13,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
