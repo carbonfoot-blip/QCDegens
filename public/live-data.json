@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T04:54:54.988Z",
+  "updatedAt": "2026-06-23T05:01:13.005Z",
   "teamScore": 502,
   "completedEvents": [
     "event-3-industry-employees",
@@ -43,7 +43,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T04:54:54.986Z"
+        "updatedAt": "2026-06-23T05:01:13.003Z"
       },
       "eventHistory": [
         {
@@ -59,7 +59,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T04:54:54.986Z"
+          "updatedAt": "2026-06-23T05:01:13.003Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -74,7 +74,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T04:54:54.986Z"
+          "updatedAt": "2026-06-23T05:01:13.003Z"
         }
       ]
     },
@@ -105,10 +105,10 @@
         "playersLeft": 48,
         "currentDay": "2",
         "status": "active",
-        "rank": 12,
+        "rank": 11,
         "chips": 960000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T04:54:54.987Z"
+        "updatedAt": "2026-06-23T05:01:13.003Z"
       },
       "eventHistory": [
         {
@@ -121,10 +121,10 @@
           "playersLeft": 48,
           "currentDay": "2",
           "status": "active",
-          "rank": 12,
+          "rank": 11,
           "chips": 960000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T04:54:54.987Z"
+          "updatedAt": "2026-06-23T05:01:13.003Z"
         }
       ]
     },
@@ -193,7 +193,7 @@
       "slug": "event-57-plo",
       "name": "Event #57: $1,000 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-57-plo/chips.htm",
-      "playersLeft": 77,
+      "playersLeft": 403,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -229,7 +229,7 @@
       "slug": "event-61-super-seniors",
       "name": "Event #61: $1,000 Super Seniors",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-61-super-seniors/chips.htm",
-      "playersLeft": 2029,
+      "playersLeft": 941,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -238,7 +238,7 @@
       "slug": "event-62-nlh",
       "name": "Event #62: $2,500 No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-62-nlh/chips.htm",
-      "playersLeft": 758,
+      "playersLeft": 665,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
