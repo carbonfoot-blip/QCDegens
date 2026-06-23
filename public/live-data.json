@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T01:26:25.899Z",
+  "updatedAt": "2026-06-23T01:32:46.010Z",
   "teamScore": 502,
   "completedEvents": [
     "event-3-industry-employees",
@@ -43,7 +43,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T01:26:25.897Z"
+        "updatedAt": "2026-06-23T01:32:46.008Z"
       },
       "eventHistory": [
         {
@@ -59,7 +59,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T01:26:25.897Z"
+          "updatedAt": "2026-06-23T01:32:46.008Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -74,7 +74,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T01:26:25.897Z"
+          "updatedAt": "2026-06-23T01:32:46.008Z"
         }
       ]
     },
@@ -105,10 +105,10 @@
         "playersLeft": 60,
         "currentDay": "2",
         "status": "active",
-        "rank": 10,
+        "rank": 9,
         "chips": 800000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T01:26:25.897Z"
+        "updatedAt": "2026-06-23T01:32:46.008Z"
       },
       "eventHistory": [
         {
@@ -121,10 +121,10 @@
           "playersLeft": 60,
           "currentDay": "2",
           "status": "active",
-          "rank": 10,
+          "rank": 9,
           "chips": 800000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T01:26:25.897Z"
+          "updatedAt": "2026-06-23T01:32:46.008Z"
         }
       ]
     },
@@ -202,7 +202,7 @@
       "slug": "event-58-limit-2-7-lowball-triple-draw",
       "name": "Event #58: $1,500 Limit 2-7 Lowball Triple Draw",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-58-limit-2-7-lowball-triple-draw/chips.htm",
-      "playersLeft": 5,
+      "playersLeft": 4,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
