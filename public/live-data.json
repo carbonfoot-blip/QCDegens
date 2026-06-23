@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T05:32:41.673Z",
+  "updatedAt": "2026-06-23T05:39:00.895Z",
   "teamScore": 502,
   "completedEvents": [
     "event-3-industry-employees",
@@ -43,7 +43,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T05:32:41.671Z"
+        "updatedAt": "2026-06-23T05:39:00.893Z"
       },
       "eventHistory": [
         {
@@ -59,7 +59,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T05:32:41.672Z"
+          "updatedAt": "2026-06-23T05:39:00.893Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -74,7 +74,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T05:32:41.671Z"
+          "updatedAt": "2026-06-23T05:39:00.893Z"
         }
       ]
     },
@@ -105,10 +105,10 @@
         "playersLeft": 46,
         "currentDay": "2",
         "status": "active",
-        "rank": 11,
+        "rank": 12,
         "chips": 960000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T05:32:41.672Z"
+        "updatedAt": "2026-06-23T05:39:00.894Z"
       },
       "eventHistory": [
         {
@@ -121,10 +121,10 @@
           "playersLeft": 46,
           "currentDay": "2",
           "status": "active",
-          "rank": 11,
+          "rank": 12,
           "chips": 960000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T05:32:41.672Z"
+          "updatedAt": "2026-06-23T05:39:00.894Z"
         }
       ]
     },
@@ -211,7 +211,7 @@
       "slug": "event-59-salute-to-warriors",
       "name": "Event #59: $500 Salute to Warriors",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-59-salute-to-warriors/chips.htm",
-      "playersLeft": 54,
+      "playersLeft": 50,
       "totalEntries": null,
       "buyin": 500,
       "completed": false
