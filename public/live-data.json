@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-23T11:33:57.362Z",
+  "updatedAt": "2026-06-23T11:40:37.154Z",
   "teamScore": 502,
   "completedEvents": [
     "event-3-industry-employees",
@@ -34,7 +34,7 @@
         "rank": 98,
         "chips": 87000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T11:33:57.357Z"
+        "updatedAt": "2026-06-23T11:40:37.149Z"
       },
       "eventHistory": [
         {
@@ -50,7 +50,7 @@
           "rank": 98,
           "chips": 87000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T11:33:57.357Z"
+          "updatedAt": "2026-06-23T11:40:37.149Z"
         }
       ]
     },
@@ -74,7 +74,7 @@
         "rank": 195,
         "chips": 119000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T11:33:57.358Z"
+        "updatedAt": "2026-06-23T11:40:37.150Z"
       },
       "eventHistory": [
         {
@@ -90,7 +90,7 @@
           "rank": 1,
           "chips": 9300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T11:33:57.358Z"
+          "updatedAt": "2026-06-23T11:40:37.150Z"
         },
         {
           "eventSlug": "event-54-horse-championship",
@@ -105,7 +105,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T11:33:57.358Z"
+          "updatedAt": "2026-06-23T11:40:37.150Z"
         },
         {
           "eventSlug": "event-62-nlh",
@@ -120,7 +120,7 @@
           "rank": 195,
           "chips": 119000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T11:33:57.358Z"
+          "updatedAt": "2026-06-23T11:40:37.150Z"
         }
       ]
     },
@@ -144,7 +144,7 @@
         "rank": 86,
         "chips": 124000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T11:33:57.358Z"
+        "updatedAt": "2026-06-23T11:40:37.150Z"
       },
       "eventHistory": [
         {
@@ -160,7 +160,7 @@
           "rank": 86,
           "chips": 124000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T11:33:57.358Z"
+          "updatedAt": "2026-06-23T11:40:37.150Z"
         }
       ]
     },
@@ -171,38 +171,8 @@
       "pts2026": 18,
       "salary": 27,
       "cashes2026": 8,
-      "liveStatus": {
-        "eventSlug": "event-60-poker-players-championship",
-        "eventName": "Event #60: $50,000 Poker Players Championship",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-60-poker-players-championship/chips.htm",
-        "buyin": 50000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 39,
-        "currentDay": "2",
-        "status": "active",
-        "rank": 5,
-        "chips": 1480000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-23T11:33:57.359Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-60-poker-players-championship",
-          "eventName": "Event #60: $50,000 Poker Players Championship",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-60-poker-players-championship/chips.htm",
-          "buyin": 50000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 39,
-          "currentDay": "2",
-          "status": "active",
-          "rank": 5,
-          "chips": 1480000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-23T11:33:57.359Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Ben Lamb",
@@ -296,9 +266,9 @@
       "slug": "event-60-poker-players-championship",
       "name": "Event #60: $50,000 Poker Players Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-60-poker-players-championship/chips.htm",
-      "playersLeft": 39,
+      "playersLeft": null,
       "totalEntries": null,
-      "buyin": 50000,
+      "buyin": null,
       "completed": false
     },
     {
