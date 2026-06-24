@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T06:25:22.249Z",
+  "updatedAt": "2026-06-24T06:31:48.597Z",
   "teamScore": 506,
   "completedEvents": [
     "event-3-industry-employees",
@@ -26,13 +26,13 @@
         "buyin": 25000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 68,
+        "playersLeft": 63,
         "currentDay": "1",
         "status": "active",
-        "rank": 37,
+        "rank": 38,
         "chips": 224000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T06:25:22.246Z"
+        "updatedAt": "2026-06-24T06:31:48.594Z"
       },
       "eventHistory": [
         {
@@ -42,13 +42,13 @@
           "buyin": 25000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 68,
+          "playersLeft": 63,
           "currentDay": "1",
           "status": "active",
-          "rank": 37,
+          "rank": 38,
           "chips": 224000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T06:25:22.246Z"
+          "updatedAt": "2026-06-24T06:31:48.594Z"
         }
       ]
     },
@@ -72,7 +72,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T06:25:22.247Z"
+        "updatedAt": "2026-06-24T06:31:48.595Z"
       },
       "eventHistory": [
         {
@@ -88,7 +88,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T06:25:22.247Z"
+          "updatedAt": "2026-06-24T06:31:48.595Z"
         }
       ]
     },
@@ -116,13 +116,13 @@
         "buyin": 50000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 19,
+        "playersLeft": 18,
         "currentDay": "3",
         "status": "active",
         "rank": 16,
         "chips": 750000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T06:25:22.247Z"
+        "updatedAt": "2026-06-24T06:31:48.595Z"
       },
       "eventHistory": [
         {
@@ -132,13 +132,13 @@
           "buyin": 50000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 19,
+          "playersLeft": 18,
           "currentDay": "3",
           "status": "active",
           "rank": 16,
           "chips": 750000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T06:25:22.247Z"
+          "updatedAt": "2026-06-24T06:31:48.595Z"
         }
       ]
     },
@@ -186,13 +186,13 @@
         "buyin": 25000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 68,
+        "playersLeft": 63,
         "currentDay": "1",
         "status": "active",
-        "rank": 46,
+        "rank": 47,
         "chips": 155000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T06:25:22.248Z"
+        "updatedAt": "2026-06-24T06:31:48.596Z"
       },
       "eventHistory": [
         {
@@ -202,13 +202,13 @@
           "buyin": 25000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 68,
+          "playersLeft": 63,
           "currentDay": "1",
           "status": "active",
-          "rank": 46,
+          "rank": 47,
           "chips": 155000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T06:25:22.248Z"
+          "updatedAt": "2026-06-24T06:31:48.596Z"
         }
       ]
     },
@@ -255,7 +255,7 @@
       "slug": "event-60-poker-players-championship",
       "name": "Event #60: $50,000 Poker Players Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-60-poker-players-championship/chips.htm",
-      "playersLeft": 19,
+      "playersLeft": 18,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
@@ -291,7 +291,7 @@
       "slug": "event-64-high-roller-plo-nlh-mixed",
       "name": "Event #64: $25,000 High Roller PLO/NLH Mixed",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-64-high-roller-plo-nlh-mixed/chips.htm",
-      "playersLeft": 68,
+      "playersLeft": 63,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
