@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T04:30:28.505Z",
+  "updatedAt": "2026-06-24T04:36:51.886Z",
   "teamScore": 506,
   "completedEvents": [
     "event-3-industry-employees",
@@ -26,13 +26,13 @@
         "buyin": 25000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 79,
+        "playersLeft": 78,
         "currentDay": "1",
         "status": "active",
         "rank": 43,
         "chips": 150000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T04:30:28.502Z"
+        "updatedAt": "2026-06-24T04:36:51.883Z"
       },
       "eventHistory": [
         {
@@ -42,13 +42,13 @@
           "buyin": 25000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 79,
+          "playersLeft": 78,
           "currentDay": "1",
           "status": "active",
           "rank": 43,
           "chips": 150000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T04:30:28.502Z"
+          "updatedAt": "2026-06-24T04:36:51.883Z"
         }
       ]
     },
@@ -72,7 +72,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T04:30:28.502Z"
+        "updatedAt": "2026-06-24T04:36:51.884Z"
       },
       "eventHistory": [
         {
@@ -88,7 +88,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T04:30:28.502Z"
+          "updatedAt": "2026-06-24T04:36:51.884Z"
         }
       ]
     },
@@ -122,7 +122,7 @@
         "rank": 16,
         "chips": 820000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T04:30:28.503Z"
+        "updatedAt": "2026-06-24T04:36:51.884Z"
       },
       "eventHistory": [
         {
@@ -138,7 +138,7 @@
           "rank": 16,
           "chips": 820000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T04:30:28.503Z"
+          "updatedAt": "2026-06-24T04:36:51.884Z"
         }
       ]
     },
@@ -186,13 +186,13 @@
         "buyin": 25000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 79,
+        "playersLeft": 78,
         "currentDay": "1",
         "status": "active",
         "rank": 41,
         "chips": 155000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T04:30:28.504Z"
+        "updatedAt": "2026-06-24T04:36:51.885Z"
       },
       "eventHistory": [
         {
@@ -202,13 +202,13 @@
           "buyin": 25000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 79,
+          "playersLeft": 78,
           "currentDay": "1",
           "status": "active",
           "rank": 41,
           "chips": 155000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T04:30:28.504Z"
+          "updatedAt": "2026-06-24T04:36:51.885Z"
         }
       ]
     },
@@ -291,7 +291,7 @@
       "slug": "event-64-high-roller-plo-nlh-mixed",
       "name": "Event #64: $25,000 High Roller PLO/NLH Mixed",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-64-high-roller-plo-nlh-mixed/chips.htm",
-      "playersLeft": 79,
+      "playersLeft": 78,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
