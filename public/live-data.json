@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T05:08:50.125Z",
+  "updatedAt": "2026-06-24T05:15:12.293Z",
   "teamScore": 506,
   "completedEvents": [
     "event-3-industry-employees",
@@ -32,7 +32,7 @@
         "rank": 37,
         "chips": 224000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T05:08:50.121Z"
+        "updatedAt": "2026-06-24T05:15:12.289Z"
       },
       "eventHistory": [
         {
@@ -48,7 +48,7 @@
           "rank": 37,
           "chips": 224000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T05:08:50.121Z"
+          "updatedAt": "2026-06-24T05:15:12.289Z"
         }
       ]
     },
@@ -72,7 +72,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T05:08:50.122Z"
+        "updatedAt": "2026-06-24T05:15:12.289Z"
       },
       "eventHistory": [
         {
@@ -88,7 +88,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T05:08:50.122Z"
+          "updatedAt": "2026-06-24T05:15:12.289Z"
         }
       ]
     },
@@ -122,7 +122,7 @@
         "rank": 17,
         "chips": 750000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T05:08:50.123Z"
+        "updatedAt": "2026-06-24T05:15:12.290Z"
       },
       "eventHistory": [
         {
@@ -138,7 +138,7 @@
           "rank": 17,
           "chips": 750000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T05:08:50.123Z"
+          "updatedAt": "2026-06-24T05:15:12.290Z"
         }
       ]
     },
@@ -192,7 +192,7 @@
         "rank": 48,
         "chips": 155000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T05:08:50.124Z"
+        "updatedAt": "2026-06-24T05:15:12.292Z"
       },
       "eventHistory": [
         {
@@ -208,7 +208,7 @@
           "rank": 48,
           "chips": 155000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T05:08:50.124Z"
+          "updatedAt": "2026-06-24T05:15:12.292Z"
         }
       ]
     },
@@ -282,7 +282,7 @@
       "slug": "event-63-mystery-millions",
       "name": "Event #63: $1,000 Mystery Millions No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-63-mystery-millions/chips.htm",
-      "playersLeft": 506,
+      "playersLeft": 160,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -300,7 +300,7 @@
       "slug": "event-65-freezeout",
       "name": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-65-freezeout/chips.htm",
-      "playersLeft": 1471,
+      "playersLeft": 797,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
