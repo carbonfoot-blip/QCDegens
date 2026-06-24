@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T23:32:06.732Z",
+  "updatedAt": "2026-06-24T23:38:26.168Z",
   "teamScore": 523,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,7 +30,7 @@
         "rank": 26,
         "chips": 460000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T23:32:06.725Z"
+        "updatedAt": "2026-06-24T23:38:26.164Z"
       },
       "eventHistory": [
         {
@@ -46,7 +46,7 @@
           "rank": 26,
           "chips": 460000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T23:32:06.725Z"
+          "updatedAt": "2026-06-24T23:38:26.164Z"
         }
       ]
     },
@@ -70,7 +70,7 @@
         "rank": 62,
         "chips": 150000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T23:32:06.726Z"
+        "updatedAt": "2026-06-24T23:38:26.165Z"
       },
       "eventHistory": [
         {
@@ -86,7 +86,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T23:32:06.726Z"
+          "updatedAt": "2026-06-24T23:38:26.165Z"
         },
         {
           "eventSlug": "event-64-high-roller-plo-nlh-mixed",
@@ -101,22 +101,7 @@
           "rank": 62,
           "chips": 150000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T23:32:06.726Z"
-        },
-        {
-          "eventSlug": "event-67-limit-2-7-championship",
-          "eventName": "Event #67: $10,000 Limit 2-7 Championship",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-67-limit-2-7-championship/chips.htm",
-          "buyin": 10000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 71,
-          "currentDay": "1",
-          "status": "active",
-          "rank": 73,
-          "chips": 52200,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T23:32:06.726Z"
+          "updatedAt": "2026-06-24T23:38:26.165Z"
         }
       ]
     },
@@ -140,7 +125,7 @@
         "rank": 21,
         "chips": 74900,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T23:32:06.727Z"
+        "updatedAt": "2026-06-24T23:38:26.166Z"
       },
       "eventHistory": [
         {
@@ -156,7 +141,7 @@
           "rank": 21,
           "chips": 74900,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T23:32:06.727Z"
+          "updatedAt": "2026-06-24T23:38:26.166Z"
         }
       ]
     },
@@ -220,7 +205,7 @@
         "rank": 11,
         "chips": 733000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T23:32:06.730Z"
+        "updatedAt": "2026-06-24T23:38:26.167Z"
       },
       "eventHistory": [
         {
@@ -236,7 +221,7 @@
           "rank": 11,
           "chips": 733000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T23:32:06.730Z"
+          "updatedAt": "2026-06-24T23:38:26.167Z"
         }
       ]
     },
@@ -283,7 +268,7 @@
       "slug": "event-61-super-seniors",
       "name": "Event #61: $1,000 Super Seniors",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-61-super-seniors/chips.htm",
-      "playersLeft": 45,
+      "playersLeft": 39,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
