@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T08:32:10.319Z",
+  "updatedAt": "2026-06-24T08:38:30.306Z",
   "teamScore": 522,
   "completedEvents": [
     "event-3-industry-employees",
@@ -32,7 +32,7 @@
         "rank": 24,
         "chips": 399000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T08:32:10.317Z"
+        "updatedAt": "2026-06-24T08:38:30.304Z"
       },
       "eventHistory": [
         {
@@ -48,7 +48,7 @@
           "rank": 24,
           "chips": 399000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T08:32:10.317Z"
+          "updatedAt": "2026-06-24T08:38:30.304Z"
         }
       ]
     },
@@ -72,7 +72,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T08:32:10.317Z"
+        "updatedAt": "2026-06-24T08:38:30.305Z"
       },
       "eventHistory": [
         {
@@ -88,7 +88,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T08:32:10.317Z"
+          "updatedAt": "2026-06-24T08:38:30.305Z"
         }
       ]
     },
@@ -168,7 +168,7 @@
       "slug": "event-50-millionaire-maker",
       "name": "Event #50: $1,500 Millionaire Maker",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-50-millionaire-maker/chips.htm",
-      "playersLeft": 10,
+      "playersLeft": 9,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
