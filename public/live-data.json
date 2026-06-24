@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T03:20:14.095Z",
+  "updatedAt": "2026-06-24T03:26:36.056Z",
   "teamScore": 506,
   "completedEvents": [
     "event-3-industry-employees",
@@ -32,7 +32,7 @@
         "rank": 40,
         "chips": 150000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T03:20:14.092Z"
+        "updatedAt": "2026-06-24T03:26:36.053Z"
       },
       "eventHistory": [
         {
@@ -48,7 +48,7 @@
           "rank": 40,
           "chips": 150000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T03:20:14.092Z"
+          "updatedAt": "2026-06-24T03:26:36.053Z"
         }
       ]
     },
@@ -72,7 +72,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T03:20:14.092Z"
+        "updatedAt": "2026-06-24T03:26:36.053Z"
       },
       "eventHistory": [
         {
@@ -88,7 +88,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T03:20:14.092Z"
+          "updatedAt": "2026-06-24T03:26:36.053Z"
         }
       ]
     },
@@ -119,10 +119,10 @@
         "playersLeft": 23,
         "currentDay": "3",
         "status": "active",
-        "rank": 10,
+        "rank": 11,
         "chips": 1500000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T03:20:14.093Z"
+        "updatedAt": "2026-06-24T03:26:36.054Z"
       },
       "eventHistory": [
         {
@@ -135,10 +135,10 @@
           "playersLeft": 23,
           "currentDay": "3",
           "status": "active",
-          "rank": 10,
+          "rank": 11,
           "chips": 1500000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T03:20:14.093Z"
+          "updatedAt": "2026-06-24T03:26:36.054Z"
         }
       ]
     },
@@ -192,7 +192,7 @@
         "rank": 38,
         "chips": 155000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T03:20:14.094Z"
+        "updatedAt": "2026-06-24T03:26:36.055Z"
       },
       "eventHistory": [
         {
@@ -208,7 +208,7 @@
           "rank": 38,
           "chips": 155000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T03:20:14.094Z"
+          "updatedAt": "2026-06-24T03:26:36.055Z"
         }
       ]
     },
@@ -264,7 +264,7 @@
       "slug": "event-61-super-seniors",
       "name": "Event #61: $1,000 Super Seniors",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-61-super-seniors/chips.htm",
-      "playersLeft": 220,
+      "playersLeft": 212,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
