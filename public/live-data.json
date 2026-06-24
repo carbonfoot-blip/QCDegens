@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T06:57:15.111Z",
+  "updatedAt": "2026-06-24T07:03:36.688Z",
   "teamScore": 506,
   "completedEvents": [
     "event-3-industry-employees",
@@ -29,10 +29,10 @@
         "playersLeft": 60,
         "currentDay": "1",
         "status": "active",
-        "rank": 38,
-        "chips": 224000,
+        "rank": 24,
+        "chips": 399000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T06:57:15.109Z"
+        "updatedAt": "2026-06-24T07:03:36.685Z"
       },
       "eventHistory": [
         {
@@ -45,10 +45,10 @@
           "playersLeft": 60,
           "currentDay": "1",
           "status": "active",
-          "rank": 38,
-          "chips": 224000,
+          "rank": 24,
+          "chips": 399000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T06:57:15.109Z"
+          "updatedAt": "2026-06-24T07:03:36.685Z"
         }
       ]
     },
@@ -72,7 +72,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T06:57:15.109Z"
+        "updatedAt": "2026-06-24T07:03:36.685Z"
       },
       "eventHistory": [
         {
@@ -88,7 +88,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T06:57:15.109Z"
+          "updatedAt": "2026-06-24T07:03:36.685Z"
         }
       ]
     },
@@ -122,7 +122,7 @@
         "rank": 18,
         "chips": 250000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T06:57:15.110Z"
+        "updatedAt": "2026-06-24T07:03:36.686Z"
       },
       "eventHistory": [
         {
@@ -138,7 +138,7 @@
           "rank": 18,
           "chips": 250000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T06:57:15.110Z"
+          "updatedAt": "2026-06-24T07:03:36.686Z"
         }
       ]
     },
@@ -179,38 +179,8 @@
       "pts2026": 8,
       "salary": 12,
       "cashes2026": 7,
-      "liveStatus": {
-        "eventSlug": "event-64-high-roller-plo-nlh-mixed",
-        "eventName": "Event #64: $25,000 High Roller PLO/NLH Mixed",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-64-high-roller-plo-nlh-mixed/chips.htm",
-        "buyin": 25000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 60,
-        "currentDay": "1",
-        "status": "active",
-        "rank": 47,
-        "chips": 155000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T06:57:15.111Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-64-high-roller-plo-nlh-mixed",
-          "eventName": "Event #64: $25,000 High Roller PLO/NLH Mixed",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-64-high-roller-plo-nlh-mixed/chips.htm",
-          "buyin": 25000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 60,
-          "currentDay": "1",
-          "status": "active",
-          "rank": 47,
-          "chips": 155000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T06:57:15.111Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Andrew Yeh",
@@ -226,7 +196,7 @@
   "activeEvents": [
     {
       "slug": "event-50-millionaire-maker",
-      "name": "Event #50: $1,500 Millionaire Maker\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
+      "name": "Event #50: $1,500 Millionaire Maker",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-50-millionaire-maker/chips.htm",
       "playersLeft": 13,
       "totalEntries": null,
@@ -273,7 +243,7 @@
       "slug": "event-62-nlh",
       "name": "Event #62: $2,500 No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-62-nlh/chips.htm",
-      "playersLeft": 38,
+      "playersLeft": 35,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
