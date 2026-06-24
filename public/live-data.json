@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-24T08:00:29.750Z",
-  "teamScore": 506,
+  "updatedAt": "2026-06-24T08:06:49.977Z",
+  "teamScore": 522,
   "completedEvents": [
     "event-3-industry-employees",
     "event-59-salute-to-warriors",
@@ -32,7 +32,7 @@
         "rank": 24,
         "chips": 399000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T08:00:29.748Z"
+        "updatedAt": "2026-06-24T08:06:49.975Z"
       },
       "eventHistory": [
         {
@@ -48,7 +48,7 @@
           "rank": 24,
           "chips": 399000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T08:00:29.748Z"
+          "updatedAt": "2026-06-24T08:06:49.975Z"
         }
       ]
     },
@@ -72,7 +72,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T08:00:29.748Z"
+        "updatedAt": "2026-06-24T08:06:49.976Z"
       },
       "eventHistory": [
         {
@@ -88,7 +88,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T08:00:29.748Z"
+          "updatedAt": "2026-06-24T08:06:49.976Z"
         }
       ]
     },
@@ -106,9 +106,9 @@
       "name": "Matt Glantz",
       "slug": "matt-glantz",
       "isBonus": false,
-      "pts2026": 18,
+      "pts2026": 34,
       "salary": 27,
-      "cashes2026": 8,
+      "cashes2026": 9,
       "liveStatus": null,
       "eventHistory": []
     },
