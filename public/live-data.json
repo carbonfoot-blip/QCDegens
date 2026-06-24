@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T16:31:31.152Z",
+  "updatedAt": "2026-06-24T16:43:23.168Z",
   "teamScore": 522,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,7 +30,7 @@
         "rank": 24,
         "chips": 399000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T16:31:31.149Z"
+        "updatedAt": "2026-06-24T16:43:23.166Z"
       },
       "eventHistory": [
         {
@@ -46,7 +46,7 @@
           "rank": 24,
           "chips": 399000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T16:31:31.149Z"
+          "updatedAt": "2026-06-24T16:43:23.166Z"
         }
       ]
     },
@@ -70,7 +70,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T16:31:31.149Z"
+        "updatedAt": "2026-06-24T16:43:23.166Z"
       },
       "eventHistory": [
         {
@@ -86,7 +86,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T16:31:31.149Z"
+          "updatedAt": "2026-06-24T16:43:23.166Z"
         }
       ]
     },
@@ -181,15 +181,6 @@
       "completed": false
     },
     {
-      "slug": "event-59-salute-to-warriors",
-      "name": "Event #59: $500 Salute to Warriors",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-59-salute-to-warriors/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 500,
-      "completed": true
-    },
-    {
       "slug": "event-60-poker-players-championship",
       "name": "Event #60: $50,000 Poker Players Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-60-poker-players-championship/chips.htm",
@@ -260,6 +251,15 @@
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
+    },
+    {
+      "slug": "event-59-salute-to-warriors",
+      "name": "Event #59: $500 Salute to Warriors",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-59-salute-to-warriors/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 500,
+      "completed": true
     },
     {
       "slug": "event-58-limit-2-7-lowball-triple-draw",
