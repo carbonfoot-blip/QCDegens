@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T00:31:56.120Z",
+  "updatedAt": "2026-06-24T00:38:24.068Z",
   "teamScore": 506,
   "completedEvents": [
     "event-3-industry-employees",
@@ -41,7 +41,7 @@
         "rank": 111,
         "chips": 119000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T00:31:56.116Z"
+        "updatedAt": "2026-06-24T00:38:24.065Z"
       },
       "eventHistory": [
         {
@@ -57,7 +57,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T00:31:56.116Z"
+          "updatedAt": "2026-06-24T00:38:24.065Z"
         },
         {
           "eventSlug": "event-62-nlh",
@@ -72,7 +72,7 @@
           "rank": 111,
           "chips": 119000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T00:31:56.116Z"
+          "updatedAt": "2026-06-24T00:38:24.065Z"
         }
       ]
     },
@@ -106,7 +106,7 @@
         "rank": 13,
         "chips": 1200000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T00:31:56.117Z"
+        "updatedAt": "2026-06-24T00:38:24.066Z"
       },
       "eventHistory": [
         {
@@ -122,7 +122,7 @@
           "rank": 13,
           "chips": 1200000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T00:31:56.117Z"
+          "updatedAt": "2026-06-24T00:38:24.066Z"
         }
       ]
     },
@@ -173,10 +173,10 @@
         "playersLeft": 75,
         "currentDay": "1",
         "status": "active",
-        "rank": 52,
+        "rank": 51,
         "chips": 137500,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T00:31:56.119Z"
+        "updatedAt": "2026-06-24T00:38:24.067Z"
       },
       "eventHistory": [
         {
@@ -189,10 +189,10 @@
           "playersLeft": 75,
           "currentDay": "1",
           "status": "active",
-          "rank": 52,
+          "rank": 51,
           "chips": 137500,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T00:31:56.119Z"
+          "updatedAt": "2026-06-24T00:38:24.067Z"
         }
       ]
     },
@@ -221,7 +221,7 @@
       "slug": "event-57-plo",
       "name": "Event #57: $1,000 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-57-plo/chips.htm",
-      "playersLeft": 71,
+      "playersLeft": 68,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
