@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T19:59:00.389Z",
+  "updatedAt": "2026-06-24T20:05:38.075Z",
   "teamScore": 522,
   "completedEvents": [
     "event-3-industry-employees",
@@ -24,13 +24,13 @@
         "buyin": 25000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 71,
+        "playersLeft": 73,
         "currentDay": "2",
         "status": "active",
         "rank": 14,
         "chips": 485000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T19:59:00.386Z"
+        "updatedAt": "2026-06-24T20:05:38.072Z"
       },
       "eventHistory": [
         {
@@ -40,13 +40,13 @@
           "buyin": 25000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 71,
+          "playersLeft": 73,
           "currentDay": "2",
           "status": "active",
           "rank": 14,
           "chips": 485000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T19:59:00.386Z"
+          "updatedAt": "2026-06-24T20:05:38.072Z"
         }
       ]
     },
@@ -70,7 +70,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T19:59:00.386Z"
+        "updatedAt": "2026-06-24T20:05:38.073Z"
       },
       "eventHistory": [
         {
@@ -86,7 +86,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T19:59:00.386Z"
+          "updatedAt": "2026-06-24T20:05:38.073Z"
         }
       ]
     },
@@ -193,7 +193,7 @@
       "slug": "event-61-super-seniors",
       "name": "Event #61: $1,000 Super Seniors",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-61-super-seniors/chips.htm",
-      "playersLeft": 73,
+      "playersLeft": 72,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -220,7 +220,7 @@
       "slug": "event-64-high-roller-plo-nlh-mixed",
       "name": "Event #64: $25,000 High Roller PLO/NLH Mixed",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-64-high-roller-plo-nlh-mixed/chips.htm",
-      "playersLeft": 71,
+      "playersLeft": 73,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
