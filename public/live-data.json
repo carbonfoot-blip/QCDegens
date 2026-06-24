@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T08:13:09.320Z",
+  "updatedAt": "2026-06-24T08:19:29.284Z",
   "teamScore": 522,
   "completedEvents": [
     "event-3-industry-employees",
@@ -32,7 +32,7 @@
         "rank": 24,
         "chips": 399000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T08:13:09.318Z"
+        "updatedAt": "2026-06-24T08:19:29.282Z"
       },
       "eventHistory": [
         {
@@ -48,7 +48,7 @@
           "rank": 24,
           "chips": 399000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T08:13:09.318Z"
+          "updatedAt": "2026-06-24T08:19:29.282Z"
         }
       ]
     },
@@ -72,7 +72,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T08:13:09.318Z"
+        "updatedAt": "2026-06-24T08:19:29.283Z"
       },
       "eventHistory": [
         {
@@ -88,7 +88,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T08:13:09.318Z"
+          "updatedAt": "2026-06-24T08:19:29.283Z"
         }
       ]
     },
@@ -240,7 +240,7 @@
       "slug": "event-65-freezeout",
       "name": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-65-freezeout/chips.htm",
-      "playersLeft": 465,
+      "playersLeft": 410,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
