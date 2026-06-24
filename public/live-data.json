@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T22:18:10.344Z",
+  "updatedAt": "2026-06-24T22:24:33.755Z",
   "teamScore": 523,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,7 +30,7 @@
         "rank": 15,
         "chips": 625000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T22:18:10.341Z"
+        "updatedAt": "2026-06-24T22:24:33.750Z"
       },
       "eventHistory": [
         {
@@ -46,7 +46,7 @@
           "rank": 15,
           "chips": 625000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T22:18:10.341Z"
+          "updatedAt": "2026-06-24T22:24:33.750Z"
         }
       ]
     },
@@ -70,7 +70,7 @@
         "rank": 61,
         "chips": 150000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T22:18:10.342Z"
+        "updatedAt": "2026-06-24T22:24:33.751Z"
       },
       "eventHistory": [
         {
@@ -86,7 +86,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T22:18:10.342Z"
+          "updatedAt": "2026-06-24T22:24:33.751Z"
         },
         {
           "eventSlug": "event-64-high-roller-plo-nlh-mixed",
@@ -101,7 +101,7 @@
           "rank": 61,
           "chips": 150000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T22:18:10.342Z"
+          "updatedAt": "2026-06-24T22:24:33.751Z"
         },
         {
           "eventSlug": "event-67-limit-2-7-championship",
@@ -113,10 +113,10 @@
           "playersLeft": 59,
           "currentDay": "1",
           "status": "active",
-          "rank": 3,
+          "rank": 4,
           "chips": 67000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T22:18:10.342Z"
+          "updatedAt": "2026-06-24T22:24:33.751Z"
         }
       ]
     },
@@ -190,7 +190,7 @@
         "rank": 47,
         "chips": 150000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T22:18:10.344Z"
+        "updatedAt": "2026-06-24T22:24:33.754Z"
       },
       "eventHistory": [
         {
@@ -206,7 +206,7 @@
           "rank": 47,
           "chips": 150000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T22:18:10.344Z"
+          "updatedAt": "2026-06-24T22:24:33.754Z"
         }
       ]
     },
@@ -262,7 +262,7 @@
       "slug": "event-62-nlh",
       "name": "Event #62: $2,500 No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-62-nlh/chips.htm",
-      "playersLeft": 17,
+      "playersLeft": 15,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
@@ -271,7 +271,7 @@
       "slug": "event-63-mystery-millions",
       "name": "Event #63: $1,000 Mystery Millions No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-63-mystery-millions/chips.htm",
-      "playersLeft": 76,
+      "playersLeft": 1103,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
