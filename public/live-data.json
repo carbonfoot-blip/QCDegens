@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T05:27:56.334Z",
+  "updatedAt": "2026-06-24T05:34:21.267Z",
   "teamScore": 506,
   "completedEvents": [
     "event-3-industry-employees",
@@ -32,7 +32,7 @@
         "rank": 38,
         "chips": 224000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T05:27:56.331Z"
+        "updatedAt": "2026-06-24T05:34:21.265Z"
       },
       "eventHistory": [
         {
@@ -48,7 +48,7 @@
           "rank": 38,
           "chips": 224000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T05:27:56.331Z"
+          "updatedAt": "2026-06-24T05:34:21.265Z"
         }
       ]
     },
@@ -72,7 +72,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T05:27:56.332Z"
+        "updatedAt": "2026-06-24T05:34:21.265Z"
       },
       "eventHistory": [
         {
@@ -88,7 +88,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T05:27:56.332Z"
+          "updatedAt": "2026-06-24T05:34:21.265Z"
         }
       ]
     },
@@ -122,7 +122,7 @@
         "rank": 17,
         "chips": 750000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T05:27:56.332Z"
+        "updatedAt": "2026-06-24T05:34:21.265Z"
       },
       "eventHistory": [
         {
@@ -138,7 +138,7 @@
           "rank": 17,
           "chips": 750000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T05:27:56.332Z"
+          "updatedAt": "2026-06-24T05:34:21.265Z"
         }
       ]
     },
@@ -192,7 +192,7 @@
         "rank": 48,
         "chips": 155000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T05:27:56.333Z"
+        "updatedAt": "2026-06-24T05:34:21.267Z"
       },
       "eventHistory": [
         {
@@ -208,7 +208,7 @@
           "rank": 48,
           "chips": 155000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T05:27:56.333Z"
+          "updatedAt": "2026-06-24T05:34:21.267Z"
         }
       ]
     },
@@ -228,7 +228,7 @@
       "slug": "event-50-millionaire-maker",
       "name": "Event #50: $1,500 Millionaire Maker\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-50-millionaire-maker/chips.htm",
-      "playersLeft": 15,
+      "playersLeft": 14,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
