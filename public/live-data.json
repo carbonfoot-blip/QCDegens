@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T19:33:08.297Z",
+  "updatedAt": "2026-06-24T19:39:38.160Z",
   "teamScore": 522,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,7 +30,7 @@
         "rank": 24,
         "chips": 399000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T19:33:08.294Z"
+        "updatedAt": "2026-06-24T19:39:38.158Z"
       },
       "eventHistory": [
         {
@@ -46,7 +46,7 @@
           "rank": 24,
           "chips": 399000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T19:33:08.294Z"
+          "updatedAt": "2026-06-24T19:39:38.158Z"
         }
       ]
     },
@@ -70,7 +70,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T19:33:08.294Z"
+        "updatedAt": "2026-06-24T19:39:38.159Z"
       },
       "eventHistory": [
         {
@@ -86,7 +86,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T19:33:08.294Z"
+          "updatedAt": "2026-06-24T19:39:38.159Z"
         }
       ]
     },
@@ -175,7 +175,7 @@
       "slug": "event-57-plo",
       "name": "Event #57: $1,000 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-57-plo/chips.htm",
-      "playersLeft": 22,
+      "playersLeft": 19,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
