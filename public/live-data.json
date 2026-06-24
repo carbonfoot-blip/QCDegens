@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T20:05:38.075Z",
+  "updatedAt": "2026-06-24T20:12:04.742Z",
   "teamScore": 522,
   "completedEvents": [
     "event-3-industry-employees",
@@ -27,10 +27,10 @@
         "playersLeft": 73,
         "currentDay": "2",
         "status": "active",
-        "rank": 14,
+        "rank": 15,
         "chips": 485000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T20:05:38.072Z"
+        "updatedAt": "2026-06-24T20:12:04.739Z"
       },
       "eventHistory": [
         {
@@ -43,10 +43,10 @@
           "playersLeft": 73,
           "currentDay": "2",
           "status": "active",
-          "rank": 14,
+          "rank": 15,
           "chips": 485000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T20:05:38.072Z"
+          "updatedAt": "2026-06-24T20:12:04.739Z"
         }
       ]
     },
@@ -70,7 +70,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T20:05:38.073Z"
+        "updatedAt": "2026-06-24T20:12:04.740Z"
       },
       "eventHistory": [
         {
@@ -86,7 +86,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T20:05:38.073Z"
+          "updatedAt": "2026-06-24T20:12:04.740Z"
         }
       ]
     },
@@ -175,7 +175,7 @@
       "slug": "event-57-plo",
       "name": "Event #57: $1,000 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-57-plo/chips.htm",
-      "playersLeft": 19,
+      "playersLeft": 16,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -184,7 +184,7 @@
       "slug": "event-60-poker-players-championship",
       "name": "Event #60: $50,000 Poker Players Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-60-poker-players-championship/chips.htm",
-      "playersLeft": 15,
+      "playersLeft": 14,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
@@ -202,7 +202,7 @@
       "slug": "event-62-nlh",
       "name": "Event #62: $2,500 No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-62-nlh/chips.htm",
-      "playersLeft": 29,
+      "playersLeft": 27,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
