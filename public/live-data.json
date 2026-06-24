@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-24T22:54:35.872Z",
+  "updatedAt": "2026-06-24T23:01:00.170Z",
   "teamScore": 523,
   "completedEvents": [
     "event-3-industry-employees",
@@ -27,10 +27,10 @@
         "playersLeft": 74,
         "currentDay": "2",
         "status": "active",
-        "rank": 25,
+        "rank": 24,
         "chips": 460000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T22:54:35.864Z"
+        "updatedAt": "2026-06-24T23:01:00.165Z"
       },
       "eventHistory": [
         {
@@ -43,10 +43,10 @@
           "playersLeft": 74,
           "currentDay": "2",
           "status": "active",
-          "rank": 25,
+          "rank": 24,
           "chips": 460000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T22:54:35.864Z"
+          "updatedAt": "2026-06-24T23:01:00.165Z"
         }
       ]
     },
@@ -67,10 +67,10 @@
         "playersLeft": 74,
         "currentDay": "2",
         "status": "active",
-        "rank": 68,
+        "rank": 63,
         "chips": 150000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T22:54:35.865Z"
+        "updatedAt": "2026-06-24T23:01:00.166Z"
       },
       "eventHistory": [
         {
@@ -86,7 +86,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T22:54:35.865Z"
+          "updatedAt": "2026-06-24T23:01:00.166Z"
         },
         {
           "eventSlug": "event-64-high-roller-plo-nlh-mixed",
@@ -98,10 +98,10 @@
           "playersLeft": 74,
           "currentDay": "2",
           "status": "active",
-          "rank": 68,
+          "rank": 63,
           "chips": 150000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T22:54:35.865Z"
+          "updatedAt": "2026-06-24T23:01:00.166Z"
         },
         {
           "eventSlug": "event-67-limit-2-7-championship",
@@ -113,10 +113,10 @@
           "playersLeft": 71,
           "currentDay": "1",
           "status": "active",
-          "rank": 7,
+          "rank": 8,
           "chips": 67000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T22:54:35.865Z"
+          "updatedAt": "2026-06-24T23:01:00.166Z"
         }
       ]
     },
@@ -137,10 +137,10 @@
         "playersLeft": 71,
         "currentDay": "1",
         "status": "active",
-        "rank": 60,
+        "rank": 66,
         "chips": 42000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T22:54:35.866Z"
+        "updatedAt": "2026-06-24T23:01:00.168Z"
       },
       "eventHistory": [
         {
@@ -153,10 +153,10 @@
           "playersLeft": 71,
           "currentDay": "1",
           "status": "active",
-          "rank": 60,
+          "rank": 66,
           "chips": 42000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T22:54:35.866Z"
+          "updatedAt": "2026-06-24T23:01:00.168Z"
         }
       ]
     },
@@ -217,10 +217,10 @@
         "playersLeft": 74,
         "currentDay": "2",
         "status": "active",
-        "rank": 55,
-        "chips": 150000,
+        "rank": 45,
+        "chips": 286000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-24T22:54:35.871Z"
+        "updatedAt": "2026-06-24T23:01:00.169Z"
       },
       "eventHistory": [
         {
@@ -233,10 +233,10 @@
           "playersLeft": 74,
           "currentDay": "2",
           "status": "active",
-          "rank": 55,
-          "chips": 150000,
+          "rank": 45,
+          "chips": 286000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-24T22:54:35.871Z"
+          "updatedAt": "2026-06-24T23:01:00.169Z"
         }
       ]
     },
@@ -283,7 +283,7 @@
       "slug": "event-61-super-seniors",
       "name": "Event #61: $1,000 Super Seniors",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-61-super-seniors/chips.htm",
-      "playersLeft": 51,
+      "playersLeft": 45,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
