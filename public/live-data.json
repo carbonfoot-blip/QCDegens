@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T03:32:51.611Z",
+  "updatedAt": "2026-06-25T03:39:15.145Z",
   "teamScore": 523,
   "completedEvents": [
     "event-3-industry-employees",
@@ -27,10 +27,10 @@
         "playersLeft": 36,
         "currentDay": "2",
         "status": "active",
-        "rank": 18,
+        "rank": 19,
         "chips": 810000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T03:32:51.609Z"
+        "updatedAt": "2026-06-25T03:39:15.141Z"
       },
       "eventHistory": [
         {
@@ -43,10 +43,10 @@
           "playersLeft": 36,
           "currentDay": "2",
           "status": "active",
-          "rank": 18,
+          "rank": 19,
           "chips": 810000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T03:32:51.609Z"
+          "updatedAt": "2026-06-25T03:39:15.141Z"
         }
       ]
     },
@@ -70,7 +70,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T03:32:51.609Z"
+        "updatedAt": "2026-06-25T03:39:15.141Z"
       },
       "eventHistory": [
         {
@@ -86,7 +86,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T03:32:51.609Z"
+          "updatedAt": "2026-06-25T03:39:15.141Z"
         }
       ]
     },
@@ -110,7 +110,7 @@
         "rank": 28,
         "chips": 95000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T03:32:51.610Z"
+        "updatedAt": "2026-06-25T03:39:15.142Z"
       },
       "eventHistory": [
         {
@@ -126,7 +126,7 @@
           "rank": 28,
           "chips": 95000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T03:32:51.610Z"
+          "updatedAt": "2026-06-25T03:39:15.142Z"
         }
       ]
     },
@@ -190,7 +190,7 @@
         "rank": 32,
         "chips": 600000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T03:32:51.611Z"
+        "updatedAt": "2026-06-25T03:39:15.144Z"
       },
       "eventHistory": [
         {
@@ -206,7 +206,7 @@
           "rank": 32,
           "chips": 600000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T03:32:51.611Z"
+          "updatedAt": "2026-06-25T03:39:15.144Z"
         }
       ]
     },
@@ -230,7 +230,7 @@
         "rank": 88,
         "chips": 43000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T03:32:51.611Z"
+        "updatedAt": "2026-06-25T03:39:15.145Z"
       },
       "eventHistory": [
         {
@@ -246,7 +246,7 @@
           "rank": 88,
           "chips": 43000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T03:32:51.611Z"
+          "updatedAt": "2026-06-25T03:39:15.145Z"
         }
       ]
     }
@@ -256,7 +256,7 @@
       "slug": "event-50-millionaire-maker",
       "name": "Event #50: $1,500 Millionaire Maker\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-50-millionaire-maker/chips.htm",
-      "playersLeft": 4,
+      "playersLeft": 3,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
