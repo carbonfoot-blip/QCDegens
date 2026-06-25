@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T01:01:22.711Z",
+  "updatedAt": "2026-06-25T01:13:04.493Z",
   "teamScore": 523,
   "completedEvents": [
     "event-3-industry-employees",
@@ -24,13 +24,13 @@
         "buyin": 25000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 45,
+        "playersLeft": 43,
         "currentDay": "2",
         "status": "active",
         "rank": 12,
         "chips": 925000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T01:01:22.708Z"
+        "updatedAt": "2026-06-25T01:13:04.491Z"
       },
       "eventHistory": [
         {
@@ -40,13 +40,13 @@
           "buyin": 25000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 45,
+          "playersLeft": 43,
           "currentDay": "2",
           "status": "active",
           "rank": 12,
           "chips": 925000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T01:01:22.708Z"
+          "updatedAt": "2026-06-25T01:13:04.491Z"
         }
       ]
     },
@@ -58,19 +58,19 @@
       "salary": 25,
       "cashes2026": 5,
       "liveStatus": {
-        "eventSlug": "event-64-high-roller-plo-nlh-mixed",
-        "eventName": "Event #64: $25,000 High Roller PLO/NLH Mixed",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-64-high-roller-plo-nlh-mixed/chips.htm",
-        "buyin": 25000,
+        "eventSlug": "event-54-horse-championship",
+        "eventName": "Event #54: $10,000 H.O.R.S.E. Championship",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-54-horse-championship/chips.htm",
+        "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 45,
-        "currentDay": "2",
+        "playersLeft": 1,
+        "currentDay": "3",
         "status": "active",
-        "rank": 64,
-        "chips": 150000,
+        "rank": 1,
+        "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T01:01:22.709Z"
+        "updatedAt": "2026-06-25T01:13:04.491Z"
       },
       "eventHistory": [
         {
@@ -86,22 +86,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T01:01:22.709Z"
-        },
-        {
-          "eventSlug": "event-64-high-roller-plo-nlh-mixed",
-          "eventName": "Event #64: $25,000 High Roller PLO/NLH Mixed",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-64-high-roller-plo-nlh-mixed/chips.htm",
-          "buyin": 25000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 45,
-          "currentDay": "2",
-          "status": "active",
-          "rank": 64,
-          "chips": 150000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T01:01:22.709Z"
+          "updatedAt": "2026-06-25T01:13:04.491Z"
         }
       ]
     },
@@ -122,10 +107,10 @@
         "playersLeft": 89,
         "currentDay": "1",
         "status": "active",
-        "rank": 23,
+        "rank": 25,
         "chips": 74900,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T01:01:22.709Z"
+        "updatedAt": "2026-06-25T01:13:04.492Z"
       },
       "eventHistory": [
         {
@@ -138,10 +123,10 @@
           "playersLeft": 89,
           "currentDay": "1",
           "status": "active",
-          "rank": 23,
+          "rank": 25,
           "chips": 74900,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T01:01:22.709Z"
+          "updatedAt": "2026-06-25T01:13:04.492Z"
         }
       ]
     },
@@ -199,13 +184,13 @@
         "buyin": 25000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 45,
+        "playersLeft": 43,
         "currentDay": "2",
         "status": "active",
         "rank": 8,
         "chips": 1130000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T01:01:22.711Z"
+        "updatedAt": "2026-06-25T01:13:04.492Z"
       },
       "eventHistory": [
         {
@@ -215,13 +200,13 @@
           "buyin": 25000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 45,
+          "playersLeft": 43,
           "currentDay": "2",
           "status": "active",
           "rank": 8,
           "chips": 1130000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T01:01:22.711Z"
+          "updatedAt": "2026-06-25T01:13:04.492Z"
         }
       ]
     },
@@ -250,7 +235,7 @@
       "slug": "event-57-plo",
       "name": "Event #57: $1,000 Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-57-plo/chips.htm",
-      "playersLeft": 9,
+      "playersLeft": 7,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -295,7 +280,7 @@
       "slug": "event-64-high-roller-plo-nlh-mixed",
       "name": "Event #64: $25,000 High Roller PLO/NLH Mixed",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-64-high-roller-plo-nlh-mixed/chips.htm",
-      "playersLeft": 45,
+      "playersLeft": 43,
       "totalEntries": null,
       "buyin": 25000,
       "completed": false
@@ -304,7 +289,7 @@
       "slug": "event-65-freezeout",
       "name": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-65-freezeout/chips.htm",
-      "playersLeft": 147,
+      "playersLeft": 140,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
