@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T21:32:22.547Z",
+  "updatedAt": "2026-06-25T21:38:43.202Z",
   "teamScore": 525,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 8,
         "chips": 1850000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T21:32:22.545Z"
+        "updatedAt": "2026-06-25T21:38:43.200Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 8,
           "chips": 1850000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T21:32:22.545Z"
+          "updatedAt": "2026-06-25T21:38:43.200Z"
         }
       ]
     },
@@ -88,10 +88,10 @@
         "playersLeft": 72,
         "currentDay": "2",
         "status": "active",
-        "rank": 75,
+        "rank": 72,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T21:32:22.546Z"
+        "updatedAt": "2026-06-25T21:38:43.201Z"
       },
       "eventHistory": [
         {
@@ -104,10 +104,10 @@
           "playersLeft": 72,
           "currentDay": "2",
           "status": "active",
-          "rank": 75,
+          "rank": 72,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T21:32:22.546Z"
+          "updatedAt": "2026-06-25T21:38:43.201Z"
         }
       ]
     },
@@ -171,7 +171,7 @@
         "rank": 3,
         "chips": 327000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T21:32:22.546Z"
+        "updatedAt": "2026-06-25T21:38:43.201Z"
       },
       "eventHistory": [
         {
@@ -187,7 +187,7 @@
           "rank": 3,
           "chips": 327000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T21:32:22.546Z"
+          "updatedAt": "2026-06-25T21:38:43.201Z"
         }
       ]
     }
@@ -197,7 +197,7 @@
       "slug": "event-60-poker-players-championship",
       "name": "Event #60: $50,000 Poker Players Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-60-poker-players-championship/chips.htm",
-      "playersLeft": 6,
+      "playersLeft": 5,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
@@ -242,7 +242,7 @@
       "slug": "event-66-tag-team",
       "name": "Event #66: $1,000 Tag Team No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-66-tag-team/chips.htm",
-      "playersLeft": 175,
+      "playersLeft": 166,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
