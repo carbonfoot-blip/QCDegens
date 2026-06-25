@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T06:05:56.153Z",
+  "updatedAt": "2026-06-25T06:12:12.661Z",
   "teamScore": 523,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 9,
         "chips": 1160000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T06:05:56.151Z"
+        "updatedAt": "2026-06-25T06:12:12.659Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 9,
           "chips": 1160000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T06:05:56.151Z"
+          "updatedAt": "2026-06-25T06:12:12.659Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T06:05:56.152Z"
+        "updatedAt": "2026-06-25T06:12:12.659Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T06:05:56.152Z"
+          "updatedAt": "2026-06-25T06:12:12.659Z"
         }
       ]
     },
@@ -161,7 +161,7 @@
         "rank": 25,
         "chips": 530000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T06:05:56.153Z"
+        "updatedAt": "2026-06-25T06:12:12.661Z"
       },
       "eventHistory": [
         {
@@ -177,7 +177,7 @@
           "rank": 25,
           "chips": 530000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T06:05:56.153Z"
+          "updatedAt": "2026-06-25T06:12:12.661Z"
         }
       ]
     },
@@ -201,7 +201,7 @@
         "rank": 2,
         "chips": 327000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T06:05:56.153Z"
+        "updatedAt": "2026-06-25T06:12:12.661Z"
       },
       "eventHistory": [
         {
@@ -217,7 +217,7 @@
           "rank": 2,
           "chips": 327000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T06:05:56.153Z"
+          "updatedAt": "2026-06-25T06:12:12.661Z"
         }
       ]
     }
