@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T23:07:16.671Z",
+  "updatedAt": "2026-06-25T23:13:31.127Z",
   "teamScore": 525,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 8,
         "chips": 1250000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T23:07:16.670Z"
+        "updatedAt": "2026-06-25T23:13:31.125Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 8,
           "chips": 1250000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T23:07:16.670Z"
+          "updatedAt": "2026-06-25T23:13:31.125Z"
         }
       ]
     },
@@ -78,38 +78,8 @@
       "pts2026": 34,
       "salary": 27,
       "cashes2026": 9,
-      "liveStatus": {
-        "eventSlug": "event-67-limit-2-7-championship",
-        "eventName": "Event #67: $10,000 Limit 2-7 Championship",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-67-limit-2-7-championship/chips.htm",
-        "buyin": 10000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 50,
-        "currentDay": "2",
-        "status": "active",
-        "rank": 56,
-        "chips": 30000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T23:07:16.670Z"
-      },
-      "eventHistory": [
-        {
-          "eventSlug": "event-67-limit-2-7-championship",
-          "eventName": "Event #67: $10,000 Limit 2-7 Championship",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-67-limit-2-7-championship/chips.htm",
-          "buyin": 10000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 50,
-          "currentDay": "2",
-          "status": "active",
-          "rank": 56,
-          "chips": 30000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T23:07:16.670Z"
-        }
-      ]
+      "liveStatus": null,
+      "eventHistory": []
     },
     {
       "name": "Ben Lamb",
@@ -171,7 +141,7 @@
         "rank": 2,
         "chips": 340000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T23:07:16.671Z"
+        "updatedAt": "2026-06-25T23:13:31.127Z"
       },
       "eventHistory": [
         {
@@ -187,7 +157,7 @@
           "rank": 2,
           "chips": 340000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T23:07:16.671Z"
+          "updatedAt": "2026-06-25T23:13:31.127Z"
         }
       ]
     }
@@ -233,7 +203,7 @@
       "slug": "event-65-freezeout",
       "name": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-65-freezeout/chips.htm",
-      "playersLeft": 16,
+      "playersLeft": 14,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
