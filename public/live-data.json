@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T03:52:05.532Z",
+  "updatedAt": "2026-06-25T03:58:30.624Z",
   "teamScore": 523,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,7 +30,7 @@
         "rank": 19,
         "chips": 810000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T03:52:05.528Z"
+        "updatedAt": "2026-06-25T03:58:30.622Z"
       },
       "eventHistory": [
         {
@@ -46,7 +46,7 @@
           "rank": 19,
           "chips": 810000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T03:52:05.528Z"
+          "updatedAt": "2026-06-25T03:58:30.622Z"
         }
       ]
     },
@@ -70,7 +70,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T03:52:05.528Z"
+        "updatedAt": "2026-06-25T03:58:30.622Z"
       },
       "eventHistory": [
         {
@@ -86,7 +86,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T03:52:05.528Z"
+          "updatedAt": "2026-06-25T03:58:30.622Z"
         }
       ]
     },
@@ -160,7 +160,7 @@
         "rank": 31,
         "chips": 600000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T03:52:05.530Z"
+        "updatedAt": "2026-06-25T03:58:30.623Z"
       },
       "eventHistory": [
         {
@@ -176,7 +176,7 @@
           "rank": 31,
           "chips": 600000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T03:52:05.530Z"
+          "updatedAt": "2026-06-25T03:58:30.623Z"
         }
       ]
     },
@@ -200,7 +200,7 @@
         "rank": 9,
         "chips": 183000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T03:52:05.531Z"
+        "updatedAt": "2026-06-25T03:58:30.623Z"
       },
       "eventHistory": [
         {
@@ -216,7 +216,7 @@
           "rank": 9,
           "chips": 183000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T03:52:05.531Z"
+          "updatedAt": "2026-06-25T03:58:30.623Z"
         }
       ]
     }
@@ -262,7 +262,7 @@
       "slug": "event-62-nlh",
       "name": "Event #62: $2,500 No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-62-nlh/chips.htm",
-      "playersLeft": 7,
+      "playersLeft": 6,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
