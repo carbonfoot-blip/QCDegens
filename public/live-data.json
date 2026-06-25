@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T19:45:13.170Z",
+  "updatedAt": "2026-06-25T19:51:28.272Z",
   "teamScore": 525,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 14,
         "chips": 1115000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T19:45:13.169Z"
+        "updatedAt": "2026-06-25T19:51:28.270Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 14,
           "chips": 1115000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T19:45:13.169Z"
+          "updatedAt": "2026-06-25T19:51:28.270Z"
         }
       ]
     },
@@ -136,12 +136,12 @@
         "totalEntries": null,
         "prizePool": null,
         "playersLeft": 57,
-        "currentDay": "1",
+        "currentDay": "2",
         "status": "active",
         "rank": 2,
         "chips": 327000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T19:45:13.170Z"
+        "updatedAt": "2026-06-25T19:51:28.271Z"
       },
       "eventHistory": [
         {
@@ -152,12 +152,12 @@
           "totalEntries": null,
           "prizePool": null,
           "playersLeft": 57,
-          "currentDay": "1",
+          "currentDay": "2",
           "status": "active",
           "rank": 2,
           "chips": 327000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T19:45:13.170Z"
+          "updatedAt": "2026-06-25T19:51:28.271Z"
         }
       ]
     }
@@ -176,7 +176,7 @@
       "slug": "event-61-super-seniors",
       "name": "Event #61: $1,000 Super Seniors",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-61-super-seniors/chips.htm",
-      "playersLeft": 11,
+      "playersLeft": 10,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
