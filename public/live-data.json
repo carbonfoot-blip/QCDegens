@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T04:11:17.016Z",
+  "updatedAt": "2026-06-25T04:17:41.453Z",
   "teamScore": 523,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,7 +30,7 @@
         "rank": 19,
         "chips": 810000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T04:11:17.013Z"
+        "updatedAt": "2026-06-25T04:17:41.451Z"
       },
       "eventHistory": [
         {
@@ -46,7 +46,7 @@
           "rank": 19,
           "chips": 810000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T04:11:17.013Z"
+          "updatedAt": "2026-06-25T04:17:41.451Z"
         }
       ]
     },
@@ -70,7 +70,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T04:11:17.013Z"
+        "updatedAt": "2026-06-25T04:17:41.452Z"
       },
       "eventHistory": [
         {
@@ -86,7 +86,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T04:11:17.013Z"
+          "updatedAt": "2026-06-25T04:17:41.452Z"
         }
       ]
     },
@@ -160,7 +160,7 @@
         "rank": 31,
         "chips": 600000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T04:11:17.015Z"
+        "updatedAt": "2026-06-25T04:17:41.453Z"
       },
       "eventHistory": [
         {
@@ -176,7 +176,7 @@
           "rank": 31,
           "chips": 600000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T04:11:17.015Z"
+          "updatedAt": "2026-06-25T04:17:41.453Z"
         }
       ]
     },
@@ -194,13 +194,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 73,
+        "playersLeft": 71,
         "currentDay": "1",
         "status": "active",
-        "rank": 14,
+        "rank": 15,
         "chips": 170000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T04:11:17.015Z"
+        "updatedAt": "2026-06-25T04:17:41.453Z"
       },
       "eventHistory": [
         {
@@ -210,13 +210,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 73,
+          "playersLeft": 71,
           "currentDay": "1",
           "status": "active",
-          "rank": 14,
+          "rank": 15,
           "chips": 170000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T04:11:17.015Z"
+          "updatedAt": "2026-06-25T04:17:41.453Z"
         }
       ]
     }
@@ -262,7 +262,7 @@
       "slug": "event-62-nlh",
       "name": "Event #62: $2,500 No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-62-nlh/chips.htm",
-      "playersLeft": 6,
+      "playersLeft": 4,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
@@ -307,7 +307,7 @@
       "slug": "event-67-limit-2-7-championship",
       "name": "Event #67: $10,000 Limit 2-7 Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-67-limit-2-7-championship/chips.htm",
-      "playersLeft": 73,
+      "playersLeft": 71,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
