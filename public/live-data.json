@@ -1,16 +1,16 @@
 {
-  "updatedAt": "2026-06-25T16:13:59.527Z",
+  "updatedAt": "2026-06-25T16:20:13.729Z",
   "teamScore": 525,
   "completedEvents": [
     "event-3-industry-employees",
-    "event-50-millionaire-maker",
     "event-57-plo",
     "event-62-nlh",
     "event-59-salute-to-warriors",
     "event-58-limit-2-7-lowball-triple-draw",
     "event-56-nlh",
     "event-55-high-roller-plo",
-    "event-54-horse-championship"
+    "event-54-horse-championship",
+    "event-53-five-card-plo"
   ],
   "players": [
     {
@@ -33,7 +33,7 @@
         "rank": 14,
         "chips": 1115000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T16:13:59.525Z"
+        "updatedAt": "2026-06-25T16:20:13.727Z"
       },
       "eventHistory": [
         {
@@ -49,7 +49,7 @@
           "rank": 14,
           "chips": 1115000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T16:13:59.525Z"
+          "updatedAt": "2026-06-25T16:20:13.727Z"
         }
       ]
     },
@@ -73,7 +73,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T16:13:59.525Z"
+        "updatedAt": "2026-06-25T16:20:13.728Z"
       },
       "eventHistory": [
         {
@@ -89,7 +89,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T16:13:59.525Z"
+          "updatedAt": "2026-06-25T16:20:13.728Z"
         }
       ]
     },
@@ -173,7 +173,7 @@
         "rank": 2,
         "chips": 327000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T16:13:59.526Z"
+        "updatedAt": "2026-06-25T16:20:13.729Z"
       },
       "eventHistory": [
         {
@@ -189,21 +189,12 @@
           "rank": 2,
           "chips": 327000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T16:13:59.526Z"
+          "updatedAt": "2026-06-25T16:20:13.729Z"
         }
       ]
     }
   ],
   "activeEvents": [
-    {
-      "slug": "event-50-millionaire-maker",
-      "name": "Event #50: $1,500 Millionaire Maker",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-50-millionaire-maker/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 1500,
-      "completed": true
-    },
     {
       "slug": "event-57-plo",
       "name": "Event #57: $1,000 Pot-Limit Omaha",
@@ -328,6 +319,15 @@
       "playersLeft": 1,
       "totalEntries": null,
       "buyin": 10000,
+      "completed": true
+    },
+    {
+      "slug": "event-53-five-card-plo",
+      "name": "Event #53: $1,500 Five Card Pot-Limit Omaha",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-53-five-card-plo/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1500,
       "completed": true
     }
   ]
