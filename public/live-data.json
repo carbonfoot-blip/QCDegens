@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T19:13:42.315Z",
+  "updatedAt": "2026-06-25T19:19:59.485Z",
   "teamScore": 525,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 14,
         "chips": 1115000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T19:13:42.312Z"
+        "updatedAt": "2026-06-25T19:19:59.483Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 14,
           "chips": 1115000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T19:13:42.312Z"
+          "updatedAt": "2026-06-25T19:19:59.483Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
         "rank": 2,
         "chips": 327000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T19:13:42.314Z"
+        "updatedAt": "2026-06-25T19:19:59.484Z"
       },
       "eventHistory": [
         {
@@ -157,7 +157,7 @@
           "rank": 2,
           "chips": 327000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T19:13:42.314Z"
+          "updatedAt": "2026-06-25T19:19:59.484Z"
         }
       ]
     }
@@ -230,7 +230,7 @@
       "slug": "event-68-ladies",
       "name": "Event #68: $1,000 Ladies No-Limit Hold'em Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-68-ladies/chips.htm",
-      "playersLeft": 548,
+      "playersLeft": 594,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
