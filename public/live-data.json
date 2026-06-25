@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T21:57:33.734Z",
+  "updatedAt": "2026-06-25T22:03:59.057Z",
   "teamScore": 525,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 5,
         "chips": 2205000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T21:57:33.733Z"
+        "updatedAt": "2026-06-25T22:03:59.054Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 5,
           "chips": 2205000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T21:57:33.733Z"
+          "updatedAt": "2026-06-25T22:03:59.054Z"
         }
       ]
     },
@@ -88,10 +88,10 @@
         "playersLeft": 66,
         "currentDay": "2",
         "status": "active",
-        "rank": 67,
-        "chips": 60000,
+        "rank": 78,
+        "chips": 40000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T21:57:33.733Z"
+        "updatedAt": "2026-06-25T22:03:59.056Z"
       },
       "eventHistory": [
         {
@@ -104,10 +104,10 @@
           "playersLeft": 66,
           "currentDay": "2",
           "status": "active",
-          "rank": 67,
-          "chips": 60000,
+          "rank": 78,
+          "chips": 40000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T21:57:33.733Z"
+          "updatedAt": "2026-06-25T22:03:59.056Z"
         }
       ]
     },
@@ -171,7 +171,7 @@
         "rank": 3,
         "chips": 327000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T21:57:33.734Z"
+        "updatedAt": "2026-06-25T22:03:59.056Z"
       },
       "eventHistory": [
         {
@@ -187,7 +187,7 @@
           "rank": 3,
           "chips": 327000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T21:57:33.734Z"
+          "updatedAt": "2026-06-25T22:03:59.056Z"
         }
       ]
     }
@@ -206,7 +206,7 @@
       "slug": "event-61-super-seniors",
       "name": "Event #61: $1,000 Super Seniors",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-61-super-seniors/chips.htm",
-      "playersLeft": 8,
+      "playersLeft": 7,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -233,7 +233,7 @@
       "slug": "event-65-freezeout",
       "name": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-65-freezeout/chips.htm",
-      "playersLeft": 22,
+      "playersLeft": 21,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -242,7 +242,7 @@
       "slug": "event-66-tag-team",
       "name": "Event #66: $1,000 Tag Team No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-66-tag-team/chips.htm",
-      "playersLeft": 158,
+      "playersLeft": 150,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
