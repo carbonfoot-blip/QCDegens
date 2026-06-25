@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T05:27:48.447Z",
+  "updatedAt": "2026-06-25T05:34:09.531Z",
   "teamScore": 523,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,7 +30,7 @@
         "rank": 10,
         "chips": 1170000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T05:27:48.445Z"
+        "updatedAt": "2026-06-25T05:34:09.530Z"
       },
       "eventHistory": [
         {
@@ -46,7 +46,7 @@
           "rank": 10,
           "chips": 1170000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T05:27:48.445Z"
+          "updatedAt": "2026-06-25T05:34:09.530Z"
         }
       ]
     },
@@ -70,7 +70,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T05:27:48.445Z"
+        "updatedAt": "2026-06-25T05:34:09.530Z"
       },
       "eventHistory": [
         {
@@ -86,7 +86,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T05:27:48.445Z"
+          "updatedAt": "2026-06-25T05:34:09.530Z"
         }
       ]
     },
@@ -160,7 +160,7 @@
         "rank": 25,
         "chips": 530000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T05:27:48.446Z"
+        "updatedAt": "2026-06-25T05:34:09.531Z"
       },
       "eventHistory": [
         {
@@ -176,7 +176,7 @@
           "rank": 25,
           "chips": 530000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T05:27:48.446Z"
+          "updatedAt": "2026-06-25T05:34:09.531Z"
         }
       ]
     },
@@ -200,7 +200,7 @@
         "rank": 9,
         "chips": 195000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T05:27:48.447Z"
+        "updatedAt": "2026-06-25T05:34:09.531Z"
       },
       "eventHistory": [
         {
@@ -216,7 +216,7 @@
           "rank": 9,
           "chips": 195000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T05:27:48.447Z"
+          "updatedAt": "2026-06-25T05:34:09.531Z"
         }
       ]
     }
@@ -289,7 +289,7 @@
       "slug": "event-65-freezeout",
       "name": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-65-freezeout/chips.htm",
-      "playersLeft": 70,
+      "playersLeft": 60,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
