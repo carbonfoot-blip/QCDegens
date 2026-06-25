@@ -1,12 +1,11 @@
 {
-  "updatedAt": "2026-06-25T08:43:56.783Z",
+  "updatedAt": "2026-06-25T08:50:17.307Z",
   "teamScore": 525,
   "completedEvents": [
     "event-3-industry-employees",
     "event-50-millionaire-maker",
     "event-57-plo",
     "event-62-nlh",
-    "event-59-salute-to-warriors",
     "event-58-limit-2-7-lowball-triple-draw",
     "event-56-nlh",
     "event-55-high-roller-plo",
@@ -33,7 +32,7 @@
         "rank": 14,
         "chips": 1115000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T08:43:56.760Z"
+        "updatedAt": "2026-06-25T08:50:17.305Z"
       },
       "eventHistory": [
         {
@@ -49,7 +48,7 @@
           "rank": 14,
           "chips": 1115000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T08:43:56.760Z"
+          "updatedAt": "2026-06-25T08:50:17.305Z"
         }
       ]
     },
@@ -73,7 +72,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T08:43:56.782Z"
+        "updatedAt": "2026-06-25T08:50:17.305Z"
       },
       "eventHistory": [
         {
@@ -89,7 +88,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T08:43:56.782Z"
+          "updatedAt": "2026-06-25T08:50:17.305Z"
         }
       ]
     },
@@ -173,7 +172,7 @@
         "rank": 2,
         "chips": 327000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T08:43:56.783Z"
+        "updatedAt": "2026-06-25T08:50:17.306Z"
       },
       "eventHistory": [
         {
@@ -189,7 +188,7 @@
           "rank": 2,
           "chips": 327000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T08:43:56.783Z"
+          "updatedAt": "2026-06-25T08:50:17.306Z"
         }
       ]
     }
@@ -289,10 +288,10 @@
       "slug": "event-59-salute-to-warriors",
       "name": "Event #59: $500 Salute to Warriors",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-59-salute-to-warriors/chips.htm",
-      "playersLeft": 1,
+      "playersLeft": null,
       "totalEntries": null,
-      "buyin": 500,
-      "completed": true
+      "buyin": null,
+      "completed": false
     },
     {
       "slug": "event-58-limit-2-7-lowball-triple-draw",
