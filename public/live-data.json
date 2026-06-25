@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T08:05:11.936Z",
+  "updatedAt": "2026-06-25T08:11:45.102Z",
   "teamScore": 525,
   "completedEvents": [
     "event-3-industry-employees",
@@ -32,7 +32,7 @@
         "rank": 14,
         "chips": 1115000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T08:05:11.933Z"
+        "updatedAt": "2026-06-25T08:11:45.101Z"
       },
       "eventHistory": [
         {
@@ -48,7 +48,7 @@
           "rank": 14,
           "chips": 1115000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T08:05:11.933Z"
+          "updatedAt": "2026-06-25T08:11:45.101Z"
         }
       ]
     },
@@ -72,7 +72,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T08:05:11.934Z"
+        "updatedAt": "2026-06-25T08:11:45.101Z"
       },
       "eventHistory": [
         {
@@ -88,7 +88,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T08:05:11.934Z"
+          "updatedAt": "2026-06-25T08:11:45.101Z"
         }
       ]
     },
@@ -172,7 +172,7 @@
         "rank": 2,
         "chips": 327000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T08:05:11.935Z"
+        "updatedAt": "2026-06-25T08:11:45.102Z"
       },
       "eventHistory": [
         {
@@ -188,7 +188,7 @@
           "rank": 2,
           "chips": 327000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T08:05:11.935Z"
+          "updatedAt": "2026-06-25T08:11:45.102Z"
         }
       ]
     }
@@ -261,7 +261,7 @@
       "slug": "event-65-freezeout",
       "name": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-65-freezeout/chips.htm",
-      "playersLeft": 38,
+      "playersLeft": 34,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
