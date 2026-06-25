@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T04:43:18.067Z",
+  "updatedAt": "2026-06-25T04:49:40.807Z",
   "teamScore": 523,
   "completedEvents": [
     "event-3-industry-employees",
@@ -30,7 +30,7 @@
         "rank": 19,
         "chips": 810000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T04:43:18.064Z"
+        "updatedAt": "2026-06-25T04:49:40.805Z"
       },
       "eventHistory": [
         {
@@ -46,7 +46,7 @@
           "rank": 19,
           "chips": 810000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T04:43:18.064Z"
+          "updatedAt": "2026-06-25T04:49:40.805Z"
         }
       ]
     },
@@ -70,7 +70,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T04:43:18.065Z"
+        "updatedAt": "2026-06-25T04:49:40.806Z"
       },
       "eventHistory": [
         {
@@ -86,7 +86,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T04:43:18.065Z"
+          "updatedAt": "2026-06-25T04:49:40.806Z"
         }
       ]
     },
@@ -160,7 +160,7 @@
         "rank": 28,
         "chips": 565000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T04:43:18.066Z"
+        "updatedAt": "2026-06-25T04:49:40.806Z"
       },
       "eventHistory": [
         {
@@ -176,7 +176,7 @@
           "rank": 28,
           "chips": 565000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T04:43:18.066Z"
+          "updatedAt": "2026-06-25T04:49:40.806Z"
         }
       ]
     },
@@ -197,10 +197,10 @@
         "playersLeft": 68,
         "currentDay": "1",
         "status": "active",
-        "rank": 6,
+        "rank": 7,
         "chips": 195000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T04:43:18.067Z"
+        "updatedAt": "2026-06-25T04:49:40.807Z"
       },
       "eventHistory": [
         {
@@ -213,10 +213,10 @@
           "playersLeft": 68,
           "currentDay": "1",
           "status": "active",
-          "rank": 6,
+          "rank": 7,
           "chips": 195000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T04:43:18.067Z"
+          "updatedAt": "2026-06-25T04:49:40.807Z"
         }
       ]
     }
@@ -244,7 +244,7 @@
       "slug": "event-60-poker-players-championship",
       "name": "Event #60: $50,000 Poker Players Championship\n\t\t\t\t\t\n\t\t\t\t\t\tStream",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-60-poker-players-championship/chips.htm",
-      "playersLeft": 8,
+      "playersLeft": 7,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
