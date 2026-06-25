@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T06:12:12.661Z",
+  "updatedAt": "2026-06-25T06:18:28.362Z",
   "teamScore": 523,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 9,
         "chips": 1160000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T06:12:12.659Z"
+        "updatedAt": "2026-06-25T06:18:28.360Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 9,
           "chips": 1160000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T06:12:12.659Z"
+          "updatedAt": "2026-06-25T06:18:28.360Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T06:12:12.659Z"
+        "updatedAt": "2026-06-25T06:18:28.360Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T06:12:12.659Z"
+          "updatedAt": "2026-06-25T06:18:28.360Z"
         }
       ]
     },
@@ -158,10 +158,10 @@
         "playersLeft": 28,
         "currentDay": "2",
         "status": "active",
-        "rank": 25,
+        "rank": 24,
         "chips": 530000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T06:12:12.661Z"
+        "updatedAt": "2026-06-25T06:18:28.361Z"
       },
       "eventHistory": [
         {
@@ -174,10 +174,10 @@
           "playersLeft": 28,
           "currentDay": "2",
           "status": "active",
-          "rank": 25,
+          "rank": 24,
           "chips": 530000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T06:12:12.661Z"
+          "updatedAt": "2026-06-25T06:18:28.361Z"
         }
       ]
     },
@@ -201,7 +201,7 @@
         "rank": 2,
         "chips": 327000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T06:12:12.661Z"
+        "updatedAt": "2026-06-25T06:18:28.361Z"
       },
       "eventHistory": [
         {
@@ -217,7 +217,7 @@
           "rank": 2,
           "chips": 327000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T06:12:12.661Z"
+          "updatedAt": "2026-06-25T06:18:28.361Z"
         }
       ]
     }
@@ -263,7 +263,7 @@
       "slug": "event-62-nlh",
       "name": "Event #62: $2,500 No-Limit Hold’em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-62-nlh/chips.htm",
-      "playersLeft": 3,
+      "playersLeft": 2,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
