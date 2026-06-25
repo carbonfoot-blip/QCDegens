@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T22:10:25.650Z",
+  "updatedAt": "2026-06-25T22:16:44.375Z",
   "teamScore": 525,
   "completedEvents": [
     "event-3-industry-employees",
@@ -28,10 +28,10 @@
         "playersLeft": 10,
         "currentDay": "3",
         "status": "active",
-        "rank": 5,
-        "chips": 2205000,
+        "rank": 9,
+        "chips": 1450000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T22:10:25.648Z"
+        "updatedAt": "2026-06-25T22:16:44.372Z"
       },
       "eventHistory": [
         {
@@ -44,10 +44,10 @@
           "playersLeft": 10,
           "currentDay": "3",
           "status": "active",
-          "rank": 5,
-          "chips": 2205000,
+          "rank": 9,
+          "chips": 1450000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T22:10:25.648Z"
+          "updatedAt": "2026-06-25T22:16:44.372Z"
         }
       ]
     },
@@ -88,10 +88,10 @@
         "playersLeft": 66,
         "currentDay": "2",
         "status": "active",
-        "rank": 77,
+        "rank": 62,
         "chips": 30000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T22:10:25.649Z"
+        "updatedAt": "2026-06-25T22:16:44.373Z"
       },
       "eventHistory": [
         {
@@ -104,10 +104,10 @@
           "playersLeft": 66,
           "currentDay": "2",
           "status": "active",
-          "rank": 77,
+          "rank": 62,
           "chips": 30000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T22:10:25.649Z"
+          "updatedAt": "2026-06-25T22:16:44.373Z"
         }
       ]
     },
@@ -168,10 +168,10 @@
         "playersLeft": 66,
         "currentDay": "2",
         "status": "active",
-        "rank": 3,
-        "chips": 327000,
+        "rank": 8,
+        "chips": 270000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T22:10:25.649Z"
+        "updatedAt": "2026-06-25T22:16:44.374Z"
       },
       "eventHistory": [
         {
@@ -184,10 +184,10 @@
           "playersLeft": 66,
           "currentDay": "2",
           "status": "active",
-          "rank": 3,
-          "chips": 327000,
+          "rank": 8,
+          "chips": 270000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T22:10:25.649Z"
+          "updatedAt": "2026-06-25T22:16:44.374Z"
         }
       ]
     }
@@ -260,7 +260,7 @@
       "slug": "event-68-ladies",
       "name": "Event #68: $1,000 Ladies No-Limit Hold'em Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-68-ladies/chips.htm",
-      "playersLeft": 854,
+      "playersLeft": 855,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
