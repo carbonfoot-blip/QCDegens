@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-06-25T06:18:28.362Z",
-  "teamScore": 523,
+  "updatedAt": "2026-06-25T06:24:43.428Z",
+  "teamScore": 525,
   "completedEvents": [
     "event-3-industry-employees",
     "event-50-millionaire-maker",
@@ -29,9 +29,9 @@
         "currentDay": "2",
         "status": "active",
         "rank": 9,
-        "chips": 1160000,
+        "chips": 1550000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T06:18:28.360Z"
+        "updatedAt": "2026-06-25T06:24:43.425Z"
       },
       "eventHistory": [
         {
@@ -45,9 +45,9 @@
           "currentDay": "2",
           "status": "active",
           "rank": 9,
-          "chips": 1160000,
+          "chips": 1550000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T06:18:28.360Z"
+          "updatedAt": "2026-06-25T06:24:43.425Z"
         }
       ]
     },
@@ -71,7 +71,7 @@
         "rank": 1,
         "chips": 1420000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T06:18:28.360Z"
+        "updatedAt": "2026-06-25T06:24:43.426Z"
       },
       "eventHistory": [
         {
@@ -87,7 +87,7 @@
           "rank": 1,
           "chips": 1420000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T06:18:28.360Z"
+          "updatedAt": "2026-06-25T06:24:43.426Z"
         }
       ]
     },
@@ -145,9 +145,9 @@
       "name": "John Riordan",
       "slug": "john-riordan",
       "isBonus": false,
-      "pts2026": 8,
+      "pts2026": 10,
       "salary": 12,
-      "cashes2026": 7,
+      "cashes2026": 8,
       "liveStatus": {
         "eventSlug": "event-64-high-roller-plo-nlh-mixed",
         "eventName": "Event #64: $25,000 High Roller PLO/NLH Mixed",
@@ -161,7 +161,7 @@
         "rank": 24,
         "chips": 530000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T06:18:28.361Z"
+        "updatedAt": "2026-06-25T06:24:43.427Z"
       },
       "eventHistory": [
         {
@@ -177,7 +177,7 @@
           "rank": 24,
           "chips": 530000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T06:18:28.361Z"
+          "updatedAt": "2026-06-25T06:24:43.427Z"
         }
       ]
     },
@@ -201,7 +201,7 @@
         "rank": 2,
         "chips": 327000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T06:18:28.361Z"
+        "updatedAt": "2026-06-25T06:24:43.427Z"
       },
       "eventHistory": [
         {
@@ -217,7 +217,7 @@
           "rank": 2,
           "chips": 327000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T06:18:28.361Z"
+          "updatedAt": "2026-06-25T06:24:43.427Z"
         }
       ]
     }
@@ -290,7 +290,7 @@
       "slug": "event-65-freezeout",
       "name": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-65-freezeout/chips.htm",
-      "playersLeft": 60,
+      "playersLeft": 53,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
