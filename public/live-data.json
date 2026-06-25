@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T19:26:16.753Z",
+  "updatedAt": "2026-06-25T19:32:39.766Z",
   "teamScore": 525,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 14,
         "chips": 1115000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T19:26:16.752Z"
+        "updatedAt": "2026-06-25T19:32:39.764Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 14,
           "chips": 1115000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T19:26:16.752Z"
+          "updatedAt": "2026-06-25T19:32:39.764Z"
         }
       ]
     },
@@ -141,7 +141,7 @@
         "rank": 2,
         "chips": 327000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T19:26:16.753Z"
+        "updatedAt": "2026-06-25T19:32:39.765Z"
       },
       "eventHistory": [
         {
@@ -157,7 +157,7 @@
           "rank": 2,
           "chips": 327000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T19:26:16.753Z"
+          "updatedAt": "2026-06-25T19:32:39.765Z"
         }
       ]
     }
@@ -212,7 +212,7 @@
       "slug": "event-66-tag-team",
       "name": "Event #66: $1,000 Tag Team No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-66-tag-team/chips.htm",
-      "playersLeft": 269,
+      "playersLeft": 253,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
