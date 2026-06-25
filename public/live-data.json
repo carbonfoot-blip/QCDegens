@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T21:51:17.909Z",
+  "updatedAt": "2026-06-25T21:57:33.734Z",
   "teamScore": 525,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 5,
         "chips": 2205000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T21:51:17.907Z"
+        "updatedAt": "2026-06-25T21:57:33.733Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 5,
           "chips": 2205000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T21:51:17.907Z"
+          "updatedAt": "2026-06-25T21:57:33.733Z"
         }
       ]
     },
@@ -88,10 +88,10 @@
         "playersLeft": 66,
         "currentDay": "2",
         "status": "active",
-        "rank": 69,
+        "rank": 67,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T21:51:17.908Z"
+        "updatedAt": "2026-06-25T21:57:33.733Z"
       },
       "eventHistory": [
         {
@@ -104,10 +104,10 @@
           "playersLeft": 66,
           "currentDay": "2",
           "status": "active",
-          "rank": 69,
+          "rank": 67,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T21:51:17.908Z"
+          "updatedAt": "2026-06-25T21:57:33.733Z"
         }
       ]
     },
@@ -171,7 +171,7 @@
         "rank": 3,
         "chips": 327000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T21:51:17.909Z"
+        "updatedAt": "2026-06-25T21:57:33.734Z"
       },
       "eventHistory": [
         {
@@ -187,7 +187,7 @@
           "rank": 3,
           "chips": 327000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T21:51:17.909Z"
+          "updatedAt": "2026-06-25T21:57:33.734Z"
         }
       ]
     }
@@ -206,7 +206,7 @@
       "slug": "event-61-super-seniors",
       "name": "Event #61: $1,000 Super Seniors",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-61-super-seniors/chips.htm",
-      "playersLeft": 9,
+      "playersLeft": 8,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -242,7 +242,7 @@
       "slug": "event-66-tag-team",
       "name": "Event #66: $1,000 Tag Team No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-66-tag-team/chips.htm",
-      "playersLeft": 166,
+      "playersLeft": 158,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -260,7 +260,7 @@
       "slug": "event-68-ladies",
       "name": "Event #68: $1,000 Ladies No-Limit Hold'em Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-68-ladies/chips.htm",
-      "playersLeft": 835,
+      "playersLeft": 854,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
