@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-25T20:29:03.501Z",
+  "updatedAt": "2026-06-25T20:35:21.376Z",
   "teamScore": 525,
   "completedEvents": [
     "event-3-industry-employees",
@@ -31,7 +31,7 @@
         "rank": 8,
         "chips": 1590000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T20:29:03.500Z"
+        "updatedAt": "2026-06-25T20:35:21.375Z"
       },
       "eventHistory": [
         {
@@ -47,7 +47,7 @@
           "rank": 8,
           "chips": 1590000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T20:29:03.500Z"
+          "updatedAt": "2026-06-25T20:35:21.375Z"
         }
       ]
     },
@@ -91,7 +91,7 @@
         "rank": 60,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T20:29:03.501Z"
+        "updatedAt": "2026-06-25T20:35:21.375Z"
       },
       "eventHistory": [
         {
@@ -107,7 +107,7 @@
           "rank": 60,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T20:29:03.501Z"
+          "updatedAt": "2026-06-25T20:35:21.375Z"
         }
       ]
     },
@@ -171,7 +171,7 @@
         "rank": 2,
         "chips": 327000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-06-25T20:29:03.501Z"
+        "updatedAt": "2026-06-25T20:35:21.376Z"
       },
       "eventHistory": [
         {
@@ -187,7 +187,7 @@
           "rank": 2,
           "chips": 327000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-06-25T20:29:03.501Z"
+          "updatedAt": "2026-06-25T20:35:21.376Z"
         }
       ]
     }
@@ -233,7 +233,7 @@
       "slug": "event-65-freezeout",
       "name": "Event #65: $1,500 Freezeout No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-65-freezeout/chips.htm",
-      "playersLeft": 32,
+      "playersLeft": 29,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
@@ -242,7 +242,7 @@
       "slug": "event-66-tag-team",
       "name": "Event #66: $1,000 Tag Team No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-66-tag-team/chips.htm",
-      "playersLeft": 219,
+      "playersLeft": 211,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
