@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T19:27:19.547Z",
+  "updatedAt": "2026-07-02T19:33:28.712Z",
   "teamScore": 591,
   "completedEvents": [
     "event-3-industry-employees",
@@ -91,7 +91,7 @@
         "rank": 6,
         "chips": 251000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T19:27:19.544Z"
+        "updatedAt": "2026-07-02T19:33:28.710Z"
       },
       "eventHistory": [
         {
@@ -107,7 +107,7 @@
           "rank": 6,
           "chips": 251000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T19:27:19.544Z"
+          "updatedAt": "2026-07-02T19:33:28.710Z"
         }
       ]
     },
@@ -174,10 +174,10 @@
         "playersLeft": 445,
         "currentDay": "2",
         "status": "active",
-        "rank": 284,
+        "rank": 285,
         "chips": 225000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T19:27:19.546Z"
+        "updatedAt": "2026-07-02T19:33:28.711Z"
       },
       "eventHistory": [
         {
@@ -190,10 +190,10 @@
           "playersLeft": 445,
           "currentDay": "2",
           "status": "active",
-          "rank": 284,
+          "rank": 285,
           "chips": 225000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T19:27:19.546Z"
+          "updatedAt": "2026-07-02T19:33:28.711Z"
         }
       ]
     },
@@ -223,7 +223,7 @@
       "slug": "event-72-mini-main-event",
       "name": "Event #72: $1,000 Mini Main Event",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-72-mini-main-event/chips.htm",
-      "playersLeft": 8,
+      "playersLeft": 7,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
