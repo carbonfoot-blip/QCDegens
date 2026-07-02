@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T20:46:57.682Z",
+  "updatedAt": "2026-07-02T20:53:25.968Z",
   "teamScore": 591,
   "completedEvents": [
     "event-3-industry-employees",
@@ -26,7 +26,21 @@
       "pts2026": 136,
       "salary": 116,
       "cashes2026": 12,
-      "liveStatus": null,
+      "liveStatus": {
+        "eventSlug": "event-76-high-roller-plo",
+        "eventName": "Event #76: $100,000 High Roller Pot-Limit Omaha",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-76-high-roller-plo/chips.htm",
+        "buyin": 100000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 5,
+        "currentDay": "3",
+        "status": "active",
+        "rank": 4,
+        "chips": 7400000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-07-02T20:53:25.964Z"
+      },
       "eventHistory": [
         {
           "eventSlug": "event-76-high-roller-plo",
@@ -35,13 +49,13 @@
           "buyin": 100000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 19,
-          "currentDay": "1",
-          "status": "eliminated",
-          "rank": 5,
-          "chips": 1990000,
+          "playersLeft": 5,
+          "currentDay": "3",
+          "status": "active",
+          "rank": 4,
+          "chips": 7400000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-01T14:27:31.763Z"
+          "updatedAt": "2026-07-02T20:53:25.964Z"
         }
       ]
     },
@@ -88,10 +102,10 @@
         "playersLeft": 83,
         "currentDay": "2",
         "status": "active",
-        "rank": 6,
+        "rank": 7,
         "chips": 251000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T20:46:57.680Z"
+        "updatedAt": "2026-07-02T20:53:25.966Z"
       },
       "eventHistory": [
         {
@@ -104,10 +118,10 @@
           "playersLeft": 83,
           "currentDay": "2",
           "status": "active",
-          "rank": 6,
+          "rank": 7,
           "chips": 251000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T20:46:57.680Z"
+          "updatedAt": "2026-07-02T20:53:25.966Z"
         }
       ]
     },
@@ -128,10 +142,10 @@
         "playersLeft": 83,
         "currentDay": "2",
         "status": "active",
-        "rank": 65,
+        "rank": 64,
         "chips": 60000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T20:46:57.681Z"
+        "updatedAt": "2026-07-02T20:53:25.966Z"
       },
       "eventHistory": [
         {
@@ -144,10 +158,10 @@
           "playersLeft": 83,
           "currentDay": "2",
           "status": "active",
-          "rank": 65,
+          "rank": 64,
           "chips": 60000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T20:46:57.681Z"
+          "updatedAt": "2026-07-02T20:53:25.966Z"
         }
       ]
     },
@@ -204,10 +218,10 @@
         "playersLeft": 303,
         "currentDay": "2",
         "status": "active",
-        "rank": 213,
+        "rank": 214,
         "chips": 225000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T20:46:57.681Z"
+        "updatedAt": "2026-07-02T20:53:25.967Z"
       },
       "eventHistory": [
         {
@@ -220,10 +234,10 @@
           "playersLeft": 303,
           "currentDay": "2",
           "status": "active",
-          "rank": 213,
+          "rank": 214,
           "chips": 225000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T20:46:57.681Z"
+          "updatedAt": "2026-07-02T20:53:25.967Z"
         }
       ]
     },
@@ -253,7 +267,7 @@
       "slug": "event-72-mini-main-event",
       "name": "Event #72: $1,000 Mini Main Event",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-72-mini-main-event/chips.htm",
-      "playersLeft": 3,
+      "playersLeft": 2,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -262,16 +276,16 @@
       "slug": "event-76-high-roller-plo",
       "name": "Event #76: $100,000 High Roller Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-76-high-roller-plo/chips.htm",
-      "playersLeft": null,
+      "playersLeft": 5,
       "totalEntries": null,
-      "buyin": null,
+      "buyin": 100000,
       "completed": false
     },
     {
       "slug": "event-77-mixed-triple-draw-lowball",
       "name": "Event #77: $2,500 Mixed Triple Draw Lowball",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-77-mixed-triple-draw-lowball/chips.htm",
-      "playersLeft": 15,
+      "playersLeft": 14,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
@@ -316,6 +330,9 @@
       "slug": "event-83-double-board-bomb-pot-plo",
       "name": "Event #83: $1,500 Double Board Bomb Pot Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-83-double-board-bomb-pot-plo/chips.htm",
+      "playersLeft": 150,
+      "totalEntries": null,
+      "buyin": 1500,
       "completed": false
     },
     {
