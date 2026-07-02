@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T19:39:40.530Z",
+  "updatedAt": "2026-07-02T19:45:50.846Z",
   "teamScore": 591,
   "completedEvents": [
     "event-3-industry-employees",
@@ -91,7 +91,7 @@
         "rank": 6,
         "chips": 251000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T19:39:40.528Z"
+        "updatedAt": "2026-07-02T19:45:50.844Z"
       },
       "eventHistory": [
         {
@@ -107,7 +107,7 @@
           "rank": 6,
           "chips": 251000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T19:39:40.528Z"
+          "updatedAt": "2026-07-02T19:45:50.844Z"
         }
       ]
     },
@@ -171,13 +171,13 @@
         "buyin": 600,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 445,
+        "playersLeft": 334,
         "currentDay": "2",
         "status": "active",
-        "rank": 285,
+        "rank": 248,
         "chips": 225000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T19:39:40.529Z"
+        "updatedAt": "2026-07-02T19:45:50.845Z"
       },
       "eventHistory": [
         {
@@ -187,13 +187,13 @@
           "buyin": 600,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 445,
+          "playersLeft": 334,
           "currentDay": "2",
           "status": "active",
-          "rank": 285,
+          "rank": 248,
           "chips": 225000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T19:39:40.529Z"
+          "updatedAt": "2026-07-02T19:45:50.845Z"
         }
       ]
     },
@@ -250,7 +250,7 @@
       "slug": "event-78-deepstack-championship",
       "name": "Event #78: $600 Deepstack Championship No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-78-deepstack-championship/chips.htm",
-      "playersLeft": 445,
+      "playersLeft": 334,
       "totalEntries": null,
       "buyin": 600,
       "completed": false
