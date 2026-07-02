@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T13:08:55.022Z",
+  "updatedAt": "2026-07-02T13:14:59.387Z",
   "teamScore": 591,
   "completedEvents": [
     "event-3-industry-employees",
@@ -91,7 +91,7 @@
         "rank": 6,
         "chips": 251000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T13:08:55.020Z"
+        "updatedAt": "2026-07-02T13:14:59.384Z"
       },
       "eventHistory": [
         {
@@ -107,7 +107,7 @@
           "rank": 6,
           "chips": 251000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T13:08:55.020Z"
+          "updatedAt": "2026-07-02T13:14:59.384Z"
         }
       ]
     },
@@ -177,7 +177,7 @@
         "rank": 294,
         "chips": 225000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T13:08:55.021Z"
+        "updatedAt": "2026-07-02T13:14:59.386Z"
       },
       "eventHistory": [
         {
@@ -193,7 +193,7 @@
           "rank": 294,
           "chips": 225000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T13:08:55.021Z"
+          "updatedAt": "2026-07-02T13:14:59.386Z"
         }
       ]
     },
@@ -289,6 +289,15 @@
       "playersLeft": 73,
       "totalEntries": null,
       "buyin": 10000,
+      "completed": false
+    },
+    {
+      "slug": "event-81-summer-celebration",
+      "name": "Event #81: $800 Summer Celebration",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-81-summer-celebration/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 800,
       "completed": false
     },
     {
