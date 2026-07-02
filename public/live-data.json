@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T21:48:43.674Z",
+  "updatedAt": "2026-07-02T21:54:46.761Z",
   "teamScore": 591,
   "completedEvents": [
     "event-3-industry-employees",
@@ -40,7 +40,7 @@
         "rank": 1,
         "chips": 2100000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T21:48:43.671Z"
+        "updatedAt": "2026-07-02T21:54:46.757Z"
       },
       "eventHistory": [
         {
@@ -56,7 +56,7 @@
           "rank": 1,
           "chips": 2100000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T21:48:43.671Z"
+          "updatedAt": "2026-07-02T21:54:46.757Z"
         }
       ]
     },
@@ -103,10 +103,10 @@
         "playersLeft": 94,
         "currentDay": "2",
         "status": "active",
-        "rank": 7,
-        "chips": 251000,
+        "rank": 4,
+        "chips": 330000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T21:48:43.672Z"
+        "updatedAt": "2026-07-02T21:54:46.758Z"
       },
       "eventHistory": [
         {
@@ -119,10 +119,10 @@
           "playersLeft": 94,
           "currentDay": "2",
           "status": "active",
-          "rank": 7,
-          "chips": 251000,
+          "rank": 4,
+          "chips": 330000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T21:48:43.672Z"
+          "updatedAt": "2026-07-02T21:54:46.758Z"
         }
       ]
     },
@@ -143,10 +143,10 @@
         "playersLeft": 94,
         "currentDay": "2",
         "status": "active",
-        "rank": 83,
-        "chips": 60000,
+        "rank": 92,
+        "chips": 40000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T21:48:43.673Z"
+        "updatedAt": "2026-07-02T21:54:46.759Z"
       },
       "eventHistory": [
         {
@@ -159,10 +159,10 @@
           "playersLeft": 94,
           "currentDay": "2",
           "status": "active",
-          "rank": 83,
-          "chips": 60000,
+          "rank": 92,
+          "chips": 40000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T21:48:43.673Z"
+          "updatedAt": "2026-07-02T21:54:46.759Z"
         }
       ]
     },
@@ -222,7 +222,7 @@
         "rank": 194,
         "chips": 225000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T21:48:43.673Z"
+        "updatedAt": "2026-07-02T21:54:46.760Z"
       },
       "eventHistory": [
         {
@@ -238,7 +238,7 @@
           "rank": 194,
           "chips": 225000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T21:48:43.673Z"
+          "updatedAt": "2026-07-02T21:54:46.760Z"
         }
       ]
     },
@@ -286,7 +286,7 @@
       "slug": "event-77-mixed-triple-draw-lowball",
       "name": "Event #77: $2,500 Mixed Triple Draw Lowball",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-77-mixed-triple-draw-lowball/chips.htm",
-      "playersLeft": 14,
+      "playersLeft": 12,
       "totalEntries": null,
       "buyin": 2500,
       "completed": false
@@ -331,7 +331,7 @@
       "slug": "event-83-double-board-bomb-pot-plo",
       "name": "Event #83: $1,500 Double Board Bomb Pot Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-83-double-board-bomb-pot-plo/chips.htm",
-      "playersLeft": 150,
+      "playersLeft": 585,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
