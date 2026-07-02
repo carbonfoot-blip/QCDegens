@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T22:00:53.739Z",
+  "updatedAt": "2026-07-02T22:06:55.175Z",
   "teamScore": 591,
   "completedEvents": [
     "event-3-industry-employees",
@@ -38,9 +38,9 @@
         "currentDay": "3",
         "status": "active",
         "rank": 1,
-        "chips": 5875000,
+        "chips": 3675000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T22:00:53.736Z"
+        "updatedAt": "2026-07-02T22:06:55.172Z"
       },
       "eventHistory": [
         {
@@ -54,9 +54,9 @@
           "currentDay": "3",
           "status": "active",
           "rank": 1,
-          "chips": 5875000,
+          "chips": 3675000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T22:00:53.736Z"
+          "updatedAt": "2026-07-02T22:06:55.172Z"
         }
       ]
     },
@@ -100,13 +100,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 83,
+        "playersLeft": 78,
         "currentDay": "2",
         "status": "active",
         "rank": 4,
         "chips": 330000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T22:00:53.737Z"
+        "updatedAt": "2026-07-02T22:06:55.173Z"
       },
       "eventHistory": [
         {
@@ -116,13 +116,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 83,
+          "playersLeft": 78,
           "currentDay": "2",
           "status": "active",
           "rank": 4,
           "chips": 330000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T22:00:53.737Z"
+          "updatedAt": "2026-07-02T22:06:55.173Z"
         }
       ]
     },
@@ -140,13 +140,13 @@
         "buyin": 10000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 83,
+        "playersLeft": 78,
         "currentDay": "2",
         "status": "active",
-        "rank": 92,
+        "rank": 90,
         "chips": 40000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T22:00:53.737Z"
+        "updatedAt": "2026-07-02T22:06:55.174Z"
       },
       "eventHistory": [
         {
@@ -156,13 +156,13 @@
           "buyin": 10000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 83,
+          "playersLeft": 78,
           "currentDay": "2",
           "status": "active",
-          "rank": 92,
+          "rank": 90,
           "chips": 40000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T22:00:53.737Z"
+          "updatedAt": "2026-07-02T22:06:55.174Z"
         }
       ]
     },
@@ -219,10 +219,10 @@
         "playersLeft": 253,
         "currentDay": "2",
         "status": "active",
-        "rank": 194,
+        "rank": 193,
         "chips": 225000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T22:00:53.738Z"
+        "updatedAt": "2026-07-02T22:06:55.174Z"
       },
       "eventHistory": [
         {
@@ -235,10 +235,10 @@
           "playersLeft": 253,
           "currentDay": "2",
           "status": "active",
-          "rank": 194,
+          "rank": 193,
           "chips": 225000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T22:00:53.738Z"
+          "updatedAt": "2026-07-02T22:06:55.174Z"
         }
       ]
     },
@@ -313,7 +313,7 @@
       "slug": "event-80-8-game-mixed-championship",
       "name": "Event #80: $10,000 8-Game Mixed Championship",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-80-8-game-mixed-championship/chips.htm",
-      "playersLeft": 83,
+      "playersLeft": 78,
       "totalEntries": null,
       "buyin": 10000,
       "completed": false
