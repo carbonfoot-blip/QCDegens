@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T13:14:59.387Z",
+  "updatedAt": "2026-07-02T13:21:11.975Z",
   "teamScore": 591,
   "completedEvents": [
     "event-3-industry-employees",
@@ -91,7 +91,7 @@
         "rank": 6,
         "chips": 251000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T13:14:59.384Z"
+        "updatedAt": "2026-07-02T13:21:11.972Z"
       },
       "eventHistory": [
         {
@@ -107,7 +107,7 @@
           "rank": 6,
           "chips": 251000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T13:14:59.384Z"
+          "updatedAt": "2026-07-02T13:21:11.972Z"
         }
       ]
     },
@@ -177,7 +177,7 @@
         "rank": 294,
         "chips": 225000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T13:14:59.386Z"
+        "updatedAt": "2026-07-02T13:21:11.974Z"
       },
       "eventHistory": [
         {
@@ -193,7 +193,7 @@
           "rank": 294,
           "chips": 225000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T13:14:59.386Z"
+          "updatedAt": "2026-07-02T13:21:11.974Z"
         }
       ]
     },
@@ -298,6 +298,15 @@
       "playersLeft": null,
       "totalEntries": null,
       "buyin": 800,
+      "completed": false
+    },
+    {
+      "slug": "event-83-double-board-bomb-pot-plo",
+      "name": "Event #83: $1,500 Double Board Bomb Pot Pot-Limit Omaha",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-83-double-board-bomb-pot-plo/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 1500,
       "completed": false
     },
     {
