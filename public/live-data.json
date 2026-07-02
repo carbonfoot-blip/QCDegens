@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T20:10:40.817Z",
+  "updatedAt": "2026-07-02T20:17:01.771Z",
   "teamScore": 591,
   "completedEvents": [
     "event-3-industry-employees",
@@ -26,7 +26,21 @@
       "pts2026": 136,
       "salary": 116,
       "cashes2026": 12,
-      "liveStatus": null,
+      "liveStatus": {
+        "eventSlug": "event-76-high-roller-plo",
+        "eventName": "Event #76: $100,000 High Roller Pot-Limit Omaha",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-76-high-roller-plo/chips.htm",
+        "buyin": 100000,
+        "totalEntries": null,
+        "prizePool": null,
+        "playersLeft": 5,
+        "currentDay": "3",
+        "status": "active",
+        "rank": 2,
+        "chips": 1220000,
+        "wsopConfirmed": false,
+        "updatedAt": "2026-07-02T20:17:01.767Z"
+      },
       "eventHistory": [
         {
           "eventSlug": "event-76-high-roller-plo",
@@ -35,13 +49,13 @@
           "buyin": 100000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 19,
-          "currentDay": "1",
-          "status": "eliminated",
-          "rank": 5,
-          "chips": 1990000,
+          "playersLeft": 5,
+          "currentDay": "3",
+          "status": "active",
+          "rank": 2,
+          "chips": 1220000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-01T14:27:31.763Z"
+          "updatedAt": "2026-07-02T20:17:01.767Z"
         }
       ]
     },
@@ -91,7 +105,7 @@
         "rank": 6,
         "chips": 251000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T20:10:40.815Z"
+        "updatedAt": "2026-07-02T20:17:01.768Z"
       },
       "eventHistory": [
         {
@@ -107,7 +121,7 @@
           "rank": 6,
           "chips": 251000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T20:10:40.815Z"
+          "updatedAt": "2026-07-02T20:17:01.768Z"
         }
       ]
     },
@@ -177,7 +191,7 @@
         "rank": 248,
         "chips": 225000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T20:10:40.816Z"
+        "updatedAt": "2026-07-02T20:17:01.770Z"
       },
       "eventHistory": [
         {
@@ -193,7 +207,7 @@
           "rank": 248,
           "chips": 225000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T20:10:40.816Z"
+          "updatedAt": "2026-07-02T20:17:01.770Z"
         }
       ]
     },
