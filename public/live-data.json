@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-02T19:08:43.955Z",
+  "updatedAt": "2026-07-02T19:14:58.326Z",
   "teamScore": 591,
   "completedEvents": [
     "event-3-industry-employees",
@@ -91,7 +91,7 @@
         "rank": 6,
         "chips": 251000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T19:08:43.952Z"
+        "updatedAt": "2026-07-02T19:14:58.324Z"
       },
       "eventHistory": [
         {
@@ -107,7 +107,7 @@
           "rank": 6,
           "chips": 251000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T19:08:43.952Z"
+          "updatedAt": "2026-07-02T19:14:58.324Z"
         }
       ]
     },
@@ -177,7 +177,7 @@
         "rank": 284,
         "chips": 225000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-02T19:08:43.954Z"
+        "updatedAt": "2026-07-02T19:14:58.326Z"
       },
       "eventHistory": [
         {
@@ -193,7 +193,7 @@
           "rank": 284,
           "chips": 225000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-02T19:08:43.954Z"
+          "updatedAt": "2026-07-02T19:14:58.326Z"
         }
       ]
     },
@@ -259,7 +259,7 @@
       "slug": "event-79-freezeout",
       "name": "Event #79: $3,000 Freezeout No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-79-freezeout/chips.htm",
-      "playersLeft": 226,
+      "playersLeft": 207,
       "totalEntries": null,
       "buyin": 3000,
       "completed": false
