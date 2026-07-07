@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T00:34:45.066Z",
+  "updatedAt": "2026-07-07T00:40:45.753Z",
   "teamScore": 717,
   "completedEvents": [
     "event-3-industry-employees",
@@ -49,7 +49,7 @@
         "rank": 1,
         "chips": 6175000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-07T00:34:45.064Z"
+        "updatedAt": "2026-07-07T00:40:45.752Z"
       },
       "eventHistory": [
         {
@@ -65,7 +65,7 @@
           "rank": 1,
           "chips": 6175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-07T00:34:45.064Z"
+          "updatedAt": "2026-07-07T00:40:45.752Z"
         }
       ]
     },
@@ -187,7 +187,7 @@
       "slug": "event-86-ultra-stack",
       "name": "Event #86: $600 Ultra Stack No-limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-86-ultra-stack/chips.htm",
-      "playersLeft": 1405,
+      "playersLeft": 1154,
       "totalEntries": null,
       "buyin": 600,
       "completed": false
