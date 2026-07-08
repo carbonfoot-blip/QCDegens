@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-08T13:08:48.952Z",
+  "updatedAt": "2026-07-08T13:15:16.787Z",
   "teamScore": 717,
   "completedEvents": [
     "event-3-industry-employees",
@@ -24,9 +24,7 @@
     "event-78-deepstack-championship",
     "event-77-mixed-triple-draw-lowball",
     "event-76-high-roller-plo",
-    "event-75-seven-card-stud-championship",
-    "event-73-no-limit-hold-em",
-    "event-72-mini-main-event"
+    "event-75-seven-card-stud-championship"
   ],
   "players": [
     {
@@ -49,7 +47,7 @@
         "rank": 1,
         "chips": 6175000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-08T13:08:48.949Z"
+        "updatedAt": "2026-07-08T13:15:16.783Z"
       },
       "eventHistory": [
         {
@@ -65,7 +63,7 @@
           "rank": 1,
           "chips": 6175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-08T13:08:48.949Z"
+          "updatedAt": "2026-07-08T13:15:16.783Z"
         }
       ]
     },
@@ -181,7 +179,7 @@
         "rank": 151,
         "chips": 205000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-08T13:08:48.951Z"
+        "updatedAt": "2026-07-08T13:15:16.786Z"
       },
       "eventHistory": [
         {
@@ -197,7 +195,7 @@
           "rank": 151,
           "chips": 205000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-08T13:08:48.951Z"
+          "updatedAt": "2026-07-08T13:15:16.786Z"
         }
       ]
     },
@@ -229,6 +227,24 @@
       "playersLeft": 288,
       "totalEntries": null,
       "buyin": 1000,
+      "completed": false
+    },
+    {
+      "slug": "event-88-300-gladiators-of-poker",
+      "name": "Event #88: $300 Gladiators of Poker",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-88-300-gladiators-of-poker/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 300,
+      "completed": false
+    },
+    {
+      "slug": "event-89-mid-stakes-championship",
+      "name": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-89-mid-stakes-championship/chips.htm",
+      "playersLeft": null,
+      "totalEntries": null,
+      "buyin": 3000,
       "completed": false
     },
     {
@@ -319,24 +335,6 @@
       "playersLeft": 1,
       "totalEntries": null,
       "buyin": 10000,
-      "completed": true
-    },
-    {
-      "slug": "event-73-no-limit-hold-em",
-      "name": "Event #73: $5,000 6-Handed No-Limit Hold’em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-73-no-limit-hold-em/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 5000,
-      "completed": true
-    },
-    {
-      "slug": "event-72-mini-main-event",
-      "name": "Event #72: $1,000 Mini Main Event",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-72-mini-main-event/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 1000,
       "completed": true
     },
     {
