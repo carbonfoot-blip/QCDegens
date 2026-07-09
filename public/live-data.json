@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T23:01:22.168Z",
+  "updatedAt": "2026-07-09T23:07:45.735Z",
   "teamScore": 718,
   "completedEvents": [
     "event-3-industry-employees",
@@ -34,19 +34,19 @@
       "salary": 116,
       "cashes2026": 13,
       "liveStatus": {
-        "eventSlug": "event-76-high-roller-plo",
-        "eventName": "Event #76: $100,000 High Roller Pot-Limit Omaha",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-76-high-roller-plo/chips.htm",
-        "buyin": 100000,
+        "eventSlug": "event-90-high-roller",
+        "eventName": "Event #90: $50,000 High Roller No-Limit Hold'em",
+        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-90-high-roller/chips.htm",
+        "buyin": 50000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 1,
-        "currentDay": "3",
+        "playersLeft": 62,
+        "currentDay": "1",
         "status": "active",
-        "rank": 1,
-        "chips": 6175000,
+        "rank": 26,
+        "chips": 300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-09T23:01:22.164Z"
+        "updatedAt": "2026-07-09T23:07:45.719Z"
       },
       "eventHistory": [
         {
@@ -62,7 +62,22 @@
           "rank": 1,
           "chips": 6175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-09T23:01:22.164Z"
+          "updatedAt": "2026-07-09T23:07:45.720Z"
+        },
+        {
+          "eventSlug": "event-90-high-roller",
+          "eventName": "Event #90: $50,000 High Roller No-Limit Hold'em",
+          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-90-high-roller/chips.htm",
+          "buyin": 50000,
+          "totalEntries": null,
+          "prizePool": null,
+          "playersLeft": 62,
+          "currentDay": "1",
+          "status": "active",
+          "rank": 26,
+          "chips": 300000,
+          "wsopConfirmed": false,
+          "updatedAt": "2026-07-09T23:07:45.719Z"
         }
       ]
     },
@@ -220,7 +235,7 @@
       "slug": "event-90-high-roller",
       "name": "Event #90: $50,000 High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-90-high-roller/chips.htm",
-      "playersLeft": 59,
+      "playersLeft": 62,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
