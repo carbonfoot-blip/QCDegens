@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T22:03:49.822Z",
+  "updatedAt": "2026-07-09T22:10:08.355Z",
   "teamScore": 718,
   "completedEvents": [
     "event-3-industry-employees",
@@ -46,7 +46,7 @@
         "rank": 1,
         "chips": 6175000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-09T22:03:49.818Z"
+        "updatedAt": "2026-07-09T22:10:08.351Z"
       },
       "eventHistory": [
         {
@@ -62,7 +62,7 @@
           "rank": 1,
           "chips": 6175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-09T22:03:49.818Z"
+          "updatedAt": "2026-07-09T22:10:08.351Z"
         }
       ]
     },
@@ -178,7 +178,7 @@
         "rank": 299,
         "chips": 205000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-09T22:03:49.821Z"
+        "updatedAt": "2026-07-09T22:10:08.353Z"
       },
       "eventHistory": [
         {
@@ -194,7 +194,7 @@
           "rank": 299,
           "chips": 205000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-09T22:03:49.821Z"
+          "updatedAt": "2026-07-09T22:10:08.353Z"
         }
       ]
     },
@@ -250,7 +250,7 @@
       "slug": "event-90-high-roller",
       "name": "Event #90: $50,000 High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-90-high-roller/chips.htm",
-      "playersLeft": 44,
+      "playersLeft": 49,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
