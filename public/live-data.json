@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T20:47:11.741Z",
+  "updatedAt": "2026-07-09T20:53:37.095Z",
   "teamScore": 717,
   "completedEvents": [
     "event-3-industry-employees",
@@ -46,7 +46,7 @@
         "rank": 1,
         "chips": 6175000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-09T20:47:11.737Z"
+        "updatedAt": "2026-07-09T20:53:37.091Z"
       },
       "eventHistory": [
         {
@@ -62,7 +62,7 @@
           "rank": 1,
           "chips": 6175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-09T20:47:11.737Z"
+          "updatedAt": "2026-07-09T20:53:37.091Z"
         }
       ]
     },
@@ -172,13 +172,13 @@
         "buyin": 1000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 622,
+        "playersLeft": 620,
         "currentDay": "2",
         "status": "active",
-        "rank": 362,
+        "rank": 357,
         "chips": 205000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-09T20:47:11.739Z"
+        "updatedAt": "2026-07-09T20:53:37.094Z"
       },
       "eventHistory": [
         {
@@ -188,13 +188,13 @@
           "buyin": 1000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 622,
+          "playersLeft": 620,
           "currentDay": "2",
           "status": "active",
-          "rank": 362,
+          "rank": 357,
           "chips": 205000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-09T20:47:11.739Z"
+          "updatedAt": "2026-07-09T20:53:37.094Z"
         }
       ]
     },
@@ -214,7 +214,7 @@
       "slug": "event-86-ultra-stack",
       "name": "Event #86: $600 Ultra Stack No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-86-ultra-stack/chips.htm",
-      "playersLeft": 11,
+      "playersLeft": 10,
       "totalEntries": null,
       "buyin": 600,
       "completed": false
@@ -223,7 +223,7 @@
       "slug": "event-87-mystery-bounty-plo",
       "name": "Event #87: $1,000 Mystery Bounty Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-87-mystery-bounty-plo/chips.htm",
-      "playersLeft": 622,
+      "playersLeft": 620,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
