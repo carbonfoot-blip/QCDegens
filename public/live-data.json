@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T23:39:20.037Z",
+  "updatedAt": "2026-07-09T23:45:35.643Z",
   "teamScore": 718,
   "completedEvents": [
     "event-3-industry-employees",
@@ -43,10 +43,10 @@
         "playersLeft": 66,
         "currentDay": "1",
         "status": "active",
-        "rank": 33,
+        "rank": 32,
         "chips": 300000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-09T23:39:20.034Z"
+        "updatedAt": "2026-07-09T23:45:35.639Z"
       },
       "eventHistory": [
         {
@@ -62,7 +62,7 @@
           "rank": 1,
           "chips": 6175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-09T23:39:20.034Z"
+          "updatedAt": "2026-07-09T23:45:35.639Z"
         },
         {
           "eventSlug": "event-90-high-roller",
@@ -74,10 +74,10 @@
           "playersLeft": 66,
           "currentDay": "1",
           "status": "active",
-          "rank": 33,
+          "rank": 32,
           "chips": 300000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-09T23:39:20.034Z"
+          "updatedAt": "2026-07-09T23:45:35.639Z"
         }
       ]
     },
@@ -226,7 +226,7 @@
       "slug": "event-89-mid-stakes-championship",
       "name": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-89-mid-stakes-championship/chips.htm",
-      "playersLeft": 481,
+      "playersLeft": 624,
       "totalEntries": null,
       "buyin": 3000,
       "completed": false
