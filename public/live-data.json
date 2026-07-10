@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T14:02:08.219Z",
+  "updatedAt": "2026-07-10T14:08:31.855Z",
   "teamScore": 718,
   "completedEvents": [
     "event-3-industry-employees",
@@ -47,7 +47,7 @@
         "rank": 11,
         "chips": 1085000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-10T14:02:08.216Z"
+        "updatedAt": "2026-07-10T14:08:31.852Z"
       },
       "eventHistory": [
         {
@@ -63,7 +63,7 @@
           "rank": 1,
           "chips": 6175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T14:02:08.216Z"
+          "updatedAt": "2026-07-10T14:08:31.852Z"
         },
         {
           "eventSlug": "event-90-high-roller",
@@ -78,7 +78,7 @@
           "rank": 11,
           "chips": 1085000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T14:02:08.216Z"
+          "updatedAt": "2026-07-10T14:08:31.852Z"
         }
       ]
     },
