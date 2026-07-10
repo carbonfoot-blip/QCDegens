@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T04:33:42.651Z",
+  "updatedAt": "2026-07-10T04:39:56.040Z",
   "teamScore": 718,
   "completedEvents": [
     "event-3-industry-employees",
@@ -41,13 +41,13 @@
         "buyin": 50000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 91,
+        "playersLeft": 86,
         "currentDay": "1",
         "status": "active",
         "rank": 19,
         "chips": 510000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-10T04:33:42.648Z"
+        "updatedAt": "2026-07-10T04:39:56.036Z"
       },
       "eventHistory": [
         {
@@ -63,7 +63,7 @@
           "rank": 1,
           "chips": 6175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T04:33:42.648Z"
+          "updatedAt": "2026-07-10T04:39:56.037Z"
         },
         {
           "eventSlug": "event-90-high-roller",
@@ -72,13 +72,13 @@
           "buyin": 50000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 91,
+          "playersLeft": 86,
           "currentDay": "1",
           "status": "active",
           "rank": 19,
           "chips": 510000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T04:33:42.648Z"
+          "updatedAt": "2026-07-10T04:39:56.036Z"
         }
       ]
     },
@@ -209,7 +209,7 @@
       "slug": "event-87-mystery-bounty-plo",
       "name": "Event #87: $1,000 Mystery Bounty Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-87-mystery-bounty-plo/chips.htm",
-      "playersLeft": 88,
+      "playersLeft": 79,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -236,7 +236,7 @@
       "slug": "event-90-high-roller",
       "name": "Event #90: $50,000 High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-90-high-roller/chips.htm",
-      "playersLeft": 91,
+      "playersLeft": 86,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
@@ -245,7 +245,7 @@
       "slug": "event-91-pick-your-plo",
       "name": "Event #91: $1,500 Pick Your PLO",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-91-pick-your-plo/chips.htm",
-      "playersLeft": 368,
+      "playersLeft": 270,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
