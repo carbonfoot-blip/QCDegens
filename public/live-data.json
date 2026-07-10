@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T07:41:03.610Z",
+  "updatedAt": "2026-07-10T07:47:18.257Z",
   "teamScore": 718,
   "completedEvents": [
     "event-3-industry-employees",
@@ -47,7 +47,7 @@
         "rank": 15,
         "chips": 820000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-10T07:41:03.608Z"
+        "updatedAt": "2026-07-10T07:47:18.255Z"
       },
       "eventHistory": [
         {
@@ -63,7 +63,7 @@
           "rank": 1,
           "chips": 6175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T07:41:03.608Z"
+          "updatedAt": "2026-07-10T07:47:18.255Z"
         },
         {
           "eventSlug": "event-90-high-roller",
@@ -78,7 +78,7 @@
           "rank": 15,
           "chips": 820000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T07:41:03.608Z"
+          "updatedAt": "2026-07-10T07:47:18.255Z"
         }
       ]
     },
@@ -209,7 +209,7 @@
       "slug": "event-87-mystery-bounty-plo",
       "name": "Event #87: $1,000 Mystery Bounty Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-87-mystery-bounty-plo/chips.htm",
-      "playersLeft": 35,
+      "playersLeft": 34,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
