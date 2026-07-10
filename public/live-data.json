@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T05:04:55.351Z",
+  "updatedAt": "2026-07-10T05:11:09.200Z",
   "teamScore": 718,
   "completedEvents": [
     "event-3-industry-employees",
@@ -47,7 +47,7 @@
         "rank": 10,
         "chips": 678000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-10T05:04:55.348Z"
+        "updatedAt": "2026-07-10T05:11:09.197Z"
       },
       "eventHistory": [
         {
@@ -63,7 +63,7 @@
           "rank": 1,
           "chips": 6175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T05:04:55.348Z"
+          "updatedAt": "2026-07-10T05:11:09.197Z"
         },
         {
           "eventSlug": "event-90-high-roller",
@@ -78,7 +78,7 @@
           "rank": 10,
           "chips": 678000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T05:04:55.348Z"
+          "updatedAt": "2026-07-10T05:11:09.197Z"
         }
       ]
     },
@@ -209,7 +209,7 @@
       "slug": "event-87-mystery-bounty-plo",
       "name": "Event #87: $1,000 Mystery Bounty Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-87-mystery-bounty-plo/chips.htm",
-      "playersLeft": 70,
+      "playersLeft": 69,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -218,7 +218,7 @@
       "slug": "event-88-300-gladiators-of-poker",
       "name": "Event #88: $300 Gladiators of Poker",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-88-300-gladiators-of-poker/chips.htm",
-      "playersLeft": 235,
+      "playersLeft": 201,
       "totalEntries": null,
       "buyin": 300,
       "completed": false
