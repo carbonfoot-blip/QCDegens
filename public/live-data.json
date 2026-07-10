@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T06:01:07.265Z",
+  "updatedAt": "2026-07-10T06:07:21.499Z",
   "teamScore": 718,
   "completedEvents": [
     "event-3-industry-employees",
@@ -41,13 +41,13 @@
         "buyin": 50000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 75,
+        "playersLeft": 73,
         "currentDay": "1",
         "status": "active",
-        "rank": 4,
-        "chips": 968000,
+        "rank": 7,
+        "chips": 949000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-10T06:01:07.261Z"
+        "updatedAt": "2026-07-10T06:07:21.495Z"
       },
       "eventHistory": [
         {
@@ -63,7 +63,7 @@
           "rank": 1,
           "chips": 6175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T06:01:07.261Z"
+          "updatedAt": "2026-07-10T06:07:21.496Z"
         },
         {
           "eventSlug": "event-90-high-roller",
@@ -72,13 +72,13 @@
           "buyin": 50000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 75,
+          "playersLeft": 73,
           "currentDay": "1",
           "status": "active",
-          "rank": 4,
-          "chips": 968000,
+          "rank": 7,
+          "chips": 949000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T06:01:07.261Z"
+          "updatedAt": "2026-07-10T06:07:21.495Z"
         }
       ]
     },
@@ -209,7 +209,7 @@
       "slug": "event-87-mystery-bounty-plo",
       "name": "Event #87: $1,000 Mystery Bounty Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-87-mystery-bounty-plo/chips.htm",
-      "playersLeft": 63,
+      "playersLeft": 60,
       "totalEntries": null,
       "buyin": 1000,
       "completed": false
@@ -236,7 +236,7 @@
       "slug": "event-90-high-roller",
       "name": "Event #90: $50,000 High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-90-high-roller/chips.htm",
-      "playersLeft": 75,
+      "playersLeft": 73,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
