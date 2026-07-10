@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T06:07:21.499Z",
+  "updatedAt": "2026-07-10T06:13:35.522Z",
   "teamScore": 718,
   "completedEvents": [
     "event-3-industry-employees",
@@ -44,10 +44,10 @@
         "playersLeft": 73,
         "currentDay": "1",
         "status": "active",
-        "rank": 7,
+        "rank": 8,
         "chips": 949000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-10T06:07:21.495Z"
+        "updatedAt": "2026-07-10T06:13:35.519Z"
       },
       "eventHistory": [
         {
@@ -63,7 +63,7 @@
           "rank": 1,
           "chips": 6175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T06:07:21.496Z"
+          "updatedAt": "2026-07-10T06:13:35.519Z"
         },
         {
           "eventSlug": "event-90-high-roller",
@@ -75,10 +75,10 @@
           "playersLeft": 73,
           "currentDay": "1",
           "status": "active",
-          "rank": 7,
+          "rank": 8,
           "chips": 949000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T06:07:21.495Z"
+          "updatedAt": "2026-07-10T06:13:35.519Z"
         }
       ]
     },
@@ -218,7 +218,7 @@
       "slug": "event-88-300-gladiators-of-poker",
       "name": "Event #88: $300 Gladiators of Poker",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-88-300-gladiators-of-poker/chips.htm",
-      "playersLeft": 178,
+      "playersLeft": 150,
       "totalEntries": null,
       "buyin": 300,
       "completed": false
@@ -227,7 +227,7 @@
       "slug": "event-89-mid-stakes-championship",
       "name": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-89-mid-stakes-championship/chips.htm",
-      "playersLeft": 495,
+      "playersLeft": 477,
       "totalEntries": null,
       "buyin": 3000,
       "completed": false
