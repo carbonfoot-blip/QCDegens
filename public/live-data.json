@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T05:29:51.977Z",
+  "updatedAt": "2026-07-10T05:36:05.788Z",
   "teamScore": 718,
   "completedEvents": [
     "event-3-industry-employees",
@@ -47,7 +47,7 @@
         "rank": 4,
         "chips": 968000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-10T05:29:51.974Z"
+        "updatedAt": "2026-07-10T05:36:05.785Z"
       },
       "eventHistory": [
         {
@@ -63,7 +63,7 @@
           "rank": 1,
           "chips": 6175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T05:29:51.975Z"
+          "updatedAt": "2026-07-10T05:36:05.785Z"
         },
         {
           "eventSlug": "event-90-high-roller",
@@ -78,7 +78,7 @@
           "rank": 4,
           "chips": 968000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T05:29:51.974Z"
+          "updatedAt": "2026-07-10T05:36:05.785Z"
         }
       ]
     },
@@ -218,7 +218,7 @@
       "slug": "event-88-300-gladiators-of-poker",
       "name": "Event #88: $300 Gladiators of Poker",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-88-300-gladiators-of-poker/chips.htm",
-      "playersLeft": 201,
+      "playersLeft": 178,
       "totalEntries": null,
       "buyin": 300,
       "completed": false
