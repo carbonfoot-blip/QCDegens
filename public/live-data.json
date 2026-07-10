@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T04:52:25.935Z",
+  "updatedAt": "2026-07-10T04:58:40.990Z",
   "teamScore": 718,
   "completedEvents": [
     "event-3-industry-employees",
@@ -41,13 +41,13 @@
         "buyin": 50000,
         "totalEntries": null,
         "prizePool": null,
-        "playersLeft": 86,
+        "playersLeft": 85,
         "currentDay": "1",
         "status": "active",
-        "rank": 19,
-        "chips": 510000,
+        "rank": 10,
+        "chips": 678000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-10T04:52:25.933Z"
+        "updatedAt": "2026-07-10T04:58:40.987Z"
       },
       "eventHistory": [
         {
@@ -63,7 +63,7 @@
           "rank": 1,
           "chips": 6175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T04:52:25.933Z"
+          "updatedAt": "2026-07-10T04:58:40.987Z"
         },
         {
           "eventSlug": "event-90-high-roller",
@@ -72,13 +72,13 @@
           "buyin": 50000,
           "totalEntries": null,
           "prizePool": null,
-          "playersLeft": 86,
+          "playersLeft": 85,
           "currentDay": "1",
           "status": "active",
-          "rank": 19,
-          "chips": 510000,
+          "rank": 10,
+          "chips": 678000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T04:52:25.933Z"
+          "updatedAt": "2026-07-10T04:58:40.987Z"
         }
       ]
     },
@@ -227,7 +227,7 @@
       "slug": "event-89-mid-stakes-championship",
       "name": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-89-mid-stakes-championship/chips.htm",
-      "playersLeft": 618,
+      "playersLeft": 546,
       "totalEntries": null,
       "buyin": 3000,
       "completed": false
@@ -236,7 +236,7 @@
       "slug": "event-90-high-roller",
       "name": "Event #90: $50,000 High Roller No-Limit Hold'em",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-90-high-roller/chips.htm",
-      "playersLeft": 86,
+      "playersLeft": 85,
       "totalEntries": null,
       "buyin": 50000,
       "completed": false
