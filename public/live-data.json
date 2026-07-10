@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T16:42:22.777Z",
+  "updatedAt": "2026-07-10T16:48:46.195Z",
   "teamScore": 718,
   "completedEvents": [
     "event-3-industry-employees",
@@ -47,7 +47,7 @@
         "rank": 11,
         "chips": 1085000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-10T16:42:22.774Z"
+        "updatedAt": "2026-07-10T16:48:46.192Z"
       },
       "eventHistory": [
         {
@@ -63,7 +63,7 @@
           "rank": 1,
           "chips": 6175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T16:42:22.774Z"
+          "updatedAt": "2026-07-10T16:48:46.192Z"
         },
         {
           "eventSlug": "event-90-high-roller",
@@ -78,7 +78,7 @@
           "rank": 11,
           "chips": 1085000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T16:42:22.774Z"
+          "updatedAt": "2026-07-10T16:48:46.192Z"
         }
       ]
     },
@@ -197,15 +197,6 @@
   ],
   "activeEvents": [
     {
-      "slug": "event-86-ultra-stack",
-      "name": "Event #86: $600 Ultra Stack No-Limit Hold'em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-86-ultra-stack/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 600,
-      "completed": true
-    },
-    {
       "slug": "event-87-mystery-bounty-plo",
       "name": "Event #87: $1,000 Mystery Bounty Pot-Limit Omaha",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-87-mystery-bounty-plo/chips.htm",
@@ -249,6 +240,15 @@
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
+    },
+    {
+      "slug": "event-86-ultra-stack",
+      "name": "Event #86: $600 Ultra Stack No-Limit Hold'em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-86-ultra-stack/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 600,
+      "completed": true
     },
     {
       "slug": "event-85-nlh",
