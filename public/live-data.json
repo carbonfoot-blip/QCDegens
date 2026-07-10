@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T03:43:18.066Z",
+  "updatedAt": "2026-07-10T03:49:31.330Z",
   "teamScore": 718,
   "completedEvents": [
     "event-3-industry-employees",
@@ -47,7 +47,7 @@
         "rank": 17,
         "chips": 510000,
         "wsopConfirmed": false,
-        "updatedAt": "2026-07-10T03:43:18.062Z"
+        "updatedAt": "2026-07-10T03:49:31.327Z"
       },
       "eventHistory": [
         {
@@ -63,7 +63,7 @@
           "rank": 1,
           "chips": 6175000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T03:43:18.063Z"
+          "updatedAt": "2026-07-10T03:49:31.327Z"
         },
         {
           "eventSlug": "event-90-high-roller",
@@ -78,7 +78,7 @@
           "rank": 17,
           "chips": 510000,
           "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T03:43:18.062Z"
+          "updatedAt": "2026-07-10T03:49:31.327Z"
         }
       ]
     },
@@ -245,7 +245,7 @@
       "slug": "event-91-pick-your-plo",
       "name": "Event #91: $1,500 Pick Your PLO",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-91-pick-your-plo/chips.htm",
-      "playersLeft": 341,
+      "playersLeft": 368,
       "totalEntries": null,
       "buyin": 1500,
       "completed": false
