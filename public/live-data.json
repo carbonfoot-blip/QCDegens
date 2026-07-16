@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-07-10T19:30:56.854Z",
-  "teamScore": 718,
+  "updatedAt": "2026-07-16T12:37:38.838Z",
+  "teamScore": 866,
   "completedEvents": [
     "event-3-industry-employees",
     "event-63-mystery-millions",
@@ -15,39 +15,31 @@
     "event-62-nlh",
     "event-61-super-seniors",
     "event-74-8-game-mixed",
-    "event-86-ultra-stack",
-    "event-85-nlh",
-    "event-84-super-turbo-bounty",
-    "event-83-double-board-bomb-pot-plo",
-    "event-81-summer-celebration",
-    "event-80-8-game-mixed-championship",
-    "event-79-freezeout",
-    "event-78-deepstack-championship",
-    "event-77-mixed-triple-draw-lowball"
+    "event-97-high-roller-horse",
+    "event-98-deepstack",
+    "event-99-nlh",
+    "event-100-super-turbo",
+    "event-96-plo",
+    "event-95-summer-saver",
+    "event-94-championship",
+    "event-93-the-closer",
+    "event-92-torse",
+    "event-91-pick-your-plo",
+    "event-90-high-roller",
+    "event-89-mid-stakes-championship",
+    "event-88-300-gladiators-of-poker",
+    "event-87-mystery-bounty-plo",
+    "event-86-ultra-stack"
   ],
   "players": [
     {
       "name": "Daniel Negreanu",
       "slug": "daniel-negreanu",
       "isBonus": false,
-      "pts2026": 261,
+      "pts2026": 294,
       "salary": 116,
-      "cashes2026": 13,
-      "liveStatus": {
-        "eventSlug": "event-90-high-roller",
-        "eventName": "Event #90: $50,000 High Roller No-Limit Hold'em",
-        "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-90-high-roller/chips.htm",
-        "buyin": 50000,
-        "totalEntries": null,
-        "prizePool": null,
-        "playersLeft": 51,
-        "currentDay": "2",
-        "status": "active",
-        "rank": 11,
-        "chips": 1085000,
-        "wsopConfirmed": false,
-        "updatedAt": "2026-07-10T19:30:56.852Z"
-      },
+      "cashes2026": 15,
+      "liveStatus": null,
       "eventHistory": [
         {
           "eventSlug": "event-76-high-roller-plo",
@@ -63,21 +55,6 @@
           "chips": 1990000,
           "wsopConfirmed": false,
           "updatedAt": "2026-07-01T14:27:31.763Z"
-        },
-        {
-          "eventSlug": "event-90-high-roller",
-          "eventName": "Event #90: $50,000 High Roller No-Limit Hold'em",
-          "eventUrl": "https://www.pokernews.com/tours/wsop/2026-wsop/event-90-high-roller/chips.htm",
-          "buyin": 50000,
-          "totalEntries": null,
-          "prizePool": null,
-          "playersLeft": 51,
-          "currentDay": "2",
-          "status": "active",
-          "rank": 11,
-          "chips": 1085000,
-          "wsopConfirmed": false,
-          "updatedAt": "2026-07-10T19:30:56.852Z"
         }
       ]
     },
@@ -85,9 +62,9 @@
       "name": "Calvin Anderson",
       "slug": "calvin-anderson",
       "isBonus": false,
-      "pts2026": 300,
+      "pts2026": 385,
       "salary": 25,
-      "cashes2026": 7,
+      "cashes2026": 8,
       "liveStatus": null,
       "eventHistory": [
         {
@@ -121,9 +98,9 @@
       "name": "Matt Glantz",
       "slug": "matt-glantz",
       "isBonus": false,
-      "pts2026": 35,
+      "pts2026": 36,
       "salary": 27,
-      "cashes2026": 10,
+      "cashes2026": 11,
       "liveStatus": null,
       "eventHistory": []
     },
@@ -141,9 +118,9 @@
       "name": "Shawn Buchanan",
       "slug": "shawn-buchanan",
       "isBonus": false,
-      "pts2026": 38,
+      "pts2026": 39,
       "salary": 2,
-      "cashes2026": 13,
+      "cashes2026": 14,
       "liveStatus": null,
       "eventHistory": [
         {
@@ -167,9 +144,9 @@
       "name": "Ryan Leng",
       "slug": "ryan-leng",
       "isBonus": false,
-      "pts2026": 6,
+      "pts2026": 10,
       "salary": 1,
-      "cashes2026": 6,
+      "cashes2026": 8,
       "liveStatus": null,
       "eventHistory": []
     },
@@ -177,9 +154,9 @@
       "name": "John Riordan",
       "slug": "john-riordan",
       "isBonus": false,
-      "pts2026": 14,
+      "pts2026": 38,
       "salary": 12,
-      "cashes2026": 11,
+      "cashes2026": 13,
       "liveStatus": null,
       "eventHistory": []
     },
@@ -196,58 +173,130 @@
   ],
   "activeEvents": [
     {
-      "slug": "event-87-mystery-bounty-plo",
-      "name": "Event #87: $1,000 Mystery Bounty Pot-Limit Omaha",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-87-mystery-bounty-plo/chips.htm",
-      "playersLeft": 34,
+      "slug": "event-97-high-roller-horse",
+      "name": "Event #97: $25,000 High Roller H.O.R.S.E.",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-97-high-roller-horse/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 25000,
+      "completed": true
+    },
+    {
+      "slug": "event-98-deepstack",
+      "name": "Event #98: $800 Deepstack No-Limit Hold’em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-98-deepstack/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 800,
+      "completed": true
+    },
+    {
+      "slug": "event-99-nlh",
+      "name": "Event #99: $5,000 8-Handed No-Limit Hold'em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-99-nlh/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 5000,
+      "completed": true
+    },
+    {
+      "slug": "event-100-super-turbo",
+      "name": "Event #100: $1,000 Super Turbo No-Limit Hold'em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-100-super-turbo/chips.htm",
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 1000,
-      "completed": false
+      "completed": true
     },
     {
-      "slug": "event-88-300-gladiators-of-poker",
-      "name": "Event #88: $300 Gladiators of Poker",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-88-300-gladiators-of-poker/chips.htm",
-      "playersLeft": 131,
-      "totalEntries": null,
-      "buyin": 300,
-      "completed": false
-    },
-    {
-      "slug": "event-89-mid-stakes-championship",
-      "name": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-89-mid-stakes-championship/chips.htm",
-      "playersLeft": 403,
+      "slug": "event-96-plo",
+      "name": "Event #96: $3,000 6-Handed Pot-Limit Omaha",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-96-plo/chips.htm",
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 3000,
-      "completed": false
+      "completed": true
     },
     {
-      "slug": "event-90-high-roller",
-      "name": "Event #90: $50,000 High Roller No-Limit Hold'em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-90-high-roller/chips.htm",
-      "playersLeft": 51,
+      "slug": "event-95-summer-saver",
+      "name": "Event #95: $500 Summer Saver No-Limit Hold'em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-95-summer-saver/chips.htm",
+      "playersLeft": 1,
       "totalEntries": null,
-      "buyin": 50000,
-      "completed": false
+      "buyin": 500,
+      "completed": true
     },
     {
-      "slug": "event-91-pick-your-plo",
-      "name": "Event #91: $1,500 Pick Your PLO",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-91-pick-your-plo/chips.htm",
-      "playersLeft": 104,
+      "slug": "event-94-championship",
+      "name": "Event #94: $10,000 6-Handed No-Limit Hold'em Championship",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-94-championship/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 10000,
+      "completed": true
+    },
+    {
+      "slug": "event-93-the-closer",
+      "name": "Event #93: $1,500 The Closer No-Limit Hold’em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-93-the-closer/chips.htm",
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 1500,
-      "completed": false
+      "completed": true
     },
     {
       "slug": "event-92-torse",
       "name": "Event #92: $3,000 T.O.R.S.E.",
       "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-92-torse/chips.htm",
-      "playersLeft": null,
+      "playersLeft": 1,
       "totalEntries": null,
       "buyin": 3000,
-      "completed": false
+      "completed": true
+    },
+    {
+      "slug": "event-91-pick-your-plo",
+      "name": "Event #91: $1,500 Pick Your PLO",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-91-pick-your-plo/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1500,
+      "completed": true
+    },
+    {
+      "slug": "event-90-high-roller",
+      "name": "Event #90: $50,000 High Roller No-Limit Hold'em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-90-high-roller/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 50000,
+      "completed": true
+    },
+    {
+      "slug": "event-89-mid-stakes-championship",
+      "name": "Event #89: $3,000 Mid-Stakes Championship No-Limit Hold'em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-89-mid-stakes-championship/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 3000,
+      "completed": true
+    },
+    {
+      "slug": "event-88-300-gladiators-of-poker",
+      "name": "Event #88: $300 Gladiators of Poker",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-88-300-gladiators-of-poker/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 300,
+      "completed": true
+    },
+    {
+      "slug": "event-87-mystery-bounty-plo",
+      "name": "Event #87: $1,000 Mystery Bounty Pot-Limit Omaha",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-87-mystery-bounty-plo/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 1000,
+      "completed": true
     },
     {
       "slug": "event-86-ultra-stack",
@@ -256,78 +305,6 @@
       "playersLeft": 1,
       "totalEntries": null,
       "buyin": 600,
-      "completed": true
-    },
-    {
-      "slug": "event-85-nlh",
-      "name": "Event #85: $1,000 No-Limit Hold'em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-85-nlh/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 1000,
-      "completed": true
-    },
-    {
-      "slug": "event-84-super-turbo-bounty",
-      "name": "Event #84: $5,000 Super Turbo Bounty No-Limit Hold'em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-84-super-turbo-bounty/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 5000,
-      "completed": true
-    },
-    {
-      "slug": "event-83-double-board-bomb-pot-plo",
-      "name": "Event #83: $1,500 Double Board Bomb Pot Pot-Limit Omaha",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-83-double-board-bomb-pot-plo/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 1500,
-      "completed": true
-    },
-    {
-      "slug": "event-81-summer-celebration",
-      "name": "Event #81: $800 Summer Celebration",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-81-summer-celebration/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 800,
-      "completed": true
-    },
-    {
-      "slug": "event-80-8-game-mixed-championship",
-      "name": "Event #80: $10,000 8-Game Mixed Championship",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-80-8-game-mixed-championship/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 10000,
-      "completed": true
-    },
-    {
-      "slug": "event-79-freezeout",
-      "name": "Event #79: $3,000 Freezeout No-Limit Hold'em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-79-freezeout/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 3000,
-      "completed": true
-    },
-    {
-      "slug": "event-78-deepstack-championship",
-      "name": "Event #78: $600 Deepstack Championship No-Limit Hold'em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-78-deepstack-championship/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 600,
-      "completed": true
-    },
-    {
-      "slug": "event-77-mixed-triple-draw-lowball",
-      "name": "Event #77: $2,500 Mixed Triple Draw Lowball",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-77-mixed-triple-draw-lowball/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 2500,
       "completed": true
     },
     {
