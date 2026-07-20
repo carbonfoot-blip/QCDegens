@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T14:16:38.977Z",
+  "updatedAt": "2026-07-20T00:53:47.776Z",
   "teamScore": 866,
   "completedEvents": [
     "event-3-industry-employees",
@@ -15,10 +15,10 @@
     "event-62-nlh",
     "event-61-super-seniors",
     "event-74-8-game-mixed",
-    "event-97-high-roller-horse",
-    "event-98-deepstack",
-    "event-99-nlh",
     "event-100-super-turbo",
+    "event-99-nlh",
+    "event-98-deepstack",
+    "event-97-high-roller-horse",
     "event-96-plo",
     "event-95-summer-saver",
     "event-94-championship",
@@ -173,21 +173,12 @@
   ],
   "activeEvents": [
     {
-      "slug": "event-97-high-roller-horse",
-      "name": "Event #97: $25,000 High Roller H.O.R.S.E.",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-97-high-roller-horse/chips.htm",
+      "slug": "event-100-super-turbo",
+      "name": "Event #100: $1,000 Super Turbo No-Limit Hold'em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-100-super-turbo/chips.htm",
       "playersLeft": 1,
       "totalEntries": null,
-      "buyin": 25000,
-      "completed": true
-    },
-    {
-      "slug": "event-98-deepstack",
-      "name": "Event #98: $800 Deepstack No-Limit Hold’em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-98-deepstack/chips.htm",
-      "playersLeft": 1,
-      "totalEntries": null,
-      "buyin": 800,
+      "buyin": 1000,
       "completed": true
     },
     {
@@ -200,12 +191,21 @@
       "completed": true
     },
     {
-      "slug": "event-100-super-turbo",
-      "name": "Event #100: $1,000 Super Turbo No-Limit Hold'em",
-      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-100-super-turbo/chips.htm",
+      "slug": "event-98-deepstack",
+      "name": "Event #98: $800 Deepstack No-Limit Hold’em",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-98-deepstack/chips.htm",
       "playersLeft": 1,
       "totalEntries": null,
-      "buyin": 1000,
+      "buyin": 800,
+      "completed": true
+    },
+    {
+      "slug": "event-97-high-roller-horse",
+      "name": "Event #97: $25,000 High Roller H.O.R.S.E.",
+      "url": "https://www.pokernews.com/tours/wsop/2026-wsop/event-97-high-roller-horse/chips.htm",
+      "playersLeft": 1,
+      "totalEntries": null,
+      "buyin": 25000,
       "completed": true
     },
     {
